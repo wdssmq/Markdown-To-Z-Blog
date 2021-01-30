@@ -51,6 +51,7 @@ def update_post(id, data_arg):
     author_id = config_info["AuthorID"]
     data_arg["CateID"] = cate_id
     data_arg["AuthorID"] = author_id
+    data_arg["Intro"] = "请在正文内使用<!--more-->"
     data = http("post", "post", "post", data_arg)
     if not data is None:
         # 调试↓
@@ -152,10 +153,13 @@ def main():
         md_name = os.path.basename(md)
         # 读取md文件信息
         (content, metadata) = read_md(md)
-        # 获取title
+        # metadata解析
         title = metadata.get("title", "")
         tags = metadata.get("tags", "")
         cate = metadata.get("categories", "")
+        # Markdown 解析
+        content = markdown.markdown(
+            content, extensions=['tables', 'fenced_code'])
         # 调试↓
         # print("%s%s" % (",".join(tags), cate))
         data_arg = {"Type": "0", "ID": 0, "Title": title,
