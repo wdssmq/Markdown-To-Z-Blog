@@ -7,6 +7,9 @@ import markdown
 import frontmatter
 import re
 
+from api_function import fnGetDirsInDir, fnGetFilesInDir, fnGetFilesInDir2, fnGetFileTime
+from api_function import fnLog, fnBug, fnErr
+
 locale.setlocale(locale.LC_CTYPE, 'chinese')
 
 config_info = {}
@@ -28,7 +31,7 @@ def login():
     if not data is None:
         config_info["token"] = data["token"]
         config_info["AuthorID"] = data["user"]["ID"]
-        print("登录成功")
+        fnLog("登录成功")
         # 调试↓
         # print(data)
         # print(config_info)
@@ -54,9 +57,11 @@ def update_post(id, data_arg):
     data_arg["Intro"] = "请在正文内使用<!--more-->"
     data = http("post", "post", "post", data_arg)
     if not data is None:
-        # 调试↓
-        # print(data)
-        print("提交成功")
+        post = data["post"]
+        fnBug("%s %s %s" % (True, post["ID"], post["UpdateTime"]))
+        return (True, post["ID"], post["UpdateTime"])
+    return (False, 0, 0)
+# 更新文章
 
 
 def http(method, mod, act, data_arg={}):
@@ -64,7 +69,7 @@ def http(method, mod, act, data_arg={}):
         headers_arg = {"Authorization": "Bearer " + config_info["token"]}
     except:
         headers_arg = {}
-        print("未登录")
+        fnLog("未登录")
     if method == "get":
         r = requests.get(config_info["API-URL"] + "?mod=" + mod +
                          "&act=" + act, params=data_arg, headers=headers_arg)
@@ -135,11 +140,29 @@ def get_md_list(dir_path):
     md_list = []
     dirs = os.listdir(dir_path)
     for i in dirs:
+        if i == ".gitkeep":
+            continue
         if os.path.splitext(i)[1] == ".md":
             md_list.append(os.path.join(dir_path, i))
-    # print(md_list)
+        else:
+            cur_path = os.path.join(dir_path, i)
+            cur_doc = os.path.join(cur_path, "doc.md")
+            if os.path.isdir(cur_path) and os.path.isfile(cur_doc):
+                md_list.append(cur_doc)
     return md_list
 # 获取特定目录的markdown文件列表
+
+
+def read_logs(file):
+    if(os.path.exists(file) == True):
+        file_byte = open(file, 'r')
+        file_info = file_byte.read()
+        result = json.loads(file_info)
+        file_byte.close()
+    else:
+        result = {}
+    return result
+# 获取同步记录
 
 
 def main():
@@ -150,9 +173,14 @@ def main():
     print("------")
     md_list = get_md_list(os.path.join(os.getcwd(), "_posts"))
     for md in md_list:
-        md_name = os.path.basename(md)
+        # md_name = os.path.basename(md)
         # 读取md文件信息
         (content, metadata) = read_md(md)
+        # 判断内容格式
+        if not any(metadata):
+            fnErr("md数据错误", md)
+            fnErr("---")
+            continue
         # metadata解析
         title = metadata.get("title", "")
         tags = metadata.get("tags", "")
@@ -165,8 +193,11 @@ def main():
         data_arg = {"Type": "0", "ID": 0, "Title": title,
                     "Content": content, "Tag": ",".join(tags)}
         # log
-        print("文件名：%s \n 标题：%s" % (md_name, title))
-        update_post(0, data_arg)
+        fnLog("文件："+ md)
+        fnLog("标题："+ title)
+        (done, id, update_time) = update_post(0, data_arg)
+        if done:
+            fnLog("提交成功")
         print("---")
     print("------")
     # 更新最新文章到readme
