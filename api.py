@@ -100,8 +100,8 @@ def update_readme():
         url = post["Url"]
         md_link = '[%s](%s "%s")' % (title,  url,  title)
         insert_info = insert_info + md_link + "\n\n"
-    # 替换 ---start--- 到 ---end--- 之间的内容
 
+    # 替换 ---start--- 到 ---end--- 之间的内容
     insert_info = "---start---\n\n## 目录(" + time.strftime(
         ' %Y 年 %m 月 %d 日') + "更新)" + "\n\n" + insert_info + "---end---"
 
@@ -114,10 +114,10 @@ def update_readme():
     new_readme_md_content = re.sub(
         r'---start---(.|\n)*---end---', insert_info, readme_md_content)
 
-    with open(os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8') as f:
+    with open(os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8', newline="\n") as f:
         f.write(new_readme_md_content)
 
-    print("更新ReadMe成功")
+    fnLog("更新ReadMe成功")
 
     return True
 # 在README.md中插入信息文章索引信息，更容易获取google的收录
@@ -193,8 +193,8 @@ def main():
         data_arg = {"Type": "0", "ID": 0, "Title": title,
                     "Content": content, "Tag": ",".join(tags)}
         # log
-        fnLog("文件："+ md)
-        fnLog("标题："+ title)
+        fnLog("文件：" + md)
+        fnLog("标题：" + title)
         (done, id, update_time) = update_post(0, data_arg)
         if done:
             fnLog("提交成功")
