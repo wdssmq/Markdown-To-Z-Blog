@@ -15,14 +15,30 @@ locale.setlocale(locale.LC_CTYPE, 'chinese')
 
 config_info = {}
 
-with open("config.json", 'rb') as f:
-    config_info = json.loads(f.read())
 
-# print(config_info)
+if((os.path.exists("config.json") == True)):
+    with open("config.json", 'rb') as f:
+        config_info = json.loads(f.read())
+
+try:
+    if(os.environ["API-USR"]):
+        config_info["API-USR"] = os.environ["API-USR"]
+
+    if(os.environ["API-PWD"]):
+        config_info["API-PWD"] = os.environ["API-PWD"]
+
+    if(os.environ["API-URL"]):
+        config_info["API-URL"] = os.environ["API-URL"]
+except:
+    fnLog("无法获取github的secrets配置信息,开始使用本地变量")
+
+# fnBug(config_info)
 
 
 def login():
-    data = http("post", "member", "login", config_info)
+    data_arg = {"username": config_info["API-USR"],
+                "password": config_info["API-PWD"]}
+    data = http("post", "member", "login", data_arg)
     if not data is None:
         config_info["token"] = data["token"]
         config_info["AuthorID"] = data["user"]["ID"]
@@ -45,9 +61,9 @@ def get_post_list():
 
 def update_post(id, data_arg):
     # Todo 通过分类名获取id
-    cate_id = 12
+    # cate_id = 12
+    # data_arg["CateID"] = cate_id
     author_id = config_info["AuthorID"]
-    data_arg["CateID"] = cate_id
     data_arg["AuthorID"] = author_id
     # data_arg["Intro"] = "请在正文内使用<!--more-->"
     data_arg["Intro"] = "请在正文内使用&lt;!--more--&gt;"
@@ -199,6 +215,7 @@ def check_logs(key, mtime):
     return (msg, id)
 # 日志查询
 
+
 def main():
     # 登录
     login()
@@ -240,7 +257,7 @@ def main():
 
         # post data构造
         data_arg = {"Type": "0", "ID": id, "Title": title,
-                    "Content": content, "Tag": ",".join(tags)}
+                    "Content": content, "Tag": ",".join(tags), "CateName": cate}
         # 提交请求
         (done, post_id, post_mtime) = update_post(0, data_arg)
         # fnBug("%s %s %s" % (done, post_id, post_mtime), sys._getframe().f_lineno)

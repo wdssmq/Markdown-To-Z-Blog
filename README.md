@@ -20,8 +20,8 @@ pip install python-frontmatter
 
 ```json
 {
-    "username": "zblog_usr",
-    "password": "zblog_pwd",
+    "API-USR": "zblog_usr",
+    "API-PWD": "zblog_pwd",
     "API-URL": "http://zblog.site/zb_system/api.php"
 }
 ```
