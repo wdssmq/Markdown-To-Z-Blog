@@ -6,6 +6,7 @@ import locale
 import markdown
 import frontmatter
 import re
+import sys
 
 from api_function import fnGetDirsInDir, fnGetFilesInDir, fnGetFilesInDir2, fnGetFileTime
 from api_function import fnLog, fnBug, fnErr
@@ -98,7 +99,7 @@ def update_readme():
     with open(os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
         readme_md_content = f.read()
 
-    print(insert_info)
+    # print(insert_info)
 
     new_readme_md_content = re.sub(
         r'---start---(.|\n)*---end---', insert_info, readme_md_content)
@@ -125,7 +126,17 @@ def read_md(file_path):
 # 获取markdown文件中的内容
 
 
+def get_md_name(file):
+    file = file.replace("\\","/")
+    md_name = os.path.basename(os.path.splitext(file)[0])
+    if md_name == "doc":
+        tmp_name = file.replace("/doc.md","")
+        md_name = os.path.basename(tmp_name)
+    return md_name
+# 通过md文件获取项目名
+
 def get_md_list(dir_path):
+    # 绝对路径列表
     md_list = []
     dirs = os.listdir(dir_path)
     for i in dirs:
@@ -142,6 +153,10 @@ def get_md_list(dir_path):
 # 获取特定目录的markdown文件列表
 
 
+_posts_logs_file = os.path.join(os.getcwd(), "_posts_logs.json")
+_posts_dir_path = os.path.join(os.getcwd(), "_posts")
+
+
 def read_logs(file):
     if(os.path.exists(file) == True):
         file_byte = open(file, 'r')
@@ -154,15 +169,20 @@ def read_logs(file):
 # 获取同步记录
 
 
+fnLog(read_logs(_posts_logs_file), 159)
+
+
 def main():
     # 登录
     login()
 
     # 获取md文件列表并处理
     print("------")
-    md_list = get_md_list(os.path.join(os.getcwd(), "_posts"))
+    md_list = get_md_list(_posts_dir_path)
     for md in md_list:
-        # md_name = os.path.basename(md)
+        md_name = get_md_name(md)
+        fnBug(md_name, sys._getframe().f_lineno)
+        # continue
         # 读取md文件信息
         (content, metadata) = read_md(md)
         # 判断内容格式
@@ -184,8 +204,8 @@ def main():
         # log
         fnLog("文件：" + md)
         fnLog("标题：" + title)
-        (done, id, update_time) = update_post(0, data_arg)
-        fnBug("%s %s %s" % (done, id, update_time))
+        (done, post_id, post_mtime) = update_post(0, data_arg)
+        fnBug("%s %s %s" % (done, post_id, post_mtime))
         if done:
             fnLog("提交成功")
         print("---")

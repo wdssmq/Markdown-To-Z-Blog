@@ -5,7 +5,7 @@ import time
 
 def fnLog(msg, tip=None):
     if not tip is None:
-        tip = " ← " + tip
+        tip = " ← %s" % tip
     else:
         tip = ""
     print("_%s%s" % (msg, tip))
