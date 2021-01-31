@@ -34,6 +34,10 @@ except:
 
 # fnBug(config_info)
 
+if not any(config_info):
+    fnErr("未设置登录信息")
+    sys.exit(0)
+
 
 def login():
     data_arg = {"username": config_info["API-USR"],
