@@ -271,8 +271,9 @@ def main():
         # fnBug("%s %s %s" % (done, post_id, post_mtime), sys._getframe().f_lineno)
 
         # 写入日志
-        post_info = {"id": post_id, "mtime": post_mtime}
-        update_logs(md_name, post_info)
+        if done:
+            post_info = {"id": post_id, "mtime": post_mtime}
+            update_logs(md_name, post_info)
 
         # 输出结果
         fnLog("文件：" + md_name)
