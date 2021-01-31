@@ -3,3 +3,4 @@ diy_config.txt
 config.json
 *.code-workspace
 __pycache__
+.vscode
