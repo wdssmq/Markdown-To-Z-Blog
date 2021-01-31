@@ -9,7 +9,7 @@ import re
 import sys
 
 from api_function import fnGetDirsInDir, fnGetFilesInDir, fnGetFilesInDir2, fnGetFileTime
-from api_function import fnLog, fnBug, fnErr
+from api_function import fnLog, fnBug, fnErr, fnEmpty
 
 locale.setlocale(locale.LC_CTYPE, 'chinese')
 
@@ -49,7 +49,8 @@ def update_post(id, data_arg):
     author_id = config_info["AuthorID"]
     data_arg["CateID"] = cate_id
     data_arg["AuthorID"] = author_id
-    data_arg["Intro"] = "请在正文内使用<!--more-->"
+    # data_arg["Intro"] = "请在正文内使用<!--more-->"
+    data_arg["Intro"] = "请在正文内使用&lt;!--more--&gt;"
     data = http("post", "post", "post", data_arg)
     if not data is None:
         post = data["post"]
@@ -127,13 +128,16 @@ def read_md(file_path):
 
 
 def get_md_name(file):
-    file = file.replace("\\","/")
+    (md_mtime, md_ctime) = fnGetFileTime(file)
+    fnEmpty(md_ctime)
+    file = file.replace("\\", "/")
     md_name = os.path.basename(os.path.splitext(file)[0])
     if md_name == "doc":
-        tmp_name = file.replace("/doc.md","")
+        tmp_name = file.replace("/doc.md", "")
         md_name = os.path.basename(tmp_name)
-    return md_name
-# 通过md文件获取项目名
+    return (md_name, md_mtime)
+# 通过md文件获取项目名和更新时间
+
 
 def get_md_list(dir_path):
     # 绝对路径列表
@@ -169,8 +173,31 @@ def read_logs(file):
 # 获取同步记录
 
 
-fnLog(read_logs(_posts_logs_file), 159)
+def update_logs(key, value):
+    obj_logs = read_logs(_posts_logs_file)
+    obj_logs[key] = value
+    file = open(_posts_logs_file, 'w')
+    file.write(json.dumps(obj_logs))
+    file.close()
+    return True
+# 写入同步
 
+
+def check_logs(key, mtime):
+    obj_logs = read_logs(_posts_logs_file)
+    msg = ""
+    id = 0
+    if (key in obj_logs.keys()):
+        log_mtime = obj_logs[key]["mtime"]
+        fnLog("md: %s, log: %s" % (mtime, log_mtime))
+        if (mtime <= log_mtime):
+            msg = "skip"
+        else:
+            id = obj_logs[key]["id"]
+            msg = "update"
+
+    return (msg, id)
+# 日志查询
 
 def main():
     # 登录
@@ -180,38 +207,57 @@ def main():
     print("------")
     md_list = get_md_list(_posts_dir_path)
     for md in md_list:
-        md_name = get_md_name(md)
-        fnBug(md_name, sys._getframe().f_lineno)
-        # continue
+        # 文件标识名
+        (md_name, md_mtime) = get_md_name(md)
+        # fnBug(md_name, sys._getframe().f_lineno)
+
+        # 判断更新时间
+        (msg, id) = check_logs(md_name, md_mtime)
+        if "skip" == msg:
+            fnLog("无需同步 "+md_name)
+            print("---")
+            continue
+        elif "update" == msg:
+            fnLog("md更新 "+md_name)
+
         # 读取md文件信息
         (content, metadata) = read_md(md)
+
         # 判断内容格式
         if not any(metadata):
             fnErr("md数据错误", md)
-            fnErr("---")
+            print("---")
             continue
+
         # metadata解析
         title = metadata.get("title", "")
         tags = metadata.get("tags", "")
         cate = metadata.get("categories", "")
+
         # Markdown 解析
         content = markdown.markdown(
             content, extensions=['tables', 'fenced_code'])
-        # 调试↓
-        # print("%s%s" % (",".join(tags), cate))
-        data_arg = {"Type": "0", "ID": 0, "Title": title,
+
+        # post data构造
+        data_arg = {"Type": "0", "ID": id, "Title": title,
                     "Content": content, "Tag": ",".join(tags)}
-        # log
-        fnLog("文件：" + md)
-        fnLog("标题：" + title)
+        # 提交请求
         (done, post_id, post_mtime) = update_post(0, data_arg)
-        fnBug("%s %s %s" % (done, post_id, post_mtime))
-        if done:
-            fnLog("提交成功")
+        # fnBug("%s %s %s" % (done, post_id, post_mtime), sys._getframe().f_lineno)
+
+        # 写入日志
+        post_info = {"id": post_id, "mtime": post_mtime}
+        update_logs(md_name, post_info)
+
+        # 输出结果
+        fnLog("文件：" + md_name)
+        fnLog("标题：" + title)
+        fnLog("状态：" + str(done))
         print("---")
     print("------")
+
     # 更新最新文章到readme
-    update_readme()
+    # update_readme()
 # 入口
 
 

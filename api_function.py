@@ -3,6 +3,11 @@ import os
 import time
 
 
+def fnEmpty(arg):
+    return 1
+# 什么也不做
+
+
 def fnLog(msg, tip=None):
     if not tip is None:
         tip = " ← %s" % tip
@@ -38,6 +43,8 @@ def fnGetFilesInDir2(path, ext):
 
 
 def fnGetFileTime(file):
-    mtime = time.ctime(os.stat(file).st_mtime)  # 文件的修改时间
-    ctime = time.ctime(os.stat(file).st_ctime)  # 文件的创建时间
-    return (mtime, ctime)
+    # mtime = time.ctime(os.stat(file).st_mtime)  # 文件的修改时间
+    # ctime = time.ctime(os.stat(file).st_ctime)  # 文件的创建时间
+    mtime = os.stat(file).st_mtime  # 文件的修改时间
+    ctime = os.stat(file).st_ctime  # 文件的创建时间
+    return (int(mtime), int(ctime))
