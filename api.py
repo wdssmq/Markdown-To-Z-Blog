@@ -19,12 +19,6 @@ with open("config.json", 'rb') as f:
 
 # print(config_info)
 
-# {
-#     "USERNAME": "语言黑洞",
-#     "PASSWORD": "addfwqevee",
-#     "API-URL": "http://127.0.0.1:8000/edsa-demo/zb_system/api.php"
-# }
-
 
 def login():
     data = http("post", "member", "login", config_info)
@@ -58,7 +52,6 @@ def update_post(id, data_arg):
     data = http("post", "post", "post", data_arg)
     if not data is None:
         post = data["post"]
-        fnBug("%s %s %s" % (True, post["ID"], post["UpdateTime"]))
         return (True, post["ID"], post["UpdateTime"])
     return (False, 0, 0)
 # 更新文章
@@ -78,11 +71,7 @@ def http(method, mod, act, data_arg={}):
     else:
         r = requests.post(config_info["API-URL"] + "?mod=" +
                           mod + "&act=" + act, data=data_arg, headers=headers_arg)
-
     rlt = r.json()
-
-    # print(rlt)
-
     if rlt["code"] > 200:
         print(rlt)
         print(rlt["message"])
@@ -196,6 +185,7 @@ def main():
         fnLog("文件：" + md)
         fnLog("标题：" + title)
         (done, id, update_time) = update_post(0, data_arg)
+        fnBug("%s %s %s" % (done, id, update_time))
         if done:
             fnLog("提交成功")
         print("---")
