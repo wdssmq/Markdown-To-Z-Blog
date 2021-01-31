@@ -11,7 +11,11 @@ import sys
 from api_function import fnGetDirsInDir, fnGetFilesInDir, fnGetFilesInDir2, fnGetFileTime
 from api_function import fnLog, fnBug, fnErr, fnEmpty
 
-locale.setlocale(locale.LC_CTYPE, 'chinese')
+# LC_TIME = locale.setlocale(locale.LC_TIME)
+# LC_CTYPE = locale.setlocale(locale.LC_CTYPE)
+# print(LC_TIME)
+# print(LC_CTYPE)
+# 目测远程不需要设置这个
 
 config_info = {}
 
@@ -21,27 +25,27 @@ if((os.path.exists("config.json") == True)):
         config_info = json.loads(f.read())
 
 try:
-    if(os.environ["API-USR"]):
-        config_info["API-USR"] = os.environ["API-USR"]
+    if(os.environ["API_USR"]):
+        config_info["API_USR"] = os.environ["API_USR"]
 
-    if(os.environ["API-PWD"]):
-        config_info["API-PWD"] = os.environ["API-PWD"]
+    if(os.environ["API_PWD"]):
+        config_info["API_PWD"] = os.environ["API_PWD"]
 
-    if(os.environ["API-URL"]):
-        config_info["API-URL"] = os.environ["API-URL"]
+    if(os.environ["API_URL"]):
+        config_info["API_URL"] = os.environ["API_URL"]
 except:
+    locale.setlocale(locale.LC_CTYPE, 'chinese')
     fnLog("无法获取github的secrets配置信息,开始使用本地变量")
 
-# fnBug(config_info)
+fnBug(config_info)
 
 if not any(config_info):
     fnErr("未设置登录信息")
     sys.exit(0)
 
-
 def login():
-    data_arg = {"username": config_info["API-USR"],
-                "password": config_info["API-PWD"]}
+    data_arg = {"username": config_info["API_USR"],
+                "password": config_info["API_PWD"]}
     data = http("post", "member", "login", data_arg)
     if not data is None:
         config_info["token"] = data["token"]
@@ -86,12 +90,12 @@ def http(method, mod, act, data_arg={}):
         headers_arg = {}
         fnLog("未登录")
     if method == "get":
-        r = requests.get(config_info["API-URL"] + "?mod=" + mod +
+        r = requests.get(config_info["API_URL"] + "?mod=" + mod +
                          "&act=" + act, params=data_arg, headers=headers_arg)
         # 调试↓
         # print(r.url)
     else:
-        r = requests.post(config_info["API-URL"] + "?mod=" +
+        r = requests.post(config_info["API_URL"] + "?mod=" +
                           mod + "&act=" + act, data=data_arg, headers=headers_arg)
     rlt = r.json()
     if rlt["code"] > 200:
@@ -278,7 +282,7 @@ def main():
     print("------")
 
     # 更新最新文章到readme
-    # update_readme()
+    update_readme()
 # 入口
 
 

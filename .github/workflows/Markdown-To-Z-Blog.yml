@@ -1,0 +1,46 @@
+name: Markdown-To-Z-Blog
+on:
+  push:
+    branches:
+      - main
+      - test
+jobs:
+  push:
+    runs-on: ubuntu-20.04
+    steps:
+      # - name: locale info
+      #   run: |
+      #     sudo apt-get update
+      #     sudo apt-get install language-pack-zh-hans-base
+      #     # sudo locale-gen zh_CN.UTF-8
+      #     export LC_ALL="zh_CN.UTF-8"
+      #     export LC_CTYPE="zh_CN.UTF-8"
+      #     echo 1
+      #     locale -a
+      #     echo 2
+      #     locale
+      - name: Checkout
+        uses: actions/checkout@v2 # Checking out the repo
+      - name: Install dependecies
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: install -d # Install all dependencies, including development ones
+      - name: Build
+        env:
+          API_USR: ${{ secrets.API_USR }}
+          API_PWD: ${{ secrets.API_PWD }}
+          API_URL: ${{ secrets.API_URL }}
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: run build
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git status
+          git commit -m "Auto Commit" -a --no-verify
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
