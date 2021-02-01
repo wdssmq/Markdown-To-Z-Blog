@@ -5,6 +5,8 @@ on:
       - main
       - test
 jobs:
+  env:
+    TZ: Asia/Shanghai # https://xirikm.net/2020/215-1
   push:
     runs-on: ubuntu-20.04
     steps:

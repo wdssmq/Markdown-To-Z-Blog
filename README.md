@@ -24,13 +24,13 @@ pip install requests
 pip install python-frontmatter
 ```
 
-创建config.json并按如下示例填写内容：
+创建 config.json 并按如下示例填写内容：
 
 ```json
 {
-    "API-USR": "zblog_usr",
-    "API-PWD": "zblog_pwd",
-    "API-URL": "http://zblog.site/zb_system/api.php"
+    "API_USR": "zblog_usr",
+    "API_PWD": "zblog_pwd",
+    "API_URL": "http://zblog.site/zb_system/api.php"
 }
 ```
 
