@@ -33,27 +33,27 @@ jobs:
           echo  "{" > ${_cache_logs};
           git ls-tree -r --name-only HEAD | while read filename; do
           if [ "${filename##*.}"x = "md"x ];then
+          echo "\"$(git log -1 --pretty=format:"%at" -- $filename)\": \"$filename\",";
           echo "\"$(git log -1 --pretty=format:"%at" -- $filename)\": \"$filename\"," >> ${_cache_logs};
           fi
           done
           echo  "\"0\":\"README.md\"" >> ${_cache_logs};
           echo  "}" >> ${_cache_logs};
-      - name: Build
-        env:
-          API_USR: ${{ secrets.API_USR }}
-          API_PWD: ${{ secrets.API_PWD }}
-          API_URL: ${{ secrets.API_URL }}
-        uses: VaultVulp/action-pipenv@v2.0.1
-        with:
-          command: run build
-      - name: Commit files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git status
-          git commit -m "Auto Commit" -a --no-verify
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+      # - name: Build
+      #   env:
+      #     API_USR: ${{ secrets.API_USR }}
+      #     API_PWD: ${{ secrets.API_PWD }}
+      #     API_URL: ${{ secrets.API_URL }}
+      #   uses: VaultVulp/action-pipenv@v2.0.1
+      #   with:
+      #     command: run build
+      # - name: Commit files
+      #   run: |
+      #     git config --local user.email "action@github.com"
+      #     git config --local user.name "GitHub Action"
+      #     git commit -m "Auto Commit" -a --no-verify
+      # - name: Push changes
+      #   uses: ad-m/github-push-action@master
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     branch: ${{ github.ref }}
