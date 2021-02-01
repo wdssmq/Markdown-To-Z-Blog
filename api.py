@@ -33,8 +33,12 @@ try:
 
     if(os.environ["API_URL"]):
         config_info["API_URL"] = os.environ["API_URL"]
+
+    if(os.environ["_cache_logs"]):
+        config_info["_cache_logs"] = os.environ["_cache_logs"]
 except:
     locale.setlocale(locale.LC_CTYPE, 'chinese')
+    config_info["_cache_logs"] = "_fake.json"
     fnLog("无法获取github的secrets配置信息,开始使用本地变量")
 
 fnBug(config_info)
@@ -42,6 +46,7 @@ fnBug(config_info)
 if not any(config_info):
     fnErr("未设置登录信息")
     sys.exit(0)
+
 
 def login():
     data_arg = {"username": config_info["API_USR"],
@@ -181,10 +186,6 @@ def get_md_list(dir_path):
 # 获取特定目录的markdown文件列表
 
 
-_posts_logs_file = os.path.join(os.getcwd(), "_posts_logs.json")
-_posts_dir_path = os.path.join(os.getcwd(), "_posts")
-
-
 def read_logs(file):
     if(os.path.exists(file) == True):
         file_byte = open(file, 'r')
@@ -197,27 +198,63 @@ def read_logs(file):
 # 获取同步记录
 
 
+# 全局变量
+# 文章路径
+_posts_dir_path = os.path.join(os.getcwd(), "_posts")
+# 日志文件
+_posts_logs_file = os.path.join(os.getcwd(), "_posts_logs.json")
+# 日志数据
+_posts_logs_data = read_logs(_posts_logs_file)
+
+# git时间缓存文件
+# _cache_logs_file = os.path.join(os.getcwd(), "_cache_logs.json")
+_cache_logs_file = config_info["_cache_logs"]
+# git时间缓存数据
+_cache_logs_data = read_logs(_cache_logs_file)
+
+
+def update_git_time():
+    if any(_cache_logs_data):
+        tip = "git"
+    else:
+        tip = "文件"
+    fnLog("时间依据："+tip)
+    for git_time in _cache_logs_data:
+        md_file = _cache_logs_data[git_time]
+        if "README.md" == md_file:
+            continue
+        # fnBug()
+        (md_name, md_mtime) = get_md_name(os.path.join(os.getcwd(), md_file))
+        fnEmpty(md_mtime)
+        print(md_name)
+        if (md_name in _posts_logs_data.keys()):
+            _posts_logs_data[md_name]["git_time"] = git_time
+            print(_posts_logs_data[md_name])
+# 获取Git时间
+update_git_time()
+
+
 def update_logs(key, value):
-    obj_logs = read_logs(_posts_logs_file)
-    obj_logs[key] = value
+    _posts_logs_data[key] = value
     file = open(_posts_logs_file, 'w')
-    file.write(json.dumps(obj_logs))
+    file.write(json.dumps(_posts_logs_data))
     file.close()
     return True
 # 写入同步
 
 
 def check_logs(key, mtime):
-    obj_logs = read_logs(_posts_logs_file)
     msg = ""
     id = 0
-    if (key in obj_logs.keys()):
-        log_mtime = obj_logs[key]["mtime"]
+    if (key in _posts_logs_data.keys()):
+        if any(_cache_logs_data):
+            mtime = _posts_logs_data[key]["git_time"]
+        log_mtime = _posts_logs_data[key]["mtime"]
         fnLog("md: %s, log: %s" % (mtime, log_mtime))
         if (mtime <= log_mtime):
             msg = "skip"
         else:
-            id = obj_logs[key]["id"]
+            id = _posts_logs_data[key]["id"]
             msg = "update"
 
     return (msg, id)
