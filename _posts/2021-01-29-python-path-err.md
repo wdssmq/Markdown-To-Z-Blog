@@ -79,9 +79,27 @@ Github Actions 里获取文件真实修改时间的探索：
 [GIT 获取文件最初创建及最新修改日期 · Issue #69 · Dream4ever/Knowledge-Base](https://github.com/Dream4ever/Knowledge-Base/issues/69 "GIT 获取文件最初创建及最新修改日期 · Issue #69 · Dream4ever/Knowledge-Base")
 
 ```shell
+_cache_logs="_cache_logs.json"
+echo  "{" > ${_cache_logs};
 git ls-tree -r --name-only HEAD | while read filename; do
 if [ "${filename##*.}"x = "md"x ];then
-echo "$(git log -1 --pretty=format:"%ad" -- $filename) $filename";
+echo "\"$(git log -1 --pretty=format:"%at" -- $filename)\": \"$filename\"," >> ${_cache_logs};
 fi
 done
+echo  "\"0\":\"README.md\"" >> ${_cache_logs};
+echo  "}" >> ${_cache_logs};
+#
 ```
+
+
+另一些探索：
+
+```shell
+# _test="aaa"
+export _test="aaa"
+python test.py
+# import os
+# print(os.environ["_test"])
+```
+
+> bash: ${var}: ambiguous redirect

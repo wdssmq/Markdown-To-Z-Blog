@@ -219,6 +219,7 @@ def update_git_time():
     else:
         tip = "文件"
     fnLog("时间依据："+tip)
+    fnBug(_cache_logs_data)
     for git_time in _cache_logs_data:
         md_file = _cache_logs_data[git_time]
         if "README.md" == md_file:
