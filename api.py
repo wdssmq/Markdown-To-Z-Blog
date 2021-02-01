@@ -232,7 +232,6 @@ def update_git_time():
             _posts_logs_data[md_name]["git_time"] = git_time
             print(_posts_logs_data[md_name])
 # 获取Git时间
-update_git_time()
 
 
 def update_logs(key, value):
@@ -248,7 +247,7 @@ def check_logs(key, mtime):
     msg = ""
     id = 0
     if (key in _posts_logs_data.keys()):
-        if any(_cache_logs_data):
+        if any(_cache_logs_data) and ("git_time" in _posts_logs_data[key].keys()):
             mtime = _posts_logs_data[key]["git_time"]
         log_mtime = _posts_logs_data[key]["mtime"]
         fnLog("md: %s, log: %s" % (mtime, log_mtime))
@@ -263,6 +262,9 @@ def check_logs(key, mtime):
 
 
 def main():
+    # 线上使用Git时间
+    update_git_time()
+
     # 登录
     login()
 
