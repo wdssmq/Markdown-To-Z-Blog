@@ -4,3 +4,4 @@ config.json
 *.code-workspace
 __pycache__
 .vscode
+_cache_logs.json
