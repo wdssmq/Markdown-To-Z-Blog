@@ -229,7 +229,7 @@ def update_git_time():
         fnEmpty(md_mtime)
         print(md_name)
         if (md_name in _posts_logs_data.keys()):
-            _posts_logs_data[md_name]["git_time"] = git_time
+            _posts_logs_data[md_name]["git_time"] = int(git_time)
             print(_posts_logs_data[md_name])
 # 获取Git时间
 
