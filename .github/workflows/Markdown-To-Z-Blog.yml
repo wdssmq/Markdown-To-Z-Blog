@@ -24,16 +24,16 @@ jobs:
       #     locale
       - name: Checkout
         uses: actions/checkout@v2 # Checking out the repo
-      - name: Install dependecies
-        uses: VaultVulp/action-pipenv@v2.0.1
-        with:
-          command: install -d # Install all dependencies, including development ones
+      # - name: Install dependecies
+      #   uses: VaultVulp/action-pipenv@v2.0.1
+      #   with:
+      #     command: install -d # Install all dependencies, including development ones
       - name: pre-Build
         run: |
           echo  "{" > ${_cache_logs};
           git ls-tree -r --name-only HEAD | while read filename; do
           if [ "${filename##*.}"x = "md"x ];then
-          echo "\"$(git log -1 --pretty=format:"%at" -- $filename)\": \"$filename\",";
+          echo "\"$(git log -1 --pretty=format:"%ad" -- $filename)\": \"$filename\",";
           echo "\"$(git log -1 --pretty=format:"%at" -- $filename)\": \"$filename\"," >> ${_cache_logs};
           fi
           done

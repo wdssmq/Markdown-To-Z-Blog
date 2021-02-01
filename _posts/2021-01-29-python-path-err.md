@@ -80,14 +80,15 @@ Github Actions 里获取文件真实修改时间的探索：
 
 ```shell
 _cache_logs="_cache_logs.json"
-echo  "{" > ${_cache_logs};
-git ls-tree -r --name-only HEAD | while read filename; do
-if [ "${filename##*.}"x = "md"x ];then
-echo "\"$(git log -1 --pretty=format:"%at" -- $filename)\": \"$filename\"," >> ${_cache_logs};
-fi
-done
-echo  "\"0\":\"README.md\"" >> ${_cache_logs};
-echo  "}" >> ${_cache_logs};
+          echo  "{" > ${_cache_logs};
+          git ls-tree -r --name-only HEAD | while read filename; do
+          if [ "${filename##*.}"x = "md"x ];then
+          echo "\"$(git log -1 --pretty=format:"%at" -- $filename)\": \"$filename\",";
+          echo "\"$(git log -1 --pretty=format:"%at" -- $filename)\": \"$filename\"," >> ${_cache_logs};
+          fi
+          done
+          echo  "\"0\":\"README.md\"" >> ${_cache_logs};
+          echo  "}" >> ${_cache_logs};
 #
 ```
 
