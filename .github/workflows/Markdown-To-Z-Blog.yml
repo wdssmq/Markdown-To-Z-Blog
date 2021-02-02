@@ -11,17 +11,6 @@ jobs:
       TZ: Asia/Shanghai # https://xirikm.net/2020/215-1
       _cache_logs: _cache_log.json
     steps:
-      # - name: locale info
-      #   run: |
-      #     sudo apt-get update
-      #     sudo apt-get install language-pack-zh-hans-base
-      #     # sudo locale-gen zh_CN.UTF-8
-      #     export LC_ALL="zh_CN.UTF-8"
-      #     export LC_CTYPE="zh_CN.UTF-8"
-      #     echo 1
-      #     locale -a
-      #     echo 2
-      #     locale
       - name: Checkout
         uses: actions/checkout@v2 # Checking out the repo
       # - name: Install dependecies
@@ -31,13 +20,13 @@ jobs:
       - name: pre-Build
         run: |
           echo  "{" > ${_cache_logs};
-          git ls-tree -r --name-only HEAD | while read filename; do
+          git diff HEAD^ -r --name-only HEAD | while read filename; do
           if [ "${filename##*.}"x = "md"x ];then
-          echo "\"$(git log -1 --pretty=format:"%ad" -- $filename)\": \"$filename\",";
-          echo "\"$(git log -1 --pretty=format:"%at" -- $filename)\": \"$filename\"," >> ${_cache_logs};
+          echo "\"$filename\": \"$filename\",";
+          echo "\"$filename\": \"$filename\","; >> ${_cache_logs};
           fi
           done
-          echo  "\"0\":\"README.md\"" >> ${_cache_logs};
+          echo  "\"README.md\": \"README.md\"" >> ${_cache_logs};
           echo  "}" >> ${_cache_logs};
       # - name: Build
       #   env:
