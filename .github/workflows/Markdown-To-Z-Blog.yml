@@ -20,7 +20,7 @@ jobs:
       - name: pre-Build
         run: |
           echo  "{" > ${_cache_logs};
-          git diff "HEAD^" -r --name-only HEAD | while read filename; do
+          git diff "HEAD~" -r --name-only HEAD | while read filename; do
           if [ "${filename##*.}"x = "md"x ];then
           echo "\"$filename\": \"$filename\",";
           echo "\"$filename\": \"$filename\","; >> ${_cache_logs};
