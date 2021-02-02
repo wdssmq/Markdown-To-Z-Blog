@@ -17,17 +17,17 @@ jobs:
       #   uses: VaultVulp/action-pipenv@v2.0.1
       #   with:
       #     command: install -d # Install all dependencies, including development ones
-      - name: pre-Build
+      - name: Get file changes
+        id: get_file_changes
+        uses: trilom/file-changes-action@v1.2.4
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          output: '" "'
+        env:
+          _log: "${{ steps.get_file_changes.outputs.files }}"
+      - name: log
         run: |
-          echo  "{" > ${_cache_logs};
-          git diff "HEAD~" -r --name-only HEAD | while read filename; do
-          if [ "${filename##*.}"x = "md"x ];then
-          echo "\"$filename\": \"$filename\",";
-          echo "\"$filename\": \"$filename\","; >> ${_cache_logs};
-          fi
-          done
-          echo  "\"README.md\": \"README.md\"" >> ${_cache_logs};
-          echo  "}" >> ${_cache_logs};
+          echo ${_log}
       # - name: Build
       #   env:
       #     API_USR: ${{ secrets.API_USR }}
