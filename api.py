@@ -1,4 +1,5 @@
-import os
+# This Python file uses the following encoding: utf-8
+import os,sys
 import requests
 import json
 import time
@@ -6,7 +7,6 @@ import locale
 import markdown
 import frontmatter
 import re
-import sys
 
 from api_function import fnGetDirsInDir, fnGetFilesInDir, fnGetFilesInDir2, fnGetFileTime
 from api_function import fnLog, fnBug, fnErr, fnEmpty
@@ -173,7 +173,7 @@ def get_md_list(dir_path):
     md_list = []
     dirs = os.listdir(dir_path)
     for i in dirs:
-        if i == ".gitkeep":
+        if i == ".gitkeep" or i == "1970-01-01-empty.md":
             continue
         if os.path.splitext(i)[1] == ".md":
             md_list.append(os.path.join(dir_path, i))
