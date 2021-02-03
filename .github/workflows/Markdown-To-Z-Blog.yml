@@ -42,13 +42,13 @@ jobs:
           git config --local user.name "GitHub Action"
           git status --porcelain
           result=$(git status --porcelain | grep "M")
-          # echo $result
-          if [ "$result" == "" ]; then
-            echo "no changes"
-          else
-            echo "Auto Commit"
-            git commit -m "Auto Commit" -a --no-verify
-          fi
+          echo $result
+          # if [ "$result" == "" ]; then
+          #   echo "no changes"
+          # else
+          #   echo "Auto Commit"
+          #   git commit -m "Auto Commit" -a --no-verify
+          # fi
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
