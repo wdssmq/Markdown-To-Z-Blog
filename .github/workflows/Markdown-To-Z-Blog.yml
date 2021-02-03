@@ -41,7 +41,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git status
-          git diff-index --quiet HEAD || (git commit -m "style: auto format" -a --no-verify)
+          git diff-index --quiet HEAD || (git commit -m "Auto Commit" -a --no-verify)
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
