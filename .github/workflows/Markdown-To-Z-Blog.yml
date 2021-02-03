@@ -40,15 +40,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git status --porcelain
-          result=$(git status --porcelain | grep "M")
-          echo $result
-          # if [ "$result" == "" ]; then
-          #   echo "no changes"
-          # else
-          #   echo "Auto Commit"
-          #   git commit -m "Auto Commit" -a --no-verify
-          # fi
+          git status
+          git diff-index --quiet HEAD || (git commit -m "style: auto format" -a --no-verify)
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
