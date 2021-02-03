@@ -4,13 +4,17 @@
 
 ---start---
 
-## 目录( 2021 年 02 月 01 日更新)
+## 目录( 2021 年 02 月 03 日更新)
 
 [欢迎使用Z-BlogPHP！](https://zbp17.wdssmq.com/post/1.html "欢迎使用Z-BlogPHP！")
 
 [【折腾】Python + GitHub Actions 更新 Z-Blog 的探索](https://zbp17.wdssmq.com/post/3.html "【折腾】Python + GitHub Actions 更新 Z-Blog 的探索")
 
 [【折腾】GM脚本修改B站番剧链接为我的追番](https://zbp17.wdssmq.com/post/4.html "【折腾】GM脚本修改B站番剧链接为我的追番")
+
+[【折腾】Linux(CentOS)安装Python](https://zbp17.wdssmq.com/post/5.html "【折腾】Linux(CentOS)安装Python")
+
+[【折腾】Linux(CentOS)安装Python](https://zbp17.wdssmq.com/post/6.html "【折腾】Linux(CentOS)安装Python")
 
 ---end---
 
