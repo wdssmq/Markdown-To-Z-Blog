@@ -40,7 +40,13 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Auto Commit" -a --no-verify
+          result=$(git status | grep "nothing")
+          if [[ "$result" == "" ]]; then
+            git commit -m "Auto Commit" -a --no-verify
+            echo "Auto Commit
+          else
+            echo $result
+          fi
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
