@@ -8,16 +8,19 @@ def fnEmpty(arg):
 # 什么也不做
 
 
-def fnLog(msg, tip=None):
+def fnLog(msg="", tip=None):
     if not tip is None:
         tip = " ← %s" % tip
     else:
         tip = ""
-    print("_%s%s" % (msg, tip))
+    if not any(msg):
+        print("")
+    else:
+        print("_%s%s" % (msg, tip))
 # 输出信息
 
 
-def fnBug(msg, tip=None):
+def fnBug(msg, tip):
     fnLog("[debug]%s" % msg, tip)
 # debug输出
 

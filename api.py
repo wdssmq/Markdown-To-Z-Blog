@@ -1,5 +1,6 @@
 # This Python file uses the following encoding: utf-8
-import os,sys
+import os
+import sys
 import requests
 import json
 import time
@@ -16,6 +17,10 @@ from api_function import fnLog, fnBug, fnErr, fnEmpty
 # print(LC_TIME)
 # print(LC_CTYPE)
 # 目测远程不需要设置这个
+
+_now = int(time.time())
+_local_time = time.localtime(_now)
+_local_time_format = time.strftime('%Y-%m-%d %H:%M:%S', _local_time)
 
 config_info = {}
 
@@ -35,17 +40,20 @@ try:
         config_info["API_URL"] = os.environ["API_URL"]
 
     if(os.environ["_cache_logs"]):
-        config_info["_cache_logs"] = os.environ["_cache_logs"]
+        _cache_logs_json = os.environ["_cache_logs"]
 except:
-    locale.setlocale(locale.LC_CTYPE, 'chinese')
-    config_info["_cache_logs"] = "_fake.json"
+    if not ("USER" in os.environ.keys() and os.environ["USER"] == "root"):
+        locale.setlocale(locale.LC_CTYPE, 'chinese')
+    _cache_logs_json = "[]"
     fnLog("无法获取github的secrets配置信息,开始使用本地变量")
 
-fnBug(config_info)
 
 if not any(config_info):
     fnErr("未设置登录信息")
     sys.exit(0)
+
+fnBug(config_info.keys(), sys._getframe().f_lineno)
+fnLog()
 
 
 def login():
@@ -206,35 +214,31 @@ _posts_logs_file = os.path.join(os.getcwd(), "_posts_logs.json")
 # 日志数据
 _posts_logs_data = read_logs(_posts_logs_file)
 
-# git时间缓存文件
-# _cache_logs_file = os.path.join(os.getcwd(), "_cache_logs.json")
-_cache_logs_file = config_info["_cache_logs"]
-# git时间缓存数据
-_cache_logs_data = json.loads(_cache_logs_file)
 
-print(_cache_logs_data)
-sys.exit(0)
+# git更新的文件（数组）
+_cache_logs_data = json.loads(_cache_logs_json)
 
 
 def update_git_diff():
     if any(_cache_logs_data):
+        fnBug(_cache_logs_data, sys._getframe().f_lineno)
         tip = "git"
     else:
-        tip = "文件"
-    fnLog("时间依据："+tip)
-    fnBug(_cache_logs_data)
-    for md in _cache_logs_data:
-        md_file = _cache_logs_data[md]
-        if "README.md" == md_file:
+        tip = "文件时间"
+    fnLog("更新依据：" + tip)
+    for item in _cache_logs_data:
+        fnBug(item)
+        if not os.path.splitext(item)[1] == ".md":
             continue
-        # fnBug()
-        (md_name, md_mtime) = get_md_name(os.path.join(os.getcwd(), md_file))
+        if "README.md" == item:
+            continue
+        (md_name, md_mtime) = get_md_name(os.path.join(os.getcwd(), item))
         fnEmpty(md_mtime)
         print(md_name)
         if (md_name in _posts_logs_data.keys()):
-            _posts_logs_data[md_name]["git_time"] = int(git_time)
+            _posts_logs_data[md_name]["git_update"] = 1
             print(_posts_logs_data[md_name])
-# 获取Git时间
+# Git中修改的文件
 
 
 def update_logs(key, value):
@@ -250,31 +254,43 @@ def check_logs(key, mtime):
     msg = ""
     id = 0
     if (key in _posts_logs_data.keys()):
-        if any(_cache_logs_data) and ("git_time" in _posts_logs_data[key].keys()):
-            mtime = _posts_logs_data[key]["git_time"]
         log_mtime = _posts_logs_data[key]["mtime"]
-        fnLog("md: %s, log: %s" % (mtime, log_mtime))
-        if (mtime <= log_mtime):
-            msg = "skip"
+        if any(_cache_logs_data):
+            if ("git_update" in _posts_logs_data[key].keys()):
+                msg = "update"
+            else:
+                msg = "skip"
+            fnBug("md_name：%s, md_time: %s, log_time: %s, msg：%s" %
+                  (key, mtime, log_mtime, msg), sys._getframe().f_lineno)
         else:
-            id = _posts_logs_data[key]["id"]
-            msg = "update"
+            if (mtime <= log_mtime):
+                msg = "skip"
+            else:
+                id = _posts_logs_data[key]["id"]
+                msg = "update"
+            # fnBug("md_name：%s, md_time: %s, log_time: %s, msg：%s" %
+            #       (key, mtime, log_mtime, msg), sys._getframe().f_lineno)
 
     return (msg, id)
 # 日志查询
 
 
 def main():
-    # # 线上使用Git时间
-    # update_git_time()
+    # Actions中只针对提交的文件
+    fnLog("##")
+    update_git_diff()
+    fnLog()
 
     # 登录
+    fnLog("##")
     login()
+    fnLog()
 
+    fnLog("##")
     # 获取md文件列表并处理
-    print("------")
     md_list = get_md_list(_posts_dir_path)
     for md in md_list:
+        fnLog("###")
         # 文件标识名
         (md_name, md_mtime) = get_md_name(md)
         # fnBug(md_name, sys._getframe().f_lineno)
@@ -282,11 +298,11 @@ def main():
         # 判断更新时间
         (msg, id) = check_logs(md_name, md_mtime)
         if "skip" == msg:
-            fnLog("无需同步 "+md_name)
+            fnLog("无需同步 " + md_name)
             print("---")
             continue
         elif "update" == msg:
-            fnLog("md更新 "+md_name)
+            fnLog("md更新 " + md_name)
 
         # 读取md文件信息
         (content, metadata) = read_md(md)
@@ -323,11 +339,20 @@ def main():
         fnLog("标题：" + title)
         fnLog("状态：" + str(done))
         print("---")
-    print("------")
+    fnLog()
 
     # 更新最新文章到readme
+    fnLog("##")
     update_readme()
+    print()
 # 入口
 
 
+fnLog("#")
+fnLog("当前时间戳：%s, %s" % (_now, _local_time_format))
+fnLog()
+
+
+fnLog("# main")
 main()
+fnLog()
