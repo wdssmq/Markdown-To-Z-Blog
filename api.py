@@ -227,7 +227,7 @@ def update_git_diff():
         tip = "文件时间"
     fnLog("更新依据：" + tip)
     for item in _cache_logs_data:
-        fnBug(item)
+        fnBug(item, sys._getframe().f_lineno)
         if not os.path.splitext(item)[1] == ".md":
             continue
         if "README.md" == item:
