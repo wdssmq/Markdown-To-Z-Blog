@@ -9,40 +9,39 @@ jobs:
     runs-on: ubuntu-20.04
     env:
       TZ: Asia/Shanghai # https://xirikm.net/2020/215-1
-      _cache_logs: _cache_log.json
     steps:
       - name: Checkout
         uses: actions/checkout@v2 # Checking out the repo
-      # - name: Install dependecies
-      #   uses: VaultVulp/action-pipenv@v2.0.1
-      #   with:
-      #     command: install -d # Install all dependencies, including development ones
+      - name: Install dependecies
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: install -d # Install all dependencies, including development ones
       - name: Get file changes
-        id: get_file_changes
+        id: file_changes
         uses: trilom/file-changes-action@v1.2.4
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
-          output: '" "'
-      - name: log
+          # output: '" "'
+      - name: _cache_logs
         env:
-          _log: "${{ steps.get_file_changes.outputs.files }}"
+          _cache_logs: "${{ steps.file_changes.outputs.files }}"
         run: |
-          echo ${_log}
-      # - name: Build
-      #   env:
-      #     API_USR: ${{ secrets.API_USR }}
-      #     API_PWD: ${{ secrets.API_PWD }}
-      #     API_URL: ${{ secrets.API_URL }}
-      #   uses: VaultVulp/action-pipenv@v2.0.1
-      #   with:
-      #     command: run build
-      # - name: Commit files
-      #   run: |
-      #     git config --local user.email "action@github.com"
-      #     git config --local user.name "GitHub Action"
-      #     git commit -m "Auto Commit" -a --no-verify
-      # - name: Push changes
-      #   uses: ad-m/github-push-action@master
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
-      #     branch: ${{ github.ref }}
+          echo ${_cache_logs}
+      - name: Build
+        env:
+          API_USR: ${{ secrets.API_USR }}
+          API_PWD: ${{ secrets.API_PWD }}
+          API_URL: ${{ secrets.API_URL }}
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: run build
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Auto Commit" -a --no-verify
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

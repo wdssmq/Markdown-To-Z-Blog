@@ -210,18 +210,21 @@ _posts_logs_data = read_logs(_posts_logs_file)
 # _cache_logs_file = os.path.join(os.getcwd(), "_cache_logs.json")
 _cache_logs_file = config_info["_cache_logs"]
 # git时间缓存数据
-_cache_logs_data = read_logs(_cache_logs_file)
+_cache_logs_data = json.loads(_cache_logs_file)
+
+print(_cache_logs_data)
+sys.exit(0)
 
 
-def update_git_time():
+def update_git_diff():
     if any(_cache_logs_data):
         tip = "git"
     else:
         tip = "文件"
     fnLog("时间依据："+tip)
     fnBug(_cache_logs_data)
-    for git_time in _cache_logs_data:
-        md_file = _cache_logs_data[git_time]
+    for md in _cache_logs_data:
+        md_file = _cache_logs_data[md]
         if "README.md" == md_file:
             continue
         # fnBug()
@@ -262,8 +265,8 @@ def check_logs(key, mtime):
 
 
 def main():
-    # 线上使用Git时间
-    update_git_time()
+    # # 线上使用Git时间
+    # update_git_time()
 
     # 登录
     login()
