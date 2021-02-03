@@ -16,7 +16,7 @@
 
 [【折腾】pip 安装各种依赖遇到的坑](https://zbp17.wdssmq.com/post/6.html "【折腾】pip 安装各种依赖遇到的坑")
 
-[【折腾】GM脚本修改B站番剧链接为我的追番](https://zbp17.wdssmq.com/post/7.html "【折腾】GM脚本修改B站番剧链接为我的追番")
+[使用 GitHub Actions + Markdown 更新 Z-Blog 博客](https://zbp17.wdssmq.com/post/7.html "使用 GitHub Actions + Markdown 更新 Z-Blog 博客")
 
 ---end---
 
