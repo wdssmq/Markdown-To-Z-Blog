@@ -1,18 +1,1 @@
-{
-  "2021-01-29-python-path-err": {
-    "id": 3,
-    "mtime": 1612326092
-  },
-  "2021-01-31-Bilibili-GM-anime-2-bangumi": {
-    "id": 4,
-    "mtime": 1612345383
-  },
-  "2021-02-02-install-python-centos": {
-    "id": 5,
-    "mtime": 1612326095
-  },
-  "2021-02-03-pip-install-whl": {
-    "id": 6,
-    "mtime": 1612326095
-  }
-}
+{"2021-01-29-python-path-err": {"id": 3, "mtime": 1612326092}, "2021-01-31-Bilibili-GM-anime-2-bangumi": {"id": 4, "mtime": 1612345383}, "2021-02-02-install-python-centos": {"id": 5, "mtime": 1612326095}, "2021-02-03-pip-install-whl": {"id": 6, "mtime": 1612346214}}
