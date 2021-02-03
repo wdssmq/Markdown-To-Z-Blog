@@ -40,13 +40,13 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git status
           result=$(git status | grep "nothing")
           echo $result
           if [ "$result" == "" ]; then
             git commit -m "Auto Commit" -a --no-verify
             echo "Auto Commit"
           else
-            # nothing to commit
             echo $result
           fi
       - name: Push changes

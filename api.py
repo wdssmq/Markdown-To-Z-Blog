@@ -237,7 +237,7 @@ def update_git_diff():
         print(md_name)
         if (md_name in _posts_logs_data.keys()):
             _posts_logs_data[md_name]["git_update"] = 1
-            print(_posts_logs_data[md_name])
+            # print(_posts_logs_data[md_name])
 # Git中修改的文件
 
 
