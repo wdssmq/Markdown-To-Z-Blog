@@ -41,10 +41,10 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           result=$(git status | grep "nothing")
-          echo 1
+          # echo $result
           if [[ "$result" == "" ]]; then
             git commit -m "Auto Commit" -a --no-verify
-            echo "Auto Commit
+            echo "Auto Commit"
           else
             echo $result
           fi
