@@ -42,7 +42,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git status --porcelain
           result=$(git status --porcelain | grep "M")
-          echo $result
+          # echo $result
           if [ "$result" == "" ]; then
             echo "no changes"
           else
