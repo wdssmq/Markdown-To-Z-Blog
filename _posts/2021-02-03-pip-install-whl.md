@@ -7,8 +7,15 @@ categories:
 - 未分类
 ---
 
-坐标石家庄某县城，，看到个 py 项目想折腾一下。。2021-01-11
+2021-02-03：
 
+然后折腾了一个新项目：[wdssmq/Markdown-To-Z-Blog: 使用 GitHub Actions + Markdown 更新 Z-Blog 博客。](https://github.com/wdssmq/Markdown-To-Z-Blog "wdssmq/Markdown-To-Z-Blog: 使用 GitHub Actions + Markdown 更新 Z-Blog 博客。")
+
+2021-01-11：
+
+坐标石家庄某县城，，看到个 py 项目想折腾一下。。
+
+<!--more-->
 
 [科技爱好者周刊（第 141 期）：封闭系统的胜利 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html "科技爱好者周刊（第 141 期）：封闭系统的胜利 - 阮一峰的网络日志")
 
