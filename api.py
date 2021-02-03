@@ -254,22 +254,20 @@ def check_logs(key, mtime):
     msg = ""
     id = 0
     if (key in _posts_logs_data.keys()):
+        id = _posts_logs_data[key]["id"]
         log_mtime = _posts_logs_data[key]["mtime"]
         if any(_cache_logs_data):
             if ("git_update" in _posts_logs_data[key].keys()):
                 msg = "update"
             else:
                 msg = "skip"
-            fnBug("md_name：%s, md_time: %s, log_time: %s, msg：%s" %
-                  (key, mtime, log_mtime, msg), sys._getframe().f_lineno)
         else:
-            if (mtime <= log_mtime):
-                msg = "skip"
-            else:
-                id = _posts_logs_data[key]["id"]
+            if (mtime > log_mtime):
                 msg = "update"
-            # fnBug("md_name：%s, md_time: %s, log_time: %s, msg：%s" %
-            #       (key, mtime, log_mtime, msg), sys._getframe().f_lineno)
+            else:
+                msg = "skip"
+        # fnBug("md_name：%s, md_time: %s, log_time: %s, msg：%s" %
+        #       (key, mtime, log_mtime, msg), sys._getframe().f_lineno)
 
     return (msg, id)
 # 日志查询
