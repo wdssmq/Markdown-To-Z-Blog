@@ -42,7 +42,7 @@ jobs:
           git config --local user.name "GitHub Action"
           result=$(git status | grep "nothing")
           echo $result
-          if [[ "$result" == "" ]]; then
+          if [ "$result" == "" ]; then
             git commit -m "Auto Commit" -a --no-verify
             echo "Auto Commit"
           else
