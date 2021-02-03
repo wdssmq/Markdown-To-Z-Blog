@@ -41,9 +41,22 @@ pip install python-frontmatter
 }
 ```
 
+运行：
+
+`python api.py`
+
 ## 文章书写
 
-_posts/*.md
+### 存放路径
+
+支持两种形式，需要配置的文章可以创建一个文件夹存放。
+
+- _posts/*.md
+- _posts/*/doc.md
+
+### 内容格式
+
+也可以复制`_posts/1970-01-01-empty.md`
 
 ```md
 ---
@@ -56,6 +69,8 @@ categories:
 ---
 
 正文段落一
+
+<!--more-->
 
 正文段落二
 
