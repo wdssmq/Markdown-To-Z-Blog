@@ -1,5 +1,5 @@
 ---
-title: 【折腾】Linux(CentOS)安装Python
+title: 【折腾】Linux(CentOS)安装 Python
 tags:
 - Linux
 - CentOS
@@ -12,11 +12,11 @@ categories:
 
 [【折腾】Python + GitHub Actions 更新 Z-Blog 的探索](https://zbp17.wdssmq.com/post/3.html "【折腾】Python + GitHub Actions 更新 Z-Blog 的探索")
 
-[【折腾】VSCode远程开发配置（Remote Development）_电脑网络_沉冰浮水](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode远程开发配置（Remote Development）_电脑网络_沉冰浮水")
+[【折腾】VSCode 远程开发配置（Remote Development）_电脑网络_沉冰浮水](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode远程开发配置（Remote Development）_电脑网络_沉冰浮水")
 
 <!--more-->
 
-### 安装Python
+### 安装 Python
 
 ```shell
 python --version
@@ -52,28 +52,28 @@ python3 --version
 
 ### 各种错误解决
 
-- 设置Python编码
+- 设置 Python 编码
 
-  然后发现py文件中的中文注释会报错，解决方法是在首行添加如果下注释：
+  然后发现 py 文件中的中文注释会报错，解决方法是在首行添加如果下注释：
 
   ```py
   # This Python file uses the following encoding: utf-8
   import os,sys
   ```
 
-- GitHub Actions里的 `git diff` 问题
+- GitHub Actions 里的 `git diff` 问题
 
   `git diff "HEAD~" -r --name-only HEAD`
 
   > fatal: ambiguous argument 'HEAD^': unknown revision or path not in the working tree.
 
-  理论上用双引号或者不加引号就可以，，但是GitHub Actions里是报这个错。
+  理论上用双引号或者不加引号就可以，，但是 GitHub Actions 里是报这个错。
 
   `git diff --name-only head~1`
 
-  ↑ 另外一种写法，等专门建个版本库再测试吧。。当前先用File Changes Action
+  ↑ 另外一种写法，等专门建个版本库再测试吧。。当前先用 File Changes Action
 
-- 关于VSCode的Remote - ssh插件
+- 关于 VSCode 的`Remote - ssh`插件
 
   ```json
   "remote.SSH.remotePlatform": {
@@ -93,11 +93,14 @@ python3 --version
   [File Changes Action · Actions · GitHub Marketplace](https://github.com/marketplace/actions/file-changes-action "File Changes Action · Actions · GitHub Marketplace")
 
 - 其他
-  然后还有个问题是安装不了python-frontmatter，不知道为什么；
+
+  ~~然后还有个问题是安装不了 python-frontmatter，不知道为什么；~~
+
+  好像安装上了？？？略奇怪，但是 Remote 中的 mdlint 表现和本地好像不太一样？？？
 
 ### 其他
 
-linux(centos)安装python - 知乎：[https://zhuanlan.zhihu.com/p/137904053](https://zhuanlan.zhihu.com/p/137904053 "linux(centos)安装python - 知乎")
+linux(centos)安装 python - 知乎：[https://zhuanlan.zhihu.com/p/137904053](https://zhuanlan.zhihu.com/p/137904053 "linux(centos)安装python - 知乎")
 
 <!--
 git config --local user.email "wdssmq@qq.com"

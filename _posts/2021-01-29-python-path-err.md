@@ -91,6 +91,9 @@ echo  "\"0\":\"README.md\"" >> ${_cache_logs};
 echo  "}" >> ${_cache_logs};
 #
 ```
+↑ 失败，在线上环境获取到的时间都是一样的
+
+换用`git diff`好像也不好使，换「File Changes Action」了；
 
 另一些探索：
 
