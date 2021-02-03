@@ -45,7 +45,7 @@ winpty python -V
 
 **好吧，，建议直接单独安装 Python。。。商店版基本只能在 cmd 下使用，，pip 啥的各种麻烦。**
 
-----------
+------------
 
 另外，关于 VSCode 中无法安装 autopep8 用于代码格式化。
 
@@ -63,7 +63,7 @@ C:\Users\wdssm\AppData\Local\Programs\Python\Python37\python.exe C:\Users\wdssm\
 
 需要按实际修改路径。
 
----------
+------------
 
 ↓这个东西在本地不知道怎么用，GitHub Actions 经过 30 多次尝试终于成功了。
 
@@ -72,7 +72,7 @@ pip install pipenv
 pip install -p Pipfile.lock
 ```
 
------------
+------------
 
 Github Actions 里获取文件真实修改时间的探索：
 
@@ -80,18 +80,17 @@ Github Actions 里获取文件真实修改时间的探索：
 
 ```shell
 _cache_logs="_cache_logs.json"
-          echo  "{" > ${_cache_logs};
-          git ls-tree -r --name-only HEAD | while read filename; do
-          if [ "${filename##*.}"x = "md"x ];then
-          echo "\"$(git log -1 --pretty=format:"%at" -- $filename)\": \"$filename\",";
-          echo "\"$(git log -1 --pretty=format:"%at" -- $filename)\": \"$filename\"," >> ${_cache_logs};
-          fi
-          done
-          echo  "\"0\":\"README.md\"" >> ${_cache_logs};
-          echo  "}" >> ${_cache_logs};
+echo  "{" > ${_cache_logs};
+git ls-tree -r --name-only HEAD | while read filename; do
+if [ "${filename##*.}"x = "md"x ];then
+echo "\"$(git log -1 --pretty=format:"%at" -- $filename)\": \"$filename\",";
+echo "\"$(git log -1 --pretty=format:"%at" -- $filename)\": \"$filename\"," >> ${_cache_logs};
+fi
+done
+echo  "\"0\":\"README.md\"" >> ${_cache_logs};
+echo  "}" >> ${_cache_logs};
 #
 ```
-
 
 另一些探索：
 
