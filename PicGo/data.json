@@ -1,0 +1,31 @@
+{
+  "uploaded": [
+    {
+      "fileName": "001.png",
+      "width": 851,
+      "height": 548,
+      "extname": ".png",
+      "imgUrl": "https://i.loli.net/2021/02/04/YRgeoW1y4vq8n7A.png",
+      "type": "smms",
+      "id": "1d6dcd13-c9fb-4782-ada6-9ef93ab83f53"
+    },
+    {
+      "fileName": "002.png",
+      "width": 784,
+      "height": 523,
+      "extname": ".png",
+      "imgUrl": "https://i.loli.net/2021/02/04/vyepCMhr5uYOZKN.png",
+      "type": "smms",
+      "id": "14f93dad-f3da-41dc-b736-9ccdc311c9f0"
+    },
+    {
+      "fileName": "003.png",
+      "width": 818,
+      "height": 681,
+      "extname": ".png",
+      "imgUrl": "https://i.loli.net/2021/02/04/Y3bIjMCorUEAkZB.png",
+      "type": "smms",
+      "id": "4dbc8c53-dbe7-4b80-84db-0e936034d174"
+    }
+  ]
+}
