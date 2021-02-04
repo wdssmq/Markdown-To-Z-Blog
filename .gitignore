@@ -1,7 +1,7 @@
-diy_config.txt
-.DS_Store
-config.json
-*.code-workspace
 __pycache__
 .vscode
-_cache_logs.json
+.history
+.DS_Store
+*.code-workspace
+config.json
+_posts/*.png
