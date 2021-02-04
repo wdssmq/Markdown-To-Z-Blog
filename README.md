@@ -49,7 +49,7 @@ pip install python-frontmatter
 
 ### 存放路径
 
-支持两种形式，需要配置的文章可以创建一个文件夹存放。
+支持两种形式，需要配图的文章可以创建一个文件夹存放。
 
 - _posts/*.md
 - _posts/*/doc.md
