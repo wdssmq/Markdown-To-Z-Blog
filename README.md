@@ -21,7 +21,7 @@
 ---end---
 
 zhaoolee/WordPressXMLRPCTools: 用 Hexo 的方式管理 WordPress
-https://github.com/zhaoolee/WordPressXMLRPCTools
+[https://github.com/zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools "zhaoolee/WordPressXMLRPCTools: 用Hexo的方式管理WordPress")
 
 ## 命令（本地测试）
 
