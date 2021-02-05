@@ -4,11 +4,13 @@ tags:
 - JavaScript,折腾,GM_脚本,bilibili
 categories:
 - 未分类
+zhihu: https://zhuanlan.zhihu.com/p/342256397
+csdn: https://blog.csdn.net/qq_15022221/article/details/113696602
 ---
 
 ### 需求描述
 
-![图1](https://i.loli.net/2021/01/06/2rK5GdiCH7nXSaf.png)
+![图1](https://i.loli.net/2021/01/06/2rK5GdiCH7nXSaf.png "图1")
 
 在 bilibili 顶部导航里有一个[番剧]链接，[主站]和[游戏中心]中心那个，指向链接是：
 
@@ -46,7 +48,7 @@ categories:
 
 ↑其作用是，将【选定元素】的【href】这一属性的【值】设置为输入的内容，在本例就就是预定要修改的【链接 2】，然而问题是这里写死了我的 uid，，想要通用的话自动获取当前登录用户的 uid 比较好；
 
-![图2](https://i.loli.net/2021/01/06/TjJnyFqIS5s1Ka4.png)
+![图2](https://i.loli.net/2021/01/06/TjJnyFqIS5s1Ka4.png "图2")
 
 ↑在控制台直接搜索自己的 uid，发现三个结果；
 
@@ -87,6 +89,6 @@ categories:
 
 ↓↓最后在浏览器插件中新建一个用户脚本，然后将代码贴进去；
 
-![图3](https://i.loli.net/2021/01/06/mywjg9L7KCaN4pr.png)
+![图3](https://i.loli.net/2021/01/06/mywjg9L7KCaN4pr.png "图3")
 
 [^attribute选择器参考链接]: https://www.w3school.com.cn/cssref/css_selectors.asp
