@@ -1,7 +1,8 @@
 __pycache__
-.vscode
 .history
 .DS_Store
 *.code-workspace
 config.json
+_posts/*-new-post
+_posts/*-new-post.md
 _posts/*.png

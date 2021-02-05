@@ -56,7 +56,10 @@ pip install python-frontmatter
 
 ### 内容格式
 
-也可以复制`_posts/1970-01-01-empty.md`
+- 可以直接复制`_posts/1970-01-01-empty.md`；
+- 对于 VSCode ，可以使用快捷命令`ctrl + shift + b`；【2021-02-05】
+  - **注：会同时创建文件夹和单文件两种形式，按需改名使用即可；**
+  - **注：未改名的会被`.gitignore`排除；**
 
 ```md
 ---

@@ -1,0 +1,33 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "echo",
+      "type": "shell",
+      "command": "echo `date +%Y-%m-%d-%H-%M-%S`",
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "copy",
+      "type": "shell",
+      "command": [
+        "\r\n",
+        "cd _posts \r\n",
+        "_date=`date +%Y-%m-%d` \r\n",
+        "_empty=1970-01-01-empty.md \r\n",
+        "cp ${_empty} ${_date}-new-post.md \r\n",
+        "mkdir ${_date}-new-post \r\n",
+        "cp ${_empty} ${_date}-new-post/doc.md"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
