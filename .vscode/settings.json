@@ -2,6 +2,7 @@
   "files.exclude": {
     "**/__pycache__": true,
     // "**/.github": true,
-    "**/.history": true
+    "**/.history": true,
+    "**/_posts/.gitkeep": true
   }
 }
