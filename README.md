@@ -4,7 +4,7 @@
 
 ---start---
 
-## 目录( 2021 年 02 月 04 日更新)
+## 目录( 2021 年 02 月 05 日更新)
 
 [欢迎使用 Z-BlogPHP！](https://zbp17.wdssmq.com/post/1.html "欢迎使用 Z-BlogPHP！")
 
@@ -19,6 +19,8 @@
 [使用 GitHub Actions + Markdown 更新 Z-Blog 博客](https://zbp17.wdssmq.com/post/7.html "使用 GitHub Actions + Markdown 更新 Z-Blog 博客")
 
 [【言说】相对擅长写代码，然而也只有写代码](https://zbp17.wdssmq.com/post/8.html "【言说】相对擅长写代码，然而也只有写代码")
+
+[【言说】停不下的写作和代码](https://zbp17.wdssmq.com/post/9.html "【言说】停不下的写作和代码")
 
 ---end---
 
