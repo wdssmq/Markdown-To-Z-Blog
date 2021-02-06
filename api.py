@@ -111,6 +111,7 @@ def update_post(id, data_arg):
     data = http("post", "post", "post", data_arg)
     if not data is None:
         post = data["post"]
+        # print(post)
         return (True, post["ID"], post["UpdateTime"])
     return (False, 0, 0)
 # 更新文章
@@ -322,11 +323,12 @@ def main():
         # 判断更新时间
         (msg, id) = check_logs(md_name, md_mtime)
         if "skip" == msg:
-            fnLog("无需同步 ", md_name)
+            fnLog("无需同步")
+            fnLog()
             print("---")
             continue
         elif "update" == msg:
-            fnLog("md更新 ", md_name)
+            fnLog("md更新")
 
         # 读取md文件信息
         (content, metadata) = read_md(md)
@@ -334,6 +336,7 @@ def main():
         # 判断内容格式
         if not any(metadata):
             fnErr("md数据错误", md)
+            fnLog()
             print("---")
             continue
 
@@ -341,12 +344,19 @@ def main():
         title = metadata.get("title", "")
         tags = metadata.get("tags", "")
         cate = metadata.get("categories", "")
+        alias = metadata.get("alias", "")
         cover_id = metadata.get("id", "")
+        # fnBug(cover_id, sys._getframe().f_lineno)
+        if title == "未命名":
+            fnErr("标题：" + title)
+            fnLog()
+            print("---")
+            continue
         if isinstance(cover_id, int):
             code = get_post_code(cover_id)
             if code == 200:
+                fnLog("使用指定id", cover_id)
                 id = cover_id
-        alias = metadata.get("alias", "")
 
         # Markdown 解析
         content = markdown.markdown(
@@ -358,10 +368,10 @@ def main():
         # 提交请求
         (done, post_id, post_mtime) = update_post(0, data_arg)
         # fnBug("%s %s %s" % (done, post_id, post_mtime), sys._getframe().f_lineno)
-
+        # fnBug(type(post_id), sys._getframe().f_lineno)
         # 写入日志
         if done:
-            post_info = {"id": post_id, "mtime": post_mtime}
+            post_info = {"id": int(post_id), "mtime": post_mtime}
             update_logs(md_name, post_info)
 
         # 输出结果
@@ -369,15 +379,16 @@ def main():
         fnLog("标题：" + title)
         fnLog("状态：" + str(done))
         print("---")
-    fnLog("-----")
+    print("-----")
+    fnLog()
 
     # 更新最新文章到readme
     fnLog("## update_readme")
     update_readme(_readme_file)
-    print()
+    fnLog()
 # 入口
 
 
 fnLog("# main")
 main()
-fnLog()
+# fnLog()
