@@ -4,7 +4,7 @@
 
 ---start---
 
-## 目录( 2021 年 02 月 05 日更新)
+## 目录( 2021 年 02 月 06 日更新)
 
 [欢迎使用 Z-BlogPHP！](https://zbp17.wdssmq.com/post/1.html "欢迎使用 Z-BlogPHP！")
 
@@ -21,6 +21,10 @@
 [【言说】相对擅长写代码，然而也只有写代码](https://zbp17.wdssmq.com/post/8.html "【言说】相对擅长写代码，然而也只有写代码")
 
 [【言说】停不下的写作和代码](https://zbp17.wdssmq.com/post/9.html "【言说】停不下的写作和代码")
+
+[【笔记】LNMP 部署/续期 SSL 证书](https://zbp17.wdssmq.com/post/10.html "【笔记】LNMP 部署/续期 SSL 证书")
+
+[【备忘】Z-BlogPHP 常用接口或函数](https://zbp17.wdssmq.com/post/11.html "【备忘】Z-BlogPHP 常用接口或函数")
 
 ---end---
 
