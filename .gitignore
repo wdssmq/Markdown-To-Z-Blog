@@ -1,9 +1,11 @@
 __pycache__
 .history
 .DS_Store
-*.code-workspace
 config.json
+*.code-workspace
+_debug_*
 _posts/*-new-post
 _posts/*-new-post.md
 _posts/*.png
-_debug_*
+note-*.md
+doc-*.md
