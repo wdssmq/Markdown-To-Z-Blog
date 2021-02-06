@@ -12,6 +12,8 @@ alias: 20200905897
 
 使用的方案是按照 MovableType 语法给 Typecho 弄了个“主题”，150 条数据在一页显示后另存，再使用相应插件导入到 z-blog；
 
+<!--more-->
+
 > 适用于 Z-Blog 的 MovableType 语法规范\_电脑网络\_沉冰浮水
 >
 > <a href="https://www.wdssmq.com/post/20170502785.html" target="_blank" title="适用于Z-Blog的MovableType语法规范_电脑网络_沉冰浮水">https://www.wdssmq.com/post/20170502785.html</a>
