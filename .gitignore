@@ -6,3 +6,4 @@ config.json
 _posts/*-new-post
 _posts/*-new-post.md
 _posts/*.png
+_debug_*

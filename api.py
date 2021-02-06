@@ -28,10 +28,11 @@ fnLog()
 
 config_info = {}
 _cache_logs_json = "[]"
+_debug = False
 
 
 def init():
-    global config_info, _cache_logs_json
+    global config_info, _cache_logs_json, _debug
     if((os.path.exists("config.json") == True)):
         with open("config.json", 'rb') as f:
             config_info = json.loads(f.read())
@@ -62,6 +63,8 @@ def init():
     else:
         fnBug(config_info.keys(), sys._getframe().f_lineno)
     fnLog()
+    if "DEBUG" in config_info.keys() and config_info["DEBUG"] == 1:
+        _debug = True
 # 初始化信息
 
 
@@ -136,7 +139,7 @@ def http(method, mod, act, data_arg={}, format="data"):
 # http封装
 
 
-def update_readme():
+def update_readme(readme):
     post_list = get_post_list()
     # 生成插入列表
     insert_info = ""
@@ -152,7 +155,7 @@ def update_readme():
         ' %Y 年 %m 月 %d 日') + "更新)" + "\n\n" + insert_info + "---end---"
 
     # 获取README.md内容
-    with open(os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
+    with open(readme, 'r', encoding='utf-8') as f:
         readme_md_content = f.read()
 
     # print(insert_info)
@@ -160,7 +163,7 @@ def update_readme():
     new_readme_md_content = re.sub(
         r'---start---(.|\n)*---end---', insert_info, readme_md_content)
 
-    with open(os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8', newline="\n") as f:
+    with open(readme, 'w', encoding='utf-8', newline="\n") as f:
         f.write(new_readme_md_content)
 
     fnLog("更新ReadMe成功")
@@ -226,9 +229,14 @@ def read_logs(file):
 
 # 全局变量
 # 文章路径
-_posts_dir_path = os.path.join(os.getcwd(), "_posts")
+_posts_dir = os.path.join(os.getcwd(), "_posts")
+# README.md
+_readme_file = os.path.join(os.getcwd(), "README.md")
 # 日志文件
 _posts_logs_file = os.path.join(os.getcwd(), "_posts_logs.json")
+if _debug:
+    _posts_logs_file = os.path.join(os.getcwd(), "_debug_posts_logs.json")
+    _readme_file = os.path.join(os.getcwd(), "_debug_README.md")
 # 日志数据
 _posts_logs_data = read_logs(_posts_logs_file)
 
@@ -304,7 +312,7 @@ def main():
 
     fnLog("## -----")
     # 获取md文件列表并处理
-    md_list = get_md_list(_posts_dir_path)
+    md_list = get_md_list(_posts_dir)
     for md in md_list:
         fnLog("###")
         # 文件标识名
@@ -365,7 +373,7 @@ def main():
 
     # 更新最新文章到readme
     fnLog("## update_readme")
-    update_readme()
+    update_readme(_readme_file)
     print()
 # 入口
 
