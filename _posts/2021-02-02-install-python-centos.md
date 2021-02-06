@@ -101,8 +101,3 @@ python3 --version
 ### 其他
 
 linux(centos)安装 python - 知乎：[https://zhuanlan.zhihu.com/p/137904053](https://zhuanlan.zhihu.com/p/137904053 "linux(centos)安装python - 知乎")
-
-<!--
-git config --local user.email "wdssmq@qq.com"
-git config --local user.name "wdssmq"
--->

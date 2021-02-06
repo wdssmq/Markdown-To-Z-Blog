@@ -12,7 +12,7 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/113696602
 
 ![图1](https://i.loli.net/2021/01/06/2rK5GdiCH7nXSaf.png "图1")
 
-在 bilibili 顶部导航里有一个[番剧]链接，[主站]和[游戏中心]中心那个，指向链接是：
+在 bilibili 顶部导航里有一个[番剧]链接，[主站]和[游戏中心]中间那个，指向链接是：
 
 `https://www.bilibili.com/anime/` 【链接 1】
 
@@ -91,4 +91,4 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/113696602
 
 ![图3](https://i.loli.net/2021/01/06/mywjg9L7KCaN4pr.png "图3")
 
-[^attribute选择器参考链接]: https://www.w3school.com.cn/cssref/css_selectors.asp
+[^attribute 选择器参考链接]: https://www.w3school.com.cn/cssref/css_selectors.asp
