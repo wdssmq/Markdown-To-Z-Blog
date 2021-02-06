@@ -91,7 +91,8 @@ def get_post_code(id):
 
 
 def get_post_list():
-    data = http("get", "post", "list", {"page": 1})
+    data = http("get", "post", "list", {
+                "page": 1, "sortby": "UpdateTime", "order": "DESC", "perpage": 37})
     if not data is None:
         # 调试↓
         # print(data)
