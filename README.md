@@ -26,6 +26,8 @@
 
 [【备忘】Z-BlogPHP 常用接口或函数](https://zbp17.wdssmq.com/post/11.html "【备忘】Z-BlogPHP 常用接口或函数")
 
+[合并了 Typecho 文章到 Z-Blog](https://zbp17.wdssmq.com/post/12.html "合并了 Typecho 文章到 Z-Blog")
+
 ---end---
 
 zhaoolee/WordPressXMLRPCTools: 用 Hexo 的方式管理 WordPress
