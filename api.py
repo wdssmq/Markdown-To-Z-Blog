@@ -22,37 +22,51 @@ _now = int(time.time())
 _local_time = time.localtime(_now)
 _local_time_format = time.strftime('%Y-%m-%d %H:%M:%S', _local_time)
 
+fnLog("# 开始")
+fnLog("当前时间戳：%s, %s" % (_now, _local_time_format))
+fnLog()
+
 config_info = {}
+_cache_logs_json = "[]"
 
 
-if((os.path.exists("config.json") == True)):
-    with open("config.json", 'rb') as f:
-        config_info = json.loads(f.read())
+def init():
+    global config_info, _cache_logs_json
+    if((os.path.exists("config.json") == True)):
+        with open("config.json", 'rb') as f:
+            config_info = json.loads(f.read())
+        # fnBug(config_info, sys._getframe().f_lineno)
+    try:
+        if(os.environ["API_USR"]):
+            config_info["API_USR"] = os.environ["API_USR"]
 
-try:
-    if(os.environ["API_USR"]):
-        config_info["API_USR"] = os.environ["API_USR"]
+        if(os.environ["API_PWD"]):
+            config_info["API_PWD"] = os.environ["API_PWD"]
 
-    if(os.environ["API_PWD"]):
-        config_info["API_PWD"] = os.environ["API_PWD"]
+        if(os.environ["API_URL"]):
+            config_info["API_URL"] = os.environ["API_URL"]
 
-    if(os.environ["API_URL"]):
-        config_info["API_URL"] = os.environ["API_URL"]
+        if(os.environ["_cache_logs"]):
+            _cache_logs_json = os.environ["_cache_logs"]
+    except:
+        if not ("USER" in os.environ.keys() and os.environ["USER"] == "root"):
+            locale.setlocale(locale.LC_CTYPE, 'chinese')
+        # _cache_logs_json = "[]"
+        fnLog("## init")
+        fnLog("无法获取github的secrets配置信息,开始使用本地变量")
+        fnLog()
+    fnLog("## init")
+    if not any(config_info):
+        fnErr("未设置登录信息", sys._getframe().f_lineno)
+        sys.exit(0)
+    else:
+        fnBug(config_info.keys(), sys._getframe().f_lineno)
+    fnLog()
+# 初始化信息
 
-    if(os.environ["_cache_logs"]):
-        _cache_logs_json = os.environ["_cache_logs"]
-except:
-    if not ("USER" in os.environ.keys() and os.environ["USER"] == "root"):
-        locale.setlocale(locale.LC_CTYPE, 'chinese')
-    _cache_logs_json = "[]"
-    fnLog("无法获取github的secrets配置信息,开始使用本地变量")
 
-
-if not any(config_info):
-    fnErr("未设置登录信息")
-    sys.exit(0)
-
-fnBug(config_info.keys(), sys._getframe().f_lineno)
+fnLog("# init")
+init()
 fnLog()
 
 
@@ -64,10 +78,13 @@ def login():
         config_info["token"] = data["token"]
         config_info["AuthorID"] = data["user"]["ID"]
         fnLog("登录成功")
-        # 调试↓
-        # print(data)
-        # print(config_info)
 # 登录
+
+
+def get_post_code(id):
+    data = http("get", "post", "get", {"id": id}, "all")
+    return data["code"]
+# 查找文章，返回状态码
 
 
 def get_post_list():
@@ -96,7 +113,7 @@ def update_post(id, data_arg):
 # 更新文章
 
 
-def http(method, mod, act, data_arg={}):
+def http(method, mod, act, data_arg={}, format="data"):
     try:
         headers_arg = {"Authorization": "Bearer " + config_info["token"]}
     except:
@@ -112,8 +129,9 @@ def http(method, mod, act, data_arg={}):
                           mod + "&act=" + act, data=data_arg, headers=headers_arg)
     rlt = r.json()
     if rlt["code"] > 200:
-        print(rlt)
-        print(rlt["message"])
+        fnBug(rlt, sys._getframe().f_lineno)
+    if format == "all":
+        return rlt
     return rlt["data"]
 # http封装
 
@@ -275,32 +293,32 @@ def check_logs(key, mtime):
 
 def main():
     # Actions中只针对提交的文件
-    fnLog("##")
+    fnLog("## update_git_diff")
     update_git_diff()
     fnLog()
 
     # 登录
-    fnLog("##")
+    fnLog("## login")
     login()
     fnLog()
 
-    fnLog("##")
+    fnLog("## -----")
     # 获取md文件列表并处理
     md_list = get_md_list(_posts_dir_path)
     for md in md_list:
         fnLog("###")
         # 文件标识名
         (md_name, md_mtime) = get_md_name(md)
-        # fnBug(md_name, sys._getframe().f_lineno)
+        fnLog(md_name, sys._getframe().f_lineno)
 
         # 判断更新时间
         (msg, id) = check_logs(md_name, md_mtime)
         if "skip" == msg:
-            fnLog("无需同步 " + md_name)
+            fnLog("无需同步 ", md_name)
             print("---")
             continue
         elif "update" == msg:
-            fnLog("md更新 " + md_name)
+            fnLog("md更新 ", md_name)
 
         # 读取md文件信息
         (content, metadata) = read_md(md)
@@ -315,6 +333,12 @@ def main():
         title = metadata.get("title", "")
         tags = metadata.get("tags", "")
         cate = metadata.get("categories", "")
+        cover_id = metadata.get("id", "")
+        if isinstance(cover_id, int):
+            code = get_post_code(cover_id)
+            if code == 200:
+                id = cover_id
+        alias = metadata.get("alias", "")
 
         # Markdown 解析
         content = markdown.markdown(
@@ -337,18 +361,13 @@ def main():
         fnLog("标题：" + title)
         fnLog("状态：" + str(done))
         print("---")
-    fnLog()
+    fnLog("-----")
 
     # 更新最新文章到readme
-    fnLog("##")
+    fnLog("## update_readme")
     update_readme()
     print()
 # 入口
-
-
-fnLog("#")
-fnLog("当前时间戳：%s, %s" % (_now, _local_time_format))
-fnLog()
 
 
 fnLog("# main")
