@@ -6,6 +6,8 @@ tags:
 - 沉冰浮水
 categories:
 - 未分类
+zhihu: https://zhuanlan.zhihu.com/p/349914941
+jainshu: https://www.jianshu.com/p/1bf5cc96a80c
 ---
 
 对某名群友的「说教」：
