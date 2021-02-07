@@ -6,6 +6,8 @@
 
 ## 目录( 2021 年 02 月 07 日更新)
 
+[【折腾】VSCode 远程开发配置（Remote Development）](https://zbp17.wdssmq.com/post/14.html "【折腾】VSCode 远程开发配置（Remote Development）")
+
 [关于 Z-BlogPHP 1.7 缩略图的一些记录](https://zbp17.wdssmq.com/post/13.html "关于 Z-BlogPHP 1.7 缩略图的一些记录")
 
 [合并了 Typecho 文章到 Z-Blog](https://zbp17.wdssmq.com/post/12.html "合并了 Typecho 文章到 Z-Blog")
