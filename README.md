@@ -4,29 +4,31 @@
 
 ---start---
 
-## 目录( 2021 年 02 月 06 日更新)
+## 目录( 2021 年 02 月 07 日更新)
 
-[欢迎使用 Z-BlogPHP！](https://zbp17.wdssmq.com/post/1.html "欢迎使用 Z-BlogPHP！")
+[关于 Z-BlogPHP 1.7 缩略图的一些记录](https://zbp17.wdssmq.com/post/13.html "关于 Z-BlogPHP 1.7 缩略图的一些记录")
 
-[【折腾】Python + GitHub Actions 更新 Z-Blog 的探索](https://zbp17.wdssmq.com/post/3.html "【折腾】Python + GitHub Actions 更新 Z-Blog 的探索")
+[合并了 Typecho 文章到 Z-Blog](https://zbp17.wdssmq.com/post/12.html "合并了 Typecho 文章到 Z-Blog")
+
+[【备忘】Z-BlogPHP 常用接口或函数](https://zbp17.wdssmq.com/post/11.html "【备忘】Z-BlogPHP 常用接口或函数")
 
 [【折腾】GM_脚本修改 bilibili 番剧链接为我的追番](https://zbp17.wdssmq.com/post/4.html "【折腾】GM_脚本修改 bilibili 番剧链接为我的追番")
 
 [【折腾】Linux(CentOS)安装 Python](https://zbp17.wdssmq.com/post/5.html "【折腾】Linux(CentOS)安装 Python")
 
-[【折腾】pip 安装各种依赖遇到的坑](https://zbp17.wdssmq.com/post/6.html "【折腾】pip 安装各种依赖遇到的坑")
-
-[使用 GitHub Actions + Markdown 更新 Z-Blog 博客](https://zbp17.wdssmq.com/post/7.html "使用 GitHub Actions + Markdown 更新 Z-Blog 博客")
-
 [【言说】相对擅长写代码，然而也只有写代码](https://zbp17.wdssmq.com/post/8.html "【言说】相对擅长写代码，然而也只有写代码")
-
-[【言说】停不下的写作和代码](https://zbp17.wdssmq.com/post/9.html "【言说】停不下的写作和代码")
 
 [【笔记】LNMP 部署/续期 SSL 证书](https://zbp17.wdssmq.com/post/10.html "【笔记】LNMP 部署/续期 SSL 证书")
 
-[【备忘】Z-BlogPHP 常用接口或函数](https://zbp17.wdssmq.com/post/11.html "【备忘】Z-BlogPHP 常用接口或函数")
+[【言说】停不下的写作和代码](https://zbp17.wdssmq.com/post/9.html "【言说】停不下的写作和代码")
 
-[合并了 Typecho 文章到 Z-Blog](https://zbp17.wdssmq.com/post/12.html "合并了 Typecho 文章到 Z-Blog")
+[使用 GitHub Actions + Markdown 更新 Z-Blog 博客](https://zbp17.wdssmq.com/post/7.html "使用 GitHub Actions + Markdown 更新 Z-Blog 博客")
+
+[【折腾】pip 安装各种依赖遇到的坑](https://zbp17.wdssmq.com/post/6.html "【折腾】pip 安装各种依赖遇到的坑")
+
+[欢迎使用 Z-BlogPHP！](https://zbp17.wdssmq.com/post/1.html "欢迎使用 Z-BlogPHP！")
+
+[【折腾】Python + GitHub Actions 更新 Z-Blog 的探索](https://zbp17.wdssmq.com/post/3.html "【折腾】Python + GitHub Actions 更新 Z-Blog 的探索")
 
 ---end---
 
