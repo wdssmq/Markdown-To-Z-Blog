@@ -6,6 +6,10 @@
 
 ## 目录( 2021 年 02 月 07 日更新)
 
+[【折腾】麦沃硬盘盒报毒的应对方案](https://zbp17.wdssmq.com/post/16.html "【折腾】麦沃硬盘盒报毒的应对方案")
+
+[【言说】不知道发没发的《黑豹》评论](https://zbp17.wdssmq.com/post/15.html "【言说】不知道发没发的《黑豹》评论")
+
 [【折腾】VSCode 远程开发配置（Remote Development）](https://zbp17.wdssmq.com/post/14.html "【折腾】VSCode 远程开发配置（Remote Development）")
 
 [关于 Z-BlogPHP 1.7 缩略图的一些记录](https://zbp17.wdssmq.com/post/13.html "关于 Z-BlogPHP 1.7 缩略图的一些记录")
