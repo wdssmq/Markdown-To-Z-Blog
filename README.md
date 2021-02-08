@@ -4,7 +4,11 @@
 
 ---start---
 
-## 目录( 2021 年 02 月 07 日更新)
+## 目录( 2021 年 02 月 08 日更新)
+
+[【言说】相对擅长写代码，然而也只有写代码](https://zbp17.wdssmq.com/post/8.html "【言说】相对擅长写代码，然而也只有写代码")
+
+[【Z-Blog】插件管理、后台进不去时通过FTP删除相应插件](https://zbp17.wdssmq.com/post/17.html "【Z-Blog】插件管理、后台进不去时通过FTP删除相应插件")
 
 [【折腾】麦沃硬盘盒报毒的应对方案](https://zbp17.wdssmq.com/post/16.html "【折腾】麦沃硬盘盒报毒的应对方案")
 
@@ -21,8 +25,6 @@
 [【折腾】GM_脚本修改 bilibili 番剧链接为我的追番](https://zbp17.wdssmq.com/post/4.html "【折腾】GM_脚本修改 bilibili 番剧链接为我的追番")
 
 [【折腾】Linux(CentOS)安装 Python](https://zbp17.wdssmq.com/post/5.html "【折腾】Linux(CentOS)安装 Python")
-
-[【言说】相对擅长写代码，然而也只有写代码](https://zbp17.wdssmq.com/post/8.html "【言说】相对擅长写代码，然而也只有写代码")
 
 [【笔记】LNMP 部署/续期 SSL 证书](https://zbp17.wdssmq.com/post/10.html "【笔记】LNMP 部署/续期 SSL 证书")
 
