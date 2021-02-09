@@ -9,3 +9,4 @@ _posts/*-new-post.md
 _posts/*.png
 note-*.md
 doc-*.md
+*.lnk
