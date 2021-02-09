@@ -42,8 +42,9 @@ function acgME_Thumbs($article, &$all_images, $width, $height, $count, $clip)
 {
   $rndNum = $article->ID % 19 + 1;
   $rndImg = acgME_Path("v-noimg", "host") . $rndNum . ".jpg";
-  // $all_images为文章正文内的图片，追加一张保证能拿到图
+  // $all_images为文章正文内的图片，有可能为空，所以追加一张作为默认；
   $all_images[] = $rndImg;
+  Thumb::changeDefaultImg($rndImg); // 有图，但是缩略失败时用这个；
 }
 // 通过封装函数赋值给属性用于调用
 function acgME_SetIMG(&$article)
