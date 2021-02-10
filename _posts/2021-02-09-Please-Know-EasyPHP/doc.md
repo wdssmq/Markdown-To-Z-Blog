@@ -1,0 +1,57 @@
+---
+title: EasyPHP - 略有极客感的 WEB 环境工具
+tags:
+- PHP
+- Web_开发
+categories:
+- 电脑网络
+---
+
+## 软件名称
+
+EasyPHP
+
+
+## 应用平台
+
+* Windows
+
+
+## 推荐类型
+
+【用户投递】
+
+
+## 一句简介
+
+PHP, Apache, MySQL, Nginx, PhpMyAdmin, Xdebug, PostgreSQL,
+MongoDB, Python, Ruby... for Windows
+
+
+## 应用简介
+
+可选 PHP 8.0；
+
+界面为英文；
+
+管理面板为 WebUI：`http://127.0.0.1:1111/`
+
+站点访问地址形式为：`http://127.0.0.1:8000/edsa-zbp/`
+
+EasyPHP 面板助手：[https://greasyfork.org/zh-CN/scripts/421520](https://greasyfork.org/zh-CN/scripts/421520 "EasyPHP 面板助手") ← 辅助脚本
+
+
+## 软件截图
+
+![2021-02-10-001](https://i.loli.net/2021/02/10/g5BnrDJYFotWwSe.png "2021-02-10-001")
+
+![2021-02-10-002](https://i.loli.net/2021/02/10/RIg8CZLNxMPUz5s.png "2021-02-10-002")
+
+![2021-02-10-003](https://i.loli.net/2021/02/10/NXgICx2kqAmrMBl.png "2021-02-10-003")
+
+![2021-02-10-004](https://i.loli.net/2021/02/10/y4hCNoxX2ISDeZA.png "2021-02-10-004")
+
+
+## 官方网站 && 应用商店地址
+
+[https://www.easyphp.org/](https://www.easyphp.org/ "EasyPHP - Code with Devserver & host with Webserver")
