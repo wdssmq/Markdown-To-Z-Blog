@@ -4,7 +4,11 @@
 
 ---start---
 
-## 目录( 2021 年 02 月 09 日更新)
+## 目录( 2021 年 02 月 10 日更新)
+
+[【VSCode】快捷键备忘](https://zbp17.wdssmq.com/post/22.html "【VSCode】快捷键备忘")
+
+[【折腾】基于 Node 的 QQ 机器人项目](https://zbp17.wdssmq.com/post/18.html "【折腾】基于 Node 的 QQ 机器人项目")
 
 [【过往】百度网盘七年纪](https://zbp17.wdssmq.com/post/21.html "【过往】百度网盘七年纪")
 
@@ -13,8 +17,6 @@
 [【备忘】原生 JS 监听未来元素事件实例](https://zbp17.wdssmq.com/post/19.html "【备忘】原生 JS 监听未来元素事件实例")
 
 [关于 Z-BlogPHP 1.7 缩略图的一些记录](https://zbp17.wdssmq.com/post/13.html "关于 Z-BlogPHP 1.7 缩略图的一些记录")
-
-[【折腾】基于Node的QQ机器人项目](https://zbp17.wdssmq.com/post/18.html "【折腾】基于Node的QQ机器人项目")
 
 [【言说】相对擅长写代码，然而也只有写代码](https://zbp17.wdssmq.com/post/8.html "【言说】相对擅长写代码，然而也只有写代码")
 
