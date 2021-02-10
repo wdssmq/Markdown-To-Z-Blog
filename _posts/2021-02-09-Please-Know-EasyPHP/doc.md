@@ -27,6 +27,7 @@ EasyPHP
 PHP, Apache, MySQL, Nginx, PhpMyAdmin, Xdebug, PostgreSQL,
 MongoDB, Python, Ruby... for Windows
 
+<!--more-->
 
 ## 应用简介
 
