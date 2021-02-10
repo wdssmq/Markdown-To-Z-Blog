@@ -7,8 +7,12 @@ tags:
 - GitHub
 - Z-Blog
 categories:
-- 未分类
+- 电脑网络
+zhihu: https://zhuanlan.zhihu.com/p/350367527
+csdn: https://blog.csdn.net/qq_15022221/article/details/113784985
 ---
+
+### 前言
 
 起因是看到了这个项目：
 
@@ -21,7 +25,7 @@ categories:
 
 <!--more-->
 
-------------
+### Python 其一
 
 因为最近又重装了系统，Python 什么的要重新安装。。
 
@@ -45,7 +49,7 @@ winpty python -V
 
 **好吧，，建议直接单独安装 Python。。。商店版基本只能在 cmd 下使用，，pip 啥的各种麻烦。**
 
-------------
+### Python 其二
 
 另外，关于 VSCode 中无法安装 autopep8 用于代码格式化。
 
@@ -63,7 +67,7 @@ C:\Users\wdssm\AppData\Local\Programs\Python\Python37\python.exe C:\Users\wdssm\
 
 需要按实际修改路径。
 
-------------
+### 不太懂但是也没啥影响的部分
 
 ↓这个东西在本地不知道怎么用，GitHub Actions 经过 30 多次尝试终于成功了。
 
@@ -72,7 +76,7 @@ pip install pipenv
 pip install -p Pipfile.lock
 ```
 
-------------
+### 实际并没能解决所需的部分
 
 Github Actions 里获取文件真实修改时间的探索：
 
@@ -91,11 +95,13 @@ echo  "\"0\":\"README.md\"" >> ${_cache_logs};
 echo  "}" >> ${_cache_logs};
 #
 ```
-↑ 失败，在线上环境获取到的时间都是一样的
+↑ 失败，在线上环境获取到的时间都是一样的。
 
-换用`git diff`好像也不好使，换「File Changes Action」了；
+中间遇到个错误提示：`bash: ${var}: ambiguous redirect`，排查了好久，然而最后忘记是啥原因了(╯﹏╰）。
 
-另一些探索：
+**结语：换用`git diff`好像也不好使，换「File Changes Action」了；**
+
+### 最后的部分
 
 ```shell
 # _test="aaa"
@@ -104,5 +110,3 @@ python test.py
 # import os
 # print(os.environ["_test"])
 ```
-
-> bash: ${var}: ambiguous redirect
