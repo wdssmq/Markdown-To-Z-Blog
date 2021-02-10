@@ -86,7 +86,11 @@ def login():
 
 def get_post_code(id):
     data = http("get", "post", "get", {"id": id}, "all")
-    return data["code"]
+    data["title"] = ""
+    if not data["data"] is None:
+        # fnLog(data["data"])
+        data["title"] = data["data"]["post"]["Title"]
+    return (data["code"], data["title"])
 # 查找文章，返回状态码
 
 
@@ -354,9 +358,10 @@ def main():
             print("---")
             continue
         if isinstance(cover_id, int):
-            code = get_post_code(cover_id)
-            if code == 200:
+            (cover_code, cover_title) = get_post_code(cover_id)
+            if cover_code == 200:
                 fnLog("使用指定id", cover_id)
+                fnLog("文章将被覆盖", ("《%s》" % cover_title))
                 id = cover_id
 
         # Markdown 解析
