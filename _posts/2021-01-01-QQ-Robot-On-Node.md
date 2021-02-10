@@ -1,5 +1,5 @@
 ---
-title: 【折腾】基于Node的QQ机器人项目
+title: 【折腾】基于 Node 的 QQ 机器人项目
 tags:
 - QQ,折腾,Node
 categories:
@@ -8,17 +8,17 @@ id: 470
 alias: 20210101974
 ---
 
-> [【折腾】在Docker中运行酷Q机器人](https://www.wdssmq.com/post/20181129356.html "【折腾】在Docker中运行酷Q机器人")
+> [【折腾】在 Docker 中运行`酷Q`机器人](https://www.wdssmq.com/post/20181129356.html "【折腾】在Docker中运行酷Q机器人")
 
-请先安装好git和Node.js。。
+请先安装好 git 和 Node.js。。
 
-参考：[【折腾】VSCode远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode远程开发配置（Remote Development）")
+参考：[【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode远程开发配置（Remote Development）")
 
 [AD]<a class="mz-ShortUrl" data-alias="VultrVPS" href="https://www.wdssmq.com/go/VultrVPS" target="_blank" rel="noopener noreferrer" title="验证码略反人类">VultrVPS - 验证码略反人类</a>
 
 <!--more-->
 
-### 安装配置ondebot
+### 安装配置 ondebot
 
 ```bash
 cd ~
@@ -32,15 +32,15 @@ node main 12123222
 
 之后请参照使用说明登录：
 
-如何完成滑动验证码并取得ticket：[https://github.com/takayama-lily/onebot/issues/28](https://github.com/takayama-lily/onebot/issues/28 "如何完成滑动验证码并取得ticket · Issue #28 · takayama-lily/onebot")
+如何完成滑动验证码并取得 ticket：[https://github.com/takayama-lily/onebot/issues/28](https://github.com/takayama-lily/onebot/issues/28 "如何完成滑动验证码并取得ticket · Issue #28 · takayama-lily/onebot")
 
 首次登录成功后只需要使用`node main 12123222`登录；
 
-也可以在config.js中设置autoLogin；
+也可以在 config.js 中设置 autoLogin；
 
-### 使用pm2持久化运行
+### 使用 pm2 持久化运行
 
-PM2 是 node 进程管理工具，可以利用它来简化很多 node应用管理的繁琐任务，如性能监控、自动重启、负载均衡等，而且使用非常简单。
+PM2 是 node 进程管理工具，可以利用它来简化很多 node 应用管理的繁琐任务，如性能监控、自动重启、负载均衡等，而且使用非常简单。
 
 ```bash
 # 全局安装
@@ -80,7 +80,7 @@ pm2 startup
 # centos 7 查看自启项
 # systemctl list-unit-files
 systemctl list-unit-files | grep enabled
-# pm2-root.service                              enabled 
-``` 
+# pm2-root.service                              enabled
+```
 
 <!--470-->
