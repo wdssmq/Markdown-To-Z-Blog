@@ -6,6 +6,8 @@
 
 ## 目录( 2021 年 02 月 10 日更新)
 
+[【折腾】Python + GitHub Actions 更新 Z-Blog 的探索](https://zbp17.wdssmq.com/post/3.html "【折腾】Python + GitHub Actions 更新 Z-Blog 的探索")
+
 [EasyPHP - 略有极客感的 WEB 环境工具](https://zbp17.wdssmq.com/post/25.html "EasyPHP - 略有极客感的 WEB 环境工具")
 
 [【折腾】Docker 空间占用问题及 Nginx](https://zbp17.wdssmq.com/post/23.html "【折腾】Docker 空间占用问题及 Nginx")
@@ -51,8 +53,6 @@
 [【折腾】pip 安装各种依赖遇到的坑](https://zbp17.wdssmq.com/post/6.html "【折腾】pip 安装各种依赖遇到的坑")
 
 [欢迎使用 Z-BlogPHP！](https://zbp17.wdssmq.com/post/1.html "欢迎使用 Z-BlogPHP！")
-
-[【折腾】Python + GitHub Actions 更新 Z-Blog 的探索](https://zbp17.wdssmq.com/post/3.html "【折腾】Python + GitHub Actions 更新 Z-Blog 的探索")
 
 ---end---
 
