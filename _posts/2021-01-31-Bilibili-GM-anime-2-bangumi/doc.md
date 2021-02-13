@@ -3,7 +3,9 @@ title: 【折腾】GM_脚本修改 bilibili 番剧链接为我的追番
 tags:
 - JavaScript,折腾,GM_脚本,bilibili
 categories:
-- 未分类
+- 电脑网络
+id: 103
+alias: 20100222433
 zhihu: https://zhuanlan.zhihu.com/p/342256397
 csdn: https://blog.csdn.net/qq_15022221/article/details/113696602
 ---
