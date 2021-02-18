@@ -73,9 +73,12 @@ pip install python-frontmatter
 {
     "API_USR": "zblog_usr",
     "API_PWD": "zblog_pwd",
-    "API_URL": "http://zblog.site/zb_system/api.php"
+    "API_URL": "http://zblog.site/zb_system/api.php",
+    "DEBUG": 1
 }
 ```
+
+**注：debug 模式需要手动创建`_debug_README.md`并写入`---start---任意内容---end---`。**
 
 运行：
 
