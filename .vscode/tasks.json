@@ -28,6 +28,15 @@
         "kind": "build",
         "isDefault": true
       }
+    },
+    {
+      "label": "zip",
+      "type": "shell",
+      "command": [
+        "\r\n",
+        "git archive -o md2zbp-`date +%Y-%m-%d-%H-%M-%S`.zip HEAD"
+      ],
+      "problemMatcher": []
     }
   ]
 }
