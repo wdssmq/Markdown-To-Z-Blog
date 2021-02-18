@@ -167,7 +167,7 @@ def update_readme(readme):
     # print(insert_info)
 
     new_readme_md_content = re.sub(
-        r'---start---(.|\n)*---end---', insert_info, readme_md_content)
+        r'---start---(.|\n)*?---end---', insert_info, readme_md_content, 1)
 
     with open(readme, 'w', encoding='utf-8', newline="\n") as f:
         f.write(new_readme_md_content)
