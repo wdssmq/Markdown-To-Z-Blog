@@ -56,7 +56,10 @@
 
 ---end---
 
+## 感谢
+
 zhaoolee/WordPressXMLRPCTools: 用 Hexo 的方式管理 WordPress
+
 [https://github.com/zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools "zhaoolee/WordPressXMLRPCTools: 用Hexo的方式管理WordPress")
 
 ## 命令（本地测试）
@@ -117,3 +120,10 @@ categories:
 正文段落二
 
 ```
+
+## API 鉴权设置
+
+如图，密码建议使用「md5(密码明文)」；
+
+![001](doc/001.png "001")
+
