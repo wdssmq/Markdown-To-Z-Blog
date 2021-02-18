@@ -1,5 +1,5 @@
 ---
-title: 【备忘】AMD显卡驱动问题一则及解决方案
+title: 【备忘】AMD 显卡驱动问题一则及解决方案
 tags:
 - 备忘,Win10,硬件驱动
 categories:
