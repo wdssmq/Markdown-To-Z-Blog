@@ -4,7 +4,11 @@
 
 ---start---
 
-## 目录( 2021 年 02 月 13 日更新)
+## 目录( 2021 年 02 月 18 日更新)
+
+[【Z-Blog】插件管理、后台进不去时通过 FTP 删除相应插件](https://zbp17.wdssmq.com/post/17.html "【Z-Blog】插件管理、后台进不去时通过 FTP 删除相应插件")
+
+[【备忘】AMD 显卡驱动问题一则及解决方案](https://zbp17.wdssmq.com/post/24.html "【备忘】AMD 显卡驱动问题一则及解决方案")
 
 [【言说】不知道发没发的《黑豹》评论](https://zbp17.wdssmq.com/post/15.html "【言说】不知道发没发的《黑豹》评论")
 
@@ -18,11 +22,7 @@
 
 [【折腾】Docker 空间占用问题及 Nginx](https://zbp17.wdssmq.com/post/23.html "【折腾】Docker 空间占用问题及 Nginx")
 
-[【备忘】AMD显卡驱动问题一则及解决方案](https://zbp17.wdssmq.com/post/24.html "【备忘】AMD显卡驱动问题一则及解决方案")
-
 [【备忘】原生 JS 监听未来元素事件实例](https://zbp17.wdssmq.com/post/19.html "【备忘】原生 JS 监听未来元素事件实例")
-
-[【Z-Blog】插件管理、后台进不去时通过FTP删除相应插件](https://zbp17.wdssmq.com/post/17.html "【Z-Blog】插件管理、后台进不去时通过FTP删除相应插件")
 
 [【折腾】麦沃硬盘盒报毒的应对方案](https://zbp17.wdssmq.com/post/16.html "【折腾】麦沃硬盘盒报毒的应对方案")
 
@@ -54,31 +54,7 @@
 
 [欢迎使用 Z-BlogPHP！](https://zbp17.wdssmq.com/post/1.html "欢迎使用 Z-BlogPHP！")
 
----end---
-
-zhaoolee/WordPressXMLRPCTools: 用 Hexo 的方式管理 WordPress
-[https://github.com/zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools "zhaoolee/WordPressXMLRPCTools: 用Hexo的方式管理WordPress")
-
-## 命令（本地测试）
-
-```shell
-pip install markdown
-pip install requests
-pip install python-frontmatter
-```
-
-创建 config.json 并按如下示例填写内容：
-
-```json
-{
-    "API_USR": "zblog_usr",
-    "API_PWD": "zblog_pwd",
-    "API_URL": "http://zblog.site/zb_system/api.php",
-    "DEBUG": 1
-}
-```
-
-**注：debug 模式需要手动创建`_debug_README.md`并写入`---start---任意内容---end---`。**
+---end---`。**
 
 运行：
 
