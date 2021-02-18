@@ -6,11 +6,11 @@
 
 ## 目录( 2021 年 02 月 18 日更新)
 
+[Chrome 再次试图隐藏地址栏中的 www 部分](https://zbp17.wdssmq.com/post/20.html "Chrome 再次试图隐藏地址栏中的 www 部分")
+
 [EasyPHP - 略有极客感的 WEB 环境工具](https://zbp17.wdssmq.com/post/25.html "EasyPHP - 略有极客感的 WEB 环境工具")
 
 [【折腾】Linux(CentOS)安装 Python](https://zbp17.wdssmq.com/post/5.html "【折腾】Linux(CentOS)安装 Python")
-
-[Chrome 再次试图隐藏地址栏中的`www`部分](https://zbp17.wdssmq.com/post/20.html "Chrome 再次试图隐藏地址栏中的`www`部分")
 
 [【备忘】原生 JS 监听未来元素事件实例](https://zbp17.wdssmq.com/post/19.html "【备忘】原生 JS 监听未来元素事件实例")
 
