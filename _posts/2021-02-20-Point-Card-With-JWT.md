@@ -67,4 +67,18 @@ JWT 本身是独立插件，可以用来实现其他或许更有用的插件- -�
 >
 > [https://app.zblogcn.com/?id=1813#tab-description](https://app.zblogcn.com/?id=1813#tab-description "JWT存储管理 - Z-Blog 应用中心")
 
+---------------
+
+还是 md2zb 工具，手欠覆盖了`.htaccess`导致鉴权`Authorization`鉴权失败- -；
+
+解决方案为添加如下信息：
+
+```conf
+RewriteRule .* - [env=HTTP_AUTHORIZATION:%{HTTP:Authorization},last]
+```
+
+wdssmq/Markdown-To-Z-Blog: 使用 GitHub Actions + Markdown 更新 Z-Blog 博客。：
+
+[https://github.com/wdssmq/Markdown-To-Z-Blog](https://github.com/wdssmq/Markdown-To-Z-Blog "wdssmq/Markdown-To-Z-Blog: 使用 GitHub Actions + Markdown 更新 Z-Blog 博客。")
+
 <!--397-->
