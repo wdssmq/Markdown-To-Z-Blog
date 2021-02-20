@@ -81,6 +81,10 @@ def login():
         config_info["token"] = data["token"]
         config_info["AuthorID"] = data["user"]["ID"]
         fnLog("登录成功")
+    else:
+        fnErr("登录失败", sys._getframe().f_lineno)
+        sys.exit(0)
+
 # 登录
 
 
