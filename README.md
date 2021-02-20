@@ -4,7 +4,7 @@
 
 ---start---
 
-## 目录( 2021 年 02 月 18 日更新)
+## 目录( 2021 年 02 月 20 日更新)
 
 [Chrome 再次试图隐藏地址栏中的 www 部分](https://zbp17.wdssmq.com/post/20.html "Chrome 再次试图隐藏地址栏中的 www 部分")
 
