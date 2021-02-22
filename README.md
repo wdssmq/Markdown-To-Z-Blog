@@ -4,7 +4,9 @@
 
 ---start---
 
-## 目录( 2021 年 02 月 21 日更新)
+## 目录( 2021 年 02 月 22 日更新)
+
+[【折腾】用手机写 Markdown 并发布到 Z-Blog](https://zbp17.wdssmq.com/post/26.html "【折腾】用手机写 Markdown 并发布到 Z-Blog")
 
 [【折腾】互联网时代的“纸制”积分卡](https://zbp17.wdssmq.com/post/2.html "【折腾】互联网时代的“纸制”积分卡")
 
