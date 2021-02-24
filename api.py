@@ -340,7 +340,7 @@ def main():
             fnLog("md更新")
 
         # 读取md文件信息
-        (content, metadata) = read_md(md)
+        (md_content, metadata) = read_md(md)
 
         # 判断内容格式
         if not any(metadata):
@@ -370,11 +370,11 @@ def main():
 
         # Markdown 解析
         content = markdown.markdown(
-            content, extensions=['tables', 'fenced_code'])
+            md_content, extensions=['tables', 'fenced_code', 'sane_lists', 'md_in_html'])
 
         # post data构造
         data_arg = {"Type": "0", "ID": id, "Title": title,
-                    "Content": content, "Tag": ",".join(tags), "CateName": cate}
+                    "Content": content, "MD_Content": md_content, "Tag": ",".join(tags), "CateName": cate}
         # 提交请求
         (done, post_id, post_mtime) = update_post(0, data_arg)
         # fnBug("%s %s %s" % (done, post_id, post_mtime), sys._getframe().f_lineno)
