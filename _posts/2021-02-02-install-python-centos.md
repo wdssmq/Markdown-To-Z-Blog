@@ -5,7 +5,9 @@ tags:
 - CentOS
 - Python
 categories:
-- 未分类
+- 电脑网络
+id: 924
+alias: 20210224695
 ---
 
 上接：
