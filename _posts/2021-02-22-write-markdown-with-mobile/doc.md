@@ -29,7 +29,7 @@ categories:
 - 软件内置模板，但是并没有我需要的 hexo 格式，也没有直接自定义的功能：
 
 
-![001.png](https://i.loli.net/2021/02/22/DSv7O4jf1agcAIx.png) 
+![001.png](https://i.loli.net/2021/02/22/DSv7O4jf1agcAIx.png)
 
 - 将模板文件放在一个方便快速找到的位置：
 
@@ -37,7 +37,7 @@ categories:
 
 - 使用 Markor 的「从本设备导入」功能导入上一步放置的模板文件：
 
-![003.png](https://i.loli.net/2021/02/22/CTjts1b9K2qygYM.png) 
+![003.png](https://i.loli.net/2021/02/22/CTjts1b9K2qygYM.png)
 
 - 改名后编辑使用：
 
@@ -51,16 +51,13 @@ categories:
 
 2021-22-02 21:21
 
-![005.png](https://i.loli.net/2021/02/22/xany2LQ5lpeoZiT.png) 
+![005.png](https://i.loli.net/2021/02/22/xany2LQ5lpeoZiT.png)
 
 </details>
-
-
 
 ## 关于图片
 
 - `https://imgkr.com/` 好像并不能自动给出 MD 语法。
-
 - `https://sm.ms/` 则有手机端，但是登录失败，先用的网页版，果然很不方便。
 - 建议在上传前将图片按使用序号重命名。
 
