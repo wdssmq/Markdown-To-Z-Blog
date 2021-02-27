@@ -1,6 +1,7 @@
 ---
 title: 【言说】停不下的写作和代码
 tags:
+- md2zb
 - 言说
 - 碎碎念
 - 折腾
@@ -8,6 +9,8 @@ categories:
 - 杂七杂八
 id: 393
 alias: 20210205073
+zhihu: https://zhuanlan.zhihu.com/p/353369195
+jianshu: https://www.jianshu.com/p/c3edc69d105b
 ---
 
 ### 再一次的安利
@@ -26,7 +29,7 @@ wdssmq/Markdown-To-Z-Blog: 使用 GitHub Actions + Markdown 更新 Z-Blog 博客
 
 ### 新功能
 
-今天最主要的成果是为 m2z 工具配置了 VSCode 下的 tasks.json，功能是通过自动执行指定的`shell`命令，从而实现新建空白文章，快捷键`ctrl + shift + b`，更多说明见项目的 README 。
+今天最主要的成果是为 md2zb 工具配置了 VSCode 下的 tasks.json，功能是通过自动执行指定的`shell`命令，从而实现新建空白文章，快捷键`ctrl + shift + b`，更多说明见项目的 README 。
 
 不太重要的附注：
 
