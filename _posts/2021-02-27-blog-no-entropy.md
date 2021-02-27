@@ -9,6 +9,8 @@ categories:
 - 杂七杂八
 id: 3116
 alias: 20210227485
+zhihu: https://zhuanlan.zhihu.com/p/353377278
+csdn: https://blog.csdn.net/qq_15022221/article/details/114182024
 ---
 
 ### 记不住的快捷键

@@ -6,6 +6,8 @@ categories:
 - 杂七杂八
 id: 1234
 alias: 20120515987
+zhihu: https://zhuanlan.zhihu.com/p/353378627
+csdn: https://blog.csdn.net/qq_15022221/article/details/114182617
 ---
 
 原文曾用于度盘的邀请码分享，最后有多少人由此注册已不得而知。。固定链接内的时间戳是 20120515，而今天是 2019-05-27。。
