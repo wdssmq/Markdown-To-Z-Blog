@@ -6,6 +6,8 @@ categories:
 - 电脑网络
 id: 470
 alias: 20210101974
+zhihu: https://zhuanlan.zhihu.com/p/353340704
+csdn: https://blog.csdn.net/qq_15022221/article/details/114174661
 ---
 
 > [【折腾】在 Docker 中运行`酷Q`机器人](https://www.wdssmq.com/post/20181129356.html "【折腾】在Docker中运行酷Q机器人")
@@ -14,7 +16,7 @@ alias: 20210101974
 
 参考：[【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode远程开发配置（Remote Development）")
 
-[AD]<a class="mz-ShortUrl" data-alias="VultrVPS" href="https://www.wdssmq.com/go/VultrVPS" target="_blank" rel="noopener noreferrer" title="验证码略反人类">VultrVPS - 验证码略反人类</a>
+<!-- [AD]<a class="mz-ShortUrl" data-alias="VultrVPS" href="https://www.wdssmq.com/go/VultrVPS" target="_blank" rel="noopener noreferrer" title="验证码略反人类">VultrVPS - 验证码略反人类</a> -->
 
 <!--more-->
 
