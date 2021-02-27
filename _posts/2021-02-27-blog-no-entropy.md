@@ -1,5 +1,5 @@
 ---
-title: 【折腾】独立博客之熵
+title: 【折腾】独立博客之「熵」
 tags:
 - md2zb
 - 折腾
@@ -7,6 +7,8 @@ tags:
 - 写作
 categories:
 - 杂七杂八
+id: 3116
+alias: 20210227485
 ---
 
 ### 记不住的快捷键
@@ -90,3 +92,7 @@ Z-BlogPHP 官方文档：[https://docs.zblogcn.com/php/](https://docs.zblogcn.co
 - 最后发到演示站一次；
 - 将 Git 库创建一个分支留档；
 - 修改鉴权信息到正式站然后发布；
+
+「- -」
+
+差一点弄错，果然 ID 不适合用来判断是否已经发布，不同站不一样；
