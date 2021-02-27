@@ -4,7 +4,9 @@
 
 ---start---
 
-## 目录( 2021 年 02 月 26 日更新)
+## 目录( 2021 年 02 月 27 日更新)
+
+[【折腾】独立博客之熵](https://demo.wdssmq.com/post/2912.html "【折腾】独立博客之熵")
 
 [【备忘】Z-BlogPHP 常用接口或函数](https://demo.wdssmq.com/post/20200629824.html "【备忘】Z-BlogPHP 常用接口或函数")
 
@@ -77,8 +79,6 @@
 [EasyPHP - 略有极客感的 WEB 环境工具](https://demo.wdssmq.com/post/25.html "EasyPHP - 略有极客感的 WEB 环境工具")
 
 [【折腾】Linux(CentOS)安装 Python](https://demo.wdssmq.com/post/5.html "【折腾】Linux(CentOS)安装 Python")
-
-[关于 Z-BlogPHP 1.7 缩略图的一些记录](https://demo.wdssmq.com/post/13.html "关于 Z-BlogPHP 1.7 缩略图的一些记录")
 
 ---end---
 
