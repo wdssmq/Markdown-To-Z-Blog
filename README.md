@@ -6,6 +6,10 @@
 
 ## 目录( 2021 年 02 月 27 日更新)
 
+[【折腾】Linux(CentOS)安装 Python](https://www.wdssmq.com/post/20210224695.html "【折腾】Linux(CentOS)安装 Python")
+
+[【备忘】JavaScript 及 JQuery 常用代码](https://www.wdssmq.com/post/20201116687.html "【备忘】JavaScript 及 JQuery 常用代码")
+
 [【折腾】基于 Node 的 QQ 机器人项目](https://www.wdssmq.com/post/20210101974.html "【折腾】基于 Node 的 QQ 机器人项目")
 
 [【折腾】独立博客之「熵」](https://www.wdssmq.com/post/20210227485.html "【折腾】独立博客之「熵」")
@@ -23,8 +27,6 @@
 [【折腾】pip 安装各种依赖遇到的坑](https://www.wdssmq.com/post/20210224781.html "【折腾】pip 安装各种依赖遇到的坑")
 
 [使用 GitHub Actions + Markdown 更新 Z-Blog 博客](https://www.wdssmq.com/post/20210224498.html "使用 GitHub Actions + Markdown 更新 Z-Blog 博客")
-
-[【折腾】Linux(CentOS)安装 Python](https://www.wdssmq.com/post/20210224695.html "【折腾】Linux(CentOS)安装 Python")
 
 [【备忘】Z-BlogPHP 常用接口或函数](https://www.wdssmq.com/post/20190316451.html "【备忘】Z-BlogPHP 常用接口或函数")
 
@@ -71,8 +73,6 @@
 [【备忘】msysGit安装及使用](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit安装及使用")
 
 [【折腾】GM_脚本修改 bilibili 番剧链接为我的追番](https://www.wdssmq.com/post/20100222433.html "【折腾】GM_脚本修改 bilibili 番剧链接为我的追番")
-
-[【备忘】JavaScript及JQuery常用代码](https://www.wdssmq.com/post/20201116687.html "【备忘】JavaScript及JQuery常用代码")
 
 [【创意视频】扔东西扔出来的节奏](https://www.wdssmq.com/post/RengDongXiRengChuLaiDeJieZou.html "【创意视频】扔东西扔出来的节奏")
 
