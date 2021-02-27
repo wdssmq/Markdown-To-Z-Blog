@@ -60,11 +60,21 @@
 
 ---end---
 
-## 感谢
+## 致谢
 
 zhaoolee/WordPressXMLRPCTools: 用 Hexo 的方式管理 WordPress
 
 [https://github.com/zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools "zhaoolee/WordPressXMLRPCTools: 用Hexo的方式管理WordPress")
+
+## 推荐插件
+
+API 接口扩展 - Z-Blog 应用中心：
+
+[https://app.zblogcn.com/?id=19450](https://app.zblogcn.com/?id=19450 "API接口扩展 - Z-Blog 应用中心")
+
+Markdown 工具 - Z-Blog 应用中心：
+
+[https://app.zblogcn.com/?id=19416](https://app.zblogcn.com/?id=19416 "Markdown工具 - Z-Blog 应用中心")
 
 ## 命令（本地测试）
 
