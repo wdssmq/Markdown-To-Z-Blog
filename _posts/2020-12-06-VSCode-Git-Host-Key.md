@@ -1,5 +1,5 @@
 ---
-title: 【VSCode 笔记】Git: Host key verification failed
+title: 【VSCode 笔记】Git： Host key verification failed
 tags:
 - VSCode,Git,笔记
 categories:
