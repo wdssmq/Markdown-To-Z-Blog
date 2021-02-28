@@ -4,7 +4,13 @@
 
 ---start---
 
-## 目录( 2021 年 02 月 27 日更新)
+## 目录( 2021 年 02 月 28 日更新)
+
+[【VSCode 笔记】Git： Host key verification failed](https://www.wdssmq.com/post/20201216004.html "【VSCode 笔记】Git： Host key verification failed")
+
+[【备忘】msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit 安装及使用")
+
+[一些能用的BT Tracker服务器地址【不定时更新】](https://www.wdssmq.com/post/20130323295.html "一些能用的BT Tracker服务器地址【不定时更新】")
 
 [【折腾】独立博客之「熵」](https://www.wdssmq.com/post/20210227485.html "【折腾】独立博客之「熵」")
 
@@ -54,8 +60,6 @@
 
 [【折腾】Python + GitHub Actions 更新 Z-Blog 的探索](https://www.wdssmq.com/post/20210129918.html "【折腾】Python + GitHub Actions 更新 Z-Blog 的探索")
 
-[一些能用的BT Tracker服务器地址【不定时更新】](https://www.wdssmq.com/post/20130323295.html "一些能用的BT Tracker服务器地址【不定时更新】")
-
 [【折腾】Docker 空间占用问题及 Nginx](https://www.wdssmq.com/post/20210210927.html "【折腾】Docker 空间占用问题及 Nginx")
 
 [【言说】RSS是一种态度！！](https://www.wdssmq.com/post/20201231613.html "【言说】RSS是一种态度！！")
@@ -70,11 +74,7 @@
 
 [【说点什么】小白宣言](https://www.wdssmq.com/post/20210114721.html "【说点什么】小白宣言")
 
-[【VSCode笔记】Git: Host key verification failed](https://www.wdssmq.com/post/20201216004.html "【VSCode笔记】Git: Host key verification failed")
-
 [【列表】需要时却可能找不到的网址](https://www.wdssmq.com/post/20191227185.html "【列表】需要时却可能找不到的网址")
-
-[【备忘】msysGit安装及使用](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit安装及使用")
 
 [【折腾】GM_脚本修改 bilibili 番剧链接为我的追番](https://www.wdssmq.com/post/20100222433.html "【折腾】GM_脚本修改 bilibili 番剧链接为我的追番")
 
