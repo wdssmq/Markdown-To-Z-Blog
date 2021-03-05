@@ -372,6 +372,9 @@ def main():
         content = markdown.markdown(
             md_content, extensions=['tables', 'fenced_code', 'sane_lists', 'md_in_html'])
 
+        content = "%s<!--%i-->\n" % (content, id)
+        md_content = "%s<!--%i-->\n" % (md_content, id)
+
         # post data构造
         data_arg = {"Type": "0", "ID": id, "Title": title,
                     "Content": content, "MD_Content": md_content, "Tag": ",".join(tags), "CateName": cate}
