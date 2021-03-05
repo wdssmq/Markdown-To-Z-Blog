@@ -28,8 +28,7 @@ Feedly 中查看已订阅项目时，地址栏显示是这样：
 
 「订阅源地址」部分是转码过的，虽然对于比较短的地址还是可以直接人肉识别出来，另外，在「`···`→`More settings`」中也是可以看到源地址回显的。。
 
-<details markdown='1'>
-<summary>吐槽：</summary>
+<details markdown='1'><summary>吐槽：</summary>
 【果然从博客建议之初就是「不想配图」星人，，，即使改用「Markdown + 免费图床」后也没能提升多少；
 
 【Feedly 这个回显也是过了很久才半途加上的。。
