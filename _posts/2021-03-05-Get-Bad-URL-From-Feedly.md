@@ -8,6 +8,9 @@ categories:
 - 电脑网络
 id: 425
 alias: 20210305305
+zhihu: https://zhuanlan.zhihu.com/p/354923144
+jianshu: https://www.jianshu.com/p/9343042e391d
+csdn: https://blog.csdn.net/qq_15022221/article/details/114411325
 ---
 
 ### 虚拟桌面的快捷键仍然绝赞记不住 ing
@@ -17,6 +20,8 @@ alias: 20210305305
 Todo：[如何在 Hexo 的博文中引用自己的文章 | 晨星的个人博客](https://www.mls-tech.info/hexo/hexo-use-internal-link/ "如何在Hexo的博文中引用自己的文章 | 晨星的个人博客") ←←
 
 以及，mdlint 插件要求英文和中文之间要有空格，所以也是略纠结；
+
+<!--more-->
 
 ### 需求描述
 
@@ -122,6 +127,3 @@ Feedly 中查看已订阅项目时，地址栏显示是这样：
 ```
 
 另一篇相关文章：20100222433
-
-
-<!--more-->
