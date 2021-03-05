@@ -53,11 +53,11 @@ Feedly 中查看已订阅项目时，地址栏显示是这样：
 - 需要这样“取回”订阅源的频度还是略低的，所以设置为点击触发就好；
 - 因为 Feedly 使用的是前端渲染机制，上边提示对应的 html 在「源码查看」中其实并不存在，也就是属于「未来元素」，所以「监听事件」需要设置在会包含该「未来元素」的现存的元素节点上，本例中就是`body#box`；
 
-  ```html
-  <body id="box" class="home">
-  …………
-  </body>
-  ```
+```html
+<body id="box" class="home">
+…………
+</body>
+```
 
 - 监听事件：点击、按下、弹起， 这里都可以，代码中选用了`mouseup`；
 - 当有错误提示的元素被点击时，执行后续操作，主要有三步：
@@ -112,14 +112,14 @@ Feedly 中查看已订阅项目时，地址栏显示是这样：
 自用 Feedly 完整脚本地址见：
 
 ```js
-// @raw          https://github.com/wdssmq/userscript/raw/master/feedly/feedly.user.js
-// @raw          https://greasyfork.org/zh-CN/scripts/381793
-// @更多脚本或
-// @link   ----------------------------
+// ----------------------------
+// @raw    https://github.com/wdssmq/userscript/tree/master/feedly
+// @raw    https://greasyfork.org/zh-CN/scripts/381793
+// ----------------------------
 // @link   https://afdian.net/@wdssmq
 // @link   https://github.com/wdssmq/userscript
 // @link   https://greasyfork.org/zh-CN/users/6865-wdssmq
-// @link   ----------------------------
+// ----------------------------
 ```
 
 另一篇相关文章：20100222433
