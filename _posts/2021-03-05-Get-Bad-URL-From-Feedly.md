@@ -1,5 +1,5 @@
 ---
-title: 【折腾】GM_脚本“取回”Feeldy 内的订阅源地址
+title: 【折腾】GM_脚本“取回” Feedly 内的订阅源地址
 tags:
 - GM_脚本
 - RSS
