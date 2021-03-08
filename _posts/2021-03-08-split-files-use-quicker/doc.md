@@ -70,4 +70,4 @@ Quicker：[https://getquicker.net/](https://getquicker.net/ "Quicker 软件 您�
 
 沉冰浮水正在创作和 z-blog 相关或无关的各种有用或没用的代码 | 爱发电：
 
-[https://www.afdian.net/@wdssmq](https://www.afdian.net/@wdssmq "沉冰浮水正在创作和 z-blog 相关或无关的各种有用或没用的代码 | 爱发电")
+\[ShortSth:爱发电\]\[/ShortSth\]
