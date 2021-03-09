@@ -65,9 +65,9 @@ Feedly 中查看已订阅项目时，地址栏显示是这样：
 
 - 监听事件：点击、按下、弹起， 这里都可以，代码中选用了`mouseup`；
 - 当有错误提示的元素被点击时，执行后续操作，主要有三步：
- - 从当前地址中拿到订阅源的部分；
- - 解码；
- - 输出到页面；
+    - 从当前地址中拿到订阅源的部分；
+    - 解码；
+    - 输出到页面；
 - ↑前两步顺序可以互换；
 - 输出到页面时使用了[element.insertAdjacentHTML - Web API 接口参考 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Element/insertAdjacentHTML "element.insertAdjacentHTML - Web API 接口参考 | MDN")，类似 JQuery 中的`.append()`方法；
 - 具体输出到哪个元素中要也要分析和尝试，然后视情况使用上现有的样式类；
