@@ -57,7 +57,7 @@ $bb == 2;
 
 「- -」「- -」「- -」
 
-> [你的第一个插件 - VS Code插件创作中文开发文档](https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/get-started/your-first-extension "你的第一个插件 - VS Code插件创作中文开发文档")
+> [你的第一个插件 - VS Code 插件创作中文开发文档](https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/get-started/your-first-extension "你的第一个插件 - VS Code 插件创作中文开发文档")
 
 需要会用 npm 并且建议使用 cnpm；
 

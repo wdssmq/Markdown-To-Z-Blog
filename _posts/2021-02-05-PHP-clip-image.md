@@ -77,8 +77,10 @@ function acgME_BuidTemp(&$templates)
   }
   $zbp->template->SetTags('slides', $slides);
   $templates['n-slide'] = $zbp->template->Output("m-slide");
-  $templates['n-slide'] .= '{php}$footer .= \'<script src="' . $zbp->host . 'zb_users/theme/acgME/script/swiper-3.4.2.jquery.min.js"></script>\'{/php}';
-  $templates['n-slide'] .= '{php}$footer .= \'<script src="' . $zbp->host . 'zb_users/theme/acgME/script/swiper-act.js"></script>\'{/php}';
+  $script = $zbp->host . 'zb_users/theme/acgME/script/swiper-3.4.2.jquery.min.js';
+  $templates['n-slide'] .= '{php}$footer .= \'<script src="' . script .'"></script>\'{/php}';
+  $script = $zbp->host . 'zb_users/theme/acgME/script/swiper-act.js';
+  $templates['n-slide'] .= '{php}$footer .= \'<script src="' . $script . '"></script>\'{/php}';
 }
 ```
 

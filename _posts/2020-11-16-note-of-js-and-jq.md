@@ -48,7 +48,8 @@ function fnReplace(html, post_id) {
   );
   // 不需要回调处理的话是这样↓
   // return html.replace(
-  //   /<a href="[^"]+" (?<attrs>[^>]+)>(?<url>https:\/\/app.zblogcn.com\/\?id=(?<id>\d+))[^<]*<\/a>/,`<a href="$<url>#${post_id}" $<attrs>>$<url>#${post_id}</a>`
+  //   /<a href="[^"]+" (?<attrs>[^>]+)>(?<url>https:\/\/app.zblogcn.com\/\?id=(?<id>\d+))[^<]*<\/a>/,
+  //   `<a href="$<url>#${post_id}" $<attrs>>$<url>#${post_id}</a>`
   // );
 }
 ```

@@ -120,11 +120,12 @@ wdssmq/Markdown-To-Z-Blog: 使用 GitHub Actions + Markdown 更新 Z-Blog 博客
 
 使用效果如下：
 
-```conf
+```html
 New Issue · ruanyf/weekly
 https://github.com/ruanyf/weekly/issues/new
 ----
-<p>New Issue · ruanyf/weekly</p><p><a href="https://github.com/ruanyf/weekly/issues/new" target="_blank" title="New Issue · ruanyf/weekly">https://github.com/ruanyf/weekly/issues/new</a></p>
+<p>ruanyf/weekly: 科技爱好者周刊</p>
+<p><a href="https://github.com/ruanyf/weekly" target="_blank" title="ruanyf/weekly: 科技爱好者周刊">https://github.com/ruanyf/weekly</a></p>
 ----
 [New Issue · ruanyf/weekly](https://github.com/ruanyf/weekly/issues/new "New Issue · ruanyf/weekly")
 ----
