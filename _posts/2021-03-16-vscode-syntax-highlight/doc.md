@@ -160,11 +160,11 @@ npx js-yaml syntaxes/phpzz.tmLanguage.yaml > syntaxes/phpzz.tmLanguage.json
 以下仅为要点理解：
 
 - `injectionSelector: L:text.html`：「语法注入」生效的「作用域」指定；
-      -  注入选择器中的`L:`代表注入的语法添加在现有语法规则的左边；【【不是很懂，文档上就是这么写的】】
-      -  个人理解：当编辑器文本「站在名为`text.html.xxx`地毯上时」,后边的内容生效；
-            - 包括`text.html.php`、`text.html.markdown`等；
-            - 其他「最底层地毯」有`source.css`、`source.js`等；
-            - `source.php`比较特殊，默认情况下是铺在`text.html.php`上边的，中间还隔了层`meta.embedded.block.php`；
+    -  注入选择器中的`L:`代表注入的语法添加在现有语法规则的左边；【【不是很懂，文档上就是这么写的】】
+    -  个人理解：当编辑器文本「站在名为`text.html.xxx`地毯上时」,后边的内容生效；
+        - 包括`text.html.php`、`text.html.markdown`等；
+        - 其他「最底层地毯」有`source.css`、`source.js`等；
+        - `source.php`比较特殊，默认情况下是铺在`text.html.php`上边的，中间还隔了层`meta.embedded.block.php`；
 - `repository`中声明「语法定义」，`patterns`则调用这些定义；
 - 「语法定义」的要点是，按规则匹配编辑器内的文本（主要是正则），然后给匹配到的「文本区域」命名，最后根据命名规则应用相应的颜色样式；
   - 样式一般由所使用的「主题」提供，类似`*.css`文件，而命名则是`class="XXX"`；
