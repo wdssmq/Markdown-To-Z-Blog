@@ -49,10 +49,11 @@ $bb == 2;
   {template:pagebar}
 {/if}
 ```
+<!-- ![001.png](001.png "001.png") -->
+![001.png](https://i.loli.net/2021/03/17/dK3oNgFq1mxbhWV.png)
 
-![001.png](001.png "001.png")
-
-![002.png](002.png "002.png")
+<!-- ![002.png](002.png "002.png") -->
+![002.png](https://i.loli.net/2021/03/17/QkpIhSFoBTu92OJ.png)
 
 「- -」「- -」「- -」
 
@@ -67,11 +68,13 @@ yo code
 
 请在 VSCode 终端中执行 `yo code` 命令；
 
-![yo-code-1](2021031618162.png "yo-code-1")
+<!-- ![yo-code-1](2021031618162.png "yo-code-1") -->
+![2021031618162.png](https://i.loli.net/2021/03/17/u1Loj3fXg9xPkE6.png)
 
 「- ↑ -」`New Language Support`「- ↑ -」
 
-![yo-code-2](2021031618166.png "yo-code-2")
+<!-- ![yo-code-2](2021031618166.png "yo-code-2") -->
+![2021031618166.png](https://i.loli.net/2021/03/17/NGE4aTvJoAt3gh6.png)
 
 键入项依次说明：
 
@@ -220,9 +223,11 @@ VS Code 自带的作用域检查器能帮你调试语法文件。它能显示当
 
 在命令面板中输入`Developer: Inspect Editor Tokens and Scopes`：
 
-![作用域查看-1](2021031712405.png "作用域查看-1")
+<!-- ![作用域查看-1](2021031712405.png "作用域查看-1") -->
+![2021031712405.png](https://i.loli.net/2021/03/17/WGsPaVkt672xLrg.png)
 
-![作用域查看-2](2021031712414.png "作用域查看-2")
+<!-- ![作用域查看-2](2021031712414.png "作用域查看-2") -->
+![2021031712414.png](https://i.loli.net/2021/03/17/1oXP4LnCweYQ6MI.png)
 
 - `textmate scopes` 中就是光标所在位置下的「每一层地毯」：
     - 对于`php`语言，整个文件内都是`text.html.php`（最底层）；
