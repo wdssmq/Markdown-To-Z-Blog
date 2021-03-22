@@ -9,6 +9,9 @@ categories:
 - 电脑网络
 id: 3105
 alias: 20201104429
+zhihu: https://zhuanlan.zhihu.com/p/359065636
+jisnshu: https://www.jianshu.com/p/7ea5125adb3f
+csdn: https://blog.csdn.net/qq_15022221/article/details/109493913
 ---
 
 ## 软件名称
