@@ -10,7 +10,7 @@ import frontmatter
 import re
 
 from api_function import fnGetDirsInDir, fnGetFilesInDir, fnGetFilesInDir2, fnGetFileTime
-from api_function import fnLog, fnBug, fnErr, fnEmpty
+from api_function import fnEmpty, fnLog, fnBug, fnErr
 
 # LC_TIME = locale.setlocale(locale.LC_TIME)
 # LC_CTYPE = locale.setlocale(locale.LC_CTYPE)
