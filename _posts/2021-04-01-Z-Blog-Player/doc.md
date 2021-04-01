@@ -34,7 +34,7 @@ alias: 20210401133
 
 唯一肯定的是 RSS 肯定是有的：
 
-![001.png](001.png "RSSHub Radar")
+![001.png](https://i.loli.net/2021/04/01/xag9CZXSDVNI2Gi.png)
 
 ↑ 浏览器插件`RSSHub Radar`，可辅助发现和订阅当前网站的 RSS 和 RSSHub ↑
 
