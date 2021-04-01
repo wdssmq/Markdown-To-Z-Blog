@@ -6,7 +6,9 @@
 
 ## 目录( 2021 年 04 月 01 日更新)
 
-[【资讯】Vultr 网站上线多语言首页，包括中文](https://www.wdssmq.com/post/2010020115.html "【资讯】Vultr 网站上线多语言首页，包括中文")
+[「Z-Blog 玩家」计划](https://www.wdssmq.com/post/20210401133.html "「Z-Blog 玩家」计划")
+
+[【资讯】Vultr 网站上线多语言首页，包括中文](https://www.wdssmq.com/post/2021040110.html "【资讯】Vultr 网站上线多语言首页，包括中文")
 
 [动画短片《柏拉图》](https://www.wdssmq.com/post/20190813018.html "动画短片《柏拉图》")
 
@@ -77,8 +79,6 @@
 [EasyPHP - 略有极客感的 WEB 环境工具](https://www.wdssmq.com/post/20210224528.html "EasyPHP - 略有极客感的 WEB 环境工具")
 
 [【言说】相对擅长写代码，然而也只有写代码](https://www.wdssmq.com/post/20210224671.html "【言说】相对擅长写代码，然而也只有写代码")
-
-[【折腾】pip 安装各种依赖遇到的坑](https://www.wdssmq.com/post/20210224781.html "【折腾】pip 安装各种依赖遇到的坑")
 
 ---end---
 
