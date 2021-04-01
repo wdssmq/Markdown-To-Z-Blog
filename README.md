@@ -4,13 +4,15 @@
 
 ---start---
 
-## 目录( 2021 年 03 月 30 日更新)
+## 目录( 2021 年 04 月 01 日更新)
+
+[【资讯】Vultr 网站上线多语言首页，包括中文](https://www.wdssmq.com/post/2010020115.html "【资讯】Vultr 网站上线多语言首页，包括中文")
+
+[动画短片《柏拉图》](https://www.wdssmq.com/post/20190813018.html "动画短片《柏拉图》")
 
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
 
 [【GM_脚本】Resilio Sync 密钥/任务导出备份](https://www.wdssmq.com/post/20190130502.html "【GM_脚本】Resilio Sync 密钥/任务导出备份")
-
-[史诗级别的狗大战猫](https://www.wdssmq.com/post/20190813018.html "史诗级别的狗大战猫")
 
 [【折腾】基于 Node 的 QQ 机器人项目](https://www.wdssmq.com/post/20210101974.html "【折腾】基于 Node 的 QQ 机器人项目")
 
@@ -77,8 +79,6 @@
 [【言说】相对擅长写代码，然而也只有写代码](https://www.wdssmq.com/post/20210224671.html "【言说】相对擅长写代码，然而也只有写代码")
 
 [【折腾】pip 安装各种依赖遇到的坑](https://www.wdssmq.com/post/20210224781.html "【折腾】pip 安装各种依赖遇到的坑")
-
-[使用 GitHub Actions + Markdown 更新 Z-Blog 博客](https://www.wdssmq.com/post/20210224498.html "使用 GitHub Actions + Markdown 更新 Z-Blog 博客")
 
 ---end---
 
