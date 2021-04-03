@@ -4,7 +4,11 @@
 
 ---start---
 
-## 目录( 2021 年 04 月 01 日更新)
+## 目录( 2021 年 04 月 03 日更新)
+
+[【言说】仍然找不准自己定位的水水](https://www.wdssmq.com/post/20210403155.html "【言说】仍然找不准自己定位的水水")
+
+[动画短片 - 《Partly Cloudy》（暴力云与送子鹤）](https://www.wdssmq.com/post/DongHuaDuanPian-Partly-Cloudy-BaoLiYunYuSongZiHe.html "动画短片 - 《Partly Cloudy》（暴力云与送子鹤）")
 
 [「Z-Blog 玩家」计划](https://www.wdssmq.com/post/20210401133.html "「Z-Blog 玩家」计划")
 
@@ -75,10 +79,6 @@
 [【折腾】麦沃硬盘盒报毒的应对方案](https://www.wdssmq.com/post/20130726899.html "【折腾】麦沃硬盘盒报毒的应对方案")
 
 [【折腾】Linux(CentOS)安装 Python](https://www.wdssmq.com/post/20210224695.html "【折腾】Linux(CentOS)安装 Python")
-
-[EasyPHP - 略有极客感的 WEB 环境工具](https://www.wdssmq.com/post/20210224528.html "EasyPHP - 略有极客感的 WEB 环境工具")
-
-[【言说】相对擅长写代码，然而也只有写代码](https://www.wdssmq.com/post/20210224671.html "【言说】相对擅长写代码，然而也只有写代码")
 
 ---end---
 
