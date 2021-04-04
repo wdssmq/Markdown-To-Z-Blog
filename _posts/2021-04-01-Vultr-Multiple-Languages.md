@@ -32,7 +32,7 @@ vultr 综合来说并不是很便宜，宣传中说的 $2.50/mo 的机子经常�
 
 当然其优点是可以随时销毁空间，费用按实际使用时长收取；
 
-另外可一键部署各种应用及环境，Docker、Nextcloud、Wordpress、Minecraft等。。
+另外可一键部署各种应用及环境，Docker、Nextcloud、Wordpress、Minecraft 等。。
 
 广告：[ShortSth:VultrVPS][/ShortSth]
 

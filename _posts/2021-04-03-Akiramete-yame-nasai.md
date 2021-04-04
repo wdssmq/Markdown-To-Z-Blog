@@ -32,7 +32,7 @@ alias: 20210403155
 
 对于付费购买过以下三个主题的用户，依各自情况予以退款或补偿：
 
-超ZB級的捏牠學園 - Z-Blog 应用中心：[https://app.zblogcn.com/?id=18112](https://app.zblogcn.com/?id=18112 "超ZB級的捏牠學園 - Z-Blog 应用中心")
+超 ZB 級的捏牠學園 - Z-Blog 应用中心：[https://app.zblogcn.com/?id=18112](https://app.zblogcn.com/?id=18112 "超ZB級的捏牠學園 - Z-Blog 应用中心")
 
 ↑ 最新，购买还比较少，可全额退！↑
 
@@ -40,7 +40,7 @@ alias: 20210403155
 
 ↑ 对于实际订单金额大于`￥13.7`的，可退还`75%`！↑
 
-某不科学的ACG向主题 - Z-Blog 应用中心：[https://app.zblogcn.com/?id=1798](https://app.zblogcn.com/?id=1798 "某不科学的ACG向主题 - Z-Blog 应用中心")
+某不科学的 ACG 向主题 - Z-Blog 应用中心：[https://app.zblogcn.com/?id=1798](https://app.zblogcn.com/?id=1798 "某不科学的ACG向主题 - Z-Blog 应用中心")
 
 ↑ 此主题应用中心将一直收费，但是可通过 Git 库免费下载，2021-04-03 前购买且实际订单金额大于`￥13.7`的，可退还`50%`！ ↑
 

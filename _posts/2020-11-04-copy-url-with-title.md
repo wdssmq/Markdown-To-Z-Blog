@@ -40,7 +40,7 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/109493913
 
 默认应用于所有网页，有冲突的话可自定义排除。
 
-### 复制效果：
+### 复制效果
 
 ```md
 <!-- 纯文本 -->
@@ -60,11 +60,11 @@ https://www.wdssmq.com/
 [https://www.wdssmq.com/](https://www.wdssmq.com/ "沉冰浮水\_置百丈玄冰而崩裂，掷须臾池水而漂摇。")
 ```
 
-**对于分享`greasyfork`的脚本链接，数字id后边的部分并不是必须的，而且可能会随脚本更新变动，所以脚本内会自动过滤掉。**
+**对于分享`greasyfork`的脚本链接，数字 id 后边的部分并不是必须的，而且可能会随脚本更新变动，所以脚本内会自动过滤掉。**
 
 ## 官方网站 && 应用商店地址
 
-复制标题网址（QQ群：189574683）：
+复制标题网址（QQ 群：189574683）：
 
 [https://greasyfork.org/zh-CN/scripts/28056](https://greasyfork.org/zh-CN/scripts/28056 "复制标题网址（QQ群：189574683）")
 
