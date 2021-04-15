@@ -4,7 +4,9 @@
 
 ---start---
 
-## 目录( 2021 年 04 月 14 日更新)
+## 目录( 2021 年 04 月 15 日更新)
+
+[【Z-Blog】插件管理、后台进不去时通过 FTP 删除相应插件](https://www.wdssmq.com/post/20210208103.html "【Z-Blog】插件管理、后台进不去时通过 FTP 删除相应插件")
 
 [不能邮箱登录的网站都是耍流氓【无力吐槽】](https://www.wdssmq.com/post/20140507140.html "不能邮箱登录的网站都是耍流氓【无力吐槽】")
 
@@ -71,8 +73,6 @@
 [【说说】Microsoft Edge 加了个「垂直标签页」功能](https://www.wdssmq.com/post/20210307364.html "【说说】Microsoft Edge 加了个「垂直标签页」功能")
 
 [在恰当的时机，以较小的代价……](https://www.wdssmq.com/post/20200523528.html "在恰当的时机，以较小的代价……")
-
-[【Z-Blog】插件管理、后台进不去时通过 FTP 删除相应插件](https://www.wdssmq.com/post/20210208103.html "【Z-Blog】插件管理、后台进不去时通过 FTP 删除相应插件")
 
 [当年还不知道这歌叫《恋爱循环》](https://www.wdssmq.com/post/Lian-mp3XiaZai-GeCiXiaZai.html "当年还不知道这歌叫《恋爱循环》")
 
