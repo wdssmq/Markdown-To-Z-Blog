@@ -6,7 +6,7 @@
 
 ## 目录( 2021 年 04 月 14 日更新)
 
-[不能邮箱登陆的网站都是耍流氓【无力吐槽】](https://www.wdssmq.com/post/20140507140.html "不能邮箱登陆的网站都是耍流氓【无力吐槽】")
+[不能邮箱登录的网站都是耍流氓【无力吐槽】](https://www.wdssmq.com/post/20140507140.html "不能邮箱登录的网站都是耍流氓【无力吐槽】")
 
 [EasyPHP - 略有极客感的 WEB 环境工具](https://www.wdssmq.com/post/20210224528.html "EasyPHP - 略有极客感的 WEB 环境工具")
 

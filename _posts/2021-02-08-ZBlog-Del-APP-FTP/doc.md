@@ -24,7 +24,7 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/114411677
 
 如果进不了后台，或者需要优先恢复网站运行时：
 
-3、使用 FTP 或文件管理删除定位到的插件：
+3、使用 FTP 或文件管理删除定位到的插件；
 
 ![001](https://i.loli.net/2021/02/08/iSUrz9MLQNBDKtj.png "001")
 
