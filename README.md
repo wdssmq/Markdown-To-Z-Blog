@@ -4,7 +4,9 @@
 
 ---start---
 
-## 目录( 2021 年 04 月 15 日更新)
+## 目录( 2021 年 04 月 19 日更新)
+
+[【小事】我现在用的搜狗账号，还是当年注册过的那个么？](https://www.wdssmq.com/post/20210418519.html "【小事】我现在用的搜狗账号，还是当年注册过的那个么？")
 
 [不能邮箱登录的网站都是耍流氓【无力吐槽】](https://www.wdssmq.com/post/20140507140.html "不能邮箱登录的网站都是耍流氓【无力吐槽】")
 
@@ -77,8 +79,6 @@
 [当年还不知道这歌叫《恋爱循环》](https://www.wdssmq.com/post/Lian-mp3XiaZai-GeCiXiaZai.html "当年还不知道这歌叫《恋爱循环》")
 
 [友情链接](https://www.wdssmq.com/post/YouQingLianJie.html "友情链接")
-
-[【VSCode 笔记】Git： Host key verification failed](https://www.wdssmq.com/post/20201216004.html "【VSCode 笔记】Git： Host key verification failed")
 
 ---end---
 
