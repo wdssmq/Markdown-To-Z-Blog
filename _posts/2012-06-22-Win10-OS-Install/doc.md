@@ -69,7 +69,7 @@ alias: 20120622915
 
 ![install-001.png](https://i.loli.net/2021/04/25/Ul9eCXZ1GYsRVLK.png "install-001.png")
 
-↑ 按住「`shift`」键的同时点击「`重启`」按钮
+↑ 「`开始`」 → 「`电源`」 → 按住「`shift`」键的同时点击「`重启`」按钮 → 「`疑难解答`」 → 「`高级选项`」 → 「`命令提示符`」
 
 ![install-002.png](https://i.loli.net/2021/04/25/kK9OaVRZSHF7sQT.png "install-002.png")
 

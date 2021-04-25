@@ -7,6 +7,7 @@ _debug_*
 _posts/*-new-post
 _posts/*-new-post.md
 _posts/*.png
+*.orig.png
 note-*.md
 doc-*.md
 *.lnk
