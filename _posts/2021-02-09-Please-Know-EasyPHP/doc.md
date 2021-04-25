@@ -7,7 +7,8 @@ categories:
 - 电脑网络
 id: 420
 alias: 20210224528
-jianshu: https://www.jianshu.com/p/803b98066777
+zhihu: https://zhuanlan.zhihu.com/p/367688268
+jianshu: https://www.jianshu.com/p/7fffb2314744
 csdn: https://blog.csdn.net/qq_15022221/article/details/115427797
 ---
 
