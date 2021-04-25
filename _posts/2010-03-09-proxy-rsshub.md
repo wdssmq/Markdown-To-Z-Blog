@@ -9,6 +9,8 @@ categories:
 - 电脑网络
 id: 142
 alias: 20100309739
+zhihu: https://zhuanlan.zhihu.com/p/367656502
+csdn: https://blog.csdn.net/qq_15022221/article/details/116125459
 ---
 
 ## 软件名称
