@@ -29,19 +29,19 @@ alias: 20120622915
 
 ↑ 所以推荐使用微软官方提供的下载工具，可按需下载为 ISO 镜像文件或写入 U 盘；
 
-![dl-001.png](dl-001.png "dl-001.png")
+![dl-001.png](https://i.loli.net/2021/04/25/XybWUKdgwszpSiN.png "dl-001.png")
 
 ↑ 在网页中找到如图区域并点击下载按钮
 
-![dl-002.png](dl-002.png "dl-002.png")
+![dl-002.png](https://i.loli.net/2021/04/25/ATn79xNURHuFsdv.png "dl-002.png")
 
 ↑ 选择第二项
 
-![dl-003.png](dl-003.png "dl-003.png")
+![dl-003.png](https://i.loli.net/2021/04/25/4bCBLUahmZTD87K.png "dl-003.png")
 
 ↑ 保持默认
 
-![dl-004.png](dl-004.png "dl-004.png")
+![dl-004.png](https://i.loli.net/2021/04/25/jmhSaoqxLtMkFpD.png "dl-004.png")
 
 ↑ 有准备 U 盘的话可以写进 U 盘，这里按「传统」选择下载镜像
 
@@ -59,27 +59,27 @@ alias: 20120622915
 
 3、键入第 1 步解压的安装文件路径开启安装；
 
-![install-00A.png](install-00A.png "install-00A.png")
+![install-00A.png](https://i.loli.net/2021/04/25/BWqaNIb7LucCJgw.png "install-00A.png")
 
 ↑ 解压方式 A
 
-![install-00B.png](install-00B.png "install-00B.png")
+![install-00B.png](https://i.loli.net/2021/04/25/D4NVwqFmsh2OKB5.png "install-00B.png")
 
 ↑ 解压方式 B：双击镜像文件会以虚拟光驱方式载入 → 之后复制内部文件到`D:\win10\`文件夹内
 
-![install-001.png](install-001.png "install-001.png")
+![install-001.png](https://i.loli.net/2021/04/25/Ul9eCXZ1GYsRVLK.png "install-001.png")
 
 ↑ 按住「`shift`」键的同时点击「`重启`」按钮
 
-![install-002.png](install-002.png "install-002.png")
+![install-002.png](https://i.loli.net/2021/04/25/kK9OaVRZSHF7sQT.png "install-002.png")
 
-![install-003.png](install-003.png "install-003.png")
+![install-003.png](https://i.loli.net/2021/04/25/pK92QomNMx6BhiI.png "install-003.png")
 
-![install-004.png](install-004.png "install-004.png")
+![install-004.png](https://i.loli.net/2021/04/25/LRup8aJNsXMQrB3.png "install-004.png")
 
 →→ 「命令提示符」需要管理员密码，然后我平时用的 `PIN` 结果忘记密码了；
 
-![install-005.png](install-005.png "install-005.png")
+![install-005.png](https://i.loli.net/2021/04/25/t6jMyuKUwbZ1fYW.jpg "install-005.png")
 
 ↑ `D:\win10\sources\setup.exe` ← 这个命令我是存在 OneNote 里的。
 
