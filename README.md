@@ -6,6 +6,8 @@
 
 ## 目录( 2021 年 04 月 25 日更新)
 
+[【备忘】再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "【备忘】再再次谈系统安装【2021】")
+
 [【折腾】GitHub Actions 反代 RSSHub + 多实例轮询](https://www.wdssmq.com/post/20100309739.html "【折腾】GitHub Actions 反代 RSSHub + 多实例轮询")
 
 [EasyPHP - 略有极客感的 WEB 环境工具](https://www.wdssmq.com/post/20210224528.html "EasyPHP - 略有极客感的 WEB 环境工具")
@@ -77,8 +79,6 @@
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
 
 [【GM_脚本】Resilio Sync 密钥/任务导出备份](https://www.wdssmq.com/post/20190130502.html "【GM_脚本】Resilio Sync 密钥/任务导出备份")
-
-[【折腾】基于 Node 的 QQ 机器人项目](https://www.wdssmq.com/post/20210101974.html "【折腾】基于 Node 的 QQ 机器人项目")
 
 ---end---
 
