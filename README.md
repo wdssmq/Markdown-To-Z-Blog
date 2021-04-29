@@ -4,7 +4,59 @@
 
 ---start---
 
-## 目录( 2021 年 04 月 25 日更新)
+## 目录( 2021 年 04 月 29 日更新)
+
+[2010年9月2日冷笑话合集 - 比狠](https://www.wdssmq.com/post/2010nian9yue2rixiaohuaheji-bihen.html "2010年9月2日冷笑话合集 - 比狠")
+
+[欠一屁股债的由来【民间故事】](https://www.wdssmq.com/post/20131014522.html "欠一屁股债的由来【民间故事】")
+
+[牛逼和装逼和傻逼之间的区别【无厘网文】](https://www.wdssmq.com/post/20120729674.html "牛逼和装逼和傻逼之间的区别【无厘网文】")
+
+[2011年8月21日冷笑话合集 - 泻药的效力](https://www.wdssmq.com/post/2011Nian8Yue21RiLengXiaoHuaHeJi-XieYaoDeXiaoLi.html "2011年8月21日冷笑话合集 - 泻药的效力")
+
+[2011年9月5日冷笑话合集 - 别的妈妈怎么办](https://www.wdssmq.com/post/2011Nian9Yue5RiLengXiaoHuaHeJi-BieDeMaMaZenMeBan.html "2011年9月5日冷笑话合集 - 别的妈妈怎么办")
+
+[2012年10月6日冷笑话合集 - 省了500大洋](https://www.wdssmq.com/post/20121010261.html "2012年10月6日冷笑话合集 - 省了500大洋")
+
+[2012年8月3日冷笑话合集 - 从没进过](https://www.wdssmq.com/post/20120803959.html "2012年8月3日冷笑话合集 - 从没进过")
+
+[2012年8月6日冷笑话合集 - 偷吃的狗狗](https://www.wdssmq.com/post/20120807424.html "2012年8月6日冷笑话合集 - 偷吃的狗狗")
+
+[2013年9月9日冷笑话合集 - 需要一个人告诉你](https://www.wdssmq.com/post/20130909125.html "2013年9月9日冷笑话合集 - 需要一个人告诉你")
+
+[81个恐怖故事，你能看懂几个？](https://www.wdssmq.com/post/20120622151.html "81个恐怖故事，你能看懂几个？")
+
+[81个恐怖故事，你能看懂几个？【答案篇】](https://www.wdssmq.com/post/20120719331.html "81个恐怖故事，你能看懂几个？【答案篇】")
+
+[2010年8月15日冷笑话合集 - 博大精深的中文](https://www.wdssmq.com/post/2010Nian8Yue15RiXiaoHuaHeJi-BoDaJingShenDeZhongWen.html "2010年8月15日冷笑话合集 - 博大精深的中文")
+
+[2010年10月23日冷笑话合集 - 浪花一朵朵](https://www.wdssmq.com/post/2010Nian10Yue23RiXiaoHuaHeJi-LangHuaYiDuoDuo.html "2010年10月23日冷笑话合集 - 浪花一朵朵")
+
+[2012年8月8日冷笑话合集 - 那也不能停](https://www.wdssmq.com/post/20100302591.html "2012年8月8日冷笑话合集 - 那也不能停")
+
+[2014年1月2日冷笑话合集 - 换老板了啊](https://www.wdssmq.com/post/20140102331.html "2014年1月2日冷笑话合集 - 换老板了啊")
+
+[2011年3月5日冷笑话合集 - 女人味](https://www.wdssmq.com/post/20120623819.html "2011年3月5日冷笑话合集 - 女人味")
+
+[2010年9月17日冷笑话合集 - 生鸡蛋和熟鸡蛋](https://www.wdssmq.com/post/2010Nian9Yue17RiLengXiaoHuaHeJi-ShengJiDanHeShuJiDan.html "2010年9月17日冷笑话合集 - 生鸡蛋和熟鸡蛋")
+
+[悟空要考研](https://www.wdssmq.com/post/20100301165.html "悟空要考研")
+
+[2010年12月3日冷笑话合集 - 不忍心](https://www.wdssmq.com/post/2010Nian12Yue3RiLengXiaoHuaHeJi-BuRenXin.html "2010年12月3日冷笑话合集 - 不忍心")
+
+[100句既囧又有深度的话](https://www.wdssmq.com/post/20100214276.html "100句既囧又有深度的话")
+
+[谁训练的狗更凶猛（超强的作弊法）](https://www.wdssmq.com/post/2010021816.html "谁训练的狗更凶猛（超强的作弊法）")
+
+[2013年9月4日冷笑话合集 - 休息一天](https://www.wdssmq.com/post/20130904562.html "2013年9月4日冷笑话合集 - 休息一天")
+
+[2014年3月1日冷笑话合集 - 一不小心就优秀起来了](https://www.wdssmq.com/post/20140301780.html "2014年3月1日冷笑话合集 - 一不小心就优秀起来了")
+
+[2014年11月19日冷笑话合集 - 女生多的学校](https://www.wdssmq.com/post/20141119652.html "2014年11月19日冷笑话合集 - 女生多的学校")
+
+[我们的一生就像坐公车](https://www.wdssmq.com/post/WoMenDeYiShengJiuXiangZuoGongChe.html "我们的一生就像坐公车")
+
+[2011年12月6日冷笑话合集 - 喝点什么](https://www.wdssmq.com/post/2011Nian12Yue6RiLengXiaoHuaHeJi-HeDianShiMe.html "2011年12月6日冷笑话合集 - 喝点什么")
 
 [【备忘】再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "【备忘】再再次谈系统安装【2021】")
 
@@ -20,10 +72,6 @@
 
 [2013年11月4日冷笑话合集 - 损招](https://www.wdssmq.com/post/20131104513.html "2013年11月4日冷笑话合集 - 损招")
 
-[悟空要考研](https://www.wdssmq.com/post/20100301165.html "悟空要考研")
-
-[2010年12月3日冷笑话合集 - 不忍心](https://www.wdssmq.com/post/2010Nian12Yue3RiLengXiaoHuaHeJi-BuRenXin.html "2010年12月3日冷笑话合集 - 不忍心")
-
 [2012年10月11日冷笑话合集 - 就是为了等这天](https://www.wdssmq.com/post/20121012459.html "2012年10月11日冷笑话合集 - 就是为了等这天")
 
 [2010年12月15日冷笑话合集 - 编程](https://www.wdssmq.com/post/2010Nian12Yue15RiLengXiaoHuaHeJi-BianCheng.html "2010年12月15日冷笑话合集 - 编程")
@@ -31,54 +79,6 @@
 [杜甫“被”《蜀中吟》真相](https://www.wdssmq.com/post/DuFu-Bei-ShuZhongYin-ZhenXiang.html "杜甫“被”《蜀中吟》真相")
 
 [2011年3月31日冷笑话合集 - 偷税的第一步](https://www.wdssmq.com/post/20120718438.html "2011年3月31日冷笑话合集 - 偷税的第一步")
-
-[再逼我就装死给你看!【搞笑语录】](https://www.wdssmq.com/post/20100509795.html "再逼我就装死给你看!【搞笑语录】")
-
-[2014年6月13日冷笑话合集 - 邻居家的汪星人](https://www.wdssmq.com/post/20140613361.html "2014年6月13日冷笑话合集 - 邻居家的汪星人")
-
-[2012年7月16日冷笑话合集 - 相亲](https://www.wdssmq.com/post/20100212367.html "2012年7月16日冷笑话合集 - 相亲")
-
-[2011年11月4日笑话合集 - 令人难过的考试](https://www.wdssmq.com/post/2011Nian11Yue4RiXiaoHuaHeJi-LingRenNanGuoDeKaoShi.html "2011年11月4日笑话合集 - 令人难过的考试")
-
-[大奖害死人【幽默故事】](https://www.wdssmq.com/post/20100225537.html "大奖害死人【幽默故事】")
-
-[绝对恐怖租房经验【无厘网文】](https://www.wdssmq.com/post/20100214180.html "绝对恐怖租房经验【无厘网文】")
-
-[2013年10月3日冷笑话命令 - 倒数第一有错吗？](https://www.wdssmq.com/post/20131003920.html "2013年10月3日冷笑话命令 - 倒数第一有错吗？")
-
-[各类YY文的固定套路【无厘网文】](https://www.wdssmq.com/post/20131030848.html "各类YY文的固定套路【无厘网文】")
-
-[【小事】我现在用的搜狗账号，还是当年注册过的那个么？](https://www.wdssmq.com/post/20210418519.html "【小事】我现在用的搜狗账号，还是当年注册过的那个么？")
-
-[不能邮箱登录的网站都是耍流氓【无力吐槽】](https://www.wdssmq.com/post/20140507140.html "不能邮箱登录的网站都是耍流氓【无力吐槽】")
-
-[【Z-Blog】插件管理、后台进不去时通过 FTP 删除相应插件](https://www.wdssmq.com/post/20210208103.html "【Z-Blog】插件管理、后台进不去时通过 FTP 删除相应插件")
-
-[【转】外国人看《舌尖上的中国》什么反应](https://www.wdssmq.com/post/20140425429.html "【转】外国人看《舌尖上的中国》什么反应")
-
-[2014年5月1日冷笑话合集 - 求阴影面积](https://www.wdssmq.com/post/20140501251.html "2014年5月1日冷笑话合集 - 求阴影面积")
-
-[【折腾】Docker部署Resilio Sync和RSSHub](https://www.wdssmq.com/post/20190617918.html "【折腾】Docker部署Resilio Sync和RSSHub")
-
-[【列表】一些电影和小说。。。](https://www.wdssmq.com/post/20100701747.html "【列表】一些电影和小说。。。")
-
-[【言说】仍然找不准自己定位的水水](https://www.wdssmq.com/post/20210403155.html "【言说】仍然找不准自己定位的水水")
-
-[「Z-Blog 玩家」计划](https://www.wdssmq.com/post/20210401133.html "「Z-Blog 玩家」计划")
-
-[【资讯】Vultr 网站上线多语言首页，包括中文](https://www.wdssmq.com/post/2021040110.html "【资讯】Vultr 网站上线多语言首页，包括中文")
-
-[【油猴脚本】复制任意网页的标题+网址，支持 HTML 及 MarkDown](https://www.wdssmq.com/post/20201104429.html "【油猴脚本】复制任意网页的标题+网址，支持 HTML 及 MarkDown")
-
-[【PHP 笔记】Call to undefined function curl_init()](https://www.wdssmq.com/post/20201231275.html "【PHP 笔记】Call to undefined function curl_init()")
-
-[动画短片 - 《Partly Cloudy》（暴力云与送子鹤）](https://www.wdssmq.com/post/DongHuaDuanPian-Partly-Cloudy-BaoLiYunYuSongZiHe.html "动画短片 - 《Partly Cloudy》（暴力云与送子鹤）")
-
-[动画短片《柏拉图》](https://www.wdssmq.com/post/20190813018.html "动画短片《柏拉图》")
-
-[【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
-
-[【GM_脚本】Resilio Sync 密钥/任务导出备份](https://www.wdssmq.com/post/20190130502.html "【GM_脚本】Resilio Sync 密钥/任务导出备份")
 
 ---end---
 
