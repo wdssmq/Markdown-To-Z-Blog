@@ -35,7 +35,7 @@ fi
 docker rm --force MySQL
 docker run --name MySQL \
   --net=host \
-  -e MYSQL_ROOT_HOST=% \
+  -e MYSQL_ROOT_HOST=172.%.%.% \
   -e MYSQL_ROOT_PASSWORD=shujukumima \
   --restart on-failure \
   -d mysql/mysql-server:5.7
@@ -46,7 +46,6 @@ docker exec -it MySQL mysql -u root -p
 # docker exec -it MySQL /bin/bash
 # mysql -u root -p
 
-# 上边直接使用环境变量即可设置数据 host
 # 下边命令仅作参考
 use mysql;
 select host,user from user;
@@ -142,6 +141,7 @@ docker build -t wdssmq/zblogphp .
 ```bash
 docker network ls
 
+docker network inspect bridge
 docker network inspect host
 
 docker network create -d bridge test-net
