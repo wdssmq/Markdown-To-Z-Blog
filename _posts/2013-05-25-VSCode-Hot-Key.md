@@ -8,7 +8,7 @@ id: 1642
 alias: 20130525410
 ---
 
-[建议]查看 >> 外观 >> 取消`显示活动栏`的勾选 ← 基本上记住`资源管理器`、`全局搜索`、`扩展`的快捷键后就不需要这个了，可以省掉显示的空间。
+[建议]查看 >> 外观 >> 取消`显示活动栏`的勾选 ← 基本上记住`资源管理器`、`全局搜索`、`扩展`的快捷键后就不需要这个了，可以节省显示的空间。
 
 [可选]查看 >> 外观 >> 取消`显示菜单栏`的勾选 ← 因为是和标题栏在一行，所以并不会省空间，但是干净点也算不错，按单按 alt 可以临时显示。
 
@@ -24,17 +24,17 @@ alias: 20130525410
 | ------------- | ---------------------- | ------------------------------------------------ |
 | ctrl+b        | 切换侧栏显隐           | workbench.action.toggleSidebarVisibility         |
 | ctrl+d        | 复制当前行             | editor.action.copyLinesDownAction                |
-| ctrl+e        | 展开 emmet 缩写          | editor.emmet.action.expandAbbreviation           |
+| ctrl+e        | 展开 emmet 缩写        | editor.emmet.action.expandAbbreviation           |
 | ctrl+q        | 切换注释               | editor.action.commentLine                        |
 | ctrl+l        | 选中当前行             | expandLineSelection                              |
 | ctrl+p        | 最近文件               |                                                  |
 | ctrl+alt+b    | 格式化代码/文档        | editor.action.formatDocument                     |
 | ctrl+shift+o  | 转到编辑器中的符号     | workbench.action.gotoSymbol                      |
 | ctrl+shift+p  | 命令面板               |                                                  |
-| ctrl+shift+x  | 扩展                   |                                                  |
+| ctrl+shift+x  | 扩展/插件 查看         |                                                  |
 | ctrl+shift+g  | 源代码管理（Git）      |                                                  |
 | ctrl+shfit+e  | 资源管理器             |                                                  |
-| ctrl+shift+k  | 删除当前行             | 感觉 ctrl+l del 会更安全？                         |
+| ctrl+shift+k  | 删除当前行             | 感觉 ctrl+l del 会更安全？                       |
 | alt+up        | 向上移动行             | editor.action.moveLinesUpAction                  |
 | alt+down      | 向上移动行             | editor.action.moveLinesDownAction                |
 | ctrl+k z      | 禅模式                 |                                                  |
