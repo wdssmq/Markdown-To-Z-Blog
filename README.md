@@ -6,6 +6,8 @@
 
 ## 目录( 2021 年 05 月 10 日更新)
 
+[【真·碎碎念】2021/05/03 ~ 2021/05/09](https://www.wdssmq.com/post/20140414540.html "【真·碎碎念】2021/05/03 ~ 2021/05/09")
+
 [【备忘】再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "【备忘】再再次谈系统安装【2021】")
 
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
@@ -77,8 +79,6 @@
 [2014年3月1日冷笑话合集 - 一不小心就优秀起来了](https://www.wdssmq.com/post/20140301780.html "2014年3月1日冷笑话合集 - 一不小心就优秀起来了")
 
 [2014年11月19日冷笑话合集 - 女生多的学校](https://www.wdssmq.com/post/20141119652.html "2014年11月19日冷笑话合集 - 女生多的学校")
-
-[我们的一生就像坐公车](https://www.wdssmq.com/post/WoMenDeYiShengJiuXiangZuoGongChe.html "我们的一生就像坐公车")
 
 ---end---
 
