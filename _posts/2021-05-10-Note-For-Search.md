@@ -42,7 +42,9 @@ QTTabBar 会影响某个资源管理器自带的功能 - -
 
 ### 2021-05-06 11:34
 
-ZBlog Icon Sets Demo：https://static.zblogcn.com/image/icon/demo.html
+· Z-Blog 字体图标
+
+Z-Blog Icon Sets Demo：https://static.zblogcn.com/image/icon/demo.html
 
 ### 2021-05-06 11:42
 
@@ -70,7 +72,7 @@ ZBlog Icon Sets Demo：https://static.zblogcn.com/image/icon/demo.html
 
 ### 2021-05-09 15:50
 
-又看了一遍源代码；源代码_电影_bilibili_哔哩哔哩：https://www.bilibili.com/bangumi/play/ep385273
+又看了一遍《源代码》；源代码_电影_bilibili_哔哩哔哩：https://www.bilibili.com/bangumi/play/ep385273
 
 ---------------
 
