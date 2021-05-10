@@ -4,7 +4,9 @@
 
 ---start---
 
-## 目录( 2021 年 05 月 05 日更新)
+## 目录( 2021 年 05 月 10 日更新)
+
+[【备忘】再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "【备忘】再再次谈系统安装【2021】")
 
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
 
@@ -77,8 +79,6 @@
 [2014年11月19日冷笑话合集 - 女生多的学校](https://www.wdssmq.com/post/20141119652.html "2014年11月19日冷笑话合集 - 女生多的学校")
 
 [我们的一生就像坐公车](https://www.wdssmq.com/post/WoMenDeYiShengJiuXiangZuoGongChe.html "我们的一生就像坐公车")
-
-[2011年12月6日冷笑话合集 - 喝点什么](https://www.wdssmq.com/post/2011Nian12Yue6RiLengXiaoHuaHeJi-HeDianShiMe.html "2011年12月6日冷笑话合集 - 喝点什么")
 
 ---end---
 
