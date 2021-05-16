@@ -240,13 +240,17 @@ def read_logs(file):
 # 全局变量
 # 文章路径
 _posts_dir = os.path.join(os.getcwd(), "_posts")
+
 # README.md
 _readme_file = os.path.join(os.getcwd(), "README.md")
+
 # 日志文件
 _posts_logs_file = os.path.join(os.getcwd(), "_posts_logs.json")
+
 if _debug:
     _posts_logs_file = os.path.join(os.getcwd(), "_debug_posts_logs.json")
     _readme_file = os.path.join(os.getcwd(), "_debug_README.md")
+
 # 日志数据
 _posts_logs_data = read_logs(_posts_logs_file)
 
