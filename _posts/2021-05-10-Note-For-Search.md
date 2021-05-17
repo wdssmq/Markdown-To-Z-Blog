@@ -76,7 +76,7 @@ Z-Blog Icon Sets Demo：https://static.zblogcn.com/image/icon/demo.html
 
 ---------------
 
-### **2021-05-10 12:28 总结：**
+### **2021-05-10 12:28 总结**
 
 9 号的三条嘟被分到了 10 号，插件需要修改；
 

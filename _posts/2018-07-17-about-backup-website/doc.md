@@ -59,11 +59,11 @@ alias: 20180717038
 
 1、能够在浏览器内查看站点文件，并且可以进行「压缩 / 解压缩」操作；压缩后如果直接下载吃力的，可以使用 FTP ，推荐`FileZilla` ↓；
 
-![001.png](https://i.loli.net/2021/05/16/IFjwyshnGNDO1eJ.png "001.png")
+![001.png](https://i.loli.net/2021/05/16/ZJDUReOpL2rBN14.png "001.png")
 
 2、面板内有「数据库管理」功能：「可真接操作`备份/还原`数据内容」或者「提供`phpMyAdmin`管理入口」 ↓；
 
-![002.png](https://i.loli.net/2021/05/16/ZJDUReOpL2rBN14.png "002.png")
+![002.png](https://i.loli.net/2021/05/16/IFjwyshnGNDO1eJ.png "002.png")
 
 3、`phpMyAdmin` 登录界面 ↓；
 
