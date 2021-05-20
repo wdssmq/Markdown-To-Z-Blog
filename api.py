@@ -359,6 +359,7 @@ def main():
         cate = metadata.get("categories", "")
         alias = metadata.get("alias", "")
         cover_id = metadata.get("id", "")
+        status = metadata.get("status", "0")
         # fnBug(cover_id, sys._getframe().f_lineno)
         if title == "未命名":
             fnErr("标题：" + title)
@@ -381,7 +382,7 @@ def main():
 
         # post data构造
         data_arg = {"Type": "0", "ID": id, "Title": title,
-                    "Content": content, "MD_Content": md_content, "Tag": ",".join(tags), "CateName": cate}
+                    "Content": content, "MD_Content": md_content, "Tag": ",".join(tags), "CateName": cate, "Status": status}
         # 提交请求
         (done, post_id, post_mtime) = update_post(0, data_arg)
         # fnBug("%s %s %s" % (done, post_id, post_mtime), sys._getframe().f_lineno)
