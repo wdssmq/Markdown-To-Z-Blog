@@ -4,7 +4,9 @@
 
 ---start---
 
-## 目录( 2021 年 05 月 20 日更新)
+## 目录( 2021 年 05 月 24 日更新)
+
+[【真·碎碎念】2021/05/17 ~ 2021/05/23](https://www.wdssmq.com/post/20100504832.html "【真·碎碎念】2021/05/17 ~ 2021/05/23")
 
 [【备忘】一些 SQL 语句](https://www.wdssmq.com/post/20120816277.html "【备忘】一些 SQL 语句")
 
@@ -21,6 +23,8 @@
 [【备忘】Z-BlogPHP 常用接口或函数](https://www.wdssmq.com/post/20190316451.html "【备忘】Z-BlogPHP 常用接口或函数")
 
 [【备忘】再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "【备忘】再再次谈系统安装【2021】")
+
+[当神曲翻译成诗经。。](https://www.wdssmq.com/post/20120301199.html "当神曲翻译成诗经。。")
 
 [问题【小小说】](https://www.wdssmq.com/post/20100207394.html "问题【小小说】")
 
@@ -75,10 +79,6 @@
 [2010年8月15日冷笑话合集 - 博大精深的中文](https://www.wdssmq.com/post/2010Nian8Yue15RiXiaoHuaHeJi-BoDaJingShenDeZhongWen.html "2010年8月15日冷笑话合集 - 博大精深的中文")
 
 [2010年10月23日冷笑话合集 - 浪花一朵朵](https://www.wdssmq.com/post/2010Nian10Yue23RiXiaoHuaHeJi-LangHuaYiDuoDuo.html "2010年10月23日冷笑话合集 - 浪花一朵朵")
-
-[2012年8月8日冷笑话合集 - 那也不能停](https://www.wdssmq.com/post/20100302591.html "2012年8月8日冷笑话合集 - 那也不能停")
-
-[2014年1月2日冷笑话合集 - 换老板了啊](https://www.wdssmq.com/post/20140102331.html "2014年1月2日冷笑话合集 - 换老板了啊")
 
 ---end---
 
