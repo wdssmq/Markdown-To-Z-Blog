@@ -1,5 +1,6 @@
 ---
-title: 【备忘】JavaScript 队列任务执行
+title: 【备忘】JavaScript 队列执行异步任务
+tags:
 - JavaScript
 - 备忘
 - 折腾
