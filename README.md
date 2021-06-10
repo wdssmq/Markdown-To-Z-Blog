@@ -4,9 +4,9 @@
 
 ---start---
 
-## 目录( 2021 年 06 月 08 日更新)
+## 目录( 2021 年 06 月 10 日更新)
 
-[【真·碎碎念】2021/05/31 ~ 2021/06/06](https://www.wdssmq.com/post/%E3%80%90%E7%9C%9F%C2%B7%E7%A2%8E%E7%A2%8E%E5%BF%B5%E3%80%912021%2F05%2F31%20~%202021%2F06%2F06.html "【真·碎碎念】2021/05/31 ~ 2021/06/06")
+[【真·碎碎念】2021/05/31 ~ 2021/06/06](https://www.wdssmq.com/post/20210608249.html "【真·碎碎念】2021/05/31 ~ 2021/06/06")
 
 [【备忘】JavaScript 队列执行异步任务](https://www.wdssmq.com/post/20210529408.html "【备忘】JavaScript 队列执行异步任务")
 
@@ -37,6 +37,8 @@
 [当神曲翻译成诗经。。](https://www.wdssmq.com/post/20120301199.html "当神曲翻译成诗经。。")
 
 [问题【小小说】](https://www.wdssmq.com/post/20100207394.html "问题【小小说】")
+
+[2013年8月21日冷笑话合集 - 遇到车祸](https://www.wdssmq.com/post/20130821467.html "2013年8月21日冷笑话合集 - 遇到车祸")
 
 [2011年8月19日冷笑话合集 - 饭前发言](https://www.wdssmq.com/post/2011Nian8Yue19RiLengXiaoHuaHeJi-FanQianFaYan.html "2011年8月19日冷笑话合集 - 饭前发言")
 
@@ -77,8 +79,6 @@
 [2011年9月5日冷笑话合集 - 别的妈妈怎么办](https://www.wdssmq.com/post/2011Nian9Yue5RiLengXiaoHuaHeJi-BieDeMaMaZenMeBan.html "2011年9月5日冷笑话合集 - 别的妈妈怎么办")
 
 [2012年10月6日冷笑话合集 - 省了500大洋](https://www.wdssmq.com/post/20121010261.html "2012年10月6日冷笑话合集 - 省了500大洋")
-
-[2012年8月3日冷笑话合集 - 从没进过](https://www.wdssmq.com/post/20120803959.html "2012年8月3日冷笑话合集 - 从没进过")
 
 ---end---
 
