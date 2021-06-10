@@ -12,7 +12,7 @@ alias: 20100504832
 
 ### 2021-05-17 10:08
 
-diySth丨DIY Something - Z-Blog 应用中心 https://app.zblogcn.com/?id=1961
+diySth 丨 DIY Something - Z-Blog 应用中心 https://app.zblogcn.com/?id=1961
 
 <!--more-->
 

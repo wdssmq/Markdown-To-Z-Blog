@@ -18,7 +18,7 @@ alias: 20120817543
 
 ## Docker 安装 MysQL + PHPMyAdmin
 
-> [Docker 安裝 Mysql + Phpmyadmin | 愛吃東西的RD](http://www.andrewchen.tw/2017/05/05/20170505_NOTE_DOCKER_MYSQL/ "Docker 安裝 Mysql + Phpmyadmin | 愛吃東西的RD")
+> [Docker 安裝 Mysql + Phpmyadmin | 愛吃東西的 RD](http://www.andrewchen.tw/2017/05/05/20170505_NOTE_DOCKER_MYSQL/ "Docker 安裝 Mysql + Phpmyadmin | 愛吃東西的 RD")
 
 网络设置仍然不是很懂，只能说这样确实成功了；
 
