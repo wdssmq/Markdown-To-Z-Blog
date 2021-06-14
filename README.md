@@ -4,7 +4,9 @@
 
 ---start---
 
-## 目录( 2021 年 06 月 10 日更新)
+## 目录( 2021 年 06 月 14 日更新)
+
+[【小事】换新的键盘终于回来了](https://www.wdssmq.com/post/20140512942.html "【小事】换新的键盘终于回来了")
 
 [【真·碎碎念】2021/05/31 ~ 2021/06/06](https://www.wdssmq.com/post/20210608249.html "【真·碎碎念】2021/05/31 ~ 2021/06/06")
 
@@ -27,6 +29,8 @@
 [【RPG Maker】RPG游戏无法运行原因整理](https://www.wdssmq.com/post/20200105056.html "【RPG Maker】RPG游戏无法运行原因整理")
 
 [2010年11月17日冷笑话合集 - 竞争与合作](https://www.wdssmq.com/post/2010Nian11Yue17RiLengXiaoHuaHeJi-JingZhengYuHeZuo.html "2010年11月17日冷笑话合集 - 竞争与合作")
+
+[2014年5月12日冷笑话合集 - 看完你会回来转的](https://www.wdssmq.com/post/20140512277.html "2014年5月12日冷笑话合集 - 看完你会回来转的")
 
 [【真·碎碎念】2021/05/10 ~ 2021/05/16](https://www.wdssmq.com/post/20210506936.html "【真·碎碎念】2021/05/10 ~ 2021/05/16")
 
@@ -75,10 +79,6 @@
 [欠一屁股债的由来【民间故事】](https://www.wdssmq.com/post/20131014522.html "欠一屁股债的由来【民间故事】")
 
 [牛逼和装逼和傻逼之间的区别【无厘网文】](https://www.wdssmq.com/post/20120729674.html "牛逼和装逼和傻逼之间的区别【无厘网文】")
-
-[2011年8月21日冷笑话合集 - 泻药的效力](https://www.wdssmq.com/post/2011Nian8Yue21RiLengXiaoHuaHeJi-XieYaoDeXiaoLi.html "2011年8月21日冷笑话合集 - 泻药的效力")
-
-[2011年9月5日冷笑话合集 - 别的妈妈怎么办](https://www.wdssmq.com/post/2011Nian9Yue5RiLengXiaoHuaHeJi-BieDeMaMaZenMeBan.html "2011年9月5日冷笑话合集 - 别的妈妈怎么办")
 
 ---end---
 
