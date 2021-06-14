@@ -16,7 +16,7 @@ alias: 20180606584
 
 > 佛系安利：Resilio Sync\_电脑网络\_沉冰浮水
 >
->  https://www.wdssmq.com/post/20180526833.html
+> https://www.wdssmq.com/post/20180526833.html
 
 ↑↑上边这套“网页标题 + 换行 + 网页链接”的标准三连其实就是用「脚本」实现的“一键复制”功能。↑↑
 
