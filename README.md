@@ -6,6 +6,8 @@
 
 ## 目录( 2021 年 06 月 15 日更新)
 
+[「油猴」针对 QQ 群管理的「值日生」提示功能](https://www.wdssmq.com/post/20210531442.html "「油猴」针对 QQ 群管理的「值日生」提示功能")
+
 [【真·碎碎念】2021/06/07 ~ 2021/06/13](https://www.wdssmq.com/post/3119.html "【真·碎碎念】2021/06/07 ~ 2021/06/13")
 
 [【小事】换新的键盘终于回来了](https://www.wdssmq.com/post/20140512942.html "【小事】换新的键盘终于回来了")
@@ -77,8 +79,6 @@
 [女孩没男朋友的16大坏处和好处](https://www.wdssmq.com/post/NuHaiMeiNanPengYouDe16DaHuaiChuHeHaoChu.html "女孩没男朋友的16大坏处和好处")
 
 [2010年9月2日冷笑话合集 - 比狠](https://www.wdssmq.com/post/2010nian9yue2rixiaohuaheji-bihen.html "2010年9月2日冷笑话合集 - 比狠")
-
-[欠一屁股债的由来【民间故事】](https://www.wdssmq.com/post/20131014522.html "欠一屁股债的由来【民间故事】")
 
 ---end---
 
