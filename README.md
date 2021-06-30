@@ -4,7 +4,11 @@
 
 ---start---
 
-## 目录( 2021 年 06 月 29 日更新)
+## 目录( 2021 年 06 月 30 日更新)
+
+[【备忘】textarea 内输出 html 的转义问题](https://www.wdssmq.com/post/3121.html "【备忘】textarea 内输出 html 的转义问题")
+
+[【说点什么】小白宣言](https://www.wdssmq.com/post/20210114721.html "【说点什么】小白宣言")
 
 [寻宝游戏设计](https://www.wdssmq.com/post/20120926864.html "寻宝游戏设计")
 
@@ -75,10 +79,6 @@
 [【VSCode】快捷键备忘](https://www.wdssmq.com/post/20130525410.html "【VSCode】快捷键备忘")
 
 [2010年9月15日冷笑话合集 - WinRAR](https://www.wdssmq.com/post/2010Nian9Yue15RiLengXiaoHuaHeJi-WinRAR.html "2010年9月15日冷笑话合集 - WinRAR")
-
-[如果宠物可以上网说话](https://www.wdssmq.com/post/2010051051.html "如果宠物可以上网说话")
-
-[2011年10月11日冷笑话合集 - 上学时的那些事](https://www.wdssmq.com/post/2011Nian10Yue11RiLengXiaoHuaHeJi-ShangXueShiDeNaXieShi.html "2011年10月11日冷笑话合集 - 上学时的那些事")
 
 ---end---
 
