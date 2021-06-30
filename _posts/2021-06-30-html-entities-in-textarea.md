@@ -6,6 +6,8 @@ tags:
 - HTML
 categories:
 - 电脑网络
+id: 3121
+alias: 20210630871
 ---
 
 习惯上，在需要使用 `<input type="text" />`或`<textarea></textarea>`回显可编辑内容时，都会将其中的 HTML 实体转义；
