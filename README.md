@@ -4,7 +4,9 @@
 
 ---start---
 
-## 目录( 2021 年 06 月 30 日更新)
+## 目录( 2021 年 07 月 06 日更新)
+
+[【真·碎碎念】2021/06/28 ~ 2021/07/04](https://www.wdssmq.com/post/3122.html "【真·碎碎念】2021/06/28 ~ 2021/07/04")
 
 [【备忘】textarea 内输出 html 的转义问题](https://www.wdssmq.com/post/20210630871.html "【备忘】textarea 内输出 html 的转义问题")
 
@@ -77,8 +79,6 @@
 [【折腾】pip 安装各种依赖遇到的坑](https://www.wdssmq.com/post/20210224781.html "【折腾】pip 安装各种依赖遇到的坑")
 
 [【VSCode】快捷键备忘](https://www.wdssmq.com/post/20130525410.html "【VSCode】快捷键备忘")
-
-[2010年9月15日冷笑话合集 - WinRAR](https://www.wdssmq.com/post/2010Nian9Yue15RiLengXiaoHuaHeJi-WinRAR.html "2010年9月15日冷笑话合集 - WinRAR")
 
 ---end---
 
