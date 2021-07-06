@@ -6,7 +6,9 @@
 
 ## 目录( 2021 年 07 月 06 日更新)
 
-[【真·碎碎念】2021/06/28 ~ 2021/07/04](https://www.wdssmq.com/post/3122.html "【真·碎碎念】2021/06/28 ~ 2021/07/04")
+[【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图](https://www.wdssmq.com/post/20100215532.html "【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图")
+
+[【真·碎碎念】2021/06/28 ~ 2021/07/04](https://www.wdssmq.com/post/20210706772.html "【真·碎碎念】2021/06/28 ~ 2021/07/04")
 
 [【备忘】textarea 内输出 html 的转义问题](https://www.wdssmq.com/post/20210630871.html "【备忘】textarea 内输出 html 的转义问题")
 
@@ -77,8 +79,6 @@
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
 
 [【折腾】pip 安装各种依赖遇到的坑](https://www.wdssmq.com/post/20210224781.html "【折腾】pip 安装各种依赖遇到的坑")
-
-[【VSCode】快捷键备忘](https://www.wdssmq.com/post/20130525410.html "【VSCode】快捷键备忘")
 
 ---end---
 
