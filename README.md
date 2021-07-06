@@ -6,7 +6,7 @@
 
 ## 目录( 2021 年 06 月 30 日更新)
 
-[【备忘】textarea 内输出 html 的转义问题](https://www.wdssmq.com/post/3121.html "【备忘】textarea 内输出 html 的转义问题")
+[【备忘】textarea 内输出 html 的转义问题](https://www.wdssmq.com/post/20210630871.html "【备忘】textarea 内输出 html 的转义问题")
 
 [【说点什么】小白宣言](https://www.wdssmq.com/post/20210114721.html "【说点什么】小白宣言")
 
