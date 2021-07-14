@@ -95,6 +95,6 @@ function demoAPP_setRndImgNetwork()
 
 [https://www.wdssmq.com/post/20210224481.html](https://www.wdssmq.com/post/20210224481.html "关于 Z-BlogPHP 1.7 缩略图的一些记录\_电脑网络\_沉冰浮水")
 
-\[开发者\]正则表达式相关专贴-开发者中心-ZBlogger技术交流中心：
+\[开发者\]正则表达式相关专贴-开发者中心-ZBlogger 技术交流中心：
 
 [https://bbs.zblogcn.com/thread-101713.html](https://bbs.zblogcn.com/thread-101713.html "\[开发者\]正则表达式相关专贴-开发者中心-ZBlogger技术交流中心")
