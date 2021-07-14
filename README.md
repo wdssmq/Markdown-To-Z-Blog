@@ -4,7 +4,9 @@
 
 ---start---
 
-## 目录( 2021 年 07 月 06 日更新)
+## 目录( 2021 年 07 月 14 日更新)
+
+[【真·碎碎念】2021/07/05 ~ 2021/07/11](https://www.wdssmq.com/post/20100330322.html "【真·碎碎念】2021/07/05 ~ 2021/07/11")
 
 [【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图](https://www.wdssmq.com/post/20100215532.html "【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图")
 
@@ -77,8 +79,6 @@
 [2012年3月5日冷笑话合集 - 送别](https://www.wdssmq.com/post/20120305975.html "2012年3月5日冷笑话合集 - 送别")
 
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
-
-[【折腾】pip 安装各种依赖遇到的坑](https://www.wdssmq.com/post/20210224781.html "【折腾】pip 安装各种依赖遇到的坑")
 
 ---end---
 
