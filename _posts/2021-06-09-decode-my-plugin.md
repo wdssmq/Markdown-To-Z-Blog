@@ -1,5 +1,5 @@
 ---
-title: 寻宝游戏设计
+title: 「年度套路」水水名下 Z-Blog 应用打包赠送
 tags:
 - 折腾
 - 脑洞
@@ -12,7 +12,7 @@ alias: 20120926864
 
 ### 前言
 
-密码方案确定中
+虽然不确定明年还会不会有；
 
 <!--more-->
 
@@ -50,29 +50,69 @@ QQ 群「我的咸鱼心」：
 
 虽然最终文件是压缩包，但是加密使用的是`cryptomator`这个软件；
 
-----------
+密码含七组数字，按顺序以中划线`-`连接；
 
-然后密码组成：
+某组不是三位数，懒得改了；
+
+含有「附加」字段的，需要从相应链接内寻找；「仅需数字部分」
+
+1、
 
 数据源：`https://github.com/zblogcn/zblogphp`
 
-当前：557
+当前：559
+
+2、
 
 数据源：`https://www.inoreader.com/bundle/0014cd640d60`
 
-当前：9
+当前：009
 
-数据源源：`https://feeds.pub/feed/https%3A%2F%2Fwww.wdssmq.com%2Ffeed.php`
+3、
 
-当前：4
+数据源：`https://feeds.pub/feed/https%3A%2F%2Fwww.wdssmq.com%2Ffeed.php`
 
-附加：PWD-XXX
+~~当前：004~~
 
-数据源源：`https://demo.wdssmq.com/post/20210629936.html`
+附加：PWD-7XX
 
-当前：936
+4、
 
-附加：PWD-XXXXX
+数据源：`https://demo.wdssmq.com/post/20210629936.html`
+
+~~当前：936~~
+
+附加：PWD-XXXX
+
+5、
+
+数据源：`https://wxw.moe/invite/ArWsTnSZ`
+
+~~当前：031~~
+
+附加：PWD-2XX
+
+注：可以在 `\#ZBlog` 话题下找；
+
+6、
+
+数据源：`https://jgchat.net/i/q7UmX2J8`
+
+~~当前：021~~
+
+附加：PWD-X2X
+
+7、
+
+数据源：`https://bbs.zblogcn.com/thread-104457.html`
+
+~~当前：480~~
+
+附加：PWD-X6X
+
+## 图片
+
+![QQ截图20210717150343.png](https://i.loli.net/2021/07/17/IGA53RwjaEQtiV9.png)
 
 ### 推荐阅读
 
