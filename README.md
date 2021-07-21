@@ -4,7 +4,9 @@
 
 ---start---
 
-## 目录( 2021 年 07 月 17 日更新)
+## 目录( 2021 年 07 月 21 日更新)
+
+[【真·碎碎念】2021/07/12 ~ 2021/07/18](https://www.wdssmq.com/post/3123.html "【真·碎碎念】2021/07/12 ~ 2021/07/18")
 
 [「年度套路」水水名下 Z-Blog 应用打包赠送](https://www.wdssmq.com/post/20120926864.html "「年度套路」水水名下 Z-Blog 应用打包赠送")
 
@@ -77,8 +79,6 @@
 [一步一惊心的人生，一步一痛心的爱情。](https://www.wdssmq.com/post/YiBuYiJingXinDeRenSheng-YiBuYiTongXinDeAiQing.html "一步一惊心的人生，一步一痛心的爱情。")
 
 [2012年3月5日冷笑话合集 - 送别](https://www.wdssmq.com/post/20120305975.html "2012年3月5日冷笑话合集 - 送别")
-
-[【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
 
 ---end---
 
