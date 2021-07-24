@@ -4,9 +4,19 @@
 
 ---start---
 
-## 目录( 2021 年 07 月 21 日更新)
+## 目录( 2021 年 07 月 24 日更新)
 
-[【真·碎碎念】2021/07/12 ~ 2021/07/18](https://www.wdssmq.com/post/3123.html "【真·碎碎念】2021/07/12 ~ 2021/07/18")
+[Google 东京奥运会 Doodle](https://www.wdssmq.com/post/20210723446.html "Google 东京奥运会 Doodle")
+
+[「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」](https://www.wdssmq.com/post/3125.html "「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」")
+
+[「悲喜都不自由」……](https://www.wdssmq.com/post/20210723284.html "「悲喜都不自由」……")
+
+[在恰当的时机，以较小的代价……](https://www.wdssmq.com/post/20200523528.html "在恰当的时机，以较小的代价……")
+
+[无从复盘的过往](https://www.wdssmq.com/post/20191128815.html "无从复盘的过往")
+
+[【真·碎碎念】2021/07/12 ~ 2021/07/18](https://www.wdssmq.com/post/20210610060.html "【真·碎碎念】2021/07/12 ~ 2021/07/18")
 
 [「年度套路」水水名下 Z-Blog 应用打包赠送](https://www.wdssmq.com/post/20120926864.html "「年度套路」水水名下 Z-Blog 应用打包赠送")
 
@@ -69,16 +79,6 @@
 [【备忘】Z-BlogPHP 常用接口或函数](https://www.wdssmq.com/post/20190316451.html "【备忘】Z-BlogPHP 常用接口或函数")
 
 [当神曲翻译成诗经。。](https://www.wdssmq.com/post/20120301199.html "当神曲翻译成诗经。。")
-
-[问题【小小说】](https://www.wdssmq.com/post/20100207394.html "问题【小小说】")
-
-[2013年8月21日冷笑话合集 - 遇到车祸](https://www.wdssmq.com/post/20130821467.html "2013年8月21日冷笑话合集 - 遇到车祸")
-
-[2011年8月19日冷笑话合集 - 饭前发言](https://www.wdssmq.com/post/2011Nian8Yue19RiLengXiaoHuaHeJi-FanQianFaYan.html "2011年8月19日冷笑话合集 - 饭前发言")
-
-[一步一惊心的人生，一步一痛心的爱情。](https://www.wdssmq.com/post/YiBuYiJingXinDeRenSheng-YiBuYiTongXinDeAiQing.html "一步一惊心的人生，一步一痛心的爱情。")
-
-[2012年3月5日冷笑话合集 - 送别](https://www.wdssmq.com/post/20120305975.html "2012年3月5日冷笑话合集 - 送别")
 
 ---end---
 
