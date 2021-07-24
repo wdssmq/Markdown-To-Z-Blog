@@ -8,6 +8,10 @@ categories:
 - 电脑网络
 id: 3125
 alias: 20210724854
+csdn: https://blog.csdn.net/qq_15022221/article/details/119062390
+zhihu: https://zhuanlan.zhihu.com/p/392810766
+jianshu: https://www.jianshu.com/p/823c80a6f16f
+cnblogs: https://www.cnblogs.com/wdssmq/p/15056067.html
 ---
 
 基本信息：
