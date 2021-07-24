@@ -27,35 +27,35 @@ alias: 20210723446
 其中，花泳对应「乙姬」（你本来就是生活在水里的吧喂），天狗擅长乒乓，鬼对应橄榄球（挑战时会与桃太郎组队）……对应射箭的洋一到是不知道是哪个故事人物。。
 
 
-![001.webp](001.webp "001.webp")
+![001.webp](https://cdn.jsdelivr.net/gh/wdssmq/Markdown-To-Z-Blog@main/_posts/2021-07-24-Doodle-For-Tokyo-Olympics/001.webp "001.webp")
 
 ↑ 发现一个 Bug —— title 属性没有正确解析；
 
-![002.webp](002.webp "002.webp")
+![002.webp](https://cdn.jsdelivr.net/gh/wdssmq/Markdown-To-Z-Blog@main/_posts/2021-07-24-Doodle-For-Tokyo-Olympics/002.webp "002.webp")
 
 ↑ 可以从四支队伍中选择一支加入，周边雕像是各项运行的上届冠军；
 
-![003.webp](003.webp "003.webp")
+![003.webp](https://cdn.jsdelivr.net/gh/wdssmq/Markdown-To-Z-Blog@main/_posts/2021-07-24-Doodle-For-Tokyo-Olympics/003.webp "003.webp")
 
 ↑ 看到竹子想到辉夜姬，然而前边是天狗的地盘（乒乓球）；
 
-![004.webp](004.webp "004.webp")
+![004.webp](https://cdn.jsdelivr.net/gh/wdssmq/Markdown-To-Z-Blog@main/_posts/2021-07-24-Doodle-For-Tokyo-Olympics/004.webp "004.webp")
 
 ↑ 每个队伍都有专属房间；
 
-![005.webp](005.webp "005.webp")
+![005.webp](https://cdn.jsdelivr.net/gh/wdssmq/Markdown-To-Z-Blog@main/_posts/2021-07-24-Doodle-For-Tokyo-Olympics/005.webp "005.webp")
 
 ↑ emmm，表示竞技挑战很难的，我只想各处闲逛；
 
-![006.webp](006.webp "006.webp")
+![006.webp](https://cdn.jsdelivr.net/gh/wdssmq/Markdown-To-Z-Blog@main/_posts/2021-07-24-Doodle-For-Tokyo-Olympics/006.webp "006.webp")
 
 ↑ 根本就是弹幕游戏吧，只是要主动接到而非躲开；
 
-![007.webp](007.webp "007.webp")
+![007.webp](https://cdn.jsdelivr.net/gh/wdssmq/Markdown-To-Z-Blog@main/_posts/2021-07-24-Doodle-For-Tokyo-Olympics/007.webp "007.webp")
 
 ↑ 一个奖杯代表一个成就，我完成的都是支线任务；
 
-![008.webp](008.webp "008.webp")
+![008.webp](https://cdn.jsdelivr.net/gh/wdssmq/Markdown-To-Z-Blog@main/_posts/2021-07-24-Doodle-For-Tokyo-Olympics/008.webp "008.webp")
 
 ↑ 支线任务有的会解锁一个更高难度的运动挑战；有的单纯让人感觉无语，比如帮鱼找回「幸运箭」后它已经忘记了这回事；还有的只是个很短的故事（毕竟是 Doodle 内的游戏），但是略有感慨，比如刺猬的故事；
 
