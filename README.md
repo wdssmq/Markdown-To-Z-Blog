@@ -6,9 +6,9 @@
 
 ## 目录( 2021 年 07 月 24 日更新)
 
-[Google 东京奥运会 Doodle](https://www.wdssmq.com/post/20210723446.html "Google 东京奥运会 Doodle")
+[「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」](https://www.wdssmq.com/post/20210724854.html "「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」")
 
-[「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」](https://www.wdssmq.com/post/3125.html "「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」")
+[Google 东京奥运会 Doodle](https://www.wdssmq.com/post/20210723446.html "Google 东京奥运会 Doodle")
 
 [「悲喜都不自由」……](https://www.wdssmq.com/post/20210723284.html "「悲喜都不自由」……")
 
