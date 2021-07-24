@@ -5,7 +5,7 @@ tags:
 - Google
 - 谷歌
 categories:
-- 杂七七杂八
+- 杂七杂八
 id: 814
 alias: 20210723446
 ---
