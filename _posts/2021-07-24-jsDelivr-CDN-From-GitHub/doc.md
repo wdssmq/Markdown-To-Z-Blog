@@ -10,15 +10,17 @@ id: 3125
 alias: 20210724854
 ---
 
-```ini
-name：「 GitHub 」获取文件的 jsDelivr 地址
+基本信息：
 
-desc：获取项目文件的 CDN 地址
+> name：「 GitHub 」获取文件的 jsDelivr 地址
+>
+> desc：获取项目文件的 CDN 地址
+>
+> url： https://github.com/wdssmq/userscript/blob/master/Git/jsDelivr.user.js
 
-url： https://github.com/wdssmq/userscript/blob/master/Git/jsDelivr.user.js
-```
+可以直接通过这个链接安装：
 
-可以直接通过这个链接安装： https://cdn.jsdelivr.net/gh/wdssmq/userscript@master/Git/jsDelivr.user.js
+> `https://cdn.jsdelivr.net/gh/wdssmq/userscript@master/Git/jsDelivr.user.js`
 
 重要 · 需要配合下边浏览器扩展使用：
 
