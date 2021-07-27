@@ -20,7 +20,7 @@ alias: 20210705807
 
 在这之前用的是「[EasyPHP - 略有极客感的 WEB 环境工具\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20210224528.html "EasyPHP - 略有极客感的 WEB 环境工具\_电脑网络\_沉冰浮水")」，最大的问题是只能使用 8000 或 8080 端口，然后所有站点以二级目录的形式访问，再再然后就是每次遇到重启端口号会变；
 
-然后在「下载」文件夹内看到了`xampp `的安装包就顺便试了下，果然也没搞定；
+然后在「下载」文件夹内看到了`xampp`的安装包就顺便试了下，果然也没搞定；
 
 
 ### 安装 IIS
@@ -34,8 +34,8 @@ alias: 20210705807
 
 > FastCGI feature must be enabled in order to register PHP.
 
-![001.png](001.png "001.png")
-![002.png](002.png "002.png")
+![001.png](https://i.loli.net/2021/07/27/NqwJDRnU7VegKtb.png "001.png")
+![002.png](https://i.loli.net/2021/07/27/D4L7T6gHGulBxvh.png "002.png")
 
 
 ### 创建站点
@@ -48,9 +48,9 @@ alias: 20210705807
 
 > 由于扩展配置问题而无法提供您请求的页面。如果该页面是脚本，请添加处理程序。如果应下载文件，请添加 MIME 映射。
 
-![003.png](003.png "003.png")
-![004.png](004.png "004.png")
-![005.png](005.png "005.png")
+![003.png](https://i.loli.net/2021/07/27/O4t7bPk9mzLMfCQ.png "003.png")
+![004.png](https://i.loli.net/2021/07/27/SpG1WyIXeuZV78d.png "004.png")
+![005.png](https://i.loli.net/2021/07/27/TvAP4zbkdxLlSpH.png "005.png")
 
 
 ### PHP 安装和配置
@@ -64,8 +64,8 @@ alias: 20210705807
 - 注册 PHP 到 IIS；
     - 可添加多个版本供切换使用；
 
-![006.png](006.png "006.png")
-![007.png](007.png "007.png")
+![006.png](https://i.loli.net/2021/07/27/prnFJl6y1NvZGPo.png "006.png")
+![007.png](https://i.loli.net/2021/07/27/fecKASUltNEhgH8.png "007.png")
 
 
 ### 安装 MySQL 服务
@@ -76,17 +76,17 @@ alias: 20210705807
     - 可以选择下载在线安装版或者完整版，以实际体验业说，建议下载完整版；
     - 会提示注册账号，但是可以跳过——「`No thanks, just start my download.`」；
 
-![008.png](008.png "008.png")
-![009.png](009.png "009.png")
-![010.png](010.png "010.png")
-![011.png](011.png "011.png")
-![012.png](012.png "012.png")
-![013.png](013.png "013.png")
-![014.png](014.png "014.png")
-![015.png](015.png "015.png")
-![016.png](016.png "016.png")
-![017.png](017.png "017.png")
-![018.png](018.png "018.png")
+![008.png](https://i.loli.net/2021/07/27/mKABRs7PcLkEYQW.png "008.png")
+![009.png](https://i.loli.net/2021/07/27/5onyD3xHCISEWf1.png "009.png")
+![010.png](https://i.loli.net/2021/07/27/85XYthDfrmOqI3j.png "010.png")
+![011.png](https://i.loli.net/2021/07/27/mGhc81wlrsZkNYU.png "011.png")
+![012.png](https://i.loli.net/2021/07/27/VPfZJabMWs8ySOX.png "012.png")
+![013.png](https://i.loli.net/2021/07/27/2qjRtswhLrHQbkX.png "013.png")
+![014.png](https://i.loli.net/2021/07/27/K7toYxVzAva5mbF.png "014.png")
+![015.png](https://i.loli.net/2021/07/27/b59FeDZHpENic1W.png "015.png")
+![016.png](https://i.loli.net/2021/07/27/b85jnB2H7oySzth.png "016.png")
+![017.png](https://i.loli.net/2021/07/27/3TCOtDWXPNFEe4K.png "017.png")
+![018.png](https://i.loli.net/2021/07/27/Khqg2MkzVodp3DE.png "018.png")
 
 
 ### phpMyAdmin
