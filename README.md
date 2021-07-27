@@ -4,9 +4,15 @@
 
 ---start---
 
-## 目录( 2021 年 07 月 24 日更新)
+## 目录( 2021 年 07 月 27 日更新)
+
+[【真·碎碎念】2021/07/12 ~ 2021/07/18](https://www.wdssmq.com/post/20210610060.html "【真·碎碎念】2021/07/12 ~ 2021/07/18")
 
 [「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」](https://www.wdssmq.com/post/20210724854.html "「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」")
+
+[【备忘】win10 + IIS + PHP + MySQL](https://www.wdssmq.com/post/20210705807.html "【备忘】win10 + IIS + PHP + MySQL")
+
+[【说点什么】系统重装恐惧症](https://www.wdssmq.com/post/20190130794.html "【说点什么】系统重装恐惧症")
 
 [Google 东京奥运会 Doodle](https://www.wdssmq.com/post/20210723446.html "Google 东京奥运会 Doodle")
 
@@ -15,8 +21,6 @@
 [在恰当的时机，以较小的代价……](https://www.wdssmq.com/post/20200523528.html "在恰当的时机，以较小的代价……")
 
 [无从复盘的过往](https://www.wdssmq.com/post/20191128815.html "无从复盘的过往")
-
-[【真·碎碎念】2021/07/12 ~ 2021/07/18](https://www.wdssmq.com/post/20210610060.html "【真·碎碎念】2021/07/12 ~ 2021/07/18")
 
 [「年度套路」水水名下 Z-Blog 应用打包赠送](https://www.wdssmq.com/post/20120926864.html "「年度套路」水水名下 Z-Blog 应用打包赠送")
 
@@ -75,10 +79,6 @@
 [【折腾】CSS 角标文字（失败版）](https://www.wdssmq.com/post/20141212329.html "【折腾】CSS 角标文字（失败版）")
 
 [【GM_脚本】Resilio Sync 密钥/任务导出备份](https://www.wdssmq.com/post/20190130502.html "【GM_脚本】Resilio Sync 密钥/任务导出备份")
-
-[【备忘】Z-BlogPHP 常用接口或函数](https://www.wdssmq.com/post/20190316451.html "【备忘】Z-BlogPHP 常用接口或函数")
-
-[当神曲翻译成诗经。。](https://www.wdssmq.com/post/20120301199.html "当神曲翻译成诗经。。")
 
 ---end---
 
