@@ -4,9 +4,11 @@
 
 ---start---
 
-## 目录( 2021 年 07 月 27 日更新)
+## 目录( 2021 年 07 月 28 日更新)
 
 [【真·碎碎念】2021/07/12 ~ 2021/07/18](https://www.wdssmq.com/post/20210610060.html "【真·碎碎念】2021/07/12 ~ 2021/07/18")
+
+[【真·碎碎念】2021/07/19 ~ 2021/07/25](https://www.wdssmq.com/post/20140301127.html "【真·碎碎念】2021/07/19 ~ 2021/07/25")
 
 [「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」](https://www.wdssmq.com/post/20210724854.html "「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」")
 
@@ -77,8 +79,6 @@
 [【备忘】一些 SQL 语句](https://www.wdssmq.com/post/20120816277.html "【备忘】一些 SQL 语句")
 
 [【折腾】CSS 角标文字（失败版）](https://www.wdssmq.com/post/20141212329.html "【折腾】CSS 角标文字（失败版）")
-
-[【GM_脚本】Resilio Sync 密钥/任务导出备份](https://www.wdssmq.com/post/20190130502.html "【GM_脚本】Resilio Sync 密钥/任务导出备份")
 
 ---end---
 
