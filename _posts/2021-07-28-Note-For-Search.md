@@ -54,3 +54,13 @@ sm.ms 不支持 webp 格式；
 ```conf
 RewriteRule ^(tPre/[^/]+/[^/]+) $1?vue_break
 ```
+
+### 2021-07-28 11:28 快速删除 node_modules
+```bash
+# 淘宝镜像
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+# 安装rimraf
+cnpm install -g rimraf
+# 进入工作路径执行，Windows可将Git Bash注册到右键，
+rimraf node_modules
+```
