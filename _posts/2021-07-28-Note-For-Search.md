@@ -43,3 +43,14 @@ sm.ms 不支持 webp 格式；
 
 ### 2021-07-25 22:48
 重装了系统，所以决定试下不装搜狗五笔而用下微软五笔，然后找到了 wubiLex 这个辅助设置工具；然后在发这条嘟时发现需要先设置话题`PubWord`快捷短语，在研究了一通回来后发现还是忘记了。。
+
+### 2021-07-28 11:17 规则备忘
+```xml
+<rule name="/ vue_break" stopProcessing="false">
+  <match url="^(tPre/[^/]+/[^/]+)" ignoreCase="false" />
+  <action type="Rewrite" url="{R:1}?vue_break" />
+</rule>
+```
+```conf
+RewriteRule ^(tPre/[^/]+/[^/]+) $1?vue_break
+```
