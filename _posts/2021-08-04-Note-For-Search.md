@@ -58,11 +58,11 @@ $(".mz-snt-item h3").each(function(i,el){
 ```
 ### 2021-08-07 17:58 笔记 | Docker 网络相关
 
-- 列出网络：
+\- 列出网络：
 
 `docker network ls`
 
-- 创建网络：
+\- 创建网络：
 
 `docker network create --driver bridge net_web`
 
@@ -70,27 +70,42 @@ $(".mz-snt-item h3").each(function(i,el){
 
 `docker network create -d bridge net_web`
 
-- 查看指定网络信息：
+\- 查看指定网络信息：
 
 `docker network inspect net_web`
 
-- 创建容器时指定网络：
+\- 创建容器时指定网络：
 
-`docker run --name MySQL -d --network net_web -e MYSQL_ROOT_HOST=172.%.%.% -e MYSQL_ROOT_PASSWORD=MySQLPWD mysql/mysql-server:5.7`
+```bash
+# 删除已存在的容器
+docker rm --force MySQL
+docker run --name MySQL \
+  --network net_web \
+  -e MYSQL_ROOT_HOST=172.%.%.% \
+  -e MYSQL_ROOT_PASSWORD=MySQLPWD \
+  --restart on-failure \
+  -d mysql/mysql-server:5.7
+```
 
-- 使用容器名访问同网络的数据库：
+\- 使用容器名访问同网络的数据库：
 
-`docker run --name PHPMyAdmin -d --network net_web -e PMA_HOST=MySQL -p 9100:80 phpmyadmin/phpmyadmin`
+```bash
+docker run --name PHPMyAdmin \
+  --network net_web \
+  -e PMA_HOST=MySQL \
+  -p 9100:80 \
+  -d phpmyadmin/phpmyadmin
+```
 
-- 已经存在的容器连接到网络：
+\- 已经存在的容器连接到网络：
 
 `docker network connect net_web zbp_ForAPP`
 
-- 备份容器内的数据库：
+\- 备份容器内的数据库：
 
-`docker exec -it MySQL mysqldump -uroot -pMySQLPWD zbp_ForAPP > /root/mysql_file_backup/Docker_db_zbp_ForAPP.sql`
+`docker exec -it MySQL mysqldump -uroot -pMySQLPWD zbp_ForAPP > /root/backup/db_zbp_ForAPP.sql`
 
-- 附加说明：
+\- 附加说明：
 
 对于同一网络内的容器，相互之间可以通过容器名进行访问通信，该功能称之为`Docker DNS Server`；
 
