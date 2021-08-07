@@ -77,7 +77,7 @@ $(".mz-snt-item h3").each(function(i,el){
 \- 创建容器时指定网络：
 
 ```bash
-# 删除已存在的容器
+# 删除已创建的容器
 docker rm --force MySQL
 docker run --name MySQL \
   --network net_web \

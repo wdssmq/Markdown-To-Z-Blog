@@ -10,9 +10,11 @@ id: 1476
 alias: 20120817543
 ---
 
-## 2021-05-02
+## 创建一个网络用于容器互通
 
-到网站能正常打开研究了大半天，所以 PHPMyAdmin 和数据库文件映射之类的暂时还没弄；
+`docker network create -d bridge net_web`
+
+后续创建的容器全部连接至该网络中，更多说明请见「[这个链接](https://www.wdssmq.com/post/20210804429.html "2021-08-07 17:58 笔记 | Docker 网络相关")」；
 
 <!--more-->
 
@@ -20,29 +22,39 @@ alias: 20120817543
 
 > [Docker 安裝 Mysql + Phpmyadmin | 愛吃東西的 RD](http://www.andrewchen.tw/2017/05/05/20170505_NOTE_DOCKER_MYSQL/ "Docker 安裝 Mysql + Phpmyadmin | 愛吃東西的 RD")
 
-网络设置仍然不是很懂，只能说这样确实成功了；
+~~网络设置仍然不是很懂，只能说这样确实成功了；~~
 
 ```bash
-# docker pull mysql/mysql-server
+# cd /root
+# MYSQL_DIR=/root/MySQL
+# if [ ! -d $MYSQL_DIR ]; then
+#   mkdir -p $MYSQL_DIR
+# fi
 
-cd /root
-MYSQL_DIR=/root/MySQL
-if [ ! -d $MYSQL_DIR ]; then
-  mkdir -p $MYSQL_DIR
-fi
-
-# 删除创建的容器
+# 删除已创建的容器
 docker rm --force MySQL
 docker run --name MySQL \
-  --net=host \
+  --net=net_web \
   -e MYSQL_ROOT_HOST=172.%.%.% \
   -e MYSQL_ROOT_PASSWORD=shujukumima \
   --restart on-failure \
   -d mysql/mysql-server:5.7
 
+# PHPMyAdmin，映射端口为 9100
+docker rm --force PHPMyAdmin
+docker run --name PHPMyAdmin -d --network=net_web -e PMA_HOST=MySQL -p 9100:80 phpmyadmin/phpmyadmin
+
+# 平时可以停用，需要的时候再开启
+docker stop PHPMyAdmin
+docker start PHPMyAdmin
+
 # 安装验证
 docker exec -it MySQL mysql -u root -p
 
+# 备份，zbp_ForAPP 为数据库名
+docker exec -it MySQL mysqldump -u root -p shujukumima zbp_ForAPP > /root/backup/db_zbp_ForAPP.sql
+
+# 进入容器内登录测试
 # docker exec -it MySQL /bin/bash
 # mysql -u root -p
 
@@ -61,20 +73,22 @@ update user set host='%' where user='root';
 ```bash
 cd /root
 ZBP_DIR=/root/zbp_folder
+ZBP_PORT=8082
 if [ ! -d $ZBP_DIR ]; then
   mkdir -p $ZBP_DIR
 fi
 # 删除创建的容器
 docker rm --force zbp
 docker run --name zbp \
+  --net=net_web \
   -v $ZBP_DIR:/app \
-  -e ZC_DB_HOST=172.18.0.1 \
+  -e ZC_DB_HOST=MySQL \
   -e ZC_DB_NAME=zblog_docker \
   -e ZC_DB_USER=root \
   -e ZC_DB_PWDD=shujukumima \
   -e ZC_BLOG_USER=admin \
   -e ZC_BLOG_PWDD=shezhimima \
-  -p 8081:80 \
+  -p $ZBP_PORT:80 \
   --restart on-failure \
   -d wdssmq/zblogphp
 
@@ -138,15 +152,16 @@ docker build -t wdssmq/zblogphp .
 
 · Docker 网络相关
 
+更详细的说明见「[这个链接](https://www.wdssmq.com/post/20210804429.html "2021-08-07 17:58 笔记 | Docker 网络相关")」；
+
 ```bash
 docker network ls
 
 docker network inspect bridge
 docker network inspect host
 
-docker network create -d bridge test-net
-docker network inspect test-net
-
+docker network create -d bridge net_web
+docker network inspect net_web
 ```
 
 
