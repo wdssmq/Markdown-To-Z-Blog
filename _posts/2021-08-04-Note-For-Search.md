@@ -46,7 +46,7 @@ IIS 才是最好的 PHP 开发环境；
 ### 2021-07-31 09:21
 学校，迟到，电梯故障，17 楼和 16 楼中间出现的特异空间，也是要素齐全的梦。
 
-### 2021-08-04 13:07 备忘丨碎雨集回调函数
+### 2021-08-04 13:07 备忘 | 碎雨集回调函数
 
 ```js
 $(".mz-snt-item h3").each(function(i,el){
@@ -56,3 +56,42 @@ $(".mz-snt-item h3").each(function(i,el){
   i===0 && $this.parent().append("<p>&lt;!--more--&gt;</p>");
 });
 ```
+### 2021-08-07 17:58 笔记 | Docker 网络相关
+
+- 列出网络：
+
+`docker network ls`
+
+- 创建网络：
+
+`docker network create --driver bridge net_web`
+
+或者：
+
+`docker network create -d bridge net_web`
+
+- 查看指定网络信息：
+
+`docker network inspect net_web`
+
+- 创建容器时指定网络：
+
+`docker run --name MySQL -d --network net_web -e MYSQL_ROOT_HOST=172.%.%.% -e MYSQL_ROOT_PASSWORD=MySQLPWD mysql/mysql-server:5.7`
+
+- 使用容器名访问同网络的数据库：
+
+`docker run --name PHPMyAdmin -d --network net_web -e PMA_HOST=MySQL -p 9100:80 phpmyadmin/phpmyadmin`
+
+- 已经存在的容器连接到网络：
+
+`docker network connect net_web zbp_ForAPP`
+
+- 备份容器内的数据库：
+
+`docker exec -it MySQL mysqldump -uroot -pMySQLPWD zbp_ForAPP > /root/mysql_file_backup/Docker_db_zbp_ForAPP.sql`
+
+- 附加说明：
+
+对于同一网络内的容器，相互之间可以通过容器名进行访问通信，该功能称之为`Docker DNS Server`；
+
+使用 docker DNS 有个限制：只能在 user-defined 网络中使用。也就是说，默认的 bridge 网络是无法使用 DNS 的。
