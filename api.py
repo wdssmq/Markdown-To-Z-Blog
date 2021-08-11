@@ -369,10 +369,12 @@ def main():
         if isinstance(cover_id, int):
             (cover_code, cover_title) = get_post_code(cover_id)
             if cover_code == 200:
-                fnLog("使用指定id", cover_id)
+                fnLog("使用指定 id", cover_id)
                 fnLog("文章将被覆盖", ("《%s》" % cover_title))
                 id = cover_id
-
+        # if alias == "":
+        #     alias = md_name
+        #     fnLog("使用别名", alias)
         # Markdown 解析
         content = markdown.markdown(
             md_content, extensions=['tables', 'fenced_code', 'sane_lists', 'md_in_html'])
@@ -381,7 +383,7 @@ def main():
         md_content = "%s<!--%i-->\n" % (md_content, id)
 
         # post data构造
-        data_arg = {"Type": "0", "ID": id, "Title": title,
+        data_arg = {"Type": "0", "ID": id, "Title": title, "Alias": alias,
                     "Content": content, "MD_Content": md_content, "Tag": ",".join(tags), "CateName": cate, "Status": status}
         # 提交请求
         (done, post_id, post_mtime) = update_post(0, data_arg)
