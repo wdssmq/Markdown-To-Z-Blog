@@ -22,7 +22,7 @@ IIS、Apache、Nginx 姑且都用过，lighttpd 也仅仅是知道其存在而�
 
 ### Docker 镜像资源
 
-本想用另一个 ssh-nginx 镜像项目修改下实现，好像没成功，所以 Fork 了一个现成；
+本想用另一个 ssh-nginx 镜像项目修改下实现，好像没成功，所以 Fork 了一个现成的；
 
 wdssmq/alpine-lighttpd-php: Lighttpd and PHP running on Alpine Linux in a Docker image：
 
@@ -36,7 +36,7 @@ wdssmq/alpine-lighttpd-php: Lighttpd and PHP running on Alpine Linux in a Docker
 >
 > 本身有安装`php-xml`，需要额外安装`php-simplexml`；
 
-另外还填加了`php-mysqli`，「lighttpd.conf」规则中定义的`mimetype`也不够；
+另外还添加了`php-mysqli`，「lighttpd.conf」规则中定义的`mimetype`也不够；
 
 ### 构建并使用
 
