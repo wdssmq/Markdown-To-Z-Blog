@@ -52,7 +52,6 @@ def init():
     except:
         if not ("USER" in os.environ.keys() and os.environ["USER"] == "root"):
             locale.setlocale(locale.LC_CTYPE, 'chinese')
-        # _cache_logs_json = "[]"
         fnLog("## init")
         fnLog("无法获取github的secrets配置信息,开始使用本地变量")
         fnLog()
@@ -406,6 +405,8 @@ def main():
     fnLog("## update_readme")
     update_readme(_readme_file)
     fnLog()
+    fnLog("## 文章计数")
+    fnLog(["共计：", len(_posts_logs_data)])
 # 入口
 
 
