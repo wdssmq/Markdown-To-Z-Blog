@@ -133,7 +133,7 @@ server.modules += ("mod_fastcgi")
 server.modules += ("mod_rewrite")
 ```
 
-所以最终「正确」的步骤只能是：
+所以最终「正确」的最简步骤只能是：
 
 在 PHP 本身能够正确执行的前提下，并且已有定义中并末开启`mod_rewrite`模块，那么请尝试在**原有**「lighttpd.conf」文件的**最末尾**「另起一行」「**追加**」以下内容以开启伪静态：
 
