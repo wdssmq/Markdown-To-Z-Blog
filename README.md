@@ -4,7 +4,11 @@
 
 ---start---
 
-## 目录( 2021 年 08 月 11 日更新)
+## 目录( 2021 年 08 月 13 日更新)
+
+[「折腾」Docker 化部署 lighttpd 并安装 Z-BlogPHP](https://www.wdssmq.com/post/20210804429.html "「折腾」Docker 化部署 lighttpd 并安装 Z-BlogPHP")
+
+[【真·碎碎念】2021/06/14 ~ 2021/06/20](https://www.wdssmq.com/post/20100520804.html "【真·碎碎念】2021/06/14 ~ 2021/06/20")
 
 [【备忘】再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "【备忘】再再次谈系统安装【2021】")
 
@@ -33,8 +37,6 @@
 [「年度套路」水水名下 Z-Blog 应用打包赠送](https://www.wdssmq.com/post/20120926864.html "「年度套路」水水名下 Z-Blog 应用打包赠送")
 
 [【真·碎碎念】2021/07/05 ~ 2021/07/11](https://www.wdssmq.com/post/20100330322.html "【真·碎碎念】2021/07/05 ~ 2021/07/11")
-
-[【真·碎碎念】2021/06/14 ~ 2021/06/20](https://www.wdssmq.com/post/20100520804.html "【真·碎碎念】2021/06/14 ~ 2021/06/20")
 
 [【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图](https://www.wdssmq.com/post/20100215532.html "【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图")
 
@@ -77,8 +79,6 @@
 [2014年5月12日冷笑话合集 - 看完你会回来转的](https://www.wdssmq.com/post/20140512277.html "2014年5月12日冷笑话合集 - 看完你会回来转的")
 
 [【真·碎碎念】2021/05/10 ~ 2021/05/16](https://www.wdssmq.com/post/20210506936.html "【真·碎碎念】2021/05/10 ~ 2021/05/16")
-
-[【备忘】一些 SQL 语句](https://www.wdssmq.com/post/20120816277.html "【备忘】一些 SQL 语句")
 
 ---end---
 
