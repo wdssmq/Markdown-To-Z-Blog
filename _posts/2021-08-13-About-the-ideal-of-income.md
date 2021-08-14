@@ -41,13 +41,8 @@ Git 库尽量删除了不需要的，包括 Fork 项目，一个个数太麻烦�
   时间: '2021-08-13 19:53'
 ```
 
-### 收款码
+### 爱发电
 
 沉冰浮水正在创作和 z-blog 相关或无关的各种有用或没用的代码 | 爱发电
 
 \[ShortSth:爱发电\]\[/ShortSth\]
-
-![qr-ali](https://cdn.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-ali.png "qr-ali")
-![qr-wx](https://cdn.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-wx.png "qr-wx")
-![qr-qq](https://cdn.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-qq.png "qr-qq")
-
