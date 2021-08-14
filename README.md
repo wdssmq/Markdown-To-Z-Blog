@@ -6,6 +6,8 @@
 
 ## 目录( 2021 年 08 月 13 日更新)
 
+[「小目标」平均每篇文章/Git Repository 赚取 1 元](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元")
+
 [「折腾」Docker 化部署 lighttpd 并安装 Z-BlogPHP](https://www.wdssmq.com/post/20210804429.html "「折腾」Docker 化部署 lighttpd 并安装 Z-BlogPHP")
 
 [【真·碎碎念】2021/06/14 ~ 2021/06/20](https://www.wdssmq.com/post/20100520804.html "【真·碎碎念】2021/06/14 ~ 2021/06/20")
@@ -77,8 +79,6 @@
 [2010年11月17日冷笑话合集 - 竞争与合作](https://www.wdssmq.com/post/2010Nian11Yue17RiLengXiaoHuaHeJi-JingZhengYuHeZuo.html "2010年11月17日冷笑话合集 - 竞争与合作")
 
 [2014年5月12日冷笑话合集 - 看完你会回来转的](https://www.wdssmq.com/post/20140512277.html "2014年5月12日冷笑话合集 - 看完你会回来转的")
-
-[【真·碎碎念】2021/05/10 ~ 2021/05/16](https://www.wdssmq.com/post/20210506936.html "【真·碎碎念】2021/05/10 ~ 2021/05/16")
 
 ---end---
 
