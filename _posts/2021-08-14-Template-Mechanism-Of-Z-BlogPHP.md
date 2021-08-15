@@ -40,7 +40,7 @@ print $$animal;
 
 参考：
 「[PHP: 可变变量 - php.net](https://www.php.net/manual/zh/language.variables.variable.php "PHP: 可变变量 - Manual")」
-「[MVC框架\_百度百科](https://baike.baidu.com/item/MVC%E6%A1%86%E6%9E%B6/9241230 "MVC框架\_百度百科")」
+「[MVC 框架\_百度百科](https://baike.baidu.com/item/MVC%E6%A1%86%E6%9E%B6/9241230 "MVC 框架\_百度百科")」
 ；
 
 ### 正文
@@ -134,6 +134,7 @@ include "user-info-4.php";
 <p>blog：{$blog}</p>
 <p>afdian：{$afdian}</p>
  ```
+
 ↑ 而这也是 Z-BlogPHP 所采信的「模板标签」语法；
 
 参考：
@@ -141,16 +142,15 @@ include "user-info-4.php";
 「[模板标签 - 主题开发 - Z-BlogPHP 文档](https://docs.zblogcn.com/php/#/books/dev-app-theme?id=%e6%a8%a1%e6%9d%bf%e6%a0%87%e7%ad%be "模板标签 - 主题开发 - Z-BlogPHP 文档")」
 ；
 
-<!-- Template-Mechanism-Of-Z-BlogPHP -->、
+<!-- Template-Mechanism-Of-Z-BlogPHP -->
 
 ### 附件下载
 
-
-链接: [https://pan.baidu.com/s/19wH0sg5mXnY50Gue4ordlw](https://pan.baidu.com/s/19wH0sg5mXnY50Gue4ordlw "度盘分享")
-
+> 链接: [https://pan.baidu.com/s/19wH0sg5mXnY50Gue4ordlw](https://pan.baidu.com/s/19wH0sg5mXnY50Gue4ordlw "度盘分享")
+>
 提取码: 4gaa
-
-内含两个压缩包，一个是本页教程直接涉及的代码（未加密），另一个则包含凝练提取的 Z-BlogPHP `Template` 类及注解（加密）；
+>
+> 内含两个压缩包，一个是本页教程直接涉及的代码（未加密），另一个则包含凝练提取的 Z-BlogPHP `Template` 类及注解（加密）；
 
 密码获取方案如下：
 
