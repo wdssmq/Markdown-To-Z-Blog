@@ -4,7 +4,9 @@
 
 ---start---
 
-## 目录( 2021 年 08 月 14 日更新)
+## 目录( 2021 年 08 月 15 日更新)
+
+[「折腾」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「折腾」Z-BlogPHP 模板机制讲解「简易版」")
 
 [「小目标」平均每篇文章/Git Repository 赚取 1 元](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元")
 
@@ -77,8 +79,6 @@
 [【RPG Maker】RPG游戏无法运行原因整理](https://www.wdssmq.com/post/20200105056.html "【RPG Maker】RPG游戏无法运行原因整理")
 
 [2010年11月17日冷笑话合集 - 竞争与合作](https://www.wdssmq.com/post/2010Nian11Yue17RiLengXiaoHuaHeJi-JingZhengYuHeZuo.html "2010年11月17日冷笑话合集 - 竞争与合作")
-
-[2014年5月12日冷笑话合集 - 看完你会回来转的](https://www.wdssmq.com/post/20140512277.html "2014年5月12日冷笑话合集 - 看完你会回来转的")
 
 ---end---
 
