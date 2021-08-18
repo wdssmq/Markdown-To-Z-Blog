@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout code # Checkout
         uses: actions/checkout@v2
+        with:
+          ref: for-pub
       - name: Get Tag
         id: get_tag
         env:
