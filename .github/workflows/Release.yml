@@ -23,7 +23,7 @@ jobs:
           echo "::set-output name=tag::${TAG}"
       - name: Pack as zip
         run: |
-          git archive -o ${ZIP_NAME}.zip refs/heads/for-pub
+          git archive -o ${ZIP_NAME}.zip for-pub
           zip -g ${ZIP_NAME}.zip _posts/1970-01-01-empty.md _posts/1970-01-01-empty.md
         env:
           ZIP_NAME: ${{ env.ZIP_NAME }}
