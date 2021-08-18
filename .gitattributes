@@ -1,7 +1,6 @@
 .github
 .gitattributes                        export-ignore
 .gitignore
-PicGo/                                export-ignore
 _posts/*/                             export-ignore
-_posts/20*.md                         export-ignore
+_posts/*.md                           export-ignore
 _posts_logs.json                      export-ignore
