@@ -2,6 +2,8 @@
 
 同步*.md 内容到 Z-Blog
 
+使用说明请戳：「[使用说明](#部署 "使用说明")」
+
 ---start---
 
 ## 目录( 2021 年 08 月 15 日更新)
@@ -88,6 +90,22 @@ zhaoolee/WordPressXMLRPCTools: 用 Hexo 的方式管理 WordPress
 
 [https://github.com/zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools "zhaoolee/WordPressXMLRPCTools: 用Hexo的方式管理WordPress")
 
+## 部署
+
+[![Latest release](https://img.shields.io/github/v/release/wdssmq/Markdown-To-Z-Blog?style=flat-square)](https://github.com/wdssmq/Markdown-To-Z-Blog/releases/latest "Latest release")
+
+↑ 点击图标链接，下载「md2zbp.zip」文件解压至你的版本库文件夹内；
+
+↓ 修改如下文件项目后即可初始化提交；
+
+> `.github/FUNDING.yml` 「用于设置赞助链接——<a class="img-wrap" target="_blank" title="爱发电-@wdssmq" href="https://afdian.net/@wdssmq"><img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%40wdssmq-blueviolet" title="爱发电-@wdssmq" alt="爱发电-@wdssmq"></a>」；
+>
+> `README.md` 「注：`---start---任意内容---end---`用于插入文章列表，其他内容随意」；
+>
+> `doc/` 「该文件夹及内部图片如不需要可删除」；
+
+↓ 请阅读后续章节了解如何使用；
+
 ## 推荐插件
 
 API 接口扩展 - Z-Blog 应用中心：
@@ -121,13 +139,17 @@ pip install python-frontmatter
 
 运行：
 
-`python api.py`
+```bash
+python api.py
+```
 
 ## 文章书写
 
 ### 存放路径
 
-支持两种形式，需要配图的文章可以创建一个文件夹存放。
+支持两种形式，需要配图的文章可以创建一个文件夹存放；
+
+**注：版本库内仅用于留存图片，文章内使用需传至图床；**
 
 - _posts/*.md
 - _posts/*/doc.md
