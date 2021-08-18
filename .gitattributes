@@ -4,3 +4,4 @@
 _posts/*/                             export-ignore
 _posts/*.md                           export-ignore
 _posts_logs.json                      export-ignore
+Pipfile.lock                          export-ignore

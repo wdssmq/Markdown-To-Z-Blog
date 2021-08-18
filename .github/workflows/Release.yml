@@ -13,26 +13,30 @@ jobs:
     steps:
       - name: Checkout code # Checkout
         uses: actions/checkout@v2
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
+      - name: Get Tag
+        id: get_tag
+        if: startsWith(github.ref, 'refs/tags/v-')
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+          REF: ${{ github.ref }}
+        run: |
+          TAG=${REF/refs\/tags\/v-}
+          echo "::set-output name=tag::${TAG}"
+      - name: Pack as zip
+        run: |
+          git archive -o ${ZIP_NAME}.zip refs/heads/for-pub
+          zip -g ${ZIP_NAME}.zip _posts/1970-01-01-empty.md _posts/1970-01-01-empty.md
+        env:
+          ZIP_NAME: ${{ env.ZIP_NAME }}
+      - name: Release
+        id: release
+        uses: softprops/action-gh-release@v1
+        # if: startsWith(github.ref, 'refs/tags/')
+        env:
+          TAG: ${{steps.get_tag.outputs.tag}}
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          body: |
-            Changes in this Release
-            - First Change
-            - Second Change
-          draft: false
-          prerelease: false
-      # - name: Pack as zip
-      #   run: |
-      #     git archive -o ${ZIP_NAME}.zip HEAD
-      #     zip -g ${ZIP_NAME}.zip _posts/1970-01-01-empty.md _posts/1970-01-01-empty.md
-      #   env:
-      #     ZIP_NAME: ${{ env.ZIP_NAME }}
+          name: ${{ env.ZIP_NAME }} Build ${{ env.TAG }}
+          body: ${{ env.ZIP_NAME }} Build ${{ env.TAG }} Release.
+          files: ${{ env.ZIP_NAME }}.zip
       # - name: Upload Release Asset
       #   id: upload-release-asset
       #   uses: actions/upload-release-asset@v1
