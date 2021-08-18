@@ -62,9 +62,11 @@ winpty python -V
 解决：在 cmd 中执行：
 
 ```bat
-C:\Users\wdssm\AppData\Local\Programs\Python\Python37\python.exe C:\Users\wdssm\.vscode\extensions\ms-python.python-2021.1.502429796\pythonFiles\pyvsc-run-isolated.py pip install -U autopep8
+C:\Users\wdssm\AppData\Local\Programs\Python\Python37\python.exe \
+C:\Users\wdssm\.vscode\extensions\ms-python.python-2021.1.502429796\pythonFiles\pyvsc-run-isolated.py pip install -U autopep8
 
-C:\Users\wdssm\AppData\Local\Programs\Python\Python37\python.exe C:\Users\wdssm\.vscode\extensions\ms-python.python-2021.1.502429796\pythonFiles\pyvsc-run-isolated.py pip install -U pylint --user
+C:\Users\wdssm\AppData\Local\Programs\Python\Python37\python.exe \
+C:\Users\wdssm\.vscode\extensions\ms-python.python-2021.1.502429796\pythonFiles\pyvsc-run-isolated.py pip install -U pylint --user
 ```
 
 需要按实际修改路径。

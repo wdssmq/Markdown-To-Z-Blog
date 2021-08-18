@@ -5,12 +5,14 @@ tags:
 - CentOS
 - Python
 categories:
-- 未分类
+- 电脑网络
+id: 924
+alias: 20210224695
 ---
 
 上接：
 
-[【折腾】Python + GitHub Actions 更新 Z-Blog 的探索](https://zbp17.wdssmq.com/post/3.html "【折腾】Python + GitHub Actions 更新 Z-Blog 的探索")
+[【折腾】Python + GitHub Actions 更新 Z-Blog 的探索\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20210129918.html "【折腾】Python + GitHub Actions 更新 Z-Blog 的探索\_电脑网络\_沉冰浮水")
 
 [【折腾】VSCode 远程开发配置（Remote Development）_电脑网络_沉冰浮水](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode远程开发配置（Remote Development）_电脑网络_沉冰浮水")
 

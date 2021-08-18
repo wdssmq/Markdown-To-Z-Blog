@@ -4,60 +4,99 @@
 
 ---start---
 
-## 目录( 2021 年 02 月 18 日更新)
+## 目录( 2021 年 08 月 15 日更新)
 
-[EasyPHP - 略有极客感的 WEB 环境工具](https://zbp17.wdssmq.com/post/25.html "EasyPHP - 略有极客感的 WEB 环境工具")
+[「折腾」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「折腾」Z-BlogPHP 模板机制讲解「简易版」")
 
-[【折腾】Linux(CentOS)安装 Python](https://zbp17.wdssmq.com/post/5.html "【折腾】Linux(CentOS)安装 Python")
+[「小目标」平均每篇文章/Git Repository 赚取 1 元](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元")
 
-[Chrome 再次试图隐藏地址栏中的`www`部分](https://zbp17.wdssmq.com/post/20.html "Chrome 再次试图隐藏地址栏中的`www`部分")
+[「折腾」Docker 化部署 lighttpd 并安装 Z-BlogPHP](https://www.wdssmq.com/post/20210804429.html "「折腾」Docker 化部署 lighttpd 并安装 Z-BlogPHP")
 
-[【备忘】原生 JS 监听未来元素事件实例](https://zbp17.wdssmq.com/post/19.html "【备忘】原生 JS 监听未来元素事件实例")
+[【真·碎碎念】2021/06/14 ~ 2021/06/20](https://www.wdssmq.com/post/20100520804.html "【真·碎碎念】2021/06/14 ~ 2021/06/20")
 
-[【言说】不知道发没发的《黑豹》评论](https://zbp17.wdssmq.com/post/15.html "【言说】不知道发没发的《黑豹》评论")
+[【备忘】再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "【备忘】再再次谈系统安装【2021】")
 
-[【过往】百度网盘七年纪](https://zbp17.wdssmq.com/post/21.html "【过往】百度网盘七年纪")
+[【真·碎碎念】2021/07/26 ~ 2021/08/01](https://www.wdssmq.com/post/3126.html "【真·碎碎念】2021/07/26 ~ 2021/08/01")
 
-[【折腾】Python + GitHub Actions 更新 Z-Blog 的探索](https://zbp17.wdssmq.com/post/3.html "【折腾】Python + GitHub Actions 更新 Z-Blog 的探索")
+[【折腾】Docker 化安装 Z-BlogPHP](https://www.wdssmq.com/post/20120817544.html "【折腾】Docker 化安装 Z-BlogPHP")
 
-[关于 Z-BlogPHP 1.7 缩略图的一些记录](https://zbp17.wdssmq.com/post/13.html "关于 Z-BlogPHP 1.7 缩略图的一些记录")
+[【真·碎碎念】2021/07/19 ~ 2021/07/25](https://www.wdssmq.com/post/20140301127.html "【真·碎碎念】2021/07/19 ~ 2021/07/25")
 
-[【折腾】基于 Node 的 QQ 机器人项目](https://zbp17.wdssmq.com/post/18.html "【折腾】基于 Node 的 QQ 机器人项目")
+[【真·碎碎念】2021/07/12 ~ 2021/07/18](https://www.wdssmq.com/post/20210610060.html "【真·碎碎念】2021/07/12 ~ 2021/07/18")
 
-[【折腾】Docker 空间占用问题及 Nginx](https://zbp17.wdssmq.com/post/23.html "【折腾】Docker 空间占用问题及 Nginx")
+[「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」](https://www.wdssmq.com/post/20210724854.html "「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」")
 
-[【Z-Blog】插件管理、后台进不去时通过 FTP 删除相应插件](https://zbp17.wdssmq.com/post/17.html "【Z-Blog】插件管理、后台进不去时通过 FTP 删除相应插件")
+[【备忘】win10 + IIS + PHP + MySQL](https://www.wdssmq.com/post/20210705807.html "【备忘】win10 + IIS + PHP + MySQL")
 
-[【备忘】AMD 显卡驱动问题一则及解决方案](https://zbp17.wdssmq.com/post/24.html "【备忘】AMD 显卡驱动问题一则及解决方案")
+[【说点什么】系统重装恐惧症](https://www.wdssmq.com/post/20190130794.html "【说点什么】系统重装恐惧症")
 
-[【折腾】GM_脚本修改 bilibili 番剧链接为我的追番](https://zbp17.wdssmq.com/post/4.html "【折腾】GM_脚本修改 bilibili 番剧链接为我的追番")
+[Google 东京奥运会 Doodle](https://www.wdssmq.com/post/20210723446.html "Google 东京奥运会 Doodle")
 
-[【笔记】LNMP 部署/续期 SSL 证书](https://zbp17.wdssmq.com/post/10.html "【笔记】LNMP 部署/续期 SSL 证书")
+[「悲喜都不自由」……](https://www.wdssmq.com/post/20210723284.html "「悲喜都不自由」……")
 
-[【折腾】pip 安装各种依赖遇到的坑](https://zbp17.wdssmq.com/post/6.html "【折腾】pip 安装各种依赖遇到的坑")
+[在恰当的时机，以较小的代价……](https://www.wdssmq.com/post/20200523528.html "在恰当的时机，以较小的代价……")
 
-[【折腾】VSCode 远程开发配置（Remote Development）](https://zbp17.wdssmq.com/post/14.html "【折腾】VSCode 远程开发配置（Remote Development）")
+[无从复盘的过往](https://www.wdssmq.com/post/20191128815.html "无从复盘的过往")
 
-[合并了 Typecho 文章到 Z-Blog](https://zbp17.wdssmq.com/post/12.html "合并了 Typecho 文章到 Z-Blog")
+[「年度套路」水水名下 Z-Blog 应用打包赠送](https://www.wdssmq.com/post/20120926864.html "「年度套路」水水名下 Z-Blog 应用打包赠送")
 
-[【折腾】麦沃硬盘盒报毒的应对方案](https://zbp17.wdssmq.com/post/16.html "【折腾】麦沃硬盘盒报毒的应对方案")
+[【真·碎碎念】2021/07/05 ~ 2021/07/11](https://www.wdssmq.com/post/20100330322.html "【真·碎碎念】2021/07/05 ~ 2021/07/11")
 
-[【言说】停不下的写作和代码](https://zbp17.wdssmq.com/post/9.html "【言说】停不下的写作和代码")
+[【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图](https://www.wdssmq.com/post/20100215532.html "【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图")
 
-[使用 GitHub Actions + Markdown 更新 Z-Blog 博客](https://zbp17.wdssmq.com/post/7.html "使用 GitHub Actions + Markdown 更新 Z-Blog 博客")
+[【真·碎碎念】2021/06/21 ~ 2021/06/27](https://www.wdssmq.com/post/2010020260.html "【真·碎碎念】2021/06/21 ~ 2021/06/27")
 
-[【VSCode】快捷键备忘](https://zbp17.wdssmq.com/post/22.html "【VSCode】快捷键备忘")
+[【真·碎碎念】2021/06/28 ~ 2021/07/04](https://www.wdssmq.com/post/20210706772.html "【真·碎碎念】2021/06/28 ~ 2021/07/04")
 
-[【备忘】Z-BlogPHP 常用接口或函数](https://zbp17.wdssmq.com/post/11.html "【备忘】Z-BlogPHP 常用接口或函数")
+[【备忘】textarea 内输出 html 的转义问题](https://www.wdssmq.com/post/20210630871.html "【备忘】textarea 内输出 html 的转义问题")
 
-[【言说】相对擅长写代码，然而也只有写代码](https://zbp17.wdssmq.com/post/8.html "【言说】相对擅长写代码，然而也只有写代码")
+[【说点什么】小白宣言](https://www.wdssmq.com/post/20210114721.html "【说点什么】小白宣言")
 
-[欢迎使用 Z-BlogPHP！](https://zbp17.wdssmq.com/post/1.html "欢迎使用 Z-BlogPHP！")
+[【真·碎碎念】2021/06/21 ~ 2021/06/27](https://www.wdssmq.com/post/3120.html "【真·碎碎念】2021/06/21 ~ 2021/06/27")
+
+[「油猴」针对 QQ 群管理的「值日生」提示功能](https://www.wdssmq.com/post/20210531442.html "「油猴」针对 QQ 群管理的「值日生」提示功能")
+
+[【真·碎碎念】2021/06/07 ~ 2021/06/13](https://www.wdssmq.com/post/3119.html "【真·碎碎念】2021/06/07 ~ 2021/06/13")
+
+[【小事】换新的键盘终于回来了](https://www.wdssmq.com/post/20140512942.html "【小事】换新的键盘终于回来了")
+
+[【真·碎碎念】2021/05/31 ~ 2021/06/06](https://www.wdssmq.com/post/20210608249.html "【真·碎碎念】2021/05/31 ~ 2021/06/06")
+
+[【真·碎碎念】2021/05/03 ~ 2021/05/09](https://www.wdssmq.com/post/20140414540.html "【真·碎碎念】2021/05/03 ~ 2021/05/09")
+
+[【真·碎碎念】2021/04/26 ~ 2021/05/02](https://www.wdssmq.com/post/20100305398.html "【真·碎碎念】2021/04/26 ~ 2021/05/02")
+
+[关于如何回答「如何备份网站」这种事](https://www.wdssmq.com/post/20180717038.html "关于如何回答「如何备份网站」这种事")
+
+[【真·碎碎念】2021/05/17 ~ 2021/05/23](https://www.wdssmq.com/post/20100504832.html "【真·碎碎念】2021/05/17 ~ 2021/05/23")
+
+[【备忘】win7 下硬盘安装 Win8（可双系统）](https://www.wdssmq.com/post/20100407697.html "【备忘】win7 下硬盘安装 Win8（可双系统）")
+
+[【备忘】JavaScript 队列执行异步任务](https://www.wdssmq.com/post/20210529408.html "【备忘】JavaScript 队列执行异步任务")
+
+[我们的一生就像坐公车](https://www.wdssmq.com/post/WoMenDeYiShengJiuXiangZuoGongChe.html "我们的一生就像坐公车")
+
+[【RPG Maker】RPG游戏无法运行原因整理](https://www.wdssmq.com/post/20200105056.html "【RPG Maker】RPG游戏无法运行原因整理")
+
+[2010年11月17日冷笑话合集 - 竞争与合作](https://www.wdssmq.com/post/2010Nian11Yue17RiLengXiaoHuaHeJi-JingZhengYuHeZuo.html "2010年11月17日冷笑话合集 - 竞争与合作")
 
 ---end---
 
+## 致谢
+
 zhaoolee/WordPressXMLRPCTools: 用 Hexo 的方式管理 WordPress
+
 [https://github.com/zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools "zhaoolee/WordPressXMLRPCTools: 用Hexo的方式管理WordPress")
+
+## 推荐插件
+
+API 接口扩展 - Z-Blog 应用中心：
+
+[https://app.zblogcn.com/?id=19450](https://app.zblogcn.com/?id=19450 "API接口扩展 - Z-Blog 应用中心")
+
+Markdown 工具 - Z-Blog 应用中心：
+
+[https://app.zblogcn.com/?id=19416](https://app.zblogcn.com/?id=19416 "Markdown工具 - Z-Blog 应用中心")
 
 ## 命令（本地测试）
 
@@ -117,3 +156,10 @@ categories:
 正文段落二
 
 ```
+
+## API 鉴权设置
+
+如图，密码建议使用「md5(密码明文)」；
+
+![001](doc/001.png "001")
+

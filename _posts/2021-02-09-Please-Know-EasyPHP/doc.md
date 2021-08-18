@@ -5,6 +5,11 @@ tags:
 - Web_开发
 categories:
 - 电脑网络
+id: 420
+alias: 20210224528
+zhihu: https://zhuanlan.zhihu.com/p/367688268
+jianshu: https://www.jianshu.com/p/7fffb2314744
+csdn: https://blog.csdn.net/qq_15022221/article/details/115427797
 ---
 
 ## 软件名称
@@ -44,13 +49,13 @@ EasyPHP 面板助手：[https://greasyfork.org/zh-CN/scripts/421520](https://gre
 
 ## 软件截图
 
-![2021-02-10-001](https://i.loli.net/2021/02/10/g5BnrDJYFotWwSe.png "2021-02-10-001")
+![001](https://i.loli.net/2021/04/04/fcGvT6t4J1SIdjW.png "001")
 
-![2021-02-10-002](https://i.loli.net/2021/02/10/RIg8CZLNxMPUz5s.png "2021-02-10-002")
+![002](https://i.loli.net/2021/02/10/RIg8CZLNxMPUz5s.png "002")
 
-![2021-02-10-003](https://i.loli.net/2021/02/10/NXgICx2kqAmrMBl.png "2021-02-10-003")
+![003](https://i.loli.net/2021/02/10/NXgICx2kqAmrMBl.png "003")
 
-![2021-02-10-004](https://i.loli.net/2021/02/10/y4hCNoxX2ISDeZA.png "2021-02-10-004")
+![004](https://i.loli.net/2021/02/10/y4hCNoxX2ISDeZA.png "004")
 
 
 ## 官方网站 && 应用商店地址

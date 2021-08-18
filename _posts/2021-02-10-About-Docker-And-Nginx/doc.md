@@ -41,10 +41,10 @@ tmpfs           493M     0  493M   0% /dev/shm
 tmpfs           5.0M     0  5.0M   0% /run/lock
 tmpfs           493M     0  493M   0% /sys/fs/cgroup
 tmpfs            99M     0   99M   0% /run/user/0
-overlay          25G   25G     0 100% /var/lib/docker/overlay2/0c44aacce0a523f8d96af3c6c20e02ef3331961dab7e676299bb8c366626f125/merged
-shm              64M     0   64M   0% /var/lib/docker/containers/efa1960dd0e4c2d5fb8d2ba756b781e0d9392a148620334b70fd0c7b06737653/mounts/shm
-overlay          25G   25G     0 100% /var/lib/docker/overlay2/0ccf53346b8e4227b82530273532608b186fbf54545818340c9c8f062a63dde8/merged
-shm              64M     0   64M   0% /var/lib/docker/containers/1ca6b4a758efaed43d715bde4f9b3f435682c4cfd7441b52b69a9ad04b42fa16/mounts/shm
+overlay          25G   25G     0 100% /var/lib/docker/overlay2/0c44aacce0a523f8d96af3c6c20e02ef3331961dab7e676299bb8c366/merged
+shm              64M     0   64M   0% /var/lib/docker/containers/efa1960dd0e4c2d5fb8d2ba756b781e0d9392a148620334b70fd0c7/mounts/shm
+overlay          25G   25G     0 100% /var/lib/docker/overlay2/0ccf53346b8e4227b82530273532608b186fbf54545818340c9c8f062/merged
+shm              64M     0   64M   0% /var/lib/docker/containers/1ca6b4a758efaed43d715bde4f9b3f435682c4cfd7441b52b69a9ad/mounts/shm
 ```
 
 搜索到的清理命令是`docker system prune [-a]`，`-a`参数会清理的比较彻底，然而执行后并没能解决问题。。

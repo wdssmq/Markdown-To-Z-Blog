@@ -6,7 +6,9 @@ tags:
 - Z-Blog
 - 折腾
 categories:
-- 未分类
+- 电脑网络
+id: 1103
+alias: 20210224481
 ---
 
 Z-BlogPHP 1.7 将会提供一个`Thumb`基础类，本身只实现从「原图」到「缩略图」的转换和保存，简单说就是自动帮你变小。
@@ -37,7 +39,7 @@ function acgME_Main(&$template)
   //   acgME_SetIMG($article);
   // }
 }
-// 这部分还会有改动
+// 接口函数
 function acgME_Thumbs($article, &$all_images, $width, $height, $count, $clip)
 {
   $rndNum = $article->ID % 19 + 1;
@@ -75,8 +77,10 @@ function acgME_BuidTemp(&$templates)
   }
   $zbp->template->SetTags('slides', $slides);
   $templates['n-slide'] = $zbp->template->Output("m-slide");
-  $templates['n-slide'] .= '{php}$footer .= \'<script src="' . $zbp->host . 'zb_users/theme/acgME/script/swiper-3.4.2.jquery.min.js"></script>\'{/php}';
-  $templates['n-slide'] .= '{php}$footer .= \'<script src="' . $zbp->host . 'zb_users/theme/acgME/script/swiper-act.js"></script>\'{/php}';
+  $script = $zbp->host . 'zb_users/theme/acgME/script/swiper-3.4.2.jquery.min.js';
+  $templates['n-slide'] .= '{php}$footer .= \'<script src="' . script .'"></script>\'{/php}';
+  $script = $zbp->host . 'zb_users/theme/acgME/script/swiper-act.js';
+  $templates['n-slide'] .= '{php}$footer .= \'<script src="' . $script . '"></script>\'{/php}';
 }
 ```
 

@@ -4,25 +4,34 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "echo",
+      "label": "lint-md cli",
       "type": "shell",
-      "command": "echo `date +%Y-%m-%d-%H-%M-%S`",
+      "command": "lint-md ./_posts --config mdlint.json",
       "group": {
         "kind": "test",
         "isDefault": true
       }
     },
     {
-      "label": "copy",
+      "label": "NewPost",
       "type": "shell",
       "command": [
         "\r\n",
         "cd _posts \r\n",
         "_date=`date +%Y-%m-%d` \r\n",
         "_empty=1970-01-01-empty.md \r\n",
-        "cp ${_empty} ${_date}-new-post.md \r\n",
-        "mkdir ${_date}-new-post \r\n",
-        "cp ${_empty} ${_date}-new-post/doc.md"
+        "\r\n",
+        "if [ -d *-new-post ]; then mv *-new-post ${_date}-new-post; fi \r\n",
+        "if [ -f *-new-post.md ]; then mv *-new-post.md ${_date}-new-post.md; fi \r\n",
+        "if [ ! -f ${_date}-new-post.md ]; then \r\n",
+        "  cp ${_empty} ${_date}-new-post.md \r\n",
+        "fi",
+        "\r\n",
+        "if [ ! -d ${_date}-new-post ]; then \r\n",
+        "  mkdir ${_date}-new-post \r\n",
+        "  cp ${_empty} ${_date}-new-post/doc.md \r\n",
+        "fi",
+        "\r\n"
       ],
       "group": {
         "kind": "build",

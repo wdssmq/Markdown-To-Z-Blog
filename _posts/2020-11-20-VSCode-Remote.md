@@ -63,7 +63,7 @@ Host 另一台
 
 7、「远程资源管理器」→「SSH Targets」中列出已经添加的远程项目列表，相应项目上右键可选择在当前窗口打开或新窗口打开。
 
-7.1 
+7.1
 
 ```json
 "remote.SSH.remotePlatform": { "losangelesvps": "linux", "腾讯云": "linux" }

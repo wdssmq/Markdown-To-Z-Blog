@@ -10,7 +10,7 @@ import frontmatter
 import re
 
 from api_function import fnGetDirsInDir, fnGetFilesInDir, fnGetFilesInDir2, fnGetFileTime
-from api_function import fnLog, fnBug, fnErr, fnEmpty
+from api_function import fnEmpty, fnLog, fnBug, fnErr
 
 # LC_TIME = locale.setlocale(locale.LC_TIME)
 # LC_CTYPE = locale.setlocale(locale.LC_CTYPE)
@@ -52,7 +52,6 @@ def init():
     except:
         if not ("USER" in os.environ.keys() and os.environ["USER"] == "root"):
             locale.setlocale(locale.LC_CTYPE, 'chinese')
-        # _cache_logs_json = "[]"
         fnLog("## init")
         fnLog("无法获取github的secrets配置信息,开始使用本地变量")
         fnLog()
@@ -81,6 +80,10 @@ def login():
         config_info["token"] = data["token"]
         config_info["AuthorID"] = data["user"]["ID"]
         fnLog("登录成功")
+    else:
+        fnErr("登录失败", sys._getframe().f_lineno)
+        sys.exit(0)
+
 # 登录
 
 
@@ -236,13 +239,17 @@ def read_logs(file):
 # 全局变量
 # 文章路径
 _posts_dir = os.path.join(os.getcwd(), "_posts")
+
 # README.md
 _readme_file = os.path.join(os.getcwd(), "README.md")
+
 # 日志文件
 _posts_logs_file = os.path.join(os.getcwd(), "_posts_logs.json")
+
 if _debug:
     _posts_logs_file = os.path.join(os.getcwd(), "_debug_posts_logs.json")
     _readme_file = os.path.join(os.getcwd(), "_debug_README.md")
+
 # 日志数据
 _posts_logs_data = read_logs(_posts_logs_file)
 
@@ -336,7 +343,7 @@ def main():
             fnLog("md更新")
 
         # 读取md文件信息
-        (content, metadata) = read_md(md)
+        (md_content, metadata) = read_md(md)
 
         # 判断内容格式
         if not any(metadata):
@@ -351,6 +358,7 @@ def main():
         cate = metadata.get("categories", "")
         alias = metadata.get("alias", "")
         cover_id = metadata.get("id", "")
+        status = metadata.get("status", "0")
         # fnBug(cover_id, sys._getframe().f_lineno)
         if title == "未命名":
             fnErr("标题：" + title)
@@ -360,17 +368,22 @@ def main():
         if isinstance(cover_id, int):
             (cover_code, cover_title) = get_post_code(cover_id)
             if cover_code == 200:
-                fnLog("使用指定id", cover_id)
+                fnLog("使用指定 id", cover_id)
                 fnLog("文章将被覆盖", ("《%s》" % cover_title))
                 id = cover_id
-
+        # if alias == "":
+        #     alias = md_name
+        #     fnLog("使用别名", alias)
         # Markdown 解析
         content = markdown.markdown(
-            content, extensions=['tables', 'fenced_code'])
+            md_content, extensions=['tables', 'fenced_code', 'sane_lists', 'md_in_html'])
+
+        content = "%s<!--%i-->\n" % (content, id)
+        md_content = "%s<!--%i-->\n" % (md_content, id)
 
         # post data构造
-        data_arg = {"Type": "0", "ID": id, "Title": title,
-                    "Content": content, "Tag": ",".join(tags), "CateName": cate}
+        data_arg = {"Type": "0", "ID": id, "Title": title, "Alias": alias,
+                    "Content": content, "MD_Content": md_content, "Tag": ",".join(tags), "CateName": cate, "Status": status}
         # 提交请求
         (done, post_id, post_mtime) = update_post(0, data_arg)
         # fnBug("%s %s %s" % (done, post_id, post_mtime), sys._getframe().f_lineno)
@@ -392,6 +405,8 @@ def main():
     fnLog("## update_readme")
     update_readme(_readme_file)
     fnLog()
+    fnLog("## 文章计数")
+    fnLog(["共计：", len(_posts_logs_data)])
 # 入口
 
 

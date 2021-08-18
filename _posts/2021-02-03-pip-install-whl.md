@@ -4,7 +4,11 @@ tags:
 - Python
 - 折腾
 categories:
-- 未分类
+- 电脑网络
+id: 696
+alias: 20210224781
+jianshu: https://www.jianshu.com/p/bba0e78b9884
+csdn: https://blog.csdn.net/qq_15022221/article/details/116425359
 ---
 
 2021-02-03：
@@ -22,7 +26,7 @@ categories:
 > [ArtLine](https://github.com/vijishmadhavan/ArtLine "https://github.com/vijishmadhavan/ArtLine")
 > 一个深度学习项目，将照片转为线条素描画，这里有可以运行的 [Demo](https://github.com/jwenjian/artline-demo)（Flask 应用）。（[@jwenjian](https://github.com/ruanyf/weekly/issues/1571) 投稿）
 
-插件需要安装 `torch-1.6.0` 这个东西，然后大小有 974MB，直接命令直接超时了，然后晚上挂机下载了回来（都没想到找个镜像源下载）。
+插件需要安装 `torch-1.6.0` 这个东西，然后大小有 974MB，命令行直接超时了，然后晚上挂机下载了回来（都没想到找个镜像源下载）。
 
 ```bash
 # pip3 install torch==1.6.0 -f https://download.pytorch.org/whl/torch_stable.html
