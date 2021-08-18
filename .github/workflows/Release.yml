@@ -11,11 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ZIP_NAME: md2zbp
+      REF_NAME: for-pub
     steps:
       - name: Checkout code # Checkout
         uses: actions/checkout@v2
         with:
-          ref: for-pub
+          ref: ${{ env.REF_NAME }}
       - name: Get Tag
         id: get_tag
         env:
@@ -25,7 +26,7 @@ jobs:
           echo "::set-output name=tag::${TAG}"
       - name: Pack as zip
         run: |
-          git archive -o ${ZIP_NAME}.zip for-pub
+          git archive -o ${ZIP_NAME}.zip ${REF_NAME}
           zip -g ${ZIP_NAME}.zip _posts/1970-01-01-empty.md _posts/1970-01-01-empty.md
         env:
           ZIP_NAME: ${{ env.ZIP_NAME }}
