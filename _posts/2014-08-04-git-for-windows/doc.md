@@ -6,6 +6,7 @@ categories:
 - 电脑网络
 id: 2327
 alias: 20140804123
+zhihu: https://zhuanlan.zhihu.com/p/401916212
 ---
 
 ### 安装包下载

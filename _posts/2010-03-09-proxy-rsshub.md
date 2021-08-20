@@ -9,9 +9,10 @@ categories:
 - 电脑网络
 id: 142
 alias: 20100309739
+csdn: https://blog.csdn.net/qq_15022221/article/details/116125459
 zhihu: https://zhuanlan.zhihu.com/p/367656502
 jianshu: https://www.jianshu.com/p/e6f6eb7511e0
-csdn: https://blog.csdn.net/qq_15022221/article/details/116125459
+cnblogs: https://www.cnblogs.com/wdssmq/p/15167922.html
 ---
 
 ## 软件名称
