@@ -18,6 +18,10 @@ from api_function import fnEmpty, fnLog, fnBug, fnErr
 # print(LC_CTYPE)
 # 目测远程不需要设置这个
 
+# 全局调试信息
+_LOGS = ""
+
+# 时间信息
 _now = int(time.time())
 _local_time = time.localtime(_now)
 _local_time_format = time.strftime('%Y-%m-%d %H:%M:%S', _local_time)
@@ -313,6 +317,7 @@ def check_logs(key, mtime):
 
 
 def main():
+    global _LOGS
     # Actions中只针对提交的文件
     fnLog("## update_git_diff")
     update_git_diff()
@@ -375,7 +380,11 @@ def main():
                 id = cover_id
 
         if isinstance(cover_id, int) and cover_id != id:
+            _LOGS += "%s - %s - %s" % (md_name, cover_id, id) + "\n"
             fnErr([md_name, cover_id, id])
+
+        # if not isinstance(cover_id, int):
+        #     _LOGS += md_name + "\n"
 
         # if alias == "":
         #     alias = md_name
@@ -417,6 +426,10 @@ def main():
 # 入口
 
 
+# 调用 main()
 fnLog("# main")
 main()
-# fnLog()
+fnLog()
+
+# 输出调试信息
+print(_LOGS)
