@@ -323,8 +323,8 @@ def main():
     login()
     fnLog()
 
-    fnLog("## -----")
     # 获取md文件列表并处理
+    fnLog("## -----")
     md_list = get_md_list(_posts_dir)
     for md in md_list:
         fnLog("###")
@@ -360,21 +360,28 @@ def main():
         cover_id = metadata.get("id", "")
         status = metadata.get("status", "0")
         # fnBug(cover_id, sys._getframe().f_lineno)
+        # 跳过「未命名」文章
         if title == "未命名":
             fnErr("标题：" + title)
             fnLog()
             print("---")
             continue
-        if isinstance(cover_id, int):
+
+        if isinstance(cover_id, int) and id == 0:
             (cover_code, cover_title) = get_post_code(cover_id)
             if cover_code == 200:
                 fnLog("使用指定 id", cover_id)
                 fnLog("文章将被覆盖", ("《%s》" % cover_title))
                 id = cover_id
+
+        if isinstance(cover_id, int) and cover_id != id:
+            fnErr([md_name, cover_id, id])
+
         # if alias == "":
         #     alias = md_name
         #     fnLog("使用别名", alias)
         # Markdown 解析
+
         content = markdown.markdown(
             md_content, extensions=['tables', 'fenced_code', 'sane_lists', 'md_in_html'])
 
