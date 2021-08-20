@@ -323,20 +323,20 @@ def main():
     login()
     fnLog()
 
-    # 获取md文件列表并处理
-    fnLog("## -----")
+    # 获取 md 文件列表并处理
+    fnLog("## 遍历文章处理：")
     md_list = get_md_list(_posts_dir)
     for md in md_list:
-        fnLog("###")
-        # 文件标识名
+        fnLog()
+        print("---")
+        # 获取文件信息
         (md_name, md_mtime) = get_md_name(md)
-        fnLog(md_name, sys._getframe().f_lineno)
+        fnLog("### %s" % md_name, sys._getframe().f_lineno)
 
         # 判断更新时间
         (msg, id) = check_logs(md_name, md_mtime)
         if "skip" == msg:
             fnLog("无需同步")
-            fnLog()
             print("---")
             continue
         elif "update" == msg:
@@ -347,7 +347,7 @@ def main():
 
         # 判断内容格式
         if not any(metadata):
-            fnErr("md数据错误", md)
+            fnErr(["md数据错误", md], sys._getframe().f_lineno)
             fnLog()
             print("---")
             continue
@@ -362,7 +362,7 @@ def main():
         # fnBug(cover_id, sys._getframe().f_lineno)
         # 跳过「未命名」文章
         if title == "未命名":
-            fnErr("标题：" + title)
+            fnErr("标题：" + title, sys._getframe().f_lineno)
             fnLog()
             print("---")
             continue
@@ -413,7 +413,7 @@ def main():
     update_readme(_readme_file)
     fnLog()
     fnLog("## 文章计数")
-    fnLog(["共计：", len(_posts_logs_data)])
+    fnLog("共计：%s" % len(_posts_logs_data))
 # 入口
 
 
