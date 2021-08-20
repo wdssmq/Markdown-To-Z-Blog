@@ -8,7 +8,7 @@ def fnEmpty(arg):
 # 什么也不做
 
 
-def fnLog(msg="", tip=None):
+def fnLog(msg="", tip=None, type="[log]"):
     if not tip is None:
         tip = " ← %s" % tip
     else:
@@ -16,24 +16,24 @@ def fnLog(msg="", tip=None):
     if isinstance(msg, list):
         rlt = ""
         for x in msg:
-            rlt = rlt + str(x)
+            rlt = rlt + "，" + str(x)
         msg = rlt
     if isinstance(msg, int):
         msg = str(msg)
     if not any(msg):
         print("")
     else:
-        print("_%s%s" % (msg, tip))
+        print("_%s%s%s" % (type, msg, tip))
 # 输出信息
 
 
-def fnBug(msg, tip):
-    fnLog("[debug]%s" % msg, tip)
+def fnBug(msg, tip=None):
+    fnLog(msg, tip, "[debug]")
 # debug输出
 
 
 def fnErr(msg, tip=None):
-    fnLog("_[err]%s" % msg, tip)
+    fnLog(msg, tip, "_[err]")
 # 错误信息
 
 
