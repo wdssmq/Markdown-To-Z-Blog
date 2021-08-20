@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2021 年 08 月 15 日更新)
+## 目录( 2021 年 08 月 18 日更新)
+
+[说说 base64 编码](https://www.wdssmq.com/post/2019112672.html "说说 base64 编码")
 
 [「折腾」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「折腾」Z-BlogPHP 模板机制讲解「简易版」")
 
@@ -79,8 +81,6 @@
 [我们的一生就像坐公车](https://www.wdssmq.com/post/WoMenDeYiShengJiuXiangZuoGongChe.html "我们的一生就像坐公车")
 
 [【RPG Maker】RPG游戏无法运行原因整理](https://www.wdssmq.com/post/20200105056.html "【RPG Maker】RPG游戏无法运行原因整理")
-
-[2010年11月17日冷笑话合集 - 竞争与合作](https://www.wdssmq.com/post/2010Nian11Yue17RiLengXiaoHuaHeJi-JingZhengYuHeZuo.html "2010年11月17日冷笑话合集 - 竞争与合作")
 
 ---end---
 
