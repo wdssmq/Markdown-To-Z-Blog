@@ -380,8 +380,10 @@ def main():
                 id = cover_id
 
         if isinstance(cover_id, int) and cover_id != id:
-            _LOGS += "%s - %s - %s" % (md_name, cover_id, id) + "\n"
-            fnErr([md_name, cover_id, id])
+            _LOGS += "ID 不匹配：%s - %s - %s" % (md_name, cover_id, id) + "\n"
+            fnErr(["ID 不匹配", md_name, cover_id, id])
+            print("---")
+            continue
 
         # if not isinstance(cover_id, int):
         #     _LOGS += md_name + "\n"
