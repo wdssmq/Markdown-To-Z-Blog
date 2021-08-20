@@ -386,7 +386,7 @@ def main():
             continue
 
         # if not isinstance(cover_id, int):
-        #     _LOGS += md_name + "\n"
+        #     _LOGS += "未指定 ID ：%s - %s" % (md_name, id) + "\n"
 
         # if alias == "":
         #     alias = md_name
