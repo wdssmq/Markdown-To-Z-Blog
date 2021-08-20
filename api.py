@@ -359,7 +359,7 @@ def main():
         alias = metadata.get("alias", "")
         cover_id = metadata.get("id", "")
         status = metadata.get("status", "0")
-        # fnBug(cover_id, sys._getframe().f_lineno)
+
         # 跳过「未命名」文章
         if title == "未命名":
             fnErr("标题：" + title, sys._getframe().f_lineno)
