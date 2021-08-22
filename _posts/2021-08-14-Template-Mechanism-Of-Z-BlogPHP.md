@@ -128,12 +128,12 @@ include "user-info-4.php";
 
 然而在 HTML 中插入 PHP 语法仍然不是很方便，而且实际上，「`<!-- 4 - user-info-4.php -->`」部分的代码是由如下代码转换而来：
 
- ```html
+```html
  <!-- 4 - user-info-4.php -->
 <p>name：{$name}</p>
 <p>blog：{$blog}</p>
 <p>afdian：{$afdian}</p>
- ```
+```
 
 ↑ 而这也是 Z-BlogPHP 所采用的「模板标签」语法；
 
