@@ -135,7 +135,7 @@ include "user-info-4.php";
 <p>afdian：{$afdian}</p>
  ```
 
-↑ 而这也是 Z-BlogPHP 所采信的「模板标签」语法；
+↑ 而这也是 Z-BlogPHP 所采用的「模板标签」语法；
 
 参考：
 「[主题开发 - Z-BlogPHP 文档](https://docs.zblogcn.com/php/#/books/dev-app-theme "主题开发 - Z-BlogPHP 文档")」
