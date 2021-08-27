@@ -59,7 +59,7 @@ Git 简易使用指南：[http://www.bootcss.com/p/git-guide/](http://www.bootcs
 
 图 5 ↑
 
-**建议使用 TortoiseGit 或 VSCode 内置功能，下边的内容可以跳过了**
+**建议使用 TortoiseGit 或 VSCode 内置功能，下边的内容可以跳过了！**
 
 2、安装后桌面好像只有个命令行的快捷方式？没关系，直接在桌面或任意文件夹右键，点击 Git UI Here（图 6）
 
