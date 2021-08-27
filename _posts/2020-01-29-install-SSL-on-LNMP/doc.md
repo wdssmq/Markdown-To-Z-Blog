@@ -6,6 +6,8 @@ categories:
 - 电脑网络
 id: 2935
 alias: 20200129996
+zhihu: https://zhuanlan.zhihu.com/p/404135329
+cnblogs: https://www.cnblogs.com/wdssmq/p/15193333.html
 ---
 
 虽然很早就开始用 SSL 了，但是每次续期等于要从头折腾一次，果然还是把自动续期安排上比较好。
