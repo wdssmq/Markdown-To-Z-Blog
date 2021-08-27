@@ -8,11 +8,15 @@
 
 ## 目录( 2021 年 08 月 27 日更新)
 
+[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
+
+[【折腾】独立博客之「熵」](https://www.wdssmq.com/post/20210227485.html "【折腾】独立博客之「熵」")
+
+[不能邮箱登录的网站都是耍流氓【无力吐槽】](https://www.wdssmq.com/post/20140507140.html "不能邮箱登录的网站都是耍流氓【无力吐槽】")
+
 [「水坑」如何正确的自定义 CSS 样式](https://www.wdssmq.com/post/20190705015.html "「水坑」如何正确的自定义 CSS 样式")
 
 [【备忘】msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit 安装及使用")
-
-[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
 
 [「折腾」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「折腾」Z-BlogPHP 模板机制讲解「简易版」")
 
@@ -77,10 +81,6 @@
 [【真·碎碎念】2021/06/21 ~ 2021/06/27](https://www.wdssmq.com/post/3120.html "【真·碎碎念】2021/06/21 ~ 2021/06/27")
 
 [「油猴」针对 QQ 群管理的「值日生」提示功能](https://www.wdssmq.com/post/20210531442.html "「油猴」针对 QQ 群管理的「值日生」提示功能")
-
-[【小事】换新的键盘终于回来了](https://www.wdssmq.com/post/20140512942.html "【小事】换新的键盘终于回来了")
-
-[【真·碎碎念】2021/05/03 ~ 2021/05/09](https://www.wdssmq.com/post/20140414540.html "【真·碎碎念】2021/05/03 ~ 2021/05/09")
 
 ---end---
 
