@@ -6,7 +6,17 @@
 
 ---start---
 
-## 目录( 2021 年 08 月 20 日更新)
+## 目录( 2021 年 08 月 22 日更新)
+
+[【折腾】GitHub Actions 反代 RSSHub + 多实例轮询](https://www.wdssmq.com/post/20100309739.html "【折腾】GitHub Actions 反代 RSSHub + 多实例轮询")
+
+[【备忘】再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "【备忘】再再次谈系统安装【2021】")
+
+[【VSCode】快捷键备忘](https://www.wdssmq.com/post/20130525410.html "【VSCode】快捷键备忘")
+
+[【备忘】msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit 安装及使用")
+
+[「折腾」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「折腾」Z-BlogPHP 模板机制讲解「简易版」")
 
 [【真·碎碎念】2021/06/07 ~ 2021/06/13](https://www.wdssmq.com/post/20210820119.html "【真·碎碎念】2021/06/07 ~ 2021/06/13")
 
@@ -20,15 +30,11 @@
 
 [说说 base64 编码](https://www.wdssmq.com/post/2019112672.html "说说 base64 编码")
 
-[「折腾」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「折腾」Z-BlogPHP 模板机制讲解「简易版」")
-
 [「小目标」平均每篇文章/Git Repository 赚取 1 元](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元")
 
 [「折腾」Docker 化部署 lighttpd 并安装 Z-BlogPHP](https://www.wdssmq.com/post/20210804429.html "「折腾」Docker 化部署 lighttpd 并安装 Z-BlogPHP")
 
 [【真·碎碎念】2021/06/14 ~ 2021/06/20](https://www.wdssmq.com/post/20100520804.html "【真·碎碎念】2021/06/14 ~ 2021/06/20")
-
-[【备忘】再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "【备忘】再再次谈系统安装【2021】")
 
 [【折腾】Docker 化安装 Z-BlogPHP](https://www.wdssmq.com/post/20120817544.html "【折腾】Docker 化安装 Z-BlogPHP")
 
@@ -75,12 +81,6 @@
 [【真·碎碎念】2021/04/26 ~ 2021/05/02](https://www.wdssmq.com/post/20100305398.html "【真·碎碎念】2021/04/26 ~ 2021/05/02")
 
 [关于如何回答「如何备份网站」这种事](https://www.wdssmq.com/post/20180717038.html "关于如何回答「如何备份网站」这种事")
-
-[【真·碎碎念】2021/05/17 ~ 2021/05/23](https://www.wdssmq.com/post/20100504832.html "【真·碎碎念】2021/05/17 ~ 2021/05/23")
-
-[【备忘】win7 下硬盘安装 Win8（可双系统）](https://www.wdssmq.com/post/20100407697.html "【备忘】win7 下硬盘安装 Win8（可双系统）")
-
-[【备忘】JavaScript 队列执行异步任务](https://www.wdssmq.com/post/20210529408.html "【备忘】JavaScript 队列执行异步任务")
 
 ---end---
 
