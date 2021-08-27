@@ -32,4 +32,10 @@ alias: 20200617652
 
 `ctrl + f5` 强制刷新网页，适用于修改过 CSS、JS 或更换过图片后；
 
+### 投喂支持
 
+「小目标」平均每篇文章/Git Repository 赚取 1 元\_杂七杂八\_沉冰浮水：
+
+[https://www.wdssmq.com/post/20210723266.html](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元\_杂七杂八\_沉冰浮水")
+
+↓↓ 下边也有发电链接，紫色的那个 ↓↓
