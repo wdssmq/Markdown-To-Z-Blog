@@ -51,12 +51,20 @@ IIS 才是最好的 PHP 开发环境；
 ### 2021-08-04 13:07 备忘 | 碎雨集回调函数
 
 ```js
-$(".mz-snt-item h3").each(function(i,el){
-  const $this = $(this);
-  const strText = $this.html();
-  $this.html(`### ${strText}`);
-  i===0 && $this.parent().append("<p>&lt;!--more--&gt;</p>");
+$(".mz-snt-item").each(function (i, el) {
+  // md 标题格式
+  const $h3 = $(this).find("h3");
+  const strText = $h3.html();
+  $h3.html(`### ${strText}`);
+  i === 0 && $h3.parent().append("<p>&lt;!--more--&gt;</p>");
+  // md 转义 #
+  const $p = $(this).find("p");
+  $p.each(function () {
+    const html = $(this).html().trim();
+    $(this).html(html.replace(/\\?\#/g, "\\#"));
+  });
 });
+
 ```
 ### 2021-08-07 17:58 笔记 | Docker 网络相关
 

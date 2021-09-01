@@ -47,15 +47,3 @@ ssb 客户端 Patchwork 停止维护了
 
 ### 2021-05-16 19:31
 Git Actions 是不是对我进行了限制还是禁用？一直是队列的。。
-
-### **2021-05-17 20:03 总结**
-
-· 临时方案
-
-```js
-$(".mz-snt-item h3").each(function(e){
- const $this = $(this);
- const strText = $this.html();
- $this.html(`### ${strText}<br>`);
-});
-```
