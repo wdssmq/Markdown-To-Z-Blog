@@ -121,9 +121,9 @@ eslint --init
 
 ```bash
 # 检查指定文件
-eslint file1.js file2.js
+eslint vite.config.js
 # 检查目录
-eslint lib/**
+eslint src/**/*.vue src/**/*.js
 ```
 
 Command Line Interface - ESLint 中文：
@@ -158,7 +158,6 @@ node_modules\.bin\eslint.cmd --init
     "spaced-comment": [2, "always"],
     "semi": [2, "always"],
     "quotes": [2, "double"],
-    "space-before-function-paren": [1, "always"],
     "no-unused-vars": [1, { "args": "none" }]
   }
 ```
@@ -218,3 +217,41 @@ export default {
     }
 }
 ```
+
+5、
+
+> '__dirname' is not defined.eslintno-undef
+
+错误提示出现在「vite.config.js」中；
+
+解决：
+
+.eslintrc.json 或其他格式的配置文件中，确保对应声明中存在`"node": true,`这一项；
+
+```json
+{
+  "env": {
+    "browser": true,
+    "node": true,
+    "es2021": true
+  }
+}
+```
+
+6、
+
+> The template root requires exactly one element.eslintvue/no-multiple-template-root
+
+报错代码如下，将`<template> ** </template>`改为`<template><div> ** </div></template>`可以消除这个错误，但是不太科学；
+
+```html
+<template>
+  <Header class="header" />
+  <router-view class="content" />
+  <Footer class="footer" />
+</template>
+```
+
+正确方法，修改「.eslintrc.json」文件
+
+`"extends": ["eslint:recommended", "plugin:vue/essential"],`→`"extends": ["eslint:recommended", "plugin:vue/vue3-essential"],`；
