@@ -17,7 +17,9 @@ alias: 20100305398
 
 · 似乎已安装 GIT 1.7.1。Code 非常适合 GIT >= 2
 
-待补充
+【折腾】VSCode 远程开发配置（Remote Development）\_电脑网络\_沉冰浮水：
+
+[https://www.wdssmq.com/post/20201120519.html](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）\_电脑网络\_沉冰浮水")
 
 ### 2021-4-29 12:09 CentOS & Crontab
 
