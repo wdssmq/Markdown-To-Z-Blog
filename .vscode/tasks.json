@@ -6,7 +6,7 @@
     {
       "label": "lint-md cli",
       "type": "shell",
-      "command": "lint-md ./_posts --config mdlint.json",
+      "command": "lint-md ./_posts --config mdlint.json --fix",
       "group": {
         "kind": "test",
         "isDefault": true
