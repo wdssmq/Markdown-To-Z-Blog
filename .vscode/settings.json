@@ -1,5 +1,4 @@
 {
-  "picgo.customUploadName": "${date}-${fileName}${extName}",
   "files.exclude": {
     "**/__pycache__": true,
     // "**/.github": true,
