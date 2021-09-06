@@ -30,7 +30,7 @@ alias: 20200930532
 >
 > <a href="https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client" target="_blank" title="PHP Intelephense - Visual Studio Marketplace">https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client</a>
 
-主要用来写Z-Blog的插件，*.code-workspace文件如下：
+主要用来写 Z-Blog 的插件，「*.code-workspace」文件如下：
 
 ```json
 {
