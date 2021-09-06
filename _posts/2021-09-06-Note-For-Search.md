@@ -1,10 +1,14 @@
 ### 2021-08-31 13:38
-\#备忘 Z-BlogPHP 文章表按更新时间降序查看`SELECT * FROM `zbp_post` ORDER BY `zbp_post`.`log_UpdateTime` DESC`
+\#备忘 Z-BlogPHP 文章表按更新时间降序查看
+
+```sql
+SELECT * FROM `zbp_post` ORDER BY `zbp_post`.`log_UpdateTime` DESC
+```
 
 <!--more-->
 
 ### 2021-09-01 08:25
-第四天，疼痛仍然存在，程度上只减轻了20%，某种意义上唯一真实的后果！
+第四天，疼痛仍然存在，程度上只减轻了 20%，某种意义上唯一真实的后果！
 
 ### 2021-09-02 10:58
 忘记自己还开着 Visual Studio IntelliCode 了，时不时会弹出提示刷存在感；
@@ -26,10 +30,16 @@ RSS 查看 √
 ### 2021-09-05 16:11
 一周总结「- 雾
 
-1、新主题只有首页完成了；2、打算弄个`I`M` 名片生成；3、还打算弄个 `RSS We`；
+1、新主题只有首页完成了；
+
+2、打算弄个`I'M 名片生成`；
+
+3、还打算弄个`RSS We`；
 
 ### 2021-09-05 16:23
-\#书签 「折腾」ESLint 安装与使用_电脑网络_沉冰浮水`https://www.wdssmq.com/post/20190917021.html` ←不知道 Bing 会不会收录这条嘟；
+\#书签
+
+「折腾」ESLint 安装与使用_电脑网络_沉冰浮水`https://www.wdssmq.com/post/20190917021.html` ←不知道 Bing 会不会收录这条嘟；
 
 ### 2021-09-05 18:23
 Prettier 和 ESLint 果然是有些重复
