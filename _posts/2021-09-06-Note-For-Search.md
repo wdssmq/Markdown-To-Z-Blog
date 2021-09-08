@@ -61,3 +61,41 @@ Prettier 和 ESLint 果然是有些重复
 
 ### 2021-09-05 21:10
 这种类型的 Z-BlogPHP 插件官方坚持要求收费，背后的原因……
+
+
+### 2021-09-08 20:18 - 还是 crontab
+
+安装位置：
+
+`which crontab`
+
+`# /usr/bin/crontab`
+
+查看定时任务：
+
+`crontab -l`
+
+创建 / 编辑 任务：
+
+`crontab -e`
+
+VSCode 编辑查看：
+
+`code /etc/crontab`
+
+↑ `crontab -e` 和 `crontab -l` 看不到这个；
+
+VSCode 编辑查看：
+
+`code /var/spool/cron/root`
+
+↑ root 为当前用户，等同于 `crontab -e`
+
+```shell
+service crond start # 启动服务
+service crond stop # 关闭服务
+service crond restart # 重启服务
+service crond reload # 重新载入配置
+crontab -l
+service crond status # 查看crontab服务状态
+```
