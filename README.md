@@ -6,13 +6,15 @@
 
 ---start---
 
-## 目录( 2021 年 09 月 06 日更新)
+## 目录( 2021 年 09 月 08 日更新)
+
+[【真·碎碎念】2021-07-28「特别篇」](https://www.wdssmq.com/post/20120641176.html "【真·碎碎念】2021-07-28「特别篇」")
+
+[【真·碎碎念】2021/08/30 ~ 2021/09/05](https://www.wdssmq.com/post/20191011022.html "【真·碎碎念】2021/08/30 ~ 2021/09/05")
 
 [【言说】不知道发没发的《黑豹》评论](https://www.wdssmq.com/post/20130403328.html "【言说】不知道发没发的《黑豹》评论")
 
 [【笔记】LNMP 部署/续期 SSL 证书](https://www.wdssmq.com/post/20200129996.html "【笔记】LNMP 部署/续期 SSL 证书")
-
-[【真·碎碎念】2021/08/30 ~ 2021/09/05](https://www.wdssmq.com/post/20191011022.html "【真·碎碎念】2021/08/30 ~ 2021/09/05")
 
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
 
@@ -79,8 +81,6 @@
 [【说点什么】系统重装恐惧症](https://www.wdssmq.com/post/20190130794.html "【说点什么】系统重装恐惧症")
 
 [Google 东京奥运会 Doodle](https://www.wdssmq.com/post/20210723446.html "Google 东京奥运会 Doodle")
-
-[「悲喜都不自由」……](https://www.wdssmq.com/post/20210723284.html "「悲喜都不自由」……")
 
 ---end---
 
