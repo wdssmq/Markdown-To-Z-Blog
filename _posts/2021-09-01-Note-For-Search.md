@@ -61,3 +61,26 @@ CSS 检测支持悬停的设备 `https://css-irl.info/detecting-hover-capable-de
 
 ### 2021-08-29 20:10
 天黑了才收工，脚超级疼，有种绝望叫做已经坐沙发上了却发现手机没拿。
+
+### 2021-09-09 18:08
+
+我好像并没有用原生 JS 写过 POST，所以今天才知道 `FormData` 对象；
+
+```js
+let xhr = new XMLHttpRequest(),
+  sendData = new FormData(),
+  method = "POST",
+  url = location.href;
+
+// 添加字段
+sendData.append('del', 1);
+
+console.log(sendData);
+
+xhr.open(method, url, true);
+xhr.send(sendData);
+
+xhr.onreadystatechange = () => {
+  console.log(xhr.responseText);
+}
+```
