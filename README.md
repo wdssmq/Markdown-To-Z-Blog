@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2021 年 09 月 13 日更新)
+## 目录( 2021 年 09 月 15 日更新)
+
+[口算题在线生成（可打印）](https://www.wdssmq.com/post/shuxue.html "口算题在线生成（可打印）")
 
 [【真·碎碎念】2021-07-28「特别篇」](https://www.wdssmq.com/post/20120641176.html "【真·碎碎念】2021-07-28「特别篇」")
 
@@ -79,8 +81,6 @@
 [「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」](https://www.wdssmq.com/post/20210724854.html "「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」")
 
 [【备忘】win10 + IIS + PHP + MySQL](https://www.wdssmq.com/post/20210705807.html "【备忘】win10 + IIS + PHP + MySQL")
-
-[【说点什么】系统重装恐惧症](https://www.wdssmq.com/post/20190130794.html "【说点什么】系统重装恐惧症")
 
 ---end---
 
