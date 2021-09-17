@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录( 2021 年 09 月 15 日更新)
+## 目录( 2021 年 09 月 17 日更新)
+
+[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
+
+[「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作](https://www.wdssmq.com/post/20200105022.html "「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作")
 
 [口算题在线生成（可打印）](https://www.wdssmq.com/post/shuxue.html "口算题在线生成（可打印）")
 
@@ -39,8 +43,6 @@
 [「水坑」如何正确的自定义 CSS 样式](https://www.wdssmq.com/post/20190705015.html "「水坑」如何正确的自定义 CSS 样式")
 
 [【列表】上一部](https://www.wdssmq.com/post/20190520228.html "【列表】上一部")
-
-[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
 
 [【折腾】独立博客之「熵」](https://www.wdssmq.com/post/20210227485.html "【折腾】独立博客之「熵」")
 
@@ -79,8 +81,6 @@
 [【真·碎碎念】2021/07/12 ~ 2021/07/18](https://www.wdssmq.com/post/20210610060.html "【真·碎碎念】2021/07/12 ~ 2021/07/18")
 
 [「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」](https://www.wdssmq.com/post/20210724854.html "「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」")
-
-[【备忘】win10 + IIS + PHP + MySQL](https://www.wdssmq.com/post/20210705807.html "【备忘】win10 + IIS + PHP + MySQL")
 
 ---end---
 
