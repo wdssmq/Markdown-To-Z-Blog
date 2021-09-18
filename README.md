@@ -8,9 +8,11 @@
 
 ## 目录( 2021 年 09 月 17 日更新)
 
-[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
+[一些能用的 BT Tracker 服务器地址【不定时更新】](https://www.wdssmq.com/post/20130323295.html "一些能用的 BT Tracker 服务器地址【不定时更新】")
 
 [「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作](https://www.wdssmq.com/post/20200105022.html "「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作")
+
+[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
 
 [口算题在线生成（可打印）](https://www.wdssmq.com/post/shuxue.html "口算题在线生成（可打印）")
 
@@ -79,8 +81,6 @@
 [【真·碎碎念】2021/07/19 ~ 2021/07/25](https://www.wdssmq.com/post/20140301127.html "【真·碎碎念】2021/07/19 ~ 2021/07/25")
 
 [【真·碎碎念】2021/07/12 ~ 2021/07/18](https://www.wdssmq.com/post/20210610060.html "【真·碎碎念】2021/07/12 ~ 2021/07/18")
-
-[「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」](https://www.wdssmq.com/post/20210724854.html "「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」")
 
 ---end---
 
