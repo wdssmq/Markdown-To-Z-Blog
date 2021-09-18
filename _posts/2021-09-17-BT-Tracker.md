@@ -16,7 +16,7 @@ alias: 20130323295
 ### 推荐
 
 
-井盖Chat | 咸能使者：[https://jgchat.net/i/q7UmX2J8](https://jgchat.net/i/q7UmX2J8 "井盖Chat | 咸能使者")
+井盖 Chat | 咸能使者：[https://jgchat.net/i/q7UmX2J8](https://jgchat.net/i/q7UmX2J8 "井盖Chat | 咸能使者")
 
 **一个推送 BT Tracker 的 RSS 订阅源：\[ShortSth:bt-tracker-rss\]\[/ShortSth\]**
 
