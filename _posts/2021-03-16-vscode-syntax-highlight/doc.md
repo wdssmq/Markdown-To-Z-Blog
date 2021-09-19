@@ -1,5 +1,5 @@
 ---
-title: 【折腾】VSCode 语法高亮探索
+title: 「折腾」VSCode 语法高亮探索
 tags:
 - 折腾
 - VSCode
@@ -153,9 +153,15 @@ npx js-yaml syntaxes/phpzz.tmLanguage.yaml > syntaxes/phpzz.tmLanguage.json
 
 成品见：
 
-> wdssmq/z-blog-color: zbp 模板语法高亮（VSCode 插件）：
+> wdssmq/Z-BlogPHP-Color: zbp 模板语法高亮（VSCode 插件）：
 >
-> [https://github.com/wdssmq/z-blog-color](https://github.com/wdssmq/z-blog-color "wdssmq/z-blog-color: zbp 模板语法高亮（VSCode 插件）")
+> [https://github.com/wdssmq/Z-BlogPHP-Color](https://github.com/wdssmq/Z-BlogPHP-Color "wdssmq/Z-BlogPHP-Color: zbp 模板语法高亮（VSCode 插件）")
+
+以及虽然鸽了半年，终于发布出来了：
+
+> Z-BlogPHP-Color - Visual Studio Marketplace：
+>
+> [https://marketplace.visualstudio.com/items?itemName=wdssmq.z-blog-php-color](https://marketplace.visualstudio.com/items?itemName=wdssmq.z-blog-php-color "Z-BlogPHP-Color - Visual Studio Marketplace")
 
 以下仅为要点理解：
 
@@ -169,8 +175,8 @@ npx js-yaml syntaxes/phpzz.tmLanguage.yaml > syntaxes/phpzz.tmLanguage.json
 - 「语法定义」的要点是，按规则匹配编辑器内的文本（主要是正则），然后给匹配到的「文本区域」命名，最后根据命名规则应用相应的颜色样式；
   - 样式一般由所使用的「主题」提供，类似`*.css`文件，而命名则是`class="XXX"`；
   - 以`keyword.control.php`为例：
-      - 从右到左依次检索样式定义：`keyword.control.php`，`keyword.control`，`keyowrd`；
-      - 返回能够匹配到的最长的样式定义，这里实际返回的是`keyword.control`；
+      - 依次检索样式定义：`keyword.control.php`，`keyword.control`，`keyowrd`；
+      - 返回匹配到的样式声明，这里实际返回的是`keyword.control`；「默认深色主题」
   - `variable.other.php` 实际生效的样式是 `variable`；
   - `constant.language.php`实际生效的样式是`constant.language`;
 - 或者可以匹配文本内容的开始和结束，然后对其内的区域应用指定「语法定义」；
