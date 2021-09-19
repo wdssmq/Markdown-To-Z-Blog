@@ -6,15 +6,17 @@
 
 ---start---
 
-## 目录( 2021 年 09 月 18 日更新)
+## 目录( 2021 年 09 月 19 日更新)
+
+[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
+
+[「折腾」VSCode 语法高亮探索](https://www.wdssmq.com/post/20210316815.html "「折腾」VSCode 语法高亮探索")
 
 [一些能用的 BT Tracker 服务器地址【不定时更新】](https://www.wdssmq.com/post/20130323295.html "一些能用的 BT Tracker 服务器地址【不定时更新】")
 
 [「水坑」Z-BlogPHP 中各种错误提示的复现](https://www.wdssmq.com/post/20200922437.html "「水坑」Z-BlogPHP 中各种错误提示的复现")
 
 [「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作](https://www.wdssmq.com/post/20200105022.html "「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作")
-
-[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
 
 [口算题在线生成（可打印）](https://www.wdssmq.com/post/shuxue.html "口算题在线生成（可打印）")
 
@@ -79,8 +81,6 @@
 [【真·碎碎念】2021/06/14 ~ 2021/06/20](https://www.wdssmq.com/post/20100520804.html "【真·碎碎念】2021/06/14 ~ 2021/06/20")
 
 [【折腾】Docker 化安装 Z-BlogPHP](https://www.wdssmq.com/post/20120817544.html "【折腾】Docker 化安装 Z-BlogPHP")
-
-[【真·碎碎念】2021/07/19 ~ 2021/07/25](https://www.wdssmq.com/post/20140301127.html "【真·碎碎念】2021/07/19 ~ 2021/07/25")
 
 ---end---
 
