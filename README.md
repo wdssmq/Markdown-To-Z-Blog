@@ -6,9 +6,11 @@
 
 ---start---
 
-## 目录( 2021 年 09 月 23 日更新)
+## 目录( 2021 年 09 月 27 日更新)
 
 [「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
+
+[【真·碎碎念】2021/09/20 ~ 2021/09/26](https://www.wdssmq.com/post/20100305270.html "【真·碎碎念】2021/09/20 ~ 2021/09/26")
 
 [【真·碎碎念】2021/09/13 ~ 2021/09/19](https://www.wdssmq.com/post/20190628106.html "【真·碎碎念】2021/09/13 ~ 2021/09/19")
 
@@ -79,8 +81,6 @@
 [说说 base64 编码](https://www.wdssmq.com/post/2019112672.html "说说 base64 编码")
 
 [「小目标」平均每篇文章/Git Repository 赚取 1 元](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元")
-
-[「折腾」Docker 化部署 lighttpd 并安装 Z-BlogPHP](https://www.wdssmq.com/post/20210804429.html "「折腾」Docker 化部署 lighttpd 并安装 Z-BlogPHP")
 
 ---end---
 
