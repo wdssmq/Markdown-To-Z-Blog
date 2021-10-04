@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2021 年 09 月 27 日更新)
+## 目录( 2021 年 09 月 30 日更新)
+
+[Docker 内 php-nginx 的伪静态相关](https://www.wdssmq.com/post/20190813019.html "Docker 内 php-nginx 的伪静态相关")
 
 [「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
 
@@ -79,8 +81,6 @@
 [【真·碎碎念】2021/08/09 ~ 2021/08/15](https://www.wdssmq.com/post/20210216108.html "【真·碎碎念】2021/08/09 ~ 2021/08/15")
 
 [说说 base64 编码](https://www.wdssmq.com/post/2019112672.html "说说 base64 编码")
-
-[「小目标」平均每篇文章/Git Repository 赚取 1 元](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元")
 
 ---end---
 
