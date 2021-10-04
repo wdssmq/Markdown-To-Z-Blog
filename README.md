@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2021 年 09 月 30 日更新)
+## 目录( 2021 年 10 月 04 日更新)
+
+[「VSCode」远程 CentOS 中 php.validate.executablePath 的设置](https://www.wdssmq.com/post/20211004556.html "「VSCode」远程 CentOS 中 php.validate.executablePath 的设置")
 
 [Docker 内 php-nginx 的伪静态相关](https://www.wdssmq.com/post/20190813019.html "Docker 内 php-nginx 的伪静态相关")
 
@@ -48,6 +50,8 @@
 
 [【真·碎碎念】2021/04/26 ~ 2021/05/02](https://www.wdssmq.com/post/20100305398.html "【真·碎碎念】2021/04/26 ~ 2021/05/02")
 
+[搞笑语录](https://www.wdssmq.com/post/20100205489.html "搞笑语录")
+
 [【真·碎碎念】2021/05/10 ~ 2021/05/16](https://www.wdssmq.com/post/20210506936.html "【真·碎碎念】2021/05/10 ~ 2021/05/16")
 
 [【真·碎碎念】2021/07/26 ~ 2021/08/01](https://www.wdssmq.com/post/20210820126.html "【真·碎碎念】2021/07/26 ~ 2021/08/01")
@@ -77,10 +81,6 @@
 [【真·碎碎念】2021/05/31 ~ 2021/06/06](https://www.wdssmq.com/post/20210608249.html "【真·碎碎念】2021/05/31 ~ 2021/06/06")
 
 [「小事」Python 的 Docker 镜像更新了一波](https://www.wdssmq.com/post/20210820542.html "「小事」Python 的 Docker 镜像更新了一波")
-
-[【真·碎碎念】2021/08/09 ~ 2021/08/15](https://www.wdssmq.com/post/20210216108.html "【真·碎碎念】2021/08/09 ~ 2021/08/15")
-
-[说说 base64 编码](https://www.wdssmq.com/post/2019112672.html "说说 base64 编码")
 
 ---end---
 
