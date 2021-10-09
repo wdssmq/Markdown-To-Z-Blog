@@ -6,6 +6,8 @@ tags:
 - CentOS
 categories:
 - 电脑网络
+id: 8
+alias: 20211004556
 ---
 
 > CentOS Linux 要停止维护了，然而更换好麻烦。。
