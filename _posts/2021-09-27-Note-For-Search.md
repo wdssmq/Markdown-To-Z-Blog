@@ -49,3 +49,109 @@ alias: 20100305270
 
 ### 2021-09-30 19:07
 \#备忘 `find /|grep nginx.conf`
+
+### 2021-10-07 13:26
+CentOS 升级 Python；
+
+\#Python \#CentOS
+
+[https://www.python.org/ftp/python/](https://www.python.org/ftp/python/ "Index of /ftp/python/")
+
+```sh
+yum install gcc libffi-devel python-devel openssl-devel
+
+cd /root/tmp
+# 下载并解压
+wget https://www.python.org/ftp/python/3.9.6/Python-3.9.6.tgz
+tar -xzvf Python-3.9.6.tgz
+
+# 进入目录
+cd /root/tmp/Python-3.9.6
+
+# 创建安装路径
+mkdir /usr/local/python3
+# 指定安装路径
+./configure --prefix=/usr/local/python3 --enable-loadable-sqlite-extensions
+# 编译安装
+make
+make install
+
+# 旧版改名后链接新到到原路径
+mv /usr/bin/python /usr/bin/python_old2
+ln -s /usr/local/python3/bin/python3  /usr/bin/python
+ln -s /usr/local/python3/bin/pip3  /usr/bin/pip
+
+# poetry
+curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/install-poetry.py | python -
+ln -s /root/.local/bin/poetry  /usr/bin/poetry
+
+# /root/.local/bin/cookiecutter
+pip install --user cookiecutter
+ln -s /root/.local/bin/cookiecutter  /usr/bin/cookiecutter
+cookiecutter gh:rsserpent/template
+```
+
+### 2021-10-07 15:11
+Window 安装 poetry
+
+```shell
+(Invoke-WebRequest -Uri https://cdn.jsdelivr.net/gh/python-poetry/poetry@master/get-poetry.py -UseBasicParsing).Content | python -
+
+```
+
+### 2021-10-07 13:44:50
+Git 命令行修改远程地址；
+
+\#Git
+
+```bash
+git remote set-url origin url
+```
+<!--
+git remote set-url origin git@github.com:wdssmq/rsserpent-plugin-bilibili.git
+-->
+
+find /|grep poetry
+
+### 2021-10-07 16:28
+
+```shell
+uvicorn rsserpent:app --host '0.0.0.0' --port 1202 --reload
+```
+
+### 2021-10-07 18:03
+
+\#Python \#CentOS
+
+> ModuleNotFoundError: No module named '_sqlite3'
+> `https://www.jianshu.com/p/dd4532457b9f`
+
+```shell
+
+cd /root/tmp
+# 下载并解压
+wget http://www.sqlite.org/snapshot/sqlite-snapshot-202110061004.tar.gz
+tar -xzvf sqlite-*.tar.gz
+
+# 进入目录
+cd /root/tmp/sqlite-*
+
+# 创建安装路径
+mkdir /usr/local/sqlite
+# 指定安装路径
+./configure --prefix=/usr/local/sqlite
+# 编译安装
+make
+make install
+# exit
+
+
+find / -name _sqlite*.so
+
+# /usr/local/python3/lib/python3.9/lib-dynload/_sqlite3.cpython-39-x86_64-linux-gnu.so
+# /usr/lib64/python2.7/site-packages/_sqlitecache.so
+# /usr/lib64/python2.7/lib-dynload/_sqlite3.so
+
+cp /usr/local/python3/lib/python3.9/lib-dynload/_sqlite3.cpython-39-x86_64-linux-gnu.so /usr/local/python3/lib/python3.9/lib-dynload/_sqlite3.so
+
+```
