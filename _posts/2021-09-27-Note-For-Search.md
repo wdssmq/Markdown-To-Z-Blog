@@ -152,6 +152,7 @@ find / -name _sqlite*.so
 # /usr/lib64/python2.7/site-packages/_sqlitecache.so
 # /usr/lib64/python2.7/lib-dynload/_sqlite3.so
 
-cp /usr/local/python3/lib/python3.9/lib-dynload/_sqlite3.cpython-39-x86_64-linux-gnu.so /usr/local/python3/lib/python3.9/lib-dynload/_sqlite3.so
+cp /usr/local/python3/lib/python3.9/lib-dynload/_sqlite3.cpython-39-x86_64-linux-gnu.so \
+   /usr/local/python3/lib/python3.9/lib-dynload/_sqlite3.so
 
 ```
