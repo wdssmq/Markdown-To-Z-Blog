@@ -6,11 +6,13 @@
 
 ---start---
 
-## 目录( 2021 年 10 月 09 日更新)
+## 目录( 2021 年 10 月 10 日更新)
 
-[「VSCode」远程 CentOS 中 php.validate.executablePath 的设置](https://www.wdssmq.com/post/20211004556.html "「VSCode」远程 CentOS 中 php.validate.executablePath 的设置")
+[「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作](https://www.wdssmq.com/post/20200105022.html "「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作")
 
 [【真·碎碎念】2021/09/20 ~ 2021/09/26](https://www.wdssmq.com/post/20100305270.html "【真·碎碎念】2021/09/20 ~ 2021/09/26")
+
+[「VSCode」远程 CentOS 中 php.validate.executablePath 的设置](https://www.wdssmq.com/post/20211004556.html "「VSCode」远程 CentOS 中 php.validate.executablePath 的设置")
 
 [震惊！原来 Z-Blog 的插件定制是这么报价的！](https://www.wdssmq.com/post/20170422818.html "震惊！原来 Z-Blog 的插件定制是这么报价的！")
 
@@ -32,8 +34,6 @@
 
 [「水坑」Z-BlogPHP 中各种错误提示的复现](https://www.wdssmq.com/post/20200922437.html "「水坑」Z-BlogPHP 中各种错误提示的复现")
 
-[「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作](https://www.wdssmq.com/post/20200105022.html "「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作")
-
 [口算题在线生成（可打印）](https://www.wdssmq.com/post/shuxue.html "口算题在线生成（可打印）")
 
 [【真·碎碎念】2021-07-28「特别篇」](https://www.wdssmq.com/post/20120641176.html "【真·碎碎念】2021-07-28「特别篇」")
@@ -41,6 +41,8 @@
 [【真·碎碎念】2021/09/06 ~ 2021/09/12](https://www.wdssmq.com/post/20210913547.html "【真·碎碎念】2021/09/06 ~ 2021/09/12")
 
 [【真·碎碎念】2021/08/23 ~ 2021/08/29](https://www.wdssmq.com/post/20200620382.html "【真·碎碎念】2021/08/23 ~ 2021/08/29")
+
+[语录啊语录。。](https://www.wdssmq.com/post/2010020739.html "语录啊语录。。")
 
 [【真·碎碎念】2021/08/30 ~ 2021/09/05](https://www.wdssmq.com/post/20191011022.html "【真·碎碎念】2021/08/30 ~ 2021/09/05")
 
@@ -79,8 +81,6 @@
 [蝴蝶效应【无厘网文】](https://www.wdssmq.com/post/20100710953.html "蝴蝶效应【无厘网文】")
 
 [【折腾】GitHub Actions 反代 RSSHub + 多实例轮询](https://www.wdssmq.com/post/20100309739.html "【折腾】GitHub Actions 反代 RSSHub + 多实例轮询")
-
-[【备忘】再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "【备忘】再再次谈系统安装【2021】")
 
 ---end---
 
