@@ -6,15 +6,21 @@
 
 ---start---
 
-## 目录( 2021 年 10 月 04 日更新)
+## 目录( 2021 年 10 月 09 日更新)
 
 [「VSCode」远程 CentOS 中 php.validate.executablePath 的设置](https://www.wdssmq.com/post/20211004556.html "「VSCode」远程 CentOS 中 php.validate.executablePath 的设置")
+
+[【真·碎碎念】2021/09/20 ~ 2021/09/26](https://www.wdssmq.com/post/20100305270.html "【真·碎碎念】2021/09/20 ~ 2021/09/26")
+
+[震惊！原来 Z-Blog 的插件定制是这么报价的！](https://www.wdssmq.com/post/20170422818.html "震惊！原来 Z-Blog 的插件定制是这么报价的！")
+
+[一个有(dou)用(bi)的小工具](https://www.wdssmq.com/post/20150106256.html "一个有(dou)用(bi)的小工具")
+
+[一封男友辞职信及其女友回复](https://www.wdssmq.com/post/20100203886.html "一封男友辞职信及其女友回复")
 
 [Docker 内 php-nginx 的伪静态相关](https://www.wdssmq.com/post/20190813019.html "Docker 内 php-nginx 的伪静态相关")
 
 [「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
-
-[【真·碎碎念】2021/09/20 ~ 2021/09/26](https://www.wdssmq.com/post/20100305270.html "【真·碎碎念】2021/09/20 ~ 2021/09/26")
 
 [【真·碎碎念】2021/09/13 ~ 2021/09/19](https://www.wdssmq.com/post/20190628106.html "【真·碎碎念】2021/09/13 ~ 2021/09/19")
 
@@ -70,17 +76,11 @@
 
 [「折腾」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「折腾」Z-BlogPHP 模板机制讲解「简易版」")
 
+[蝴蝶效应【无厘网文】](https://www.wdssmq.com/post/20100710953.html "蝴蝶效应【无厘网文】")
+
 [【折腾】GitHub Actions 反代 RSSHub + 多实例轮询](https://www.wdssmq.com/post/20100309739.html "【折腾】GitHub Actions 反代 RSSHub + 多实例轮询")
 
 [【备忘】再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "【备忘】再再次谈系统安装【2021】")
-
-[【VSCode】快捷键备忘](https://www.wdssmq.com/post/20130525410.html "【VSCode】快捷键备忘")
-
-[【真·碎碎念】2021/06/07 ~ 2021/06/13](https://www.wdssmq.com/post/20210820119.html "【真·碎碎念】2021/06/07 ~ 2021/06/13")
-
-[【真·碎碎念】2021/05/31 ~ 2021/06/06](https://www.wdssmq.com/post/20210608249.html "【真·碎碎念】2021/05/31 ~ 2021/06/06")
-
-[「小事」Python 的 Docker 镜像更新了一波](https://www.wdssmq.com/post/20210820542.html "「小事」Python 的 Docker 镜像更新了一波")
 
 ---end---
 
