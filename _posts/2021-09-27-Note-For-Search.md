@@ -113,11 +113,6 @@ git remote set-url origin git@github.com:wdssmq/rsserpent-plugin-bilibili.git
 
 find /|grep poetry
 
-### 2021-10-07 16:28
-
-```shell
-uvicorn rsserpent:app --host '0.0.0.0' --port 1202 --reload
-```
 
 ### 2021-10-07 18:03
 
