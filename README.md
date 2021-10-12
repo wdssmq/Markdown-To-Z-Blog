@@ -6,11 +6,13 @@
 
 ---start---
 
-## 目录( 2021 年 10 月 10 日更新)
-
-[「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作](https://www.wdssmq.com/post/20200105022.html "「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作")
+## 目录( 2021 年 10 月 12 日更新)
 
 [【真·碎碎念】2021/09/20 ~ 2021/09/26](https://www.wdssmq.com/post/20100305270.html "【真·碎碎念】2021/09/20 ~ 2021/09/26")
+
+[「折腾」RSSerpent 插件笔记](https://www.wdssmq.com/post/20200930532.html "「折腾」RSSerpent 插件笔记")
+
+[「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作](https://www.wdssmq.com/post/20200105022.html "「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作")
 
 [「VSCode」远程 CentOS 中 php.validate.executablePath 的设置](https://www.wdssmq.com/post/20211004556.html "「VSCode」远程 CentOS 中 php.validate.executablePath 的设置")
 
@@ -79,8 +81,6 @@
 [「折腾」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「折腾」Z-BlogPHP 模板机制讲解「简易版」")
 
 [蝴蝶效应【无厘网文】](https://www.wdssmq.com/post/20100710953.html "蝴蝶效应【无厘网文】")
-
-[【折腾】GitHub Actions 反代 RSSHub + 多实例轮询](https://www.wdssmq.com/post/20100309739.html "【折腾】GitHub Actions 反代 RSSHub + 多实例轮询")
 
 ---end---
 
