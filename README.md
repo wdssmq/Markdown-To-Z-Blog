@@ -6,11 +6,11 @@
 
 ---start---
 
-## 目录( 2021 年 10 月 12 日更新)
+## 目录( 2021 年 10 月 13 日更新)
+
+[「折腾」RSSerpent 插件笔记](https://www.wdssmq.com/post/20120817543.html "「折腾」RSSerpent 插件笔记")
 
 [【真·碎碎念】2021/09/20 ~ 2021/09/26](https://www.wdssmq.com/post/20100305270.html "【真·碎碎念】2021/09/20 ~ 2021/09/26")
-
-[「折腾」RSSerpent 插件笔记](https://www.wdssmq.com/post/20200930532.html "「折腾」RSSerpent 插件笔记")
 
 [「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作](https://www.wdssmq.com/post/20200105022.html "「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作")
 
