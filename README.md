@@ -8,6 +8,8 @@
 
 ## 目录( 2021 年 10 月 13 日更新)
 
+[【真·碎碎念】2021/10/04 ~ 2021/10/10](https://www.wdssmq.com/post/20211013570.html "【真·碎碎念】2021/10/04 ~ 2021/10/10")
+
 [「折腾」RSSerpent 插件笔记](https://www.wdssmq.com/post/20120817543.html "「折腾」RSSerpent 插件笔记")
 
 [【真·碎碎念】2021/09/20 ~ 2021/09/26](https://www.wdssmq.com/post/20100305270.html "【真·碎碎念】2021/09/20 ~ 2021/09/26")
@@ -79,8 +81,6 @@
 [【备忘】msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit 安装及使用")
 
 [「折腾」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「折腾」Z-BlogPHP 模板机制讲解「简易版」")
-
-[蝴蝶效应【无厘网文】](https://www.wdssmq.com/post/20100710953.html "蝴蝶效应【无厘网文】")
 
 ---end---
 
