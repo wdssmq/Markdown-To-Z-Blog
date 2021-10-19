@@ -6,6 +6,8 @@ tags:
 - 折腾
 categories:
 - 电脑网络
+id: 23
+alias: 20211019591
 ---
 
 ### 日常跑题的开场
@@ -73,14 +75,14 @@ wdssmq/proxy\_nginx: Nginx Docker 化镜像，适合用于反代；：
 按路径分别写入下边配置：
 
 ```conf
-; nginx/conf.d/5-proxy.conf
+#; nginx/conf.d/5-proxy.conf
 upstream rss1200 {
     server getrss2021.xyz:1200;
 }
 ```
 
 ```conf
-; nginx/vhost.common.d/5-proxy.conf
+#; nginx/vhost.common.d/5-proxy.conf
 location /rss/ {
     proxy_set_header Host $host/rss;
     proxy_pass http://rss1200/;
