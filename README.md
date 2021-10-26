@@ -6,11 +6,17 @@
 
 ---start---
 
-## 目录( 2021 年 10 月 13 日更新)
+## 目录( 2021 年 10 月 19 日更新)
+
+[「Docker」Nginx 反代探究](https://www.wdssmq.com/post/20211019591.html "「Docker」Nginx 反代探究")
+
+[Docker 内 php-nginx 的伪静态相关](https://www.wdssmq.com/post/20190813019.html "Docker 内 php-nginx 的伪静态相关")
 
 [【真·碎碎念】2021/10/04 ~ 2021/10/10](https://www.wdssmq.com/post/20211013570.html "【真·碎碎念】2021/10/04 ~ 2021/10/10")
 
 [「折腾」RSSerpent 插件笔记](https://www.wdssmq.com/post/20120817543.html "「折腾」RSSerpent 插件笔记")
+
+[2011年1月10日冷笑话合集 - 带褶的馒头](https://www.wdssmq.com/post/2011Nian1Yue10RiLengXiaoHuaHeJi-DaiDeManTou.html "2011年1月10日冷笑话合集 - 带褶的馒头")
 
 [【真·碎碎念】2021/09/20 ~ 2021/09/26](https://www.wdssmq.com/post/20100305270.html "【真·碎碎念】2021/09/20 ~ 2021/09/26")
 
@@ -24,7 +30,7 @@
 
 [一封男友辞职信及其女友回复](https://www.wdssmq.com/post/20100203886.html "一封男友辞职信及其女友回复")
 
-[Docker 内 php-nginx 的伪静态相关](https://www.wdssmq.com/post/20190813019.html "Docker 内 php-nginx 的伪静态相关")
+[紧急出警【爆笑】](https://www.wdssmq.com/post/20100218557.html "紧急出警【爆笑】")
 
 [「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
 
@@ -75,12 +81,6 @@
 [【列表】上一部](https://www.wdssmq.com/post/20190520228.html "【列表】上一部")
 
 [【折腾】独立博客之「熵」](https://www.wdssmq.com/post/20210227485.html "【折腾】独立博客之「熵」")
-
-[不能邮箱登录的网站都是耍流氓【无力吐槽】](https://www.wdssmq.com/post/20140507140.html "不能邮箱登录的网站都是耍流氓【无力吐槽】")
-
-[【备忘】msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit 安装及使用")
-
-[「折腾」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「折腾」Z-BlogPHP 模板机制讲解「简易版」")
 
 ---end---
 
