@@ -87,7 +87,7 @@ https://greasyfork.org/zh-CN/scripts/6505
 
 \-----
 
-[QQ 群] - 批量踢人
+「QQ 群」- 批量踢人
 
 https://greasyfork.org/zh-CN/scripts/26812
 
