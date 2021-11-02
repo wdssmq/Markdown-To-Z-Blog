@@ -6,13 +6,21 @@
 
 ---start---
 
-## 目录( 2021 年 10 月 19 日更新)
+## 目录( 2021 年 10 月 26 日更新)
+
+[【真·碎碎念】2021/10/04 ~ 2021/10/17](https://www.wdssmq.com/post/20211013570.html "【真·碎碎念】2021/10/04 ~ 2021/10/17")
 
 [「Docker」Nginx 反代探究](https://www.wdssmq.com/post/20211019591.html "「Docker」Nginx 反代探究")
 
+[挂科论](https://www.wdssmq.com/post/20100709550.html "挂科论")
+
+[套套还没过期，爱情就已经过期了【经典语录】](https://www.wdssmq.com/post/TaoTaoHaiMeiGuoQi-AiQingJiuYiJingGuoQiLeJingDianYuLu.html "套套还没过期，爱情就已经过期了【经典语录】")
+
 [Docker 内 php-nginx 的伪静态相关](https://www.wdssmq.com/post/20190813019.html "Docker 内 php-nginx 的伪静态相关")
 
-[【真·碎碎念】2021/10/04 ~ 2021/10/10](https://www.wdssmq.com/post/20211013570.html "【真·碎碎念】2021/10/04 ~ 2021/10/10")
+[2011年7月19日冷笑话合集 - 令人感动的话](https://www.wdssmq.com/post/2011Nian7Yue19RiLengXiaoHuaHeJi-LingRenGanDongDeHua.html "2011年7月19日冷笑话合集 - 令人感动的话")
+
+[2010年都发生了些什么。。。](https://www.wdssmq.com/post/2010niandoufashenglexieshime.html "2010年都发生了些什么。。。")
 
 [「折腾」RSSerpent 插件笔记](https://www.wdssmq.com/post/20120817543.html "「折腾」RSSerpent 插件笔记")
 
@@ -28,11 +36,15 @@
 
 [一个有(dou)用(bi)的小工具](https://www.wdssmq.com/post/20150106256.html "一个有(dou)用(bi)的小工具")
 
+[DOTA里的人生哲理](https://www.wdssmq.com/post/DOTALiDeRenShengZheLi.html "DOTA里的人生哲理")
+
 [一封男友辞职信及其女友回复](https://www.wdssmq.com/post/20100203886.html "一封男友辞职信及其女友回复")
 
 [紧急出警【爆笑】](https://www.wdssmq.com/post/20100218557.html "紧急出警【爆笑】")
 
 [「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
+
+[2011年1月3日冷笑话合集 - 哪个BAI](https://www.wdssmq.com/post/2011Nian1Yue3RiLengXiaoHuaHeJi-NaGeBAI.html "2011年1月3日冷笑话合集 - 哪个BAI")
 
 [【真·碎碎念】2021/09/13 ~ 2021/09/19](https://www.wdssmq.com/post/20190628106.html "【真·碎碎念】2021/09/13 ~ 2021/09/19")
 
@@ -43,6 +55,8 @@
 [一些能用的 BT Tracker 服务器地址【不定时更新】](https://www.wdssmq.com/post/20130323295.html "一些能用的 BT Tracker 服务器地址【不定时更新】")
 
 [「水坑」Z-BlogPHP 中各种错误提示的复现](https://www.wdssmq.com/post/20200922437.html "「水坑」Z-BlogPHP 中各种错误提示的复现")
+
+[金庸直接被这套考题考昏了](https://www.wdssmq.com/post/JinYongZhiJieBeiZheTaoKaoTiKaoHunLe.html "金庸直接被这套考题考昏了")
 
 [口算题在线生成（可打印）](https://www.wdssmq.com/post/shuxue.html "口算题在线生成（可打印）")
 
@@ -67,20 +81,6 @@
 [「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
 
 [【真·碎碎念】2021/04/26 ~ 2021/05/02](https://www.wdssmq.com/post/20100305398.html "【真·碎碎念】2021/04/26 ~ 2021/05/02")
-
-[搞笑语录](https://www.wdssmq.com/post/20100205489.html "搞笑语录")
-
-[【真·碎碎念】2021/05/10 ~ 2021/05/16](https://www.wdssmq.com/post/20210506936.html "【真·碎碎念】2021/05/10 ~ 2021/05/16")
-
-[【真·碎碎念】2021/07/26 ~ 2021/08/01](https://www.wdssmq.com/post/20210820126.html "【真·碎碎念】2021/07/26 ~ 2021/08/01")
-
-[「GM_脚本」qBittorrent 批量修改种子 tracker](https://www.wdssmq.com/post/20191117777.html "「GM_脚本」qBittorrent 批量修改种子 tracker")
-
-[「水坑」如何正确的自定义 CSS 样式](https://www.wdssmq.com/post/20190705015.html "「水坑」如何正确的自定义 CSS 样式")
-
-[【列表】上一部](https://www.wdssmq.com/post/20190520228.html "【列表】上一部")
-
-[【折腾】独立博客之「熵」](https://www.wdssmq.com/post/20210227485.html "【折腾】独立博客之「熵」")
 
 ---end---
 
