@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录( 2021 年 10 月 26 日更新)
+## 目录( 2021 年 11 月 02 日更新)
+
+[「Z-BlogPHP」插件管理添加「最近使用」功能](https://www.wdssmq.com/post/2010022472.html "「Z-BlogPHP」插件管理添加「最近使用」功能")
+
+[悟空要考研](https://www.wdssmq.com/post/20100301165.html "悟空要考研")
 
 [【真·碎碎念】2021/10/04 ~ 2021/10/17](https://www.wdssmq.com/post/20211013570.html "【真·碎碎念】2021/10/04 ~ 2021/10/17")
 
@@ -19,6 +23,8 @@
 [Docker 内 php-nginx 的伪静态相关](https://www.wdssmq.com/post/20190813019.html "Docker 内 php-nginx 的伪静态相关")
 
 [2011年7月19日冷笑话合集 - 令人感动的话](https://www.wdssmq.com/post/2011Nian7Yue19RiLengXiaoHuaHeJi-LingRenGanDongDeHua.html "2011年7月19日冷笑话合集 - 令人感动的话")
+
+[寻访简·爱-格桑亚西](https://www.wdssmq.com/post/xunfangjian-ai-gesangyaxi.html "寻访简·爱-格桑亚西")
 
 [2010年都发生了些什么。。。](https://www.wdssmq.com/post/2010niandoufashenglexieshime.html "2010年都发生了些什么。。。")
 
@@ -35,6 +41,8 @@
 [震惊！原来 Z-Blog 的插件定制是这么报价的！](https://www.wdssmq.com/post/20170422818.html "震惊！原来 Z-Blog 的插件定制是这么报价的！")
 
 [一个有(dou)用(bi)的小工具](https://www.wdssmq.com/post/20150106256.html "一个有(dou)用(bi)的小工具")
+
+[15条沟通的经典原则](https://www.wdssmq.com/post/15tiaogoutongdejingdianyuanze-renrendoushiyishujia.html "15条沟通的经典原则")
 
 [DOTA里的人生哲理](https://www.wdssmq.com/post/DOTALiDeRenShengZheLi.html "DOTA里的人生哲理")
 
@@ -56,6 +64,8 @@
 
 [「水坑」Z-BlogPHP 中各种错误提示的复现](https://www.wdssmq.com/post/20200922437.html "「水坑」Z-BlogPHP 中各种错误提示的复现")
 
+[2011年2月21日冷笑话合集 - 淡定的老师](https://www.wdssmq.com/post/2011Nian2Yue21RiLengXiaoHuaHeJi.html "2011年2月21日冷笑话合集 - 淡定的老师")
+
 [金庸直接被这套考题考昏了](https://www.wdssmq.com/post/JinYongZhiJieBeiZheTaoKaoTiKaoHunLe.html "金庸直接被这套考题考昏了")
 
 [口算题在线生成（可打印）](https://www.wdssmq.com/post/shuxue.html "口算题在线生成（可打印）")
@@ -66,21 +76,11 @@
 
 [【真·碎碎念】2021/08/23 ~ 2021/08/29](https://www.wdssmq.com/post/20200620382.html "【真·碎碎念】2021/08/23 ~ 2021/08/29")
 
+[2011年7月3日冷笑话合集 - 告状](https://www.wdssmq.com/post/2011Nian7Yue3RiLengXiaoHuaHeJi-GaoZhuang.html "2011年7月3日冷笑话合集 - 告状")
+
+[2011年11月2日冷笑话合集 - 换支曲子](https://www.wdssmq.com/post/2011Nian11Yue2RiLengXiaoHuaHeJi-HuanZhiQuZi.html "2011年11月2日冷笑话合集 - 换支曲子")
+
 [语录啊语录。。](https://www.wdssmq.com/post/2010020739.html "语录啊语录。。")
-
-[【真·碎碎念】2021/08/30 ~ 2021/09/05](https://www.wdssmq.com/post/20191011022.html "【真·碎碎念】2021/08/30 ~ 2021/09/05")
-
-[【言说】不知道发没发的《黑豹》评论](https://www.wdssmq.com/post/20130403328.html "【言说】不知道发没发的《黑豹》评论")
-
-[【笔记】LNMP 部署/续期 SSL 证书](https://www.wdssmq.com/post/20200129996.html "【笔记】LNMP 部署/续期 SSL 证书")
-
-[【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
-
-[「VSCode」PHP 跨文件夹函数定义提示](https://www.wdssmq.com/post/20200930532.html "「VSCode」PHP 跨文件夹函数定义提示")
-
-[「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
-
-[【真·碎碎念】2021/04/26 ~ 2021/05/02](https://www.wdssmq.com/post/20100305398.html "【真·碎碎念】2021/04/26 ~ 2021/05/02")
 
 ---end---
 
