@@ -1,0 +1,40 @@
+---
+title: Nginx 下二级目录伪静态的标准姿势
+tags:
+- Nginx
+- PHP
+- 伪静态
+categories:
+- 电脑网络
+---
+
+Hello World
+
+<!--more-->
+
+```conf
+# 子目录规则要排在前边；
+location /sub/ {
+  if (-f $request_filename/index.html) {
+    rewrite (.*) $1/index.html break;
+  }
+  if (-f $request_filename/index.php) {
+    rewrite (.*) $1/index.php;
+  }
+  if (!-f $request_filename) {
+    rewrite (.*) /sub/index.php;
+  }
+}
+# 根目录规则
+location / {
+  if (-f $request_filename/index.html) {
+    rewrite (.*) $1/index.html break;
+  }
+  if (-f $request_filename/index.php) {
+    rewrite (.*) $1/index.php;
+  }
+  if (!-f $request_filename) {
+    rewrite (.*) /index.php;
+  }
+}
+```
