@@ -8,6 +8,8 @@
 
 ## 目录( 2021 年 11 月 02 日更新)
 
+[【真·碎碎念】2021/10/18 ~ 2021/10/31](https://www.wdssmq.com/post/20100227147.html "【真·碎碎念】2021/10/18 ~ 2021/10/31")
+
 [「Z-BlogPHP」插件管理添加「最近使用」功能](https://www.wdssmq.com/post/2010022472.html "「Z-BlogPHP」插件管理添加「最近使用」功能")
 
 [悟空要考研](https://www.wdssmq.com/post/20100301165.html "悟空要考研")
@@ -79,8 +81,6 @@
 [2011年7月3日冷笑话合集 - 告状](https://www.wdssmq.com/post/2011Nian7Yue3RiLengXiaoHuaHeJi-GaoZhuang.html "2011年7月3日冷笑话合集 - 告状")
 
 [2011年11月2日冷笑话合集 - 换支曲子](https://www.wdssmq.com/post/2011Nian11Yue2RiLengXiaoHuaHeJi-HuanZhiQuZi.html "2011年11月2日冷笑话合集 - 换支曲子")
-
-[语录啊语录。。](https://www.wdssmq.com/post/2010020739.html "语录啊语录。。")
 
 ---end---
 
