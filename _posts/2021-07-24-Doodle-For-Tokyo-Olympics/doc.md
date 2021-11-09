@@ -8,6 +8,7 @@ categories:
 - 杂七杂八
 id: 814
 alias: 20210723446
+csdn: https://blog.csdn.net/qq_15022221/article/details/121231899
 ---
 
 开幕式并没有看，然后看 v 站讨论知道这次的 Doodle 是 RPG 游戏形式就玩了下。。
