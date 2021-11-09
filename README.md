@@ -6,13 +6,23 @@
 
 ---start---
 
-## 目录( 2021 年 11 月 02 日更新)
+## 目录( 2021 年 11 月 08 日更新)
+
+[「GM_脚本」qBittorrent 批量修改种子 tracker](https://www.wdssmq.com/post/20191117777.html "「GM_脚本」qBittorrent 批量修改种子 tracker")
+
+[Nginx 下二级目录伪静态的标准姿势](https://www.wdssmq.com/post/20190721016.html "Nginx 下二级目录伪静态的标准姿势")
 
 [【真·碎碎念】2021/10/18 ~ 2021/10/31](https://www.wdssmq.com/post/20100227147.html "【真·碎碎念】2021/10/18 ~ 2021/10/31")
 
+[2012年1月1日冷笑话合集 - 每天的纠结](https://www.wdssmq.com/post/2012010199.html "2012年1月1日冷笑话合集 - 每天的纠结")
+
 [「Z-BlogPHP」插件管理添加「最近使用」功能](https://www.wdssmq.com/post/2010022472.html "「Z-BlogPHP」插件管理添加「最近使用」功能")
 
+[2011年2月17日冷笑话合集 - 先找你老婆吧](https://www.wdssmq.com/post/2011Nian2Yue17RiLengXiaoHuaHeJi-XianZhaoNiLaoPoBa.html "2011年2月17日冷笑话合集 - 先找你老婆吧")
+
 [悟空要考研](https://www.wdssmq.com/post/20100301165.html "悟空要考研")
+
+[关于数学家的笑话，你能看懂几个？](https://www.wdssmq.com/post/20100627818.html "关于数学家的笑话，你能看懂几个？")
 
 [【真·碎碎念】2021/10/04 ~ 2021/10/17](https://www.wdssmq.com/post/20211013570.html "【真·碎碎念】2021/10/04 ~ 2021/10/17")
 
@@ -24,11 +34,19 @@
 
 [Docker 内 php-nginx 的伪静态相关](https://www.wdssmq.com/post/20190813019.html "Docker 内 php-nginx 的伪静态相关")
 
+[2010年12月12日冷笑话合集 - 先开着](https://www.wdssmq.com/post/2010Nian12Yue12RiLengXiaoHuaHeJi-XianKaiZhe.html "2010年12月12日冷笑话合集 - 先开着")
+
 [2011年7月19日冷笑话合集 - 令人感动的话](https://www.wdssmq.com/post/2011Nian7Yue19RiLengXiaoHuaHeJi-LingRenGanDongDeHua.html "2011年7月19日冷笑话合集 - 令人感动的话")
+
+[那些小时候说不通的数学题现在都通了](https://www.wdssmq.com/post/NaXieXiaoShiHouShuoBuTongDeShuXueTiXianZaiDouTongLe.html "那些小时候说不通的数学题现在都通了")
 
 [寻访简·爱-格桑亚西](https://www.wdssmq.com/post/xunfangjian-ai-gesangyaxi.html "寻访简·爱-格桑亚西")
 
 [2010年都发生了些什么。。。](https://www.wdssmq.com/post/2010niandoufashenglexieshime.html "2010年都发生了些什么。。。")
+
+[2011年12月31日冷笑话合集 - 少个墓碑](https://www.wdssmq.com/post/20111231392.html "2011年12月31日冷笑话合集 - 少个墓碑")
+
+[2010年10月10日冷笑话合集 - 足球知识](https://www.wdssmq.com/post/2010nian10yue10rixiaohuaheji-zuqiuzhishi.html "2010年10月10日冷笑话合集 - 足球知识")
 
 [「折腾」RSSerpent 插件笔记](https://www.wdssmq.com/post/20120817543.html "「折腾」RSSerpent 插件笔记")
 
@@ -48,39 +66,21 @@
 
 [DOTA里的人生哲理](https://www.wdssmq.com/post/DOTALiDeRenShengZheLi.html "DOTA里的人生哲理")
 
+[关于太空铅笔的谣言](https://www.wdssmq.com/post/20120101924.html "关于太空铅笔的谣言")
+
 [一封男友辞职信及其女友回复](https://www.wdssmq.com/post/20100203886.html "一封男友辞职信及其女友回复")
+
+[大学里那些骗人的事](https://www.wdssmq.com/post/daxuelinaxiepianrendeshi-renrendoushiyishujia.html "大学里那些骗人的事")
+
+[2010年11月4日冷笑话合集 - 光棍节教程](https://www.wdssmq.com/post/2010Nian11Yue4RiXiaoHuaHeJi-GuangGunJieJiaoCheng.html "2010年11月4日冷笑话合集 - 光棍节教程")
 
 [紧急出警【爆笑】](https://www.wdssmq.com/post/20100218557.html "紧急出警【爆笑】")
 
 [「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
 
+[2010年10月6日冷笑话合集 - 不和](https://www.wdssmq.com/post/2010Nian10Yue6RiLengXiaoHuaHeJi-BuHe.html "2010年10月6日冷笑话合集 - 不和")
+
 [2011年1月3日冷笑话合集 - 哪个BAI](https://www.wdssmq.com/post/2011Nian1Yue3RiLengXiaoHuaHeJi-NaGeBAI.html "2011年1月3日冷笑话合集 - 哪个BAI")
-
-[【真·碎碎念】2021/09/13 ~ 2021/09/19](https://www.wdssmq.com/post/20190628106.html "【真·碎碎念】2021/09/13 ~ 2021/09/19")
-
-[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
-
-[「折腾」VSCode 语法高亮探索](https://www.wdssmq.com/post/20210316815.html "「折腾」VSCode 语法高亮探索")
-
-[一些能用的 BT Tracker 服务器地址【不定时更新】](https://www.wdssmq.com/post/20130323295.html "一些能用的 BT Tracker 服务器地址【不定时更新】")
-
-[「水坑」Z-BlogPHP 中各种错误提示的复现](https://www.wdssmq.com/post/20200922437.html "「水坑」Z-BlogPHP 中各种错误提示的复现")
-
-[2011年2月21日冷笑话合集 - 淡定的老师](https://www.wdssmq.com/post/2011Nian2Yue21RiLengXiaoHuaHeJi.html "2011年2月21日冷笑话合集 - 淡定的老师")
-
-[金庸直接被这套考题考昏了](https://www.wdssmq.com/post/JinYongZhiJieBeiZheTaoKaoTiKaoHunLe.html "金庸直接被这套考题考昏了")
-
-[口算题在线生成（可打印）](https://www.wdssmq.com/post/shuxue.html "口算题在线生成（可打印）")
-
-[【真·碎碎念】2021-07-28「特别篇」](https://www.wdssmq.com/post/20120641176.html "【真·碎碎念】2021-07-28「特别篇」")
-
-[【真·碎碎念】2021/09/06 ~ 2021/09/12](https://www.wdssmq.com/post/20210913547.html "【真·碎碎念】2021/09/06 ~ 2021/09/12")
-
-[【真·碎碎念】2021/08/23 ~ 2021/08/29](https://www.wdssmq.com/post/20200620382.html "【真·碎碎念】2021/08/23 ~ 2021/08/29")
-
-[2011年7月3日冷笑话合集 - 告状](https://www.wdssmq.com/post/2011Nian7Yue3RiLengXiaoHuaHeJi-GaoZhuang.html "2011年7月3日冷笑话合集 - 告状")
-
-[2011年11月2日冷笑话合集 - 换支曲子](https://www.wdssmq.com/post/2011Nian11Yue2RiLengXiaoHuaHeJi-HuanZhiQuZi.html "2011年11月2日冷笑话合集 - 换支曲子")
 
 ---end---
 
