@@ -6,7 +6,17 @@
 
 ---start---
 
-## 目录( 2021 年 11 月 08 日更新)
+## 目录( 2021 年 11 月 14 日更新)
+
+[【备忘】nginx 重定向(301)相关](https://www.wdssmq.com/post/20140819797.html "【备忘】nginx 重定向(301)相关")
+
+[【折腾】Python + GitHub Actions 更新 Z-Blog 的探索](https://www.wdssmq.com/post/20210129918.html "【折腾】Python + GitHub Actions 更新 Z-Blog 的探索")
+
+[Google 东京奥运会 Doodle](https://www.wdssmq.com/post/20210723446.html "Google 东京奥运会 Doodle")
+
+[【小事】换新的键盘终于回来了](https://www.wdssmq.com/post/20140512942.html "【小事】换新的键盘终于回来了")
+
+[2011年11月19日冷笑话合集 - 小号与钢琴](https://www.wdssmq.com/post/2011Nian11Yue19RiLengXiaoHuaHeJi-XiaoHaoYuGangQin.html "2011年11月19日冷笑话合集 - 小号与钢琴")
 
 [「GM_脚本」qBittorrent 批量修改种子 tracker](https://www.wdssmq.com/post/20191117777.html "「GM_脚本」qBittorrent 批量修改种子 tracker")
 
@@ -14,15 +24,21 @@
 
 [【真·碎碎念】2021/10/18 ~ 2021/10/31](https://www.wdssmq.com/post/20100227147.html "【真·碎碎念】2021/10/18 ~ 2021/10/31")
 
+[2011年4月16日冷笑话合集 - 减肥药](https://www.wdssmq.com/post/2011Nian4Yue16RiLengXiaoHuaHeJi-JianFeiYao.html "2011年4月16日冷笑话合集 - 减肥药")
+
 [2012年1月1日冷笑话合集 - 每天的纠结](https://www.wdssmq.com/post/2012010199.html "2012年1月1日冷笑话合集 - 每天的纠结")
 
 [「Z-BlogPHP」插件管理添加「最近使用」功能](https://www.wdssmq.com/post/2010022472.html "「Z-BlogPHP」插件管理添加「最近使用」功能")
 
 [2011年2月17日冷笑话合集 - 先找你老婆吧](https://www.wdssmq.com/post/2011Nian2Yue17RiLengXiaoHuaHeJi-XianZhaoNiLaoPoBa.html "2011年2月17日冷笑话合集 - 先找你老婆吧")
 
+[西游记告诉我们的](https://www.wdssmq.com/post/XiYouJiGaoSuWoMenDe-RenRenDouShiYiShuJia.html "西游记告诉我们的")
+
 [悟空要考研](https://www.wdssmq.com/post/20100301165.html "悟空要考研")
 
 [关于数学家的笑话，你能看懂几个？](https://www.wdssmq.com/post/20100627818.html "关于数学家的笑话，你能看懂几个？")
+
+[姐那霸气的语录](https://www.wdssmq.com/post/JieNaBaQiDeYuLu.html "姐那霸气的语录")
 
 [【真·碎碎念】2021/10/04 ~ 2021/10/17](https://www.wdssmq.com/post/20211013570.html "【真·碎碎念】2021/10/04 ~ 2021/10/17")
 
@@ -34,13 +50,21 @@
 
 [Docker 内 php-nginx 的伪静态相关](https://www.wdssmq.com/post/20190813019.html "Docker 内 php-nginx 的伪静态相关")
 
+[很黄很暴力的变态老师语录](https://www.wdssmq.com/post/HenHuangHenBaoLiDeBianTaiLaoShiYuLu.html "很黄很暴力的变态老师语录")
+
 [2010年12月12日冷笑话合集 - 先开着](https://www.wdssmq.com/post/2010Nian12Yue12RiLengXiaoHuaHeJi-XianKaiZhe.html "2010年12月12日冷笑话合集 - 先开着")
 
 [2011年7月19日冷笑话合集 - 令人感动的话](https://www.wdssmq.com/post/2011Nian7Yue19RiLengXiaoHuaHeJi-LingRenGanDongDeHua.html "2011年7月19日冷笑话合集 - 令人感动的话")
 
+[从骗女孩上床看次贷危机](https://www.wdssmq.com/post/CongPianNuHaiShangChuangKanCiDaiWeiJi.html "从骗女孩上床看次贷危机")
+
 [那些小时候说不通的数学题现在都通了](https://www.wdssmq.com/post/NaXieXiaoShiHouShuoBuTongDeShuXueTiXianZaiDouTongLe.html "那些小时候说不通的数学题现在都通了")
 
 [寻访简·爱-格桑亚西](https://www.wdssmq.com/post/xunfangjian-ai-gesangyaxi.html "寻访简·爱-格桑亚西")
+
+[2010暴强语录盘点](https://www.wdssmq.com/post/20100411517.html "2010暴强语录盘点")
+
+[男人这他妈一辈子](https://www.wdssmq.com/post/20100411894.html "男人这他妈一辈子")
 
 [2010年都发生了些什么。。。](https://www.wdssmq.com/post/2010niandoufashenglexieshime.html "2010年都发生了些什么。。。")
 
@@ -50,37 +74,13 @@
 
 [「折腾」RSSerpent 插件笔记](https://www.wdssmq.com/post/20120817543.html "「折腾」RSSerpent 插件笔记")
 
+[win7下如何玩《轩辕剑3：云和山的彼端》](https://www.wdssmq.com/post/win7xiaruhewan-xuanyuanjian3-yunheshandebiduan.html "win7下如何玩《轩辕剑3：云和山的彼端》")
+
+[《轩辕剑》，win7，纠结](https://www.wdssmq.com/post/xuanyuanjian-win7-jiujie.html "《轩辕剑》，win7，纠结")
+
 [2011年1月10日冷笑话合集 - 带褶的馒头](https://www.wdssmq.com/post/2011Nian1Yue10RiLengXiaoHuaHeJi-DaiDeManTou.html "2011年1月10日冷笑话合集 - 带褶的馒头")
 
 [【真·碎碎念】2021/09/20 ~ 2021/09/26](https://www.wdssmq.com/post/20100305270.html "【真·碎碎念】2021/09/20 ~ 2021/09/26")
-
-[「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作](https://www.wdssmq.com/post/20200105022.html "「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作")
-
-[「VSCode」远程 CentOS 中 php.validate.executablePath 的设置](https://www.wdssmq.com/post/20211004556.html "「VSCode」远程 CentOS 中 php.validate.executablePath 的设置")
-
-[震惊！原来 Z-Blog 的插件定制是这么报价的！](https://www.wdssmq.com/post/20170422818.html "震惊！原来 Z-Blog 的插件定制是这么报价的！")
-
-[一个有(dou)用(bi)的小工具](https://www.wdssmq.com/post/20150106256.html "一个有(dou)用(bi)的小工具")
-
-[15条沟通的经典原则](https://www.wdssmq.com/post/15tiaogoutongdejingdianyuanze-renrendoushiyishujia.html "15条沟通的经典原则")
-
-[DOTA里的人生哲理](https://www.wdssmq.com/post/DOTALiDeRenShengZheLi.html "DOTA里的人生哲理")
-
-[关于太空铅笔的谣言](https://www.wdssmq.com/post/20120101924.html "关于太空铅笔的谣言")
-
-[一封男友辞职信及其女友回复](https://www.wdssmq.com/post/20100203886.html "一封男友辞职信及其女友回复")
-
-[大学里那些骗人的事](https://www.wdssmq.com/post/daxuelinaxiepianrendeshi-renrendoushiyishujia.html "大学里那些骗人的事")
-
-[2010年11月4日冷笑话合集 - 光棍节教程](https://www.wdssmq.com/post/2010Nian11Yue4RiXiaoHuaHeJi-GuangGunJieJiaoCheng.html "2010年11月4日冷笑话合集 - 光棍节教程")
-
-[紧急出警【爆笑】](https://www.wdssmq.com/post/20100218557.html "紧急出警【爆笑】")
-
-[「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
-
-[2010年10月6日冷笑话合集 - 不和](https://www.wdssmq.com/post/2010Nian10Yue6RiLengXiaoHuaHeJi-BuHe.html "2010年10月6日冷笑话合集 - 不和")
-
-[2011年1月3日冷笑话合集 - 哪个BAI](https://www.wdssmq.com/post/2011Nian1Yue3RiLengXiaoHuaHeJi-NaGeBAI.html "2011年1月3日冷笑话合集 - 哪个BAI")
 
 ---end---
 
