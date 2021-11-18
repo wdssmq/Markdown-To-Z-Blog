@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2021 年 11 月 14 日更新)
+## 目录( 2021 年 11 月 15 日更新)
+
+[【真·碎碎念】2021/11/01 ~ 2021/11/14](https://www.wdssmq.com/post/20211115770.html "【真·碎碎念】2021/11/01 ~ 2021/11/14")
 
 [【备忘】nginx 重定向(301)相关](https://www.wdssmq.com/post/20140819797.html "【备忘】nginx 重定向(301)相关")
 
@@ -30,6 +32,8 @@
 
 [「Z-BlogPHP」插件管理添加「最近使用」功能](https://www.wdssmq.com/post/2010022472.html "「Z-BlogPHP」插件管理添加「最近使用」功能")
 
+[爆笑三国【无厘网文】](https://www.wdssmq.com/post/2010061786.html "爆笑三国【无厘网文】")
+
 [2011年2月17日冷笑话合集 - 先找你老婆吧](https://www.wdssmq.com/post/2011Nian2Yue17RiLengXiaoHuaHeJi-XianZhaoNiLaoPoBa.html "2011年2月17日冷笑话合集 - 先找你老婆吧")
 
 [西游记告诉我们的](https://www.wdssmq.com/post/XiYouJiGaoSuWoMenDe-RenRenDouShiYiShuJia.html "西游记告诉我们的")
@@ -50,6 +54,8 @@
 
 [Docker 内 php-nginx 的伪静态相关](https://www.wdssmq.com/post/20190813019.html "Docker 内 php-nginx 的伪静态相关")
 
+[2012年9月20日冷笑话合集 - 中奖](https://www.wdssmq.com/post/20120920167.html "2012年9月20日冷笑话合集 - 中奖")
+
 [很黄很暴力的变态老师语录](https://www.wdssmq.com/post/HenHuangHenBaoLiDeBianTaiLaoShiYuLu.html "很黄很暴力的变态老师语录")
 
 [2010年12月12日冷笑话合集 - 先开着](https://www.wdssmq.com/post/2010Nian12Yue12RiLengXiaoHuaHeJi-XianKaiZhe.html "2010年12月12日冷笑话合集 - 先开着")
@@ -57,6 +63,8 @@
 [2011年7月19日冷笑话合集 - 令人感动的话](https://www.wdssmq.com/post/2011Nian7Yue19RiLengXiaoHuaHeJi-LingRenGanDongDeHua.html "2011年7月19日冷笑话合集 - 令人感动的话")
 
 [从骗女孩上床看次贷危机](https://www.wdssmq.com/post/CongPianNuHaiShangChuangKanCiDaiWeiJi.html "从骗女孩上床看次贷危机")
+
+[2013年7月31日冷笑话合集 - 随便给点吧](https://www.wdssmq.com/post/20130731680.html "2013年7月31日冷笑话合集 - 随便给点吧")
 
 [那些小时候说不通的数学题现在都通了](https://www.wdssmq.com/post/NaXieXiaoShiHouShuoBuTongDeShuXueTiXianZaiDouTongLe.html "那些小时候说不通的数学题现在都通了")
 
@@ -73,14 +81,6 @@
 [2010年10月10日冷笑话合集 - 足球知识](https://www.wdssmq.com/post/2010nian10yue10rixiaohuaheji-zuqiuzhishi.html "2010年10月10日冷笑话合集 - 足球知识")
 
 [「折腾」RSSerpent 插件笔记](https://www.wdssmq.com/post/20120817543.html "「折腾」RSSerpent 插件笔记")
-
-[win7下如何玩《轩辕剑3：云和山的彼端》](https://www.wdssmq.com/post/win7xiaruhewan-xuanyuanjian3-yunheshandebiduan.html "win7下如何玩《轩辕剑3：云和山的彼端》")
-
-[《轩辕剑》，win7，纠结](https://www.wdssmq.com/post/xuanyuanjian-win7-jiujie.html "《轩辕剑》，win7，纠结")
-
-[2011年1月10日冷笑话合集 - 带褶的馒头](https://www.wdssmq.com/post/2011Nian1Yue10RiLengXiaoHuaHeJi-DaiDeManTou.html "2011年1月10日冷笑话合集 - 带褶的馒头")
-
-[【真·碎碎念】2021/09/20 ~ 2021/09/26](https://www.wdssmq.com/post/20100305270.html "【真·碎碎念】2021/09/20 ~ 2021/09/26")
 
 ---end---
 
