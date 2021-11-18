@@ -1,10 +1,10 @@
 ---
-title: 【油猴脚本】复制任意网页的标题+网址，支持 HTML 及 MarkDown
+title: 「GM_脚本」复制任意网页的标题+网址，支持 HTML 及 MarkDown
 tags:
+- GM_脚本
 - JavaScript
 - 浏览器
 - 浏览器脚本
-- GM_脚本
 categories:
 - 电脑网络
 id: 3105
@@ -16,7 +16,7 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/109493913
 
 ## 软件名称
 
-【油猴脚本】复制任意网页的标题+网址，支持 HTML 及 MarkDown
+「GM_脚本」复制任意网页的标题+网址，支持 HTML 及 MarkDown
 
 又名“怎么复制网页链接的时候顺便复制标题”。
 
