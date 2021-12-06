@@ -8,6 +8,8 @@
 
 ## 目录( 2021 年 12 月 06 日更新)
 
+[「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
+
 [【真·碎碎念】2021/11/15 ~ 2021/12/05](https://www.wdssmq.com/post/20190802017.html "【真·碎碎念】2021/11/15 ~ 2021/12/05")
 
 [2013年9月28日冷笑话合集 - 后悔没好好学习](https://www.wdssmq.com/post/20130928962.html "2013年9月28日冷笑话合集 - 后悔没好好学习")
@@ -79,8 +81,6 @@
 [2011年2月17日冷笑话合集 - 先找你老婆吧](https://www.wdssmq.com/post/2011Nian2Yue17RiLengXiaoHuaHeJi-XianZhaoNiLaoPoBa.html "2011年2月17日冷笑话合集 - 先找你老婆吧")
 
 [西游记告诉我们的](https://www.wdssmq.com/post/XiYouJiGaoSuWoMenDe-RenRenDouShiYiShuJia.html "西游记告诉我们的")
-
-[悟空要考研](https://www.wdssmq.com/post/20100301165.html "悟空要考研")
 
 ---end---
 
