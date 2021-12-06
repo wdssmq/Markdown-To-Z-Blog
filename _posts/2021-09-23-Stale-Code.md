@@ -30,6 +30,12 @@ BMNFE2WCBU5Y3TMRMDU6PFEQYI6IC5IFW
 
 ## 内容
 
+js-date · 沉冰浮水/水水的旧代码合集 - 码云 - 开源中国：
+
+[https://gitee.com/wdssmq/StaleCode/tree/master/js-date](https://gitee.com/wdssmq/StaleCode/tree/master/js-date "js-date · 沉冰浮水/水水的旧代码合集 - 码云 - 开源中国")
+
+↑↑ JavaScript 时间相关的笔记和函数
+
 js-countdown · 沉冰浮水/水水的旧代码合集 - 码云 - 开源中国：
 
 [https://gitee.com/wdssmq/StaleCode/tree/master/js-countdown](https://gitee.com/wdssmq/StaleCode/tree/master/js-countdown "js-countdown · 沉冰浮水/水水的旧代码合集 - 码云 - 开源中国")
