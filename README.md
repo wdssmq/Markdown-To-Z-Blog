@@ -6,11 +6,17 @@
 
 ---start---
 
-## 目录( 2021 年 12 月 06 日更新)
+## 目录( 2021 年 12 月 07 日更新)
 
-[「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
+[「水坑」IIS 部署站点 500 错误排查](https://www.wdssmq.com/post/20130316783.html "「水坑」IIS 部署站点 500 错误排查")
 
 [【真·碎碎念】2021/11/15 ~ 2021/12/05](https://www.wdssmq.com/post/20190802017.html "【真·碎碎念】2021/11/15 ~ 2021/12/05")
+
+[【备忘】web.config 配置 IIS 显示详细错误信息](https://www.wdssmq.com/post/20160901698.html "【备忘】web.config 配置 IIS 显示详细错误信息")
+
+[【备忘】IIS7显示具体错误提示](https://www.wdssmq.com/post/BeiWang-IIS7XianShiJuTiCuoWuTiShi.html "【备忘】IIS7显示具体错误提示")
+
+[「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
 
 [2013年9月28日冷笑话合集 - 后悔没好好学习](https://www.wdssmq.com/post/20130928962.html "2013年9月28日冷笑话合集 - 后悔没好好学习")
 
@@ -75,12 +81,6 @@
 [2010年12月2日冷笑话合集 - 斗智](https://www.wdssmq.com/post/2010Nian12Yue2RiLengXiaoHuaHeJi-DouZhi.html "2010年12月2日冷笑话合集 - 斗智")
 
 [爆笑三国【无厘网文】](https://www.wdssmq.com/post/2010061786.html "爆笑三国【无厘网文】")
-
-[2013年8月28日冷笑话合集 - 上次就是你理的](https://www.wdssmq.com/post/20130828436.html "2013年8月28日冷笑话合集 - 上次就是你理的")
-
-[2011年2月17日冷笑话合集 - 先找你老婆吧](https://www.wdssmq.com/post/2011Nian2Yue17RiLengXiaoHuaHeJi-XianZhaoNiLaoPoBa.html "2011年2月17日冷笑话合集 - 先找你老婆吧")
-
-[西游记告诉我们的](https://www.wdssmq.com/post/XiYouJiGaoSuWoMenDe-RenRenDouShiYiShuJia.html "西游记告诉我们的")
 
 ---end---
 
