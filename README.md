@@ -6,13 +6,31 @@
 
 ---start---
 
-## 目录( 2021 年 11 月 18 日更新)
+## 目录( 2021 年 12 月 06 日更新)
+
+[【真·碎碎念】2021/11/15 ~ 2021/12/05](https://www.wdssmq.com/post/20190802017.html "【真·碎碎念】2021/11/15 ~ 2021/12/05")
+
+[2013年9月28日冷笑话合集 - 后悔没好好学习](https://www.wdssmq.com/post/20130928962.html "2013年9月28日冷笑话合集 - 后悔没好好学习")
+
+[2011年4月3日冷笑话合集 - 不靠谱](https://www.wdssmq.com/post/2011Nian4Yue3RiLengXiaoHuaHeJi-BuKaoPu.html "2011年4月3日冷笑话合集 - 不靠谱")
+
+[2011年11月5日冷笑话合集 - 奇怪的雕塑](https://www.wdssmq.com/post/2011Nian11Yue5RiLengXiaoHuaHeJi-QiGuaiDeDiaoSu.html "2011年11月5日冷笑话合集 - 奇怪的雕塑")
+
+[2014年3月14日冷笑话合集 - 总有一些天真的人类](https://www.wdssmq.com/post/20140314549.html "2014年3月14日冷笑话合集 - 总有一些天真的人类")
+
+[2011年2月23日冷笑话合集 - 婚礼中的男子](https://www.wdssmq.com/post/20120521975.html "2011年2月23日冷笑话合集 - 婚礼中的男子")
+
+[2011年1月30号冷笑话合集 - 被飞车党抢了](https://www.wdssmq.com/post/2012062198.html "2011年1月30号冷笑话合集 - 被飞车党抢了")
+
+[2012年3月3日冷笑话合集 - 同行](https://www.wdssmq.com/post/20120303935.html "2012年3月3日冷笑话合集 - 同行")
 
 [「GM_脚本」复制任意网页的标题+网址，支持 HTML 及 MarkDown](https://www.wdssmq.com/post/20201104429.html "「GM_脚本」复制任意网页的标题+网址，支持 HTML 及 MarkDown")
 
 [【真·碎碎念】2021/11/01 ~ 2021/11/14](https://www.wdssmq.com/post/20211115770.html "【真·碎碎念】2021/11/01 ~ 2021/11/14")
 
 [「GM_脚本」GM_setClipboard 方法示例](https://www.wdssmq.com/post/20211108343.html "「GM_脚本」GM_setClipboard 方法示例")
+
+[2010年10月24日冷笑话合集 - 同志们冲啊](https://www.wdssmq.com/post/2010Nian10Yue24RiXiaoHuaHeJi-TongZhiMenChongA.html "2010年10月24日冷笑话合集 - 同志们冲啊")
 
 [【备忘】nginx 重定向(301)相关](https://www.wdssmq.com/post/20140819797.html "【备忘】nginx 重定向(301)相关")
 
@@ -24,6 +42,8 @@
 
 [《装忠论》转自【三国杀吧】](https://www.wdssmq.com/post/ZhuangZhongLun-ZhuanZiSanGuoShaBa.html "《装忠论》转自【三国杀吧】")
 
+[2011年7月24日冷笑话合集 - 祖先的愤怒](https://www.wdssmq.com/post/2011Nian7Yue24RiLengXiaoHuaHeJi-ZuXianDeFenNu.html "2011年7月24日冷笑话合集 - 祖先的愤怒")
+
 [2011年11月19日冷笑话合集 - 小号与钢琴](https://www.wdssmq.com/post/2011Nian11Yue19RiLengXiaoHuaHeJi-XiaoHaoYuGangQin.html "2011年11月19日冷笑话合集 - 小号与钢琴")
 
 [「GM_脚本」qBittorrent 批量修改种子 tracker](https://www.wdssmq.com/post/20191117777.html "「GM_脚本」qBittorrent 批量修改种子 tracker")
@@ -32,55 +52,35 @@
 
 [【真·碎碎念】2021/10/18 ~ 2021/10/31](https://www.wdssmq.com/post/20100227147.html "【真·碎碎念】2021/10/18 ~ 2021/10/31")
 
+[三寸金莲【民间故事】](https://www.wdssmq.com/post/20130915139.html "三寸金莲【民间故事】")
+
+[Internet为什么永远这么酷](https://www.wdssmq.com/post/20100301485.html "Internet为什么永远这么酷")
+
+[提升幽默感的爆强问答](https://www.wdssmq.com/post/20100304315.html "提升幽默感的爆强问答")
+
 [2011年4月16日冷笑话合集 - 减肥药](https://www.wdssmq.com/post/2011Nian4Yue16RiLengXiaoHuaHeJi-JianFeiYao.html "2011年4月16日冷笑话合集 - 减肥药")
+
+[茶杯识人【故事会】](https://www.wdssmq.com/post/20130911999.html "茶杯识人【故事会】")
+
+[2010年8月31日冷笑话合集 - 感觉不对](https://www.wdssmq.com/post/20130314469.html "2010年8月31日冷笑话合集 - 感觉不对")
 
 [2012年1月1日冷笑话合集 - 每天的纠结](https://www.wdssmq.com/post/2012010199.html "2012年1月1日冷笑话合集 - 每天的纠结")
 
+[经典:十大搞笑糗事排行榜](https://www.wdssmq.com/post/JingDian-ShiDaGaoXiaoShiPaiXingBang.html "经典:十大搞笑糗事排行榜")
+
 [「Z-BlogPHP」插件管理添加「最近使用」功能](https://www.wdssmq.com/post/2010022472.html "「Z-BlogPHP」插件管理添加「最近使用」功能")
 
+[2010年12月2日冷笑话合集 - 斗智](https://www.wdssmq.com/post/2010Nian12Yue2RiLengXiaoHuaHeJi-DouZhi.html "2010年12月2日冷笑话合集 - 斗智")
+
 [爆笑三国【无厘网文】](https://www.wdssmq.com/post/2010061786.html "爆笑三国【无厘网文】")
+
+[2013年8月28日冷笑话合集 - 上次就是你理的](https://www.wdssmq.com/post/20130828436.html "2013年8月28日冷笑话合集 - 上次就是你理的")
 
 [2011年2月17日冷笑话合集 - 先找你老婆吧](https://www.wdssmq.com/post/2011Nian2Yue17RiLengXiaoHuaHeJi-XianZhaoNiLaoPoBa.html "2011年2月17日冷笑话合集 - 先找你老婆吧")
 
 [西游记告诉我们的](https://www.wdssmq.com/post/XiYouJiGaoSuWoMenDe-RenRenDouShiYiShuJia.html "西游记告诉我们的")
 
 [悟空要考研](https://www.wdssmq.com/post/20100301165.html "悟空要考研")
-
-[关于数学家的笑话，你能看懂几个？](https://www.wdssmq.com/post/20100627818.html "关于数学家的笑话，你能看懂几个？")
-
-[姐那霸气的语录](https://www.wdssmq.com/post/JieNaBaQiDeYuLu.html "姐那霸气的语录")
-
-[【真·碎碎念】2021/10/04 ~ 2021/10/17](https://www.wdssmq.com/post/20211013570.html "【真·碎碎念】2021/10/04 ~ 2021/10/17")
-
-[「Docker」Nginx 反代探究](https://www.wdssmq.com/post/20211019591.html "「Docker」Nginx 反代探究")
-
-[挂科论](https://www.wdssmq.com/post/20100709550.html "挂科论")
-
-[套套还没过期，爱情就已经过期了【经典语录】](https://www.wdssmq.com/post/TaoTaoHaiMeiGuoQi-AiQingJiuYiJingGuoQiLeJingDianYuLu.html "套套还没过期，爱情就已经过期了【经典语录】")
-
-[程先生的那些事](https://www.wdssmq.com/post/ChengXianShengDeNaXieShi.html "程先生的那些事")
-
-[Docker 内 php-nginx 的伪静态相关](https://www.wdssmq.com/post/20190813019.html "Docker 内 php-nginx 的伪静态相关")
-
-[2012年9月20日冷笑话合集 - 中奖](https://www.wdssmq.com/post/20120920167.html "2012年9月20日冷笑话合集 - 中奖")
-
-[很黄很暴力的变态老师语录](https://www.wdssmq.com/post/HenHuangHenBaoLiDeBianTaiLaoShiYuLu.html "很黄很暴力的变态老师语录")
-
-[2010年12月12日冷笑话合集 - 先开着](https://www.wdssmq.com/post/2010Nian12Yue12RiLengXiaoHuaHeJi-XianKaiZhe.html "2010年12月12日冷笑话合集 - 先开着")
-
-[2011年7月19日冷笑话合集 - 令人感动的话](https://www.wdssmq.com/post/2011Nian7Yue19RiLengXiaoHuaHeJi-LingRenGanDongDeHua.html "2011年7月19日冷笑话合集 - 令人感动的话")
-
-[从骗女孩上床看次贷危机](https://www.wdssmq.com/post/CongPianNuHaiShangChuangKanCiDaiWeiJi.html "从骗女孩上床看次贷危机")
-
-[女LM语录外传](https://www.wdssmq.com/post/NuLMYuLuWaiChuan.html "女LM语录外传")
-
-[2012年10月5日冷笑话合集 - 遇到个同事](https://www.wdssmq.com/post/20121010802.html "2012年10月5日冷笑话合集 - 遇到个同事")
-
-[2013年7月31日冷笑话合集 - 随便给点吧](https://www.wdssmq.com/post/20130731680.html "2013年7月31日冷笑话合集 - 随便给点吧")
-
-[那些小时候说不通的数学题现在都通了](https://www.wdssmq.com/post/NaXieXiaoShiHouShuoBuTongDeShuXueTiXianZaiDouTongLe.html "那些小时候说不通的数学题现在都通了")
-
-[寻访简·爱-格桑亚西](https://www.wdssmq.com/post/xunfangjian-ai-gesangyaxi.html "寻访简·爱-格桑亚西")
 
 ---end---
 
