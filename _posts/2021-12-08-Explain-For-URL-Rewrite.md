@@ -3,6 +3,7 @@ title: 「水坑」略深入的讲解伪静态相关的知识
 tags:
 - GesF-Force
 - Rewrite
+- PHP
 categories:
 - 电脑网络
 id: 837
@@ -29,9 +30,13 @@ Redirect 则是「重定向（301）」，虽然可以理解为带有 301 标志
 
 大概理解后就换下一个「版本」覆盖进同一步件查看效果；
 
+\---
+
 纯动态模式 - php-rewrite/index.php · 70063e1 · 沉冰浮水/水水的旧代码合集 - Gitee.com
 
-https://gitee.com/wdssmq/StaleCode/blob/70063e12f67c31ba5588a2b2a0a0e3fe727ea37b/php-rewrite/index.php
+[https://gitee.com/wdssmq/StaleCode/blob/70063e12f67c31ba5588a2b2a0a0e3fe727ea37b/php-rewrite/index.php](https://gitee.com/wdssmq/StaleCode/blob/70063e12f67c31ba5588a2b2a0a0e3fe727ea37b/php-rewrite/index.php "php-rewrite/index.php · 沉冰浮水/水水的旧代码合集 - Gitee.com")
+
+\---
 
 > php-rewrite · 沉冰浮水/水水的旧代码合集 - 码云 - 开源中国：
 >
