@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2021 年 12 月 07 日更新)
+## 目录( 2021 年 12 月 09 日更新)
+
+[「水坑」略深入的讲解伪静态相关的知识](https://www.wdssmq.com/post/20190704012.html "「水坑」略深入的讲解伪静态相关的知识")
 
 [「水坑」IIS 部署站点 500 错误排查](https://www.wdssmq.com/post/20130316783.html "「水坑」IIS 部署站点 500 错误排查")
 
@@ -17,6 +19,8 @@
 [【备忘】IIS7显示具体错误提示](https://www.wdssmq.com/post/BeiWang-IIS7XianShiJuTiCuoWuTiShi.html "【备忘】IIS7显示具体错误提示")
 
 [「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
+
+[2012年6月27日冷笑话合集 - 场景模拟](https://www.wdssmq.com/post/20100202996.html "2012年6月27日冷笑话合集 - 场景模拟")
 
 [2013年9月28日冷笑话合集 - 后悔没好好学习](https://www.wdssmq.com/post/20130928962.html "2013年9月28日冷笑话合集 - 后悔没好好学习")
 
@@ -68,6 +72,8 @@
 
 [2011年4月16日冷笑话合集 - 减肥药](https://www.wdssmq.com/post/2011Nian4Yue16RiLengXiaoHuaHeJi-JianFeiYao.html "2011年4月16日冷笑话合集 - 减肥药")
 
+[2011年10月31日冷笑话合集 - 怨妇体](https://www.wdssmq.com/post/2011Nian10Yue31RiLengXiaoHuaHeJi-YuanFuTi.html "2011年10月31日冷笑话合集 - 怨妇体")
+
 [茶杯识人【故事会】](https://www.wdssmq.com/post/20130911999.html "茶杯识人【故事会】")
 
 [2010年8月31日冷笑话合集 - 感觉不对](https://www.wdssmq.com/post/20130314469.html "2010年8月31日冷笑话合集 - 感觉不对")
@@ -75,12 +81,6 @@
 [2012年1月1日冷笑话合集 - 每天的纠结](https://www.wdssmq.com/post/2012010199.html "2012年1月1日冷笑话合集 - 每天的纠结")
 
 [经典:十大搞笑糗事排行榜](https://www.wdssmq.com/post/JingDian-ShiDaGaoXiaoShiPaiXingBang.html "经典:十大搞笑糗事排行榜")
-
-[「Z-BlogPHP」插件管理添加「最近使用」功能](https://www.wdssmq.com/post/2010022472.html "「Z-BlogPHP」插件管理添加「最近使用」功能")
-
-[2010年12月2日冷笑话合集 - 斗智](https://www.wdssmq.com/post/2010Nian12Yue2RiLengXiaoHuaHeJi-DouZhi.html "2010年12月2日冷笑话合集 - 斗智")
-
-[爆笑三国【无厘网文】](https://www.wdssmq.com/post/2010061786.html "爆笑三国【无厘网文】")
 
 ---end---
 
