@@ -30,8 +30,7 @@ alias: 20200617652
 
 [「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作](/post/20200105022.html "「水坑」Z-BlogPHP 应用开发中那些可以自动完成的操作")
 
-<!-- 【备忘】textarea 内输出 html 的转义问题_电脑网络_沉冰浮水
-https://www.wdssmq.com/post/20210630871.html -->
+[「水坑」textarea 内输出 html 的转义问题\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20210630871.html "「水坑」textarea 内输出 html 的转义问题\_电脑网络\_沉冰浮水")
 
 <!-- 关于如何回答「如何备份网站」这种事_电脑网络_沉冰浮水
 https://www.wdssmq.com/post/20180717038.html -->
