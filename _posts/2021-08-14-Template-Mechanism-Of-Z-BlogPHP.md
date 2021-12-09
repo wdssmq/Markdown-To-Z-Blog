@@ -1,7 +1,7 @@
 ---
-title: 「折腾」Z-BlogPHP 模板机制讲解「简易版」
+title: 「水坑」Z-BlogPHP 模板机制讲解「简易版」
 tags:
-- 折腾
+- GesF-Force
 - Z-BlogPHP
 - PHP
 categories:
@@ -16,6 +16,8 @@ alias: 20201026266
 
 <!--more-->
 
+### 推荐阅读
+
 Z-BlogPHP 模板语法汇总：
 
 [https://docs.zblogcn.com/php/markup/](https://docs.zblogcn.com/php/markup/ "Z-BlogPHP 模板语法汇总")
@@ -23,6 +25,10 @@ Z-BlogPHP 模板语法汇总：
 「小目标」平均每篇文章/Git Repository 赚取 1 元\_杂七杂八\_沉冰浮水：
 
 [https://www.wdssmq.com/post/20210723266.html](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元\_杂七杂八\_沉冰浮水")
+
+> 为什么叫「水坑」见：
+>
+> [「水坑」系列教程索引](/post/20200617652.html "「水坑」系列教程索引")
 
 ### PHP 可变变量（动态变量）
 
