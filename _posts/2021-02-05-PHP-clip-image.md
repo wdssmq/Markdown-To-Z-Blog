@@ -1,6 +1,7 @@
 ---
-title: 关于 Z-BlogPHP 1.7 缩略图的一些记录
+title: 「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录
 tags:
+- GesF-Force
 - PHP
 - Z-BlogPHP
 - Z-Blog
