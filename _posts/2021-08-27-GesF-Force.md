@@ -38,14 +38,35 @@ alias: 20200617652
 
 [「水坑」一些 SQL 语句\_电脑网络\_沉冰浮水](/post/20120816277.html "「水坑」一些 SQL 语句\_电脑网络\_沉冰浮水")
 
-[「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录\_电脑网络\_沉冰浮水](/post/20210224481.html "「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录\_电脑网络\_沉冰浮水")
-
-<!-- 【备忘】win10 + IIS + PHP + MySQL_电脑网络_沉冰浮水
-https://www.wdssmq.com/post/20210705807.html -->
-
 [「水坑」Z-Blog 简易二级导航菜单 CSS\_电脑网络\_沉冰浮水](/post/20200413146.html "「水坑」Z-Blog 简易二级导航菜单 CSS\_电脑网络\_沉冰浮水")
 
 [「水坑」Z-BlogPHP 常用接口或函数\_电脑网络\_沉冰浮水](/post/20190316451.html "「水坑」Z-BlogPHP 常用接口或函数\_电脑网络\_沉冰浮水")
+
+[「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录\_电脑网络\_沉冰浮水](/post/20210224481.html "「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录\_电脑网络\_沉冰浮水")
+
+### 各种没纳入这个系列的旧文章
+
+反正没人看.jpg
+
+【备忘】LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水：
+
+[https://www.wdssmq.com/post/20181007103.html](https://www.wdssmq.com/post/20181007103.html "【备忘】LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水")
+
+【列表】VSCode 插件推荐\_电脑网络\_沉冰浮水：
+
+[https://www.wdssmq.com/post/20201120794.html](https://www.wdssmq.com/post/20201120794.html "【列表】VSCode 插件推荐\_电脑网络\_沉冰浮水")
+
+【备忘】win10 + IIS + PHP + MySQL\_电脑网络\_沉冰浮水：
+
+[https://www.wdssmq.com/post/20210705807.html](https://www.wdssmq.com/post/20210705807.html "【备忘】win10 + IIS + PHP + MySQL\_电脑网络\_沉冰浮水")
+
+【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图\_电脑网络\_沉冰浮水：
+
+[https://www.wdssmq.com/post/20100215532.html](https://www.wdssmq.com/post/20100215532.html "【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图\_电脑网络\_沉冰浮水")
+
+【教程】Z-Blog 插件运作机制简述\_电脑网络\_沉冰浮水：
+
+[https://www.wdssmq.com/post/20190817262.html](https://www.wdssmq.com/post/20190817262.html "【教程】Z-Blog 插件运作机制简述\_电脑网络\_沉冰浮水")
 
 ### 一句话就能说清楚的知识点
 
@@ -57,4 +78,4 @@ https://www.wdssmq.com/post/20210705807.html -->
 
 [https://www.wdssmq.com/post/20210723266.html](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元\_杂七杂八\_沉冰浮水")
 
-↓↓ 下边也有发电链接，紫色的那个 ↓↓
+**↓↓ 下边也有发电链接，紫色的那个 ↓↓**
