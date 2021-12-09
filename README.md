@@ -8,6 +8,8 @@
 
 ## 目录( 2021 年 12 月 09 日更新)
 
+[「水坑」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「水坑」Z-BlogPHP 模板机制讲解「简易版」")
+
 [「水坑」略深入的讲解伪静态相关的知识](https://www.wdssmq.com/post/20190704012.html "「水坑」略深入的讲解伪静态相关的知识")
 
 [「水坑」IIS 部署站点 500 错误排查](https://www.wdssmq.com/post/20130316783.html "「水坑」IIS 部署站点 500 错误排查")
@@ -79,8 +81,6 @@
 [2010年8月31日冷笑话合集 - 感觉不对](https://www.wdssmq.com/post/20130314469.html "2010年8月31日冷笑话合集 - 感觉不对")
 
 [2012年1月1日冷笑话合集 - 每天的纠结](https://www.wdssmq.com/post/2012010199.html "2012年1月1日冷笑话合集 - 每天的纠结")
-
-[经典:十大搞笑糗事排行榜](https://www.wdssmq.com/post/JingDian-ShiDaGaoXiaoShiPaiXingBang.html "经典:十大搞笑糗事排行榜")
 
 ---end---
 
