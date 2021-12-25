@@ -18,3 +18,4 @@ doc-*.md
 *.lnk
 *.code-workspace
 node_modules
+desktop.files.json
