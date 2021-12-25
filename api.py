@@ -51,6 +51,9 @@ def init():
         if(os.environ["API_URL"]):
             config_info["API_URL"] = os.environ["API_URL"]
 
+        if(os.environ["GIT_REPO"]):
+            config_info["GIT_REPO"] = os.environ["GIT_REPO"]
+
         if(os.environ["_cache_logs"]):
             _cache_logs_json = os.environ["_cache_logs"]
     except:
