@@ -8,9 +8,11 @@
 
 ## 目录( 2021 年 12 月 25 日更新)
 
-[【真·碎碎念】2021/12/06 ~ 2021/12/26](https://www.wdssmq.com/post/20140830728.html "【真·碎碎念】2021/12/06 ~ 2021/12/26")
-
 [「原神」关于满地图打素材却发现可以自动追踪这件事](https://www.wdssmq.com/post/20130808670.html "「原神」关于满地图打素材却发现可以自动追踪这件事")
+
+[「折腾」关于 2021 年末仍然没有完备的图床方案这件事](https://www.wdssmq.com/post/20211225085.html "「折腾」关于 2021 年末仍然没有完备的图床方案这件事")
+
+[【真·碎碎念】2021/12/06 ~ 2021/12/26](https://www.wdssmq.com/post/20140830728.html "【真·碎碎念】2021/12/06 ~ 2021/12/26")
 
 [数学不好就不要玩三国杀](https://www.wdssmq.com/post/ShuXueBuHaoJiuBuYaoWanSanGuoSha.html "数学不好就不要玩三国杀")
 
@@ -79,8 +81,6 @@
 [2013年9月28日冷笑话合集 - 后悔没好好学习](https://www.wdssmq.com/post/20130928962.html "2013年9月28日冷笑话合集 - 后悔没好好学习")
 
 [2010年10月8日冷笑话合集 - 紧急迫降](https://www.wdssmq.com/post/2010nian10yue8rixiaohuaheji-jinjipojiang.html "2010年10月8日冷笑话合集 - 紧急迫降")
-
-[2011年1月28日冷笑话合集 - 酒后表白](https://www.wdssmq.com/post/20100409922.html "2011年1月28日冷笑话合集 - 酒后表白")
 
 ---end---
 
