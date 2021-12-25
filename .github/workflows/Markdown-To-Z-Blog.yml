@@ -31,6 +31,7 @@ jobs:
           API_USR: ${{ secrets.API_USR }}
           API_PWD: ${{ secrets.API_PWD }}
           API_URL: ${{ secrets.API_URL }}
+          GIT_REPO: ${{ github.repository }}
           _cache_logs: ${{ steps.file_changes.outputs.files }}
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
