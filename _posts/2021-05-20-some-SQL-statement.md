@@ -1,6 +1,7 @@
 ---
-title: 【备忘】一些 SQL 语句
+title: 「水坑」一些 SQL 语句
 tags:
+- GesF-Force
 - MySQL
 - 折腾
 - 备忘
