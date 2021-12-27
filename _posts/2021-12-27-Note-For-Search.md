@@ -47,3 +47,37 @@ Nokia G50 的图片和文件管理很有问题。。
 
 ### 2021-12-25 11:31
 虽然今天才周六，最终能够表达和记录的东西果然不会太多。。
+
+### 2021-12-27 13:04
+
+**关于多个站点的文章数据合并到一起很麻烦这件事：**
+
+> MT 数据格式导出【PHP】 - Z-Blog 应用中心：[https://app.zblogcn.com/?id=1501](https://app.zblogcn.com/?id=1501 "MT 数据格式导出【PHP】 - Z-Blog 应用中心")
+>
+> MT 数据格式导入【PHP】 - Z-Blog 应用中心：[https://app.zblogcn.com/?id=928](https://app.zblogcn.com/?id=928 "MT 数据格式导入【PHP】 - Z-Blog 应用中心")
+
+能不能懂随便吧。。再详细了也没啥用：
+
+> a.com/post/10.html
+>
+> b.com/post/10.html
+
+各自数据库内的 id 也是 10，
+
+将 B 站数据追加进 A 站：
+
+> a.com/post/10.html
+>
+> a.com/post/b10.html
+
+然后可以设置如下 301 对应：
+
+> b.com/post/10.html → a.com/post/b10.html
+
+======
+
+所以，建议一开始就设置一个和 ID 无关的别名.jpg
+
+> /post/20200617652.html
+
+或者不 care 旧域名的跳转，前缀那里填 none
