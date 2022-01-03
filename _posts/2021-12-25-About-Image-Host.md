@@ -53,7 +53,7 @@ async function handleRequest(request) {
 
 本地编辑时用如下形式的相对链接，发布时替换，不过自动化仍然是问题，，先这样吧：
 
-```markdown
+```md
 <!-- 本地相对链接 -->
 ![info-000.png](../2021-12-07-Genshin-Impact/info-000.png)
 
