@@ -6,11 +6,19 @@
 
 ---start---
 
-## 目录( 2022 年 01 月 03 日更新)
+## 目录( 2022 年 01 月 06 日更新)
+
+[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
 
 [「折腾」关于 2021 年末仍然没有完备的图床方案这件事](https://www.wdssmq.com/post/20211225085.html "「折腾」关于 2021 年末仍然没有完备的图床方案这件事")
 
+[2014年3月31日冷笑话合集 - 作者爱上了一个球](https://www.wdssmq.com/post/20140331808.html "2014年3月31日冷笑话合集 - 作者爱上了一个球")
+
+[2013年11月15日冷笑话合集 - 费解的物理概念](https://www.wdssmq.com/post/20131115310.html "2013年11月15日冷笑话合集 - 费解的物理概念")
+
 [【真·碎碎念】2021/12/06 ~ 2021/12/26](https://www.wdssmq.com/post/20140830728.html "【真·碎碎念】2021/12/06 ~ 2021/12/26")
+
+[超级牛掰:我和姨父去赶集](https://www.wdssmq.com/post/ChaoJiNiu-WoHeYiFuQuGanJi.html "超级牛掰:我和姨父去赶集")
 
 [2013年7月29日冷笑话合集 - 找工作相对简单](https://www.wdssmq.com/post/20130729307.html "2013年7月29日冷笑话合集 - 找工作相对简单")
 
@@ -24,6 +32,8 @@
 
 [凶残的高中试题，神开头，神结尾！【无厘网文】](https://www.wdssmq.com/post/20140406631.html "凶残的高中试题，神开头，神结尾！【无厘网文】")
 
+[2010年11月10日冷笑话合集 - 开错车](https://www.wdssmq.com/post/2010Nian11Yue10RiXiaoHuaHeJi-KaiCuoChe.html "2010年11月10日冷笑话合集 - 开错车")
+
 [2011年6月10日冷笑话合集 - 听不到了](https://www.wdssmq.com/post/2011Nian6Yue10RiLengXiaoHuaHeJi-TingBuDaoLe.html "2011年6月10日冷笑话合集 - 听不到了")
 
 [2013年9月21日冷笑话合集 - 有空调吗](https://www.wdssmq.com/post/20130921183.html "2013年9月21日冷笑话合集 - 有空调吗")
@@ -31,8 +41,6 @@
 [三国人物谈房地产](https://www.wdssmq.com/post/SanGuoRenWuTanFangDiChan.html "三国人物谈房地产")
 
 [2012年8月31日冷笑话合集 - 大妈不懂英语](https://www.wdssmq.com/post/20120903133.html "2012年8月31日冷笑话合集 - 大妈不懂英语")
-
-[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
 
 [「水坑」textarea 内输出 html 的转义问题](https://www.wdssmq.com/post/20210630871.html "「水坑」textarea 内输出 html 的转义问题")
 
@@ -64,6 +72,8 @@
 
 [「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
 
+[小学生优秀作文《我捡到一个 PSP》 雷的我是外焦里嫩](https://www.wdssmq.com/post/2010021949.html "小学生优秀作文《我捡到一个 PSP》 雷的我是外焦里嫩")
+
 [2012年5月22日冷笑话合集 - 为你好](https://www.wdssmq.com/post/20120522976.html "2012年5月22日冷笑话合集 - 为你好")
 
 [2013年12月11日冷笑话合集 - 潜力](https://www.wdssmq.com/post/20131211199.html "2013年12月11日冷笑话合集 - 潜力")
@@ -71,16 +81,6 @@
 [2011年9月16日冷笑话合集 - 急中生智](https://www.wdssmq.com/post/2011Nian9Yue16RiLengXiaoHuaHeJi-JiZhongShengZhi.html "2011年9月16日冷笑话合集 - 急中生智")
 
 [2011年4月17日冷笑话合集 - 老马识途](https://www.wdssmq.com/post/20100225446.html "2011年4月17日冷笑话合集 - 老马识途")
-
-[各种考试，各种悲剧](https://www.wdssmq.com/post/ge-zhong-kao-shi-ge-zhong-bei-ju-ren-ren-dou-shi-yi-shu-jia.html "各种考试，各种悲剧")
-
-[2012年6月27日冷笑话合集 - 场景模拟](https://www.wdssmq.com/post/20100202996.html "2012年6月27日冷笑话合集 - 场景模拟")
-
-[2012年5月23日冷笑话合集 - 擦肩而过](https://www.wdssmq.com/post/20120523229.html "2012年5月23日冷笑话合集 - 擦肩而过")
-
-[2012年9月2日冷笑话合集 - 学长准备好了](https://www.wdssmq.com/post/20120903415.html "2012年9月2日冷笑话合集 - 学长准备好了")
-
-[6月微博经典段子](https://www.wdssmq.com/post/6YueWeiBoJingDianDuanZi.html "6月微博经典段子")
 
 ---end---
 
