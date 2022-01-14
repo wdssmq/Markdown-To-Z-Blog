@@ -10,6 +10,10 @@
 
 [「原神」关于原神你所不知道的 XXX](https://www.wdssmq.com/post/20190705013.html "「原神」关于原神你所不知道的 XXX")
 
+[《轩辕剑》，win7，纠结](https://www.wdssmq.com/post/xuanyuanjian-win7-jiujie.html "《轩辕剑》，win7，纠结")
+
+[2014年10月25日冷笑话合集 - 说个实话也要写检讨](https://www.wdssmq.com/post/20141025437.html "2014年10月25日冷笑话合集 - 说个实话也要写检讨")
+
 [「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
 
 [2014年3月28日冷笑话合集 - 坐台还是跟我出去卖？](https://www.wdssmq.com/post/20140328840.html "2014年3月28日冷笑话合集 - 坐台还是跟我出去卖？")
@@ -77,10 +81,6 @@
 [「水坑」textarea 内输出 html 的转义问题](https://www.wdssmq.com/post/20210630871.html "「水坑」textarea 内输出 html 的转义问题")
 
 [「水坑」Z-Blog 简易二级导航菜单 CSS](https://www.wdssmq.com/post/20200413146.html "「水坑」Z-Blog 简易二级导航菜单 CSS")
-
-[「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录](https://www.wdssmq.com/post/20210224481.html "「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录")
-
-[「水坑」Z-BlogPHP 常用接口或函数](https://www.wdssmq.com/post/20190316451.html "「水坑」Z-BlogPHP 常用接口或函数")
 
 ---end---
 
