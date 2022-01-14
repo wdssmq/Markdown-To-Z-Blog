@@ -6,15 +6,41 @@
 
 ---start---
 
-## 目录( 2022 年 01 月 06 日更新)
+## 目录( 2022 年 01 月 14 日更新)
+
+[「原神」关于原神你所不知道的 XXX](https://www.wdssmq.com/post/20190705013.html "「原神」关于原神你所不知道的 XXX")
 
 [「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
+
+[2014年3月28日冷笑话合集 - 坐台还是跟我出去卖？](https://www.wdssmq.com/post/20140328840.html "2014年3月28日冷笑话合集 - 坐台还是跟我出去卖？")
+
+[2012年10月14日冷笑话合集 - 四娘又中枪了](https://www.wdssmq.com/post/20121014565.html "2012年10月14日冷笑话合集 - 四娘又中枪了")
+
+[2013年9月26日冷笑话合集 - 从衣领看到](https://www.wdssmq.com/post/20130926889.html "2013年9月26日冷笑话合集 - 从衣领看到")
+
+[2012年10月13日冷笑话合集 - 小三来看你](https://www.wdssmq.com/post/20121013515.html "2012年10月13日冷笑话合集 - 小三来看你")
+
+[2011年8月30日冷笑话合集 - 无以为报](https://www.wdssmq.com/post/2011Nian8Yue30RiLengXiaoHuaHeJi-WuYiWeiBao.html "2011年8月30日冷笑话合集 - 无以为报")
+
+[关于考试的搞笑语录](https://www.wdssmq.com/post/GuanYuKaoShiDeGaoXiaoYuLu.html "关于考试的搞笑语录")
 
 [「折腾」关于 2021 年末仍然没有完备的图床方案这件事](https://www.wdssmq.com/post/20211225085.html "「折腾」关于 2021 年末仍然没有完备的图床方案这件事")
 
 [2014年3月31日冷笑话合集 - 作者爱上了一个球](https://www.wdssmq.com/post/20140331808.html "2014年3月31日冷笑话合集 - 作者爱上了一个球")
 
+[2014年1月28日冷笑话合集 - 一样不可靠](https://www.wdssmq.com/post/20140128876.html "2014年1月28日冷笑话合集 - 一样不可靠")
+
 [2013年11月15日冷笑话合集 - 费解的物理概念](https://www.wdssmq.com/post/20131115310.html "2013年11月15日冷笑话合集 - 费解的物理概念")
+
+[教你如何夸女孩子](https://www.wdssmq.com/post/JiaoNiRuHeKuaNuHaiZi.html "教你如何夸女孩子")
+
+[这个冬天非常冷](https://www.wdssmq.com/post/ZheGeDongTianFeiChangLeng.html "这个冬天非常冷")
+
+[监狱和工作单位](https://www.wdssmq.com/post/JianYuHeGongZuoDanWei.html "监狱和工作单位")
+
+[2011年5月24日冷笑话合集 - “时”速不够](https://www.wdssmq.com/post/2011Nian5Yue24RiLengXiaoHuaHeJi-Shi-SuBuGou.html "2011年5月24日冷笑话合集 - “时”速不够")
+
+[2014年7月20日冷笑话合集 - 卖西瓜只是兼职](https://www.wdssmq.com/post/20140720245.html "2014年7月20日冷笑话合集 - 卖西瓜只是兼职")
 
 [【真·碎碎念】2021/12/06 ~ 2021/12/26](https://www.wdssmq.com/post/20140830728.html "【真·碎碎念】2021/12/06 ~ 2021/12/26")
 
@@ -24,7 +50,13 @@
 
 [「原神」关于满地图打素材却发现可以自动追踪这件事](https://www.wdssmq.com/post/20130808670.html "「原神」关于满地图打素材却发现可以自动追踪这件事")
 
+[2012年10月15日冷笑话合集 - 就是被男人甩了](https://www.wdssmq.com/post/20121015656.html "2012年10月15日冷笑话合集 - 就是被男人甩了")
+
+[2012年9月11日冷笑话合集 - 测心跳](https://www.wdssmq.com/post/20100609538.html "2012年9月11日冷笑话合集 - 测心跳")
+
 [上班族生态的经典总结](https://www.wdssmq.com/post/ShangBanZuShengTaiDeJingDianZongJie.html "上班族生态的经典总结")
+
+[2010年8月21日冷笑话合集 - 关于校医](https://www.wdssmq.com/post/2010nian8yue21rixiaohuaheji-guanyuxiaoyi.html "2010年8月21日冷笑话合集 - 关于校医")
 
 [数学不好就不要玩三国杀](https://www.wdssmq.com/post/ShuXueBuHaoJiuBuYaoWanSanGuoSha.html "数学不好就不要玩三国杀")
 
@@ -49,38 +81,6 @@
 [「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录](https://www.wdssmq.com/post/20210224481.html "「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录")
 
 [「水坑」Z-BlogPHP 常用接口或函数](https://www.wdssmq.com/post/20190316451.html "「水坑」Z-BlogPHP 常用接口或函数")
-
-[「水坑」一些 SQL 语句](https://www.wdssmq.com/post/20120816277.html "「水坑」一些 SQL 语句")
-
-[「水坑」关于如何回答「如何备份网站」这种事](https://www.wdssmq.com/post/20180717038.html "「水坑」关于如何回答「如何备份网站」这种事")
-
-[「Z-Blog 笔记」tags 等系统模块内容的重建](https://www.wdssmq.com/post/20130902595.html "「Z-Blog 笔记」tags 等系统模块内容的重建")
-
-[「水坑」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「水坑」Z-BlogPHP 模板机制讲解「简易版」")
-
-[「水坑」略深入的讲解伪静态相关的知识](https://www.wdssmq.com/post/20190704012.html "「水坑」略深入的讲解伪静态相关的知识")
-
-[有史以来最糟糕的奥运会 没有之一](https://www.wdssmq.com/post/2010041537_7962.html "有史以来最糟糕的奥运会 没有之一")
-
-[「水坑」IIS 部署站点 500 错误排查](https://www.wdssmq.com/post/20130316783.html "「水坑」IIS 部署站点 500 错误排查")
-
-[【真·碎碎念】2021/11/15 ~ 2021/12/05](https://www.wdssmq.com/post/20190802017.html "【真·碎碎念】2021/11/15 ~ 2021/12/05")
-
-[【备忘】web.config 配置 IIS 显示详细错误信息](https://www.wdssmq.com/post/20160901698.html "【备忘】web.config 配置 IIS 显示详细错误信息")
-
-[【备忘】IIS7显示具体错误提示](https://www.wdssmq.com/post/BeiWang-IIS7XianShiJuTiCuoWuTiShi.html "【备忘】IIS7显示具体错误提示")
-
-[「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
-
-[小学生优秀作文《我捡到一个 PSP》 雷的我是外焦里嫩](https://www.wdssmq.com/post/2010021949.html "小学生优秀作文《我捡到一个 PSP》 雷的我是外焦里嫩")
-
-[2012年5月22日冷笑话合集 - 为你好](https://www.wdssmq.com/post/20120522976.html "2012年5月22日冷笑话合集 - 为你好")
-
-[2013年12月11日冷笑话合集 - 潜力](https://www.wdssmq.com/post/20131211199.html "2013年12月11日冷笑话合集 - 潜力")
-
-[2011年9月16日冷笑话合集 - 急中生智](https://www.wdssmq.com/post/2011Nian9Yue16RiLengXiaoHuaHeJi-JiZhongShengZhi.html "2011年9月16日冷笑话合集 - 急中生智")
-
-[2011年4月17日冷笑话合集 - 老马识途](https://www.wdssmq.com/post/20100225446.html "2011年4月17日冷笑话合集 - 老马识途")
 
 ---end---
 
