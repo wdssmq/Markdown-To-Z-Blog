@@ -5,6 +5,7 @@ tags:
 - JavaScript
 - Bilibili
 - 哔哩哔哩
+- 折腾
 categories:
 - 电脑网络
 id: 2456
@@ -12,6 +13,8 @@ alias: 20141219446
 ---
 
 **大部分脚本都以自用优先，所以可能塞了奇怪的功能进去，建议摘取需要的部分自行组织完整代码；**
+
+<!--more-->
 
 > name：「bilibili」- 稍后再看导出为.url
 
@@ -23,7 +26,11 @@ alias: 20141219446
 
 以及，现在才知道 localStorage 并不能跨子域使用，所以用了 cookie，其实好像用`GM_setValue`+`GM_getValue`也可以；
 
-<!--more-->
+**相关推荐**
+
+[「折腾」GM\_脚本修改 bilibili 番剧链接为我的追番\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20100222433.html "「折腾」GM\_脚本修改 bilibili 番剧链接为我的追番\_电脑网络\_沉冰浮水")
+
+-----
 
 大会员 B 币领取提醒核心代码：
 

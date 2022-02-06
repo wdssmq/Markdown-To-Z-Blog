@@ -1,7 +1,11 @@
 ---
-title: 【折腾】GM_脚本修改 bilibili 番剧链接为我的追番
+title: 「折腾」GM_脚本修改 bilibili 番剧链接为我的追番
 tags:
-- JavaScript,折腾,GM_脚本,bilibili
+- GM_脚本
+- JavaScript
+- Bilibili
+- 哔哩哔哩
+- 折腾
 categories:
 - 电脑网络
 id: 103
@@ -9,6 +13,22 @@ alias: 20100222433
 zhihu: https://zhuanlan.zhihu.com/p/342256397
 csdn: https://blog.csdn.net/qq_15022221/article/details/113696602
 ---
+
+### 前言
+
+**大部分脚本都以自用优先，所以可能塞了奇怪的功能进去，建议摘取需要的部分自行组织完整代码；**
+
+> name：「bilibili」- 稍后再看导出为.url
+
+> desc：将 B 站的稍后再看列表导出为.url 文件
+
+> url：https://github.com/wdssmq/userscript/blob/master/bilibili/later.user.js
+
+> cdn：https://cdn.jsdelivr.net/gh/wdssmq/userscript@master/bilibili/later.user.js
+
+**相关推荐**
+
+> [「GM 脚本」大会员 B 币领取提醒\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20141219446.html "「GM 脚本」大会员 B 币领取提醒\_电脑网络\_沉冰浮水")
 
 ### 需求描述
 
