@@ -8,6 +8,8 @@
 
 ## 目录( 2022 年 02 月 06 日更新)
 
+[【真·碎碎念】2021/12/27 ~ 2022/01/23](https://www.wdssmq.com/post/20200525772.html "【真·碎碎念】2021/12/27 ~ 2022/01/23")
+
 [「GM 脚本」大会员 B 币领取提醒](https://www.wdssmq.com/post/20141219446.html "「GM 脚本」大会员 B 币领取提醒")
 
 [「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
@@ -79,8 +81,6 @@
 [2010年8月30日冷笑话合集 - 宴会上被搭讪](https://www.wdssmq.com/post/2010nian8yue30rixiaohuaheji-yanhuishangbeida.html "2010年8月30日冷笑话合集 - 宴会上被搭讪")
 
 [关于考试的搞笑语录](https://www.wdssmq.com/post/GuanYuKaoShiDeGaoXiaoYuLu.html "关于考试的搞笑语录")
-
-[2014年4月3日冷笑话合集 - 打印出来就不动了](https://www.wdssmq.com/post/20140403306.html "2014年4月3日冷笑话合集 - 打印出来就不动了")
 
 ---end---
 
