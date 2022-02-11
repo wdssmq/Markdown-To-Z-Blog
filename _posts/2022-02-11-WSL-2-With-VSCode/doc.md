@@ -6,9 +6,25 @@ tags:
 - 虚拟机
 categories:
 - 电脑网络
+id: 31
+alias: 20220211184
 ---
 
-「- 会折腾这种东西的人应该知道下边几项怎么操作吧。。。 -」
+建议参考官方文档：
+
+> 安装 WSL | Microsoft Docs：
+>
+> [https://docs.microsoft.com/zh-cn/windows/wsl/install](https://docs.microsoft.com/zh-cn/windows/wsl/install "安装 WSL | Microsoft Docs")
+
+要点：
+
+- `wsl --install`命令将启用所需的可选组件，下载最新的 Linux 内核，将 WSL 2 设置为默认值，并安装 Linux 发行版
+- 可以使用 `wsl --install -d <Distribution Name>` 指定安装的 Linux 发行版，否则默认安装 Ubuntu；
+- `wsl -l -o` 命令可以查询可用 Linux 发行版列表；
+
+<!--more-->
+
+下边是我的踩坑记录，虽然就结果上好像是可以用的？
 
 **安装 WSL：**
 
@@ -18,7 +34,15 @@ categories:
     - 「虚拟机平台」
 - 确定并重启系统；
 
-<!--more-->
+**升级为 WSL 2：**
+
+访问：`https://aka.ms/wsl2kernel`；
+
+下载并对应内容中提供的「WSL2 Linux 内核更新包」；
+
+遇到如下错误提示也意味着需要装这个更新包；
+
+> WSL 2 需要更新其内核组件。有关信息，请访问 https://aka.ms/wsl2kernel
 
 **设置默认版本：**
 
@@ -27,7 +51,7 @@ wsl --set-default-version 2
 # 设置 WSL 2 为默认；
 ```
 
-决定下一步将要安装的 Linux 发行版的 WSL 版本；
+决定下一步将要安装的 Linux 发行版默认使用的 WSL 版本；
 
 我一开始没执行这一步，但是好像可以再改；
 
@@ -62,14 +86,25 @@ wsl -l -o
 
 **修改已安装 Linux 子系统：**
 
-> `wsl --set-version Debian 2`
-
 要在以前安装的 Linux 发行版上从 WSL 1 更新到 WSL 2，请使用命令 `wsl --set-version <distro name> 2`，将 `<distro name>` 替换为要更新的 Linux 发行版的名称。 例如，`wsl --set-version Ubuntu-20.04 2` 会将 Ubuntu 20.04 发行版设置为使用 WSL 2。
+
+然而我第一次执行时提示如下：
+
+```bash
+wsl --set-version Debian 2
+# 正在进行转换，这可能需要几分钟时间...
+# 有关与 WSL 2 的主要区别的信息，请访问 https://aka.ms/wsl2
+# WSL 2 需要更新其内核组件。有关信息，请访问 https://aka.ms/wsl2kernel
+```
+
+所以需要安装上边说的「WSL2 Linux 内核更新包」，安装后再次执行转换：
+
+```bash
+wsl --set-version Debian 2
+# 正在进行转换，这可能需要几分钟时间...
+# 有关与 WSL 2 的主要区别的信息，请访问 https://aka.ms/wsl2
+# 转换完成。
+```
 
 待续。。。
 
-**参考：**
-
-安装 WSL | Microsoft Docs：
-
-[https://docs.microsoft.com/zh-cn/windows/wsl/install](https://docs.microsoft.com/zh-cn/windows/wsl/install "安装 WSL | Microsoft Docs")
