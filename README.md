@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 02 月 08 日更新)
+## 目录( 2022 年 02 月 11 日更新)
+
+[「折腾」VSCode + wsl2 + Debian 探究](https://www.wdssmq.com/post/20220211184.html "「折腾」VSCode + wsl2 + Debian 探究")
 
 [「水坑」关于时不时需要向人解释什么是「个人网站」这种事](https://www.wdssmq.com/post/20210828777.html "「水坑」关于时不时需要向人解释什么是「个人网站」这种事")
 
@@ -23,6 +25,8 @@
 [【真·碎碎念】2021/12/27 ~ 2022/01/23](https://www.wdssmq.com/post/20200525772.html "【真·碎碎念】2021/12/27 ~ 2022/01/23")
 
 [2010年8月9日冷笑话合集 - 据理直言](https://www.wdssmq.com/post/2010Nian8Yue9RiXiaoHuaHeJi-JuLiZhiYan.html "2010年8月9日冷笑话合集 - 据理直言")
+
+[2014年2月23日冷笑话合集 - 读书俱乐部](https://www.wdssmq.com/post/20140223561.html "2014年2月23日冷笑话合集 - 读书俱乐部")
 
 [「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
 
@@ -77,10 +81,6 @@
 [2012年9月3日冷笑话合集 - 贼喜欢的生日礼物](https://www.wdssmq.com/post/2010042338.html "2012年9月3日冷笑话合集 - 贼喜欢的生日礼物")
 
 [爱或许伟大，却也自私。【恐怖故事】](https://www.wdssmq.com/post/20131009955.html "爱或许伟大，却也自私。【恐怖故事】")
-
-[2012年8月18日冷笑话合集 - 省力装置](https://www.wdssmq.com/post/20120818523.html "2012年8月18日冷笑话合集 - 省力装置")
-
-[2014年2月25日冷笑话合集 - 学得自己老了](https://www.wdssmq.com/post/20140225823.html "2014年2月25日冷笑话合集 - 学得自己老了")
 
 ---end---
 
