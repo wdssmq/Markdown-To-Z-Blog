@@ -92,6 +92,9 @@ docker run --name zbp \
   --restart on-failure \
   -d wdssmq/zblogphp
 
+# 查看日志
+docker logs zbp
+
 # 进入容器内部
 docker exec -it zbp /bin/bash
 
