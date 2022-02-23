@@ -1,7 +1,8 @@
 ---
-title: 「折腾」VSCode + wsl2 + Debian 探究
+title: 「折腾」VSCode + wsl2 + Docker 探究
 tags:
 - VSCode
+- Docker
 - Linux
 - 虚拟机
 categories:
@@ -25,11 +26,17 @@ alias: 20220211184
 <!--more-->
 
 ```bash
-# 安装 Debian
-wsl --install -d Debian
+# 查看可用列表
+wsl -l -o
+
+# 安装 Ubuntu-18.04
+wsl --install -d Ubuntu-18.04
+
 # 查看已安装
 wsl -l -v
 ```
+
+注：Debian 版本信息为 9.5 (stretch)，好像不符合 Docker 的要求；
 
 下边是我的踩坑记录，虽然就结果上好像是可以用的？
 
@@ -87,9 +94,9 @@ wsl -l -o
 
 > `wsl -l -v`
 
-|     | NAME   | STATE   | VERSION |
-| --- | ------ | ------- | ------- |
-| \*  | Debian | Running | 1       |
+|     | NAME         | STATE   | VERSION |
+| --- | ------------ | ------- | ------- |
+| \*  | Ubuntu-18.04 | Running | 1       |
 
 **修改已安装 Linux 子系统：**
 
@@ -98,7 +105,7 @@ wsl -l -o
 然而我第一次执行时提示如下：
 
 ```bash
-wsl --set-version Debian 2
+wsl --set-version Ubuntu-18.04 2
 # 正在进行转换，这可能需要几分钟时间...
 # 有关与 WSL 2 的主要区别的信息，请访问 https://aka.ms/wsl2
 # WSL 2 需要更新其内核组件。有关信息，请访问 https://aka.ms/wsl2kernel
@@ -107,11 +114,55 @@ wsl --set-version Debian 2
 所以需要安装上边说的「WSL2 Linux 内核更新包」，安装后再次执行转换：
 
 ```bash
-wsl --set-version Debian 2
+wsl --set-version Ubuntu-18.04 2
 # 正在进行转换，这可能需要几分钟时间...
 # 有关与 WSL 2 的主要区别的信息，请访问 https://aka.ms/wsl2
 # 转换完成。
 ```
 
-待续。。。
+**安装 Docker：**
+
+Install Docker Engine on Ubuntu | Docker Documentation
+
+`https://docs.docker.com/engine/install/ubuntu/`
+
+WSL 上的 Docker 容器入门 | Microsoft Docs
+
+`https://docs.microsoft.com/zh-cn/windows/wsl/tutorials/wsl-containers`
+
+```bash
+# 升级、安装前置依赖：
+sudo apt-get update
+sudo apt-get install \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    gnupg \
+    lsb-release
+
+# GPG 更新
+curl -fsSL https://mirrors.aliyun.com/docker-ce/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+
+# 官方源
+# curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+
+# 向 sources.list 中添加 Docker 软件源
+echo \
+  "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://mirrors.aliyun.com/docker-ce/linux/ubuntu \
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+
+# 官方源
+# echo \
+#   "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+#   $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+
+# 安装 Docker
+sudo apt-get update
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo service docker start
+
+# 查看 docker 运行状态
+service docker status
+# * Docker is running
+```
 
