@@ -166,3 +166,28 @@ service docker status
 # * Docker is running
 ```
 
+**安装 Z-BlogPHP：**
+
+[【折腾】Docker 化安装 Z-BlogPHP\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20120817544.html "【折腾】Docker 化安装 Z-BlogPHP\_电脑网络\_沉冰浮水")
+
+↑ 上文是基于 CentOS 环境写的，Ubuntu 下使用需要在命令前加 `sudo`；「这东西果然好麻烦」
+
+win10 内直接`127.0.0.1:[端口号]`即可访问 WSL 内的服务；
+
+Win10 与 WSL2 间的网络和文件互访 - LOGI
+
+`https://logi.im/script/achieving-access-to-files-and-resources-on-the-network-between-win10-and-wsl2.html`
+
+**安装 Git：**
+
+```bash
+sudo apt install git
+git --version
+# git version 2.17.1
+```
+
+默认安装的版本较低，需要最新版可以参考下方：
+
+如何在 Ubuntu 上安装最新版本的 Git - 知乎
+
+`https://zhuanlan.zhihu.com/p/108991735`
