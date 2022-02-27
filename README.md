@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 02 月 25 日更新)
+## 目录( 2022 年 02 月 27 日更新)
+
+[「言说」什么也不想要 vs 不知道想要什么](https://www.wdssmq.com/post/20130802195.html "「言说」什么也不想要 vs 不知道想要什么")
 
 [「折腾」VSCode + wsl2 + Docker 探究](https://www.wdssmq.com/post/20220211184.html "「折腾」VSCode + wsl2 + Docker 探究")
 
@@ -79,8 +81,6 @@
 [当易小川遇上洛晴川](https://www.wdssmq.com/post/DangYiXiaoChuanYuShangLuoQingChuan.html "当易小川遇上洛晴川")
 
 [2012年3月2日冷笑话合集 - 成语解释](https://www.wdssmq.com/post/20120302940.html "2012年3月2日冷笑话合集 - 成语解释")
-
-[2011年12月10日冷笑话合集 - 拍照留念](https://www.wdssmq.com/post/2011Nian12Yue10RiLengXiaoHuaHeJi-PaiZhaoLiuNian.html "2011年12月10日冷笑话合集 - 拍照留念")
 
 ---end---
 
