@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 03 月 04 日更新)
+## 目录( 2022 年 03 月 05 日更新)
+
+[「水坑」Z-BlogPHP 中各种错误提示的复现](https://www.wdssmq.com/post/20200922437.html "「水坑」Z-BlogPHP 中各种错误提示的复现")
 
 [【列表】需要时却可能找不到的网址](https://www.wdssmq.com/post/20191227185.html "【列表】需要时却可能找不到的网址")
 
@@ -21,6 +23,8 @@
 [「水坑」关于时不时需要向人解释什么是「个人网站」这种事](https://www.wdssmq.com/post/20210828777.html "「水坑」关于时不时需要向人解释什么是「个人网站」这种事")
 
 [【备忘】win10 + IIS + PHP + MySQL](https://www.wdssmq.com/post/20210705807.html "【备忘】win10 + IIS + PHP + MySQL")
+
+[2014年12月4日冷笑话合集 - 前男友现任好丑，我应该高兴吗？](https://www.wdssmq.com/post/20141204151.html "2014年12月4日冷笑话合集 - 前男友现任好丑，我应该高兴吗？")
 
 [2012年10月10日冷笑话合集 - 喝点有味道的](https://www.wdssmq.com/post/20121012239.html "2012年10月10日冷笑话合集 - 喝点有味道的")
 
@@ -77,10 +81,6 @@
 [「原神」关于原神你所不知道的 XXX](https://www.wdssmq.com/post/20190705013.html "「原神」关于原神你所不知道的 XXX")
 
 [《轩辕剑》，win7，纠结](https://www.wdssmq.com/post/xuanyuanjian-win7-jiujie.html "《轩辕剑》，win7，纠结")
-
-[2014年10月25日冷笑话合集 - 说个实话也要写检讨](https://www.wdssmq.com/post/20141025437.html "2014年10月25日冷笑话合集 - 说个实话也要写检讨")
-
-[2012年8月2日冷笑话合集 - 站在船头](https://www.wdssmq.com/post/20100202562.html "2012年8月2日冷笑话合集 - 站在船头")
 
 ---end---
 
