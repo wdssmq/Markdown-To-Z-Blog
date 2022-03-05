@@ -71,3 +71,11 @@ function fnTest()
 ```
 
 --------------
+
+> Call to a member function fnTest() on bool
+
+```php
+$obj = true;
+$obj->fnTest();
+// die();
+```
