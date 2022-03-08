@@ -32,9 +32,9 @@ fi
 
 cd ~/node
 if [ ! -d onebot ]; then
-    # 这是我自己的魔改 fork
-    git clone git@github.com:wdssmq/onebot.git
-    mv node-onebot onebot
+  # 这是我自己的魔改 fork
+  git clone git@github.com:wdssmq/onebot.git
+  mv node-onebot onebot
 fi
 
 cd ~/node/onebot
