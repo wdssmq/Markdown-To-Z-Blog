@@ -10,13 +10,15 @@ zhihu: https://zhuanlan.zhihu.com/p/353340704
 csdn: https://blog.csdn.net/qq_15022221/article/details/114174661
 ---
 
-> [【折腾】在 Docker 中运行`酷Q`机器人](https://www.wdssmq.com/post/20181129356.html "【折腾】在Docker中运行酷Q机器人")
+> 酷 Q 不能用了。更换了 Node 项目。
+>
+> [【折腾】在 Docker 中运行酷 Q 机器人](https://www.wdssmq.com/post/20181129356.html "【折腾】在 Docker 中运行酷 Q 机器人")
 
 请先安装好 git 和 Node.js。。
 
 参考：[【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode远程开发配置（Remote Development）")
 
-<!-- [AD]<a class="mz-ShortUrl" data-alias="VultrVPS" href="https://www.wdssmq.com/go/VultrVPS" target="_blank" rel="noopener noreferrer" title="验证码略反人类">VultrVPS - 验证码略反人类</a> -->
+「AD：[ShortSth:LosAngelesVPS,VultrVPS][/ShortSth]」
 
 <!--more-->
 
@@ -24,11 +26,22 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/114174661
 
 ```bash
 cd ~
-# 这是我自己的魔改fork
-git clone https://github.com/wdssmq/onebot.git
-cd ~/onebot
+if [ ! -d node ]; then
+  mkdir -p node
+fi
 
-cp config.sample.js config.js
+cd ~/node
+if [ ! -d onebot ]; then
+    # 这是我自己的魔改 fork
+    git clone git@github.com:wdssmq/onebot.git
+    mv node-onebot onebot
+fi
+
+cd ~/node/onebot
+if [ ! -e config.js ]; then
+  cp config.sample.js config.js
+fi
+
 node main 12123222
 ```
 
@@ -38,7 +51,7 @@ node main 12123222
 
 首次登录成功后只需要使用`node main 12123222`登录；
 
-也可以在 config.js 中设置 autoLogin；
+**也可以在 config.js 中设置 autoLogin；**
 
 ### 使用 pm2 持久化运行
 
@@ -47,10 +60,18 @@ PM2 是 node 进程管理工具，可以利用它来简化很多 node 应用管�
 ```bash
 # 全局安装
 npm install -g pm2
-cd ~/onebot
 
-# 我设置了autoLogin，否则需要在main.js后加上你要登录的QQ号
+# 开启持久化运行
+cd ~/node/onebot
+# pm2 delete all
+# config 内设置 autoLogin 及 QQ 号
 pm2 start main.js -n onebot
+pm2 logs onebot
+
+# 开机自启
+pm2 save
+pm2 startup
+
 # 理论上可以监听文件改变然后自动重启，，不过排除没搞定
 # --watch --ignore-watch="node_modules data"
 ```
