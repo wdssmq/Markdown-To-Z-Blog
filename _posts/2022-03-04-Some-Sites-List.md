@@ -10,6 +10,14 @@ alias: 20191227185
 
 水水的书签收藏：[https://wdssmq.github.io/bookmarks/#/](https://wdssmq.github.io/bookmarks/#/ "水水的书签收藏")
 
+Beyond Compare 丨 文件对比工具：
+
+> Scooter Software: Home of Beyond Compare
+>
+> https://www.scootersoftware.com/
+
+Duplicate Cleaner 丨 重复文件筛选、清理
+
 > Duplicate Cleaner Free - Microsoft Store zh-CN
 >
 > https://www.microsoft.com/zh-cn/p/duplicate-cleaner-free/9nblggh4rrr3
@@ -37,6 +45,8 @@ alias: 20191227185
 > URL Rewrite : The Official Microsoft IIS Site
 >
 > https://www.iis.net/downloads/microsoft/url-rewrite#additionalDownloads
+
+LockHunter 丨 占用文件查看、解除
 
 > Download LockHunter 64/32 bit For Free
 >
