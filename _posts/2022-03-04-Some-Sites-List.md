@@ -10,31 +10,46 @@ alias: 20191227185
 
 水水的书签收藏：[https://wdssmq.github.io/bookmarks/#/](https://wdssmq.github.io/bookmarks/#/ "水水的书签收藏")
 
-Duplicate Cleaner Free - Microsoft Store zh-CN
-https://www.microsoft.com/zh-cn/p/duplicate-cleaner-free/9nblggh4rrr3
+Beyond Compare 丨 文件对比工具：
 
-DirectX修复工具\_VBcom的专栏-CSDN博客
-https://blog.csdn.net/vbcom/article/details/6962388
+> Scooter Software: Home of Beyond Compare
+>
+> https://www.scootersoftware.com/
 
-DirectX修复工具增强版\_VBcom的专栏-CSDN博客
-https://blog.csdn.net/vbcom/article/details/7245186
+Duplicate Cleaner 丨 重复文件筛选、清理
 
-PHP For Windows: Home
-https://windows.php.net/
+> Duplicate Cleaner Free - Microsoft Store zh-CN
+>
+> https://www.microsoft.com/zh-cn/p/duplicate-cleaner-free/9nblggh4rrr3
 
-windows.php.net - /downloads/releases/archives/
-https://windows.php.net/downloads/releases/archives/
+> DirectX 修复工具\_VBcom 的专栏-CSDN 博客
+>
+> https://blog.csdn.net/vbcom/article/details/6962388
 
-~~Docker 镜像使用帮助 - LUG @ USTC~~
-~~`https://lug.ustc.edu.cn/wiki/mirrors/help/docker/`~~
+> DirectX 修复工具增强版\_VBcom 的专栏-CSDN 博客
+>
+> https://blog.csdn.net/vbcom/article/details/7245186
 
-Docker Hub 源使用帮助 — USTC Mirror Help 文档
-https://mirrors.ustc.edu.cn/help/dockerhub.html#windows
+> PHP For Windows: Home
+>
+> https://windows.php.net/
 
-URL Rewrite : The Official Microsoft IIS Site
-https://www.iis.net/downloads/microsoft/url-rewrite#additionalDownloads
+> windows.php.net - /downloads/releases/archives/
+>
+> https://windows.php.net/downloads/releases/archives/
 
-Download LockHunter 64/32 bit For Free
-https://lockhunter.com/download.htm
+> Docker Hub 源使用帮助 — USTC Mirror Help 文档
+>
+> https://mirrors.ustc.edu.cn/help/dockerhub.html#windows
+
+> URL Rewrite : The Official Microsoft IIS Site
+>
+> https://www.iis.net/downloads/microsoft/url-rewrite#additionalDownloads
+
+LockHunter 丨 占用文件查看、解除
+
+> Download LockHunter 64/32 bit For Free
+>
+> https://lockhunter.com/download.htm
 
 <!--2932-->
