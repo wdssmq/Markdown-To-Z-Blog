@@ -14,7 +14,7 @@ alias: 20120817544
 
 `docker network create -d bridge net_web`
 
-后续创建的容器全部连接至该网络中，更多说明请见「[这个链接](https://www.wdssmq.com/post/20210804429.html "2021-08-07 17:58 笔记 | Docker 网络相关")」；
+后续创建的容器全部连接至该网络中，更多说明请见「[这个链接](https://www.wdssmq.com/post/20210820126.html "2021-08-07 17:58 笔记 | Docker 网络相关")」；
 
 <!--more-->
 
@@ -176,7 +176,7 @@ docker build -t wdssmq/zblogphp .
 
 · Docker 网络相关
 
-更详细的说明见「[这个链接](https://www.wdssmq.com/post/20210804429.html "2021-08-07 17:58 笔记 | Docker 网络相关")」；
+更详细的说明见「[这个链接](https://www.wdssmq.com/post/20210820126.html "2021-08-07 17:58 笔记 | Docker 网络相关")」；
 
 ```bash
 docker network ls
