@@ -47,6 +47,7 @@ docker rm --force PHPMyAdmin
 docker run --name PHPMyAdmin \
   --network=net_web \
   -e PMA_HOST=MySQL \
+  -e UPLOAD_LIMIT=4096K \
   -p 9100:80 \
   -d phpmyadmin/phpmyadmin
 
@@ -61,7 +62,7 @@ docker exec -it MySQL mysql -u root -p
 # docker exec -it MySQL /bin/bash
 # mysql -u root -p
 
-# 备份
+# 命令行备份
 if [ ! -d ~/backup ]; then
   mkdir ~/backup
 fi
