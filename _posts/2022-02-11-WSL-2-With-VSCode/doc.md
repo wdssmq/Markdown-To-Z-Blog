@@ -195,3 +195,42 @@ git --version
 如何在 Ubuntu 上安装最新版本的 Git - 知乎
 
 `https://zhuanlan.zhihu.com/p/108991735`
+
+**其他：**
+
+WSL2 网络代理配置（apt 与 git) - 知乎
+
+`https://zhuanlan.zhihu.com/p/108927713`
+
+
+cmd 中执行 `ipconfig` 查看网络信息，然后在 wsl2 中执行`export https_proxy="socks5://$IP:$PORT"`；
+
+实际用 `192.168.*.*` 好像成功了；
+
+```shell
+ipconfig
+
+# 无线局域网适配器 WLAN:
+
+# 192.168.123.236
+
+# export https_proxy="socks5://192.168.123.236:10808"
+
+# 以太网适配器 vEthernet (WSL):
+
+# 172.26.160.1
+
+# export https_proxy="socks5://172.26.160.1:10808"
+```
+
+-----
+
+在 WSL 2 上设置 Node.js | Microsoft Docs
+
+`https://docs.microsoft.com/zh-cn/windows/dev-environment/javascript/nodejs-on-wsl`
+
+-----
+
+【折腾】VSCode 远程开发配置（Remote Development）_电脑网络_沉冰浮水
+
+`https://www.wdssmq.com/post/20201120519.html`
