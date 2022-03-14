@@ -20,13 +20,20 @@ Docker 部分其实是搜狗输入法的快捷输入短语 /doge；
 
 ```ini
 cnpm,3=npm install -g cnpm --registry=https://registry.npmmirror.com
+; -----
 dks,3=sudo service docker start
 dks,4=sudo service docker stop
+; -----
 dkia,3=sudo docker image ls
-dkps,3=sudo docker ps -a
+dkrmi,3=sudo docker rmi
+dkrmi,4=sudo docker rmi -f
+; -----
 dkst,3=sudo docker start
 dkst,4=sudo docker stop
+; -----
+dkps,3=sudo docker ps -a
 dkrm,3=sudo docker rm --force
+dkrm,4=sudo docker rm
 ```
 
 Git 命令，则可以设置在`~/.gitconfig`内：
@@ -50,6 +57,16 @@ git 快捷命令 - 掘金
 `https://juejin.cn/post/6844904036785717262`
 
 ------------------
+
+待研究：
+
+sudo docker ps -a -q
+
+sudo docker service ls -q
+
+sudo docker service rm
+
+----------------
 
 ```bash
 sudo docker rm --force baota
