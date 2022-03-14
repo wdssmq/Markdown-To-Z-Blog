@@ -8,6 +8,8 @@
 
 ## 目录( 2022 年 03 月 14 日更新)
 
+[「JavaScript」常用图片比例生成](https://www.wdssmq.com/post/20201121554.html "「JavaScript」常用图片比例生成")
+
 [「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
 
 [「折腾」Docker 化安装 Z-BlogPHP](https://www.wdssmq.com/post/20120817544.html "「折腾」Docker 化安装 Z-BlogPHP")
@@ -79,8 +81,6 @@
 [2010年7月28日冷笑话合集 - 丽君姐姐已经不在了](https://www.wdssmq.com/post/2010nian7yue28rixiaohuaheji-lijunjiejieyijingbuzaile.html "2010年7月28日冷笑话合集 - 丽君姐姐已经不在了")
 
 [2011年9月24日冷笑话合集 - 这翻译也对啊](https://www.wdssmq.com/post/2011Nian9Yue24RiLengXiaoHuaHeJi-ZheFanYiYeDuiA.html "2011年9月24日冷笑话合集 - 这翻译也对啊")
-
-[2012年6月24日冷笑话合集 - 坐电梯的尴尬](https://www.wdssmq.com/post/20100215180.html "2012年6月24日冷笑话合集 - 坐电梯的尴尬")
 
 ---end---
 
