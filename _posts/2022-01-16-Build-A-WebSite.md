@@ -122,7 +122,7 @@ https://baike.baidu.com/item/域名注册商/4916134
 
 对入初学者来说，个人认为买个年付 100 RMB 以下的「虚拟主机」就够用了；「AD：[ShortSth:老薛主机][/ShortSth]」
 
-高一级是按年付 200 RMB 的标准买「VPS」；「AD：[ShortSth:LosAngelesVPS,主机云][/ShortSth]」
+高一级是按年付 200 RMB 的标准买「VPS」；「AD：[ShortSth:DesiVPS,主机云][/ShortSth]」
 
 无论何种规格的「网站空间」，都应该有至少一个「公网 IP」供外部访问，无论对于站点管理还是用户访问都很不便，实际会绑定域名使用；
 

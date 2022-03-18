@@ -79,7 +79,7 @@ python3 --version
 
   ```json
   "remote.SSH.remotePlatform": {
-    "losangelesvps": "linux",
+    "DesiVPS": "linux",
     "腾讯云": "linux"
   }
   ```
