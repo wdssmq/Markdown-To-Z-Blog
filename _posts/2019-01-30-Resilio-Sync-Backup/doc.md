@@ -40,7 +40,7 @@ Resilio Sync 可以通过安装为服务从而使用 WebUI 进行管理，在浏
 
 也可以在本地使用非服务模式安装，然后在远程 VPS 或 NAS 上使用身份同步，然后使用脚本进行备份等操作。
 
-\[ShortSth:LosAngelesVPS,VultrVPS,主机云\]\[/ShortSth\]
+\[ShortSth:DesiVPS,VultrVPS,主机云\]\[/ShortSth\]
 
 ------------------------
 
