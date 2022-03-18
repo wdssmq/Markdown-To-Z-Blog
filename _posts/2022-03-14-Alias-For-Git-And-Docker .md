@@ -44,10 +44,29 @@ Git 命令，则可以设置在`~/.gitconfig`内：
 [core]
 	fileMode = false
 [alias]
-	s = status
-	ss = status --short --branch
-	br = branch
-	co = checkout
+    s   = status
+    ss  = status --short --branch
+    br  = branch
+    bra = branch -a
+    co  = checkout
+    # cob = checkout -b
+    sw  = switch
+    swc = switch -c
+    ra  = remote add
+    rao = remote add origin
+    ru  = remote set-url
+    ruo = remote set-url origin
+    # re  = remote
+    rev = remote -v
+    fe  = fetch
+    fep = fetch -p
+    fo  = fetch origin
+    fop = fetch origin -p
+    mr  = merge
+    mnc = merge --no-commit
+    # msq = merge --squash
+    ci  = commit
+    cim = commit -m
 ```
 
 本文会以实际需要慢慢补充条目，你也可以参考下边文章：
