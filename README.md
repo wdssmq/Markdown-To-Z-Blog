@@ -8,6 +8,8 @@
 
 ## 目录( 2022 年 03 月 18 日更新)
 
+[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
+
 [【折腾】Linux(CentOS)安装 Python](https://www.wdssmq.com/post/20210224695.html "【折腾】Linux(CentOS)安装 Python")
 
 [「水坑」关于时不时需要向人解释什么是「个人网站」这种事](https://www.wdssmq.com/post/20210828777.html "「水坑」关于时不时需要向人解释什么是「个人网站」这种事")
@@ -19,8 +21,6 @@
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
 
 [「JavaScript」常用图片比例生成](https://www.wdssmq.com/post/20201121554.html "「JavaScript」常用图片比例生成")
-
-[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
 
 [「折腾」Docker 化安装 Z-BlogPHP](https://www.wdssmq.com/post/20120817544.html "「折腾」Docker 化安装 Z-BlogPHP")
 
