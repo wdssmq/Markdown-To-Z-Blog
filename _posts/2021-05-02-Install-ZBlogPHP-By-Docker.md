@@ -1,5 +1,5 @@
 ---
-title: 【折腾】Docker 化安装 Z-BlogPHP
+title: 「折腾」Docker 化安装 Z-BlogPHP
 tags:
 - Docker
 - Z-BlogPHP
@@ -14,7 +14,7 @@ alias: 20120817544
 
 `docker network create -d bridge net_web`
 
-后续创建的容器全部连接至该网络中，更多说明请见「[这个链接](https://www.wdssmq.com/post/20210804429.html "2021-08-07 17:58 笔记 | Docker 网络相关")」；
+后续创建的容器全部连接至该网络中，更多说明请见「[这个链接](https://www.wdssmq.com/post/20210820126.html "2021-08-07 17:58 笔记 | Docker 网络相关")」；
 
 <!--more-->
 
@@ -23,6 +23,8 @@ alias: 20120817544
 > [Docker 安裝 Mysql + Phpmyadmin | 愛吃東西的 RD](http://www.andrewchen.tw/2017/05/05/20170505_NOTE_DOCKER_MYSQL/ "Docker 安裝 Mysql + Phpmyadmin | 愛吃東西的 RD")
 
 ~~网络设置仍然不是很懂，只能说这样确实成功了；~~
+
+下边命令最初是在 CentOS 下测试，Ubuntu 可能要加 `sudo`；
 
 ```bash
 # cd /root
@@ -42,21 +44,41 @@ docker run --name MySQL \
 
 # PHPMyAdmin，映射端口为 9100
 docker rm --force PHPMyAdmin
-docker run --name PHPMyAdmin -d --network=net_web -e PMA_HOST=MySQL -p 9100:80 phpmyadmin/phpmyadmin
+docker run --name PHPMyAdmin \
+  --network=net_web \
+  -e PMA_HOST=MySQL \
+  -e UPLOAD_LIMIT=4096K \
+  -p 9100:80 \
+  -d phpmyadmin/phpmyadmin
 
 # 平时可以停用，需要的时候再开启
 docker stop PHPMyAdmin
 docker start PHPMyAdmin
 
-# 安装验证
+# MySQL 安装验证
 docker exec -it MySQL mysql -u root -p
-
-# 备份，zbp_ForAPP 为数据库名
-docker exec -it MySQL mysqldump -u root -p shujukumima zbp_ForAPP > /root/backup/db_zbp_ForAPP.sql
 
 # 进入容器内登录测试
 # docker exec -it MySQL /bin/bash
 # mysql -u root -p
+
+# 命令行备份
+if [ ! -d ~/backup ]; then
+  mkdir ~/backup
+fi
+# 指定要备份的数据库
+DB_NAME=zblog_docker
+docker exec -it MySQL mysqldump \
+  -u root -pshujukumima \
+  $DB_NAME > ~/backup/db_$DB_NAME-$(date +%Y-%m-%d-%H-%M).sql
+# ↑ 重要：-p 参数后要不带空格直接连着密码
+
+# 导入数据库
+DB_SQL=~/backup/db_www.wdssmq.com.sql
+DB_NAME=zblog_docker2
+docker exec -i MySQL mysql \
+  -u root -pshujukumima \
+  -D $DB_NAME < $DB_SQL
 
 # 下边命令仅作参考
 use mysql;
@@ -71,8 +93,7 @@ update user set host='%' where user='root';
 ## Docker 安装 Z-BlogPHP
 
 ```bash
-cd /root
-ZBP_DIR=/root/zbp_folder
+ZBP_DIR=~/wwwroot/zbp_folder
 ZBP_PORT=8082
 if [ ! -d $ZBP_DIR ]; then
   mkdir -p $ZBP_DIR
@@ -155,7 +176,7 @@ docker build -t wdssmq/zblogphp .
 
 · Docker 网络相关
 
-更详细的说明见「[这个链接](https://www.wdssmq.com/post/20210804429.html "2021-08-07 17:58 笔记 | Docker 网络相关")」；
+更详细的说明见「[这个链接](https://www.wdssmq.com/post/20210820126.html "2021-08-07 17:58 笔记 | Docker 网络相关")」；
 
 ```bash
 docker network ls
