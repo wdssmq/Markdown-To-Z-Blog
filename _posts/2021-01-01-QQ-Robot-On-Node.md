@@ -18,7 +18,7 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/114174661
 
 参考：[【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode远程开发配置（Remote Development）")
 
-「AD：[ShortSth:LosAngelesVPS,VultrVPS][/ShortSth]」
+「AD：[ShortSth:DesiVPS,VultrVPS][/ShortSth]」
 
 <!--more-->
 

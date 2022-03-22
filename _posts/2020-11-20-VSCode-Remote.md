@@ -66,7 +66,7 @@ Host 另一台
 7.1
 
 ```json
-"remote.SSH.remotePlatform": { "losangelesvps": "linux", "腾讯云": "linux" }
+"remote.SSH.remotePlatform": { "DesiVPS": "linux", "腾讯云": "linux" }
 ```
 
 ↑↑ 理论上首次连接时会询问要连接的主机系统然后保存（Linux，Mac，Windows），但是主机名设置中文时好像会每次都要询问，可以手动添加；
