@@ -79,3 +79,24 @@ $obj = true;
 $obj->fnTest();
 // die();
 ```
+
+--------------
+
+> Array to string conversion
+
+```php
+// 正确，输出前进行转换或额外处理
+$arr = array(0, 1, 2);
+echo implode(", ",$arr);
+// die();
+
+// 错误，直接以 string 输出
+$arr = array(0, 1, 2);
+echo $arr;
+// var_dump("$arr"); // 另外一种错误姿势
+// die();
+```
+
+参考：
+
+php 提示 Array to string conversion 解决方案：`https://blog.csdn.net/zeroking_vip/article/details/87960319` 「CSDN 少数有用的内容」
