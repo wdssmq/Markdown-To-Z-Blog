@@ -8,6 +8,8 @@
 
 ## 目录( 2022 年 03 月 24 日更新)
 
+[合并了 Typecho 文章到 Z-Blog](https://www.wdssmq.com/post/20200905897.html "合并了 Typecho 文章到 Z-Blog")
+
 [「折腾」GM_脚本修改 bilibili 番剧链接为我的追番](https://www.wdssmq.com/post/20100222433.html "「折腾」GM_脚本修改 bilibili 番剧链接为我的追番")
 
 [「GM 脚本」大会员 B 币领取提醒](https://www.wdssmq.com/post/20141219446.html "「GM 脚本」大会员 B 币领取提醒")
@@ -79,8 +81,6 @@
 [2013年10月17日冷笑话合集 - 微博新解](https://www.wdssmq.com/post/20131017130.html "2013年10月17日冷笑话合集 - 微博新解")
 
 [2012年10月10日冷笑话合集 - 喝点有味道的](https://www.wdssmq.com/post/20121012239.html "2012年10月10日冷笑话合集 - 喝点有味道的")
-
-[【真·碎碎念】2021/11/15 ~ 2021/12/05](https://www.wdssmq.com/post/20190802017.html "【真·碎碎念】2021/11/15 ~ 2021/12/05")
 
 ---end---
 
