@@ -3,7 +3,6 @@ title: 「GM 脚本」大会员 B 币领取提醒
 tags:
 - GM_脚本
 - JavaScript
-- Bilibili
 - 哔哩哔哩
 - 折腾
 categories:
