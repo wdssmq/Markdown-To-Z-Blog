@@ -19,30 +19,50 @@ cdblogs: https://www.cnblogs.com/wdssmq/p/15167982.html
 
 好吧，传说中的`禅模式`也就是关掉`活动栏`的快捷键。。
 
-以及，好像在用 VSCode 之前已经用了很久 TortoiseGit 了，所以 VSCode 内置的 Git 相关功能都没怎么了解，`ctrl+shift+g`赛高。。。
+以及，好像在用 VSCode 之前已经用了很久 TortoiseGit 了，所以 VSCode 内置的 Git 相关功能都没怎么了解，`ctrl + shift + g`赛高。。。
 
-部分键为自定义，并且需要删掉冲突的定义。
+部分键为自定义，并且需要删掉冲突的定义；
+
+几个留空的是没有默认项又没决定好自定义成啥；
+
+**请根据命令项查看实际绑定键或自定义；**
 
 | 快捷键            | 操作                         | 命令                                             |
 | ----------------- | ---------------------------- | ------------------------------------------------ |
 | ctrl + b          | 切换侧栏显隐                 | workbench.action.toggleSidebarVisibility         |
-| ctrl + d          | 复制当前行                   | editor.action.copyLinesDownAction                |
+| ctrl + d          | 复制当前行（向下）           | editor.action.copyLinesDownAction                |
 | ctrl + e          | 展开 emmet 缩写              | editor.emmet.action.expandAbbreviation           |
 | ctrl + q          | 切换注释                     | editor.action.commentLine                        |
 | ctrl + l          | 选中当前行                   | expandLineSelection                              |
-| ctrl + p          | 最近文件                     | workbench.action.quickOpen                       |
-| ctrl + alt + b    | 格式化代码/文档              | editor.action.formatDocument                     |
+| ctrl + shift + ↑  | 选中文本 - 向上一行          | cursorUpSelect                                   |
+| ctrl + shift + ↓  | 选中文本 - 向下一行          | cursorDownSelect                                 |
+| ctrl + ←          | 光标移动 - 单词左侧为界      | cursorWordLeft                                   |
+| ctrl + shift + ←  | 选中文本 - 同上              | cursorWordLeftSelect                             |
+|                   | 光标移动 - 词首或驼峰        | cursorWordPartLeft                               |
+|                   | 选中文本 - 同上              | cursorWordPartLeftSelect                         |
+| ctrl + →          | 光标移动 - 单词右侧为界      | cursorWordEndRight                               |
+| ctrl + shift + →  | 选中文本 - 同上              | cursorWordEndRightSelect                         |
+|                   | 光标移动 - 词尾或驼峰        | cursorWordPartRight                              |
+|                   | 选中文本 - 同上              | cursorWordPartRightSelect                        |
+| shift + alt + ←   | 收起选择                     | editor.action.smartSelect.shrink                 |
+| shift + alt + →   | 展开选择                     | editor.action.smartSelect.expand                 |
+| ctrl + p          | 最近打开过的单文件           | workbench.action.quickOpen                       |
+| ctrl + r          | 最近打过的工作区或文件夹     | workbench.action.openRecent                      |
 | ctrl + shift + o  | 转到编辑器中的符号           | workbench.action.gotoSymbol                      |
-| ctrl + shift + p  | 命令面板                     |                                                  |
-| ctrl + shift + x  | 扩展/插件 查看               |                                                  |
-| ctrl + shift + g  | 源代码管理（Git）            |                                                  |
-| ctrl + shfit + e  | 资源管理器                   |                                                  |
+| ctrl + alt + b    | 格式化代码/文档              | editor.action.formatDocument                     |
+| ctrl + alt + ↑    | 同一列的上一行添加光标       | editor.action.insertCursorAbove                  |
+| ctrl + alt + ↓    | 同一列的下一行添加光标       | editor.action.insertCursorBelow                  |
+| ctrl + shift + p  | 命令面板                     | workbench.action.showCommands                    |
+| ctrl + shift + x  | 扩展/插件 查看               | workbench.view.extensions                        |
+| ctrl + shift + g  | 源代码管理（Git）            | workbench.view.scm                               |
+| ctrl + shfit + e  | 工作区/文件夹查看            | workbench.view.explorer                          |
 | ctrl + shift + k  | 删除当前行                   | 感觉 ctrl + l，然后 del 会更安全？               |
+| ctrl + shift + l  | 将全部查找匹配项添加到选择   | addCursorsAtSearchResults                        |
 | alt + d           | 将下一个查找匹配项添加到选择 | editor.action.addSelectionToNextFindMatch        |
-| alt + up          | 向上移动行                   | editor.action.moveLinesUpAction                  |
-| alt + down        | 向上移动行                   | editor.action.moveLinesDownAction                |
-| ctrl + k z        | 禅模式                       |                                                  |
-| ctrl + k m        | 语言模式                     |                                                  |
+| alt + ↑           | 向上移动行                   | editor.action.moveLinesUpAction                  |
+| alt + ↓           | 向上移动行                   | editor.action.moveLinesDownAction                |
+| ctrl + k z        | 禅模式                       | workbench.action.toggleZenMode                   |
+| ctrl + k m        | 语言模式                     | workbench.action.editor.changeLanguageMode       |
 | ctrl + k k        | 快捷方式设置                 | workbench.action.openGlobalKeybindings           |
 | ctrl + k u        | 关闭已经保存的编辑器页       | workbench.action.closeUnmodifiedEditors          |
 | ctrl + k o        | 在新窗口打开活动文件         | workbench.action.files.showOpenedFileInNewWindow |
