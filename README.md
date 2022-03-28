@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 03 月 27 日更新)
+## 目录( 2022 年 03 月 28 日更新)
+
+[【VSCode】快捷键备忘](https://www.wdssmq.com/post/20130525410.html "【VSCode】快捷键备忘")
 
 [【真·碎碎念】2022/01/24 ~ 2022/02/27](https://www.wdssmq.com/post/20190705014.html "【真·碎碎念】2022/01/24 ~ 2022/02/27")
 
@@ -79,8 +81,6 @@
 [2010年9月20日冷笑话合集 - 名字太长](https://www.wdssmq.com/post/2010nian9yue20rixiaohuaheji-mingzitaichang.html "2010年9月20日冷笑话合集 - 名字太长")
 
 [2013年10月30日冷笑话合集 - 我们私奔吧](https://www.wdssmq.com/post/20131030637.html "2013年10月30日冷笑话合集 - 我们私奔吧")
-
-[2011年3月30日冷笑话合集 - 无语](https://www.wdssmq.com/post/2011Nian3Yue30RiLengXiaoHuaHeJi-WuYu.html "2011年3月30日冷笑话合集 - 无语")
 
 ---end---
 
