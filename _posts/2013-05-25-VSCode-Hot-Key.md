@@ -1,5 +1,5 @@
 ---
-title: 【VSCode】快捷键备忘
+title: 「VSCode」快捷键备忘
 tags:
 - 编辑器,VSCode,备忘
 categories:
@@ -26,6 +26,11 @@ cdblogs: https://www.cnblogs.com/wdssmq/p/15167982.html
 几个留空的是没有默认项又没决定好自定义成啥；
 
 **请根据命令项查看实际绑定键或自定义；**
+
+[「VSCode」快捷键备忘\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20130525410.html "「VSCode」快捷键备忘\_电脑网络\_沉冰浮水") ← 博客内表格排版太差了 - -；
+
+[「VSCode」快捷键备忘 - GitHub 上的 md 文件](https://github.com/wdssmq/Markdown-To-Z-Blog/blob/main/_posts/2013-05-25-VSCode-Hot-Key.md "「VSCode」快捷键备忘 - GitHub 上的 md 文件") ← 推荐 GitHub 内查看本页；
+
 
 | 快捷键            | 操作                         | 命令                                             |
 | ----------------- | ---------------------------- | ------------------------------------------------ |
