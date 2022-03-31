@@ -10,6 +10,9 @@ id: 2909
 alias: 20190520228
 ---
 
+邦尼和琼 (豆瓣)
+https://movie.douban.com/subject/1308314/
+
 不可思议的收缩人 (豆瓣)
 https://movie.douban.com/subject/1899630/
 
