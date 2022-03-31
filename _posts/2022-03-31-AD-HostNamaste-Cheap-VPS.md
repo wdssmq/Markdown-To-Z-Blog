@@ -26,11 +26,13 @@ categories:
 
 [ShortSth:VultrVPS][/ShortSth]
 
-已经有产品理论上可以续费使用，还是想着再找到个低价备选；
+已有产品理论上可以续费使用，还是想着再找到个低价备选；
 
 ### HostNamaste 出现了
 
-有订阅 LowEndBox 这个 VPS 资讯站，正好推送了 HostNamaste 这家主机商的优惠信息，最低一档年付 $20，接受支付宝付款，洛杉矶
+有订阅 LowEndBox 这个 VPS 资讯站，正好推送了 HostNamaste 这家主机商的优惠信息，最低一档年付 $20，接受支付宝付款；
+
+可选地区有洛杉矶、达拉斯、加拿大和法国；
 
 **注册链接**
 
