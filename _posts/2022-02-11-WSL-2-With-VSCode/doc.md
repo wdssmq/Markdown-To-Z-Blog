@@ -229,6 +229,10 @@ ipconfig
 
 `https://docs.microsoft.com/zh-cn/windows/dev-environment/javascript/nodejs-on-wsl`
 
+ubuntu18.04 安装 nodejs 最新版、指定版 12.x 14.x - 尽情山水 - 博客园
+
+`https://www.cnblogs.com/forheart/p/13203249.html`
+
 -----
 
 【折腾】VSCode 远程开发配置（Remote Development）_电脑网络_沉冰浮水
