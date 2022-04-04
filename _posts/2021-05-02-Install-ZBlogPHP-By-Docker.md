@@ -158,7 +158,7 @@ docker build -t wdssmq/zblogphp .
 
 ## 其他
 
-两个错误提示：
+各种错误提示：
 
 · Warning: Permanently added 'github.com,192.30.255.113' (RSA) to the list of known hosts.
 
@@ -173,6 +173,20 @@ docker build -t wdssmq/zblogphp .
 使用形如`git@github.com:zblogcn/zblogphp-tencent-openapp-docker.git`的地址进行连接但是没有配置「SSH Key」时会出现该提示；
 
 可改用`https://github.com/zblogcn/zblogphp-tencent-openapp-docker.git`或者部署「SSH Key」连接；
+
+· ERROR: You're using an RSA key with SHA-1, which is no longer allowed. Please use a newer client or a different key type
+
+解决：
+
+RSA 算法已被认为不再安全（主要取决于密钥长度）；
+
+更直接的方法是更换算法为 ecdsa 或 ed25519，两者之间后者更安全，当然如果你的环境较旧，出现了`unknown key type ed25519`的提示，那么就选前者；
+
+```bash
+ssh-keygen -t ed25519
+# unknown key type ed25519
+ssh-keygen -t ecdsa
+```
 
 · Docker 网络相关
 
