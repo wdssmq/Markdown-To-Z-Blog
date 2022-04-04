@@ -80,13 +80,15 @@ alias: 20141219446
     const curMonth = curDate.getMonth() + 1;
     const lstMonth = ckeObj.getItem(ckeName, 0);
     const bcoinUrl = "https://account.bilibili.com/account/big/myPackage";
+    _log(`当前月份: ${curMonth}`);
+    _log(`上次领取月份: ${lstMonth}`);
 
     // 元素变化监听
     const fnElChange = (el, fn = () => { }) => {
       const observer = new MutationObserver((mutationRecord, mutationObserver) => {
-        _log('body attributes changed!!!'); // body attributes changed!!!
-        _log('mutationRecord = ', mutationRecord); // [MutationRecord]
-        _log('mutationObserver === observer', mutationObserver === observer); // true
+        // _log('body attributes changed!!!'); // body attributes changed!!!
+        // _log('mutationRecord = ', mutationRecord); // [MutationRecord]
+        // _log('mutationObserver === observer', mutationObserver === observer); // true
         fn(mutationRecord, mutationObserver);
         mutationObserver.disconnect();
       });
@@ -100,7 +102,7 @@ alias: 20141219446
     }
 
     // 通知事件封装
-    const fnNotify = (title, body) => {
+    const notify = (title, body) => {
       GM_notification({
         title: title,
         text: body,
@@ -115,9 +117,9 @@ alias: 20141219446
     // 判断是否已经领取过
     const fnCheckByDOM = () => {
       const $bcoin = $n(".bcoin-wrapper");
-      _log("---");
-      // $bcoin && _log($bcoin.innerHTML);
-      if ($bcoin && $bcoin.innerText.includes("本月已领")) {
+      // _log("fnCheckByDOM", $bcoin);
+      // $bcoin && _log("fnCheckByDOM", $bcoin.innerHTML);
+      if ($bcoin && $bcoin.innerText.includes("本次已领")) {
         ckeObj.setItem(ckeName, curMonth);
         return true;
       } else {
@@ -129,15 +131,16 @@ alias: 20141219446
     // _log($n("body").innerHTML);
     // _log(lstMonth, curMonth);
 
-    // 对比 cookie 数据
+    // 对比 ls 数据
     if (lstMonth != curMonth) {
       _log(curUrl, bcoinUrl);
       if (curUrl.indexOf(bcoinUrl) > -1) {
         fnCheckByDOM();
       } else {
-        fnNotify("B 币领取提醒", "点击查看 B 币领取情况");
+        notify("B 币领取提醒", "点击查看 B 币领取情况");
       }
     }
   })();
+
 })();
 ```
