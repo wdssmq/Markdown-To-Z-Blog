@@ -172,7 +172,7 @@ docker build -t wdssmq/zblogphp .
 
 使用形如`git@github.com:zblogcn/zblogphp-tencent-openapp-docker.git`的地址进行连接但是没有配置「SSH Key」时会出现该提示；
 
-可改用`https://github.com/zblogcn/zblogphp-tencent-openapp-docker.git`或者部署「SSH Key」连接；
+见下方`ssh-keygen`生成命令，然后将生成的`*.pub`内容填加至：[https://github.com/settings/ssh/new](https://github.com/settings/ssh/new "Add new SSH keys")；
 
 · ERROR: You're using an RSA key with SHA-1, which is no longer allowed. Please use a newer client or a different key type
 
