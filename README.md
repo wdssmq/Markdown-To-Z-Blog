@@ -10,6 +10,8 @@
 
 [「折腾」Docker 化安装 Z-BlogPHP](https://www.wdssmq.com/post/20120817544.html "「折腾」Docker 化安装 Z-BlogPHP")
 
+[「VSCode 笔记」Git： Host key verification failed](https://www.wdssmq.com/post/20201216004.html "「VSCode 笔记」Git： Host key verification failed")
+
 [【坑货笔记】零宽空白 &amp;amp;#8203; 是什么鬼！](https://www.wdssmq.com/post/20190818266.html "【坑货笔记】零宽空白 &amp;amp;#8203; 是什么鬼！")
 
 [「云书签」在 Y 分钟内学习 X](https://www.wdssmq.com/post/20200629824.html "「云书签」在 Y 分钟内学习 X")
@@ -79,8 +81,6 @@
 [【折腾】基于 Node 的 QQ 机器人项目](https://www.wdssmq.com/post/20210101974.html "【折腾】基于 Node 的 QQ 机器人项目")
 
 [【GM_脚本】Resilio Sync 密钥/任务导出备份](https://www.wdssmq.com/post/20190130502.html "【GM_脚本】Resilio Sync 密钥/任务导出备份")
-
-[【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
 
 ---end---
 
