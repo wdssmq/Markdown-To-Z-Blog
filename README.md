@@ -8,6 +8,8 @@
 
 ## 目录( 2022 年 04 月 04 日更新)
 
+[「GM 脚本」大会员 B 币领取提醒](https://www.wdssmq.com/post/20141219446.html "「GM 脚本」大会员 B 币领取提醒")
+
 [「折腾」Docker 化安装 Z-BlogPHP](https://www.wdssmq.com/post/20120817544.html "「折腾」Docker 化安装 Z-BlogPHP")
 
 [「VSCode 笔记」Git： Host key verification failed](https://www.wdssmq.com/post/20201216004.html "「VSCode 笔记」Git： Host key verification failed")
@@ -47,8 +49,6 @@
 [合并了 Typecho 文章到 Z-Blog](https://www.wdssmq.com/post/20200905897.html "合并了 Typecho 文章到 Z-Blog")
 
 [「折腾」GM_脚本修改 bilibili 番剧链接为我的追番](https://www.wdssmq.com/post/20100222433.html "「折腾」GM_脚本修改 bilibili 番剧链接为我的追番")
-
-[「GM 脚本」大会员 B 币领取提醒](https://www.wdssmq.com/post/20141219446.html "「GM 脚本」大会员 B 币领取提醒")
 
 [10岁、20岁、30岁的区别](https://www.wdssmq.com/post/10Sui20Sui30SuiDeQuBie.html "10岁、20岁、30岁的区别")
 
