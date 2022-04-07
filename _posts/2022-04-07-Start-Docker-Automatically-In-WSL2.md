@@ -56,7 +56,7 @@ sudo usermod -a -G docker $USER
 ### 二、安装 zsh
 
 > Oh-My-Zsh 的配置与使用 - 再见理想_ - 博客园
-> https://www.cnblogs.com/monsterdev/p/11166720.html
+> `https://www.cnblogs.com/monsterdev/p/11166720.html`
 
 ```bash
 sudo apt update
