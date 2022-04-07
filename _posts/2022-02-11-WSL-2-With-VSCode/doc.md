@@ -4,7 +4,7 @@ tags:
 - VSCode
 - Docker
 - Linux
-- 虚拟机
+- WSL2
 categories:
 - 电脑网络
 id: 31
