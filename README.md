@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录( 2022 年 04 月 05 日更新)
+## 目录( 2022 年 04 月 07 日更新)
+
+[「折腾」莫名其妙得解决了 wsl2 内 Docker 的自启动](https://www.wdssmq.com/post/20140328160.html "「折腾」莫名其妙得解决了 wsl2 内 Docker 的自启动")
+
+[【音乐】RAHA深度睡眠音乐【FLAC】【网盘下载】](https://www.wdssmq.com/post/20130802263.html "【音乐】RAHA深度睡眠音乐【FLAC】【网盘下载】")
 
 [【真·碎碎念】2022/02/28 ~ 2022/04/03](https://www.wdssmq.com/post/20220405245.html "【真·碎碎念】2022/02/28 ~ 2022/04/03")
 
@@ -58,6 +62,8 @@
 
 [2012年8月23日冷笑话合集 - 请自觉排队](https://www.wdssmq.com/post/20100202644.html "2012年8月23日冷笑话合集 - 请自觉排队")
 
+[2011年1月21日冷笑话合集 - 哆啦A梦](https://www.wdssmq.com/post/2011Nian1Yue21RiLengXiaoHuaHeJi-DuoLaAMeng.html "2011年1月21日冷笑话合集 - 哆啦A梦")
+
 [只是忽然，很想你](https://www.wdssmq.com/post/20100419715.html "只是忽然，很想你")
 
 [2012年7月10日冷笑话合集 - 药物作用](https://www.wdssmq.com/post/20120710686.html "2012年7月10日冷笑话合集 - 药物作用")
@@ -75,12 +81,6 @@
 [2012年9月4日冷笑话合集 - 银行怎么赚钱](https://www.wdssmq.com/post/20120909661.html "2012年9月4日冷笑话合集 - 银行怎么赚钱")
 
 [2012年8月27日冷笑话合集 - 拥挤的火车](https://www.wdssmq.com/post/20120828697.html "2012年8月27日冷笑话合集 - 拥挤的火车")
-
-[2010年9月14日冷笑话合集 - 减少一半](https://www.wdssmq.com/post/2010nian9yue14rixiaohuaheji-jianshaoyiban.html "2010年9月14日冷笑话合集 - 减少一半")
-
-[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
-
-[【折腾】Linux(CentOS)安装 Python](https://www.wdssmq.com/post/20210224695.html "【折腾】Linux(CentOS)安装 Python")
 
 ---end---
 
