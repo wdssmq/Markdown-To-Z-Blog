@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 04 月 07 日更新)
+## 目录( 2022 年 04 月 08 日更新)
+
+[「折腾」压缩 wsl2 磁盘占用](https://www.wdssmq.com/post/20100428905.html "「折腾」压缩 wsl2 磁盘占用")
 
 [「折腾」VSCode + wsl2 + Docker 探究](https://www.wdssmq.com/post/20220211184.html "「折腾」VSCode + wsl2 + Docker 探究")
 
@@ -79,8 +81,6 @@
 [2014年6月14日冷笑话合集 - 老师你们够了](https://www.wdssmq.com/post/20140614484.html "2014年6月14日冷笑话合集 - 老师你们够了")
 
 [2012年9月4日冷笑话合集 - 银行怎么赚钱](https://www.wdssmq.com/post/20120909661.html "2012年9月4日冷笑话合集 - 银行怎么赚钱")
-
-[2012年8月27日冷笑话合集 - 拥挤的火车](https://www.wdssmq.com/post/20120828697.html "2012年8月27日冷笑话合集 - 拥挤的火车")
 
 ---end---
 
