@@ -174,7 +174,15 @@ Dual Intel Xeon E5-2660v2 / E5-2670v2 / AMD Epyc 7351P CPUs
 
 「[【折腾】VSCode 远程开发配置（Remote Development）\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）\_电脑网络\_沉冰浮水")」
 
-明天装下 Docker 跑跑看，先这样吧。。
+------
+
+在开通邮件内有个单独的管理地址和登录信息，可以重装系统等操作；
+
+`https://manage.hostnamaste.com/login.php`
+
+本来装了 ubuntu-18.04，然后装 Docker 失败，想换 debian-11.0 试下，然而等了好久都没好；
+
+算了，提工单吧。。
 
 <!-- ---------------- -->
 
