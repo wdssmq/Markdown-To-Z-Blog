@@ -101,6 +101,17 @@ crontab -e
 
 > `0 3 \* \* \* /root/bin/bak.sh`
 
+```bash
+chkconfig --list crond
+chkconfig --list nginx
+chkconfig --list httpd
+chkconfig --level 35 crond on
+# 查看状态
+service crond status
+# 启动服务
+service crond start
+```
+
 定时需要 crontabs，参考：[http://www.ha97.com/910.html](http://www.ha97.com/910.html "crontab")
 
 关于 lftp：参考：[https://www.centos.bz/2011/06/incremental-backup-site-using-lftp/](https://www.centos.bz/2011/06/incremental-backup-site-using-lftp/ "lftp")
