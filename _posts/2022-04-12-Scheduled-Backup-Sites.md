@@ -55,8 +55,17 @@ fi
 cd /home/wwwroot
 tar -czf $BAK_DIR/bak_$DATE_SUFF/bak_www.wdssmq.com.tar.gz www.wdssmq.com
 # tar -czf $BAK_DIR/bak_$DATE_SUFF/bak_www.wdssmq.com.tar.gz www.wdssmq.com --exclude .git
-# tar -czf $BAK_DIR/bak_$DATE_SUFF/bak_www.wdssmq.com.tar.gz www.wdssmq.com --exclude WebDir/upload/* --exclude TidWiki/backup/*
-# —— 不确定上边排除姿势对不对
+# tar -czf $BAK_DIR/bak_$DATE_SUFF/bak_www.wdssmq.com.tar.gz www.wdssmq.com \
+  # --exclude Editormd \
+  # --exclude Neditor \
+  # --exclude live2d2 \
+  # --exclude WebDir/upload/* \
+  # --exclude TidWiki/backup/* \
+  # --exclude TidWiki/var/* \
+  # --exclude zb_users/cache/thumbs/* \
+  # --exclude .git
+# —— 不确定上边排除姿势对不对；可以打包一次下回来，用 WizTree 分析占用，排除掉不重要的部分
+# —— WizTree - https://www.diskanalyzer.com/
 
 # 导出数据库
 /usr/local/mysql/bin/mysqldump -uroot -p数据库密码 数据库名 > $BAK_DIR/bak_$DATE_SUFF/db_www.wdssmq.com.sql.gz
