@@ -11,6 +11,8 @@ id: 2342
 alias: 20140816860
 ---
 
+2022-04-13：新增搬家记录，在文章末尾；
+
 2022-04-12：
 
 很多年前的笔记了，也一直有用这个方案备份，然而我能说定时执行用的 crontab 一直没能正确开机自启么？「(╯﹏╰）」
@@ -28,6 +30,8 @@ alias: 20140816860
 [「折腾」莫名其妙得解决了 wsl2 内 Docker 的自启动\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20140328160.html "「折腾」莫名其妙得解决了 wsl2 内 Docker 的自启动\_电脑网络\_沉冰浮水") ← 写下这段文字时并没有真正解决
 
 ------
+
+相关推荐：[【笔记】LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20200129996.html "【笔记】LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水")
 
 使用环境为 CentOS；
 
@@ -115,3 +119,82 @@ service crond start
 定时需要 crontabs，参考：[http://www.ha97.com/910.html](http://www.ha97.com/910.html "crontab")
 
 关于 lftp：参考：[https://www.centos.bz/2011/06/incremental-backup-site-using-lftp/](https://www.centos.bz/2011/06/incremental-backup-site-using-lftp/ "lftp")
+
+----------
+
+搬家记录正文：
+
+把旧空间的`vhost/*.conf`直接搬到新空间就不需要重新创建了，如果有 ssl 也一起；
+
+旧空间内：
+
+```bash
+# 进入旧空间实际存放打包文件夹的路径 /root/Backup/bak_20220413
+ln -s /usr/local/apache/conf/vhost vhost_a
+ln -s /usr/local/nginx/conf/vhost  vhost_n
+if [ ! d /usr/local/nginx/conf/ssl ]; then
+  mkdir /usr/local/nginx/conf/ssl
+fi
+ln -s /usr/local/nginx/conf/ssl    ssl_n
+```
+
+然后 sftp 把打包文件和 vhost 文件夹一并下载回来；
+
+新空间内：
+
+```bash
+# 新空间内
+cd /home/wwwroot
+ln -s /usr/local/apache/conf/vhost vhost_a
+ln -s /usr/local/nginx/conf/vhost  vhost_n
+if [ ! -d /usr/local/nginx/conf/ssl ]; then
+  mkdir /usr/local/nginx/conf/ssl
+fi
+ln -s /usr/local/nginx/conf/ssl    ssl_n
+```
+
+phpMyAdmin 内创建数据库表上传`db_*.tar.gz`；
+
+sftp 上传 vhost 文件夹和「站点文件」的打包文件到`wwwroot`目录；
+
+```bash
+# 新村空间内
+cd /home/wwwroot
+# 批量解压文件
+for tar in *.tar.gz;  do tar xvf $tar; done
+# 文件权限
+chown -Rv www:www  /home/wwwroot/*
+find ./ -type d -print|xargs chmod 755
+find ./ -type f -print|xargs chmod 644
+```
+
+**先不要删压缩包或符号连接，FileZilla Client 到是应该可以关掉了，之后 VSCode 内操作；**
+
+检查确认下站点程序内的数据库连接信息；
+
+```bash
+# 新空间内
+# 重启
+lnmp restart
+# 写入当前日期到 test.txt，用以验证解析切换是否成功
+cd /home/wwwroot
+for dir in $(ls -d */); do echo $(date +%Y%m%d) > $dir/test.txt; done
+```
+
+**切换解析，等待生效；**
+
+**然后照着上边教程重新配置一次自动备份；**
+
+命令备忘录：
+
+```bash
+# 列出子目录
+ls -d */
+# default/  demo.wdssmq.com/ www.wdssmq.com/
+# 按行输出
+ls -F | grep /$
+default/
+demo.wdssmq.com/
+www.wdssmq.com/
+```
+
