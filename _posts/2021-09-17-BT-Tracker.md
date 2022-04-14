@@ -41,9 +41,9 @@ TrackerEditor 可以直接将服务器列表添加进 .torrent 文件内，保�
 
 ### 度盘分享
 
-链接: https://pan.baidu.com/s/1BWG4Kw05mo8GXrdnFcJHXg?pwd=negp
+链接: https://pan.baidu.com/s/10MpHznJggsHsj2E6U_DE8Q?pwd=672y
 
-提取码: negp
+提取码: 672y
 
 ### Resilio Sync
 
