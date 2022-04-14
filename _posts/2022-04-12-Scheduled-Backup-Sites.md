@@ -101,9 +101,25 @@ cd ~
 
 将代码写入到 bak.sh 文件放在 `~/bin` 目录下，然后设置一个定时，比如每天凌晨 3 点执行。
 
-crontab -e
+> `0 3 * * * /root/bin/bak.sh`
 
-> `0 3 \* \* \* /root/bin/bak.sh`
+```bash
+# 查看定时任务列表
+crontab -l
+# 0 3 */7 * * /usr/local/acme.sh/upgrade.sh
+
+# 开启命令行编辑
+crontab -e
+# —— 实际文件路径在`/var/spool/cron`，VSCode 可直接远程编辑；
+# —— 参考： https://www.wdssmq.com/post/20201120519.html
+
+# 修改后重新载入配置文件
+/sbin/service crond reload
+crontab -l
+# 0 3 */7 * * /usr/local/acme.sh/upgrade.sh
+# 0 3 * * * /root/bin/bak.sh
+```
+
 
 ```bash
 chkconfig --list crond
