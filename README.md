@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 04 月 14 日更新)
+## 目录( 2022 年 04 月 15 日更新)
+
+[「折腾」重装了 VPS 却没有 tar 命令这种事](https://www.wdssmq.com/post/20211120519.html "「折腾」重装了 VPS 却没有 tar 命令这种事")
 
 [「GM_脚本」度盘分享文件时自动复制为 HTML 或 MarkDown](https://www.wdssmq.com/post/20220412172.html "「GM_脚本」度盘分享文件时自动复制为 HTML 或 MarkDown")
 
@@ -62,6 +64,8 @@
 
 [2010年11月6日冷笑话合集 - 抗议](https://www.wdssmq.com/post/2010Nian11Yue6RiXiaoHuaHeJi-KangYi.html "2010年11月6日冷笑话合集 - 抗议")
 
+[2012年9月19日冷笑话合集 - 先兆](https://www.wdssmq.com/post/20120920306.html "2012年9月19日冷笑话合集 - 先兆")
+
 [中国武侠片五十条经典定律](https://www.wdssmq.com/post/20120508334.html "中国武侠片五十条经典定律")
 
 [2013年3月30日冷笑话合集 - 每天纠结三件事](https://www.wdssmq.com/post/20130330204.html "2013年3月30日冷笑话合集 - 每天纠结三件事")
@@ -77,10 +81,6 @@
 [2012年9月12日冷笑话合集 - 你们真有默契](https://www.wdssmq.com/post/20100706785.html "2012年9月12日冷笑话合集 - 你们真有默契")
 
 [2012年9月10日冷笑话合集 - 桃姐](https://www.wdssmq.com/post/20120910802.html "2012年9月10日冷笑话合集 - 桃姐")
-
-[那些超牛的密码](https://www.wdssmq.com/post/20111222837.html "那些超牛的密码")
-
-[合并了 Typecho 文章到 Z-Blog](https://www.wdssmq.com/post/20200905897.html "合并了 Typecho 文章到 Z-Blog")
 
 ---end---
 
