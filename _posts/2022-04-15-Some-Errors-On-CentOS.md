@@ -8,13 +8,11 @@ id: 2756
 alias: 20170421527
 ---
 
-Hello World
-
-<!--more-->
-
 错误提示：
 
 > www.wdssmq.com:Verify error:DNS problem: SERVFAIL looking up CAA for www.wdssmq.com
+
+<!--more-->
 
 解决：
 
