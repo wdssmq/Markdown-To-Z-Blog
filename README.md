@@ -8,6 +8,8 @@
 
 ## 目录( 2022 年 04 月 15 日更新)
 
+[「CentOS 笔记」常见错误提示整理「2022-04-15」](https://www.wdssmq.com/post/20170421527.html "「CentOS 笔记」常见错误提示整理「2022-04-15」")
+
 [「折腾」重装了 VPS 却没有 tar 命令这种事](https://www.wdssmq.com/post/20211120519.html "「折腾」重装了 VPS 却没有 tar 命令这种事")
 
 [「GM_脚本」度盘分享文件时自动复制为 HTML 或 MarkDown](https://www.wdssmq.com/post/20220412172.html "「GM_脚本」度盘分享文件时自动复制为 HTML 或 MarkDown")
@@ -79,8 +81,6 @@
 [2011年2月26日冷笑话合集 - 作弊被抓的原因](https://www.wdssmq.com/post/2011Nian2Yue26RiLengXiaoHuaHeJi-ZuoBiBeiZhuaDeYuanYin.html "2011年2月26日冷笑话合集 - 作弊被抓的原因")
 
 [2012年9月12日冷笑话合集 - 你们真有默契](https://www.wdssmq.com/post/20100706785.html "2012年9月12日冷笑话合集 - 你们真有默契")
-
-[2012年9月10日冷笑话合集 - 桃姐](https://www.wdssmq.com/post/20120910802.html "2012年9月10日冷笑话合集 - 桃姐")
 
 ---end---
 
