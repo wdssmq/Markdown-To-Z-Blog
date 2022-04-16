@@ -131,26 +131,23 @@ docker exec -it zbp /bin/bash
 
 
 ```bash
-cd /root
+cd ~/git
+# 克隆项目并进入目录
+git clone git@github.com:zblogcn/zblogphp-tencent-openapp-docker.git zbp-docker
+cd zbp-docker
 
-# 克隆项目
-git clone https://github.com/zblogcn/zblogphp-tencent-openapp-docker.git
+# Build
+docker build -t wdssmq/zblogphp:22.04 .
 
-# 周老师设置的项目名太长了
-mv zblogphp-tencent-openapp-docker zbp-docker-tencent
+# 查看镜像
+docker image ls
 
 # 登录 docker hub
 # https://hub.docker.com/
-# docker login -u <用户名> -p <密码>
+docker login -u <用户名> -p <密码>
 
-# ---------------------------------------------
-
-cd /root/zbp-docker-tencent
-git pull
-
-# Build + Push
-docker build -t wdssmq/zblogphp .
-# docker push wdssmq/zblogphp
+# 发布镜像
+docker push wdssmq/zblogphp:22.04
 
 ```
 
