@@ -8,6 +8,8 @@ categories:
 - 电脑网络
 id: 77
 alias: 20100215532
+zhihu: https://zhuanlan.zhihu.com/p/500131121
+csdn: https://blog.csdn.net/qq_15022221/article/details/124233817
 ---
 
 ### 简述

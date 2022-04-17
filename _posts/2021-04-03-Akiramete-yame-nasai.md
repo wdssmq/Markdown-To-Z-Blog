@@ -8,6 +8,8 @@ categories:
 - 杂七杂八
 id: 676
 alias: 20210403155
+jianshu: https://www.jianshu.com/p/9a4a732629cf
+csdn: https://blog.csdn.net/qq_15022221/article/details/124233737
 ---
 
 将下边几个代码库开源了，ASP 毕竟不更新了先不说，PHP 版主题这边同样是感觉很纠结。。
