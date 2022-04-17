@@ -8,6 +8,7 @@ id: 1234
 alias: 20120515987
 zhihu: https://zhuanlan.zhihu.com/p/353378627
 csdn: https://blog.csdn.net/qq_15022221/article/details/114182617
+cnblogs: https://www.cnblogs.com/wdssmq/p/16157105.html
 ---
 
 原文曾用于度盘的邀请码分享，最后有多少人由此注册已不得而知。。固定链接内的时间戳是 20120515，而今天是 2019-05-27。。
@@ -16,7 +17,7 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/114182617
 
 \-----
 
-~~其实我一直在等 QQ 的数据存储业务整合。。(╯▽╰)。。然后正则替换果然比一个个的复制省事。。（需要工具 FireBug、Notepad++或者其他支持正则的文件编辑器。）~~
+~其实我一直在等 QQ 的数据存储业务整合。。(╯▽╰)。。~
 
 ### GMailStore
 
@@ -30,9 +31,11 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/114182617
 
 算是久违的用了一次度盘的分享，除了 GMailStore 外还有当年的优化大师，360 之类的。。
 
-> 链接：[https://pan.baidu.com/s/1\_rZn9ARf9CqRh5uBUavL2Q](https://pan.baidu.com/s/1_rZn9ARf9CqRh5uBUavL2Q)
+> 资源分享：软件分享
 >
-> 提取码：6npz
+> 链接：[https://pan.baidu.com/s/18qz9rLHpSMoWzEwSmX7DTw?pwd=jvut](https://pan.baidu.com/s/18qz9rLHpSMoWzEwSmX7DTw?pwd=jvut "软件分享")
+>
+> 提取码：jvut
 
 ### 曾经的企鹅系网盘
 

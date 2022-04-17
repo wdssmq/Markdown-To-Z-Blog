@@ -7,6 +7,7 @@ categories:
 - 电脑网络
 id: 1632
 alias: 20130323295
+csdn: https://blog.csdn.net/qq_15022221/article/details/124235118
 ---
 
 不定时更新可用的 BT Tracker 服务器列表（BT Tracker List）；
