@@ -8,6 +8,8 @@ categories:
 - 杂七杂八
 id: 844
 alias: 20190628106
+jianshu: https://www.jianshu.com/p/46cba2c14efd
+cnblogs: https://www.cnblogs.com/wdssmq/p/16156692.html
 ---
 ### 2021-09-13 09:28
 星期一
