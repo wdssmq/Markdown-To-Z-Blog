@@ -10,6 +10,9 @@ id: 2909
 alias: 20190520228
 ---
 
+入殓师 (豆瓣)
+https://movie.douban.com/subject/2149806/
+
 邦尼和琼 (豆瓣)
 https://movie.douban.com/subject/1308314/
 
