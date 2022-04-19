@@ -174,7 +174,7 @@ phpMyAdmin 内创建数据库表上传`db_*.tar.gz`；
 sftp 上传 vhost 文件夹和「站点文件」的打包文件到`wwwroot`目录；
 
 ```bash
-# 新村空间内
+# 新空间内
 cd /home/wwwroot
 # 批量解压文件
 for tar in bak_*.tar.gz;  do tar xvf $tar; done
