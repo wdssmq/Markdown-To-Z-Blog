@@ -148,7 +148,7 @@ service crond start
 # 进入旧空间实际存放打包文件夹的路径 /root/Backup/bak_20220413
 ln -s /usr/local/apache/conf/vhost vhost_a
 ln -s /usr/local/nginx/conf/vhost  vhost_n
-if [ ! d /usr/local/nginx/conf/ssl ]; then
+if [ ! -d /usr/local/nginx/conf/ssl ]; then
   mkdir /usr/local/nginx/conf/ssl
 fi
 ln -s /usr/local/nginx/conf/ssl    ssl_n
@@ -177,7 +177,7 @@ sftp 上传 vhost 文件夹和「站点文件」的打包文件到`wwwroot`目�
 # 新村空间内
 cd /home/wwwroot
 # 批量解压文件
-for tar in *.tar.gz;  do tar xvf $tar; done
+for tar in bak_*.tar.gz;  do tar xvf $tar; done
 # 文件权限
 chown -Rv www:www  /home/wwwroot/*
 find ./ -type d -print|xargs chmod 755
