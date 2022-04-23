@@ -42,13 +42,13 @@ alias: 20130808670
 
 「角色等级」突破又再一次变得遥遥无期。。
 
-![info-000.png](https://img.wdssmq.workers.dev/_posts/2021-12-07-Genshin-Impact/info-000.png)
+![info-000.png](info-000.png)
 
-![info-001.png](https://img.wdssmq.workers.dev/_posts/2021-12-07-Genshin-Impact/info-001.png)
+![info-001.png](info-001.png)
 
-![info-002.png](https://img.wdssmq.workers.dev/_posts/2021-12-07-Genshin-Impact/info-002.png)
+![info-002.png](info-002.png)
 
-![info-003.png](https://img.wdssmq.workers.dev/_posts/2021-12-07-Genshin-Impact/info-003.png)
+![info-003.png](info-003.png)
 
 -------------
 
