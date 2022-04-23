@@ -6,9 +6,13 @@
 
 ---start---
 
-## 目录( 2022 年 04 月 19 日更新)
+## 目录( 2022 年 04 月 23 日更新)
+
+[「水坑」浏览器内清理特定网站的 301 缓存](https://www.wdssmq.com/post/20211130948.html "「水坑」浏览器内清理特定网站的 301 缓存")
 
 [「折腾」Linux 定时备份教程](https://www.wdssmq.com/post/20140816860.html "「折腾」Linux 定时备份教程")
+
+[「水坑」略深入的讲解伪静态相关的知识](https://www.wdssmq.com/post/20190704012.html "「水坑」略深入的讲解伪静态相关的知识")
 
 [【列表】上一部](https://www.wdssmq.com/post/20190520228.html "【列表】上一部")
 
@@ -27,6 +31,8 @@
 [「折腾」重装了 VPS 却没有 tar 命令这种事](https://www.wdssmq.com/post/20211120519.html "「折腾」重装了 VPS 却没有 tar 命令这种事")
 
 [「CentOS 笔记」常见错误提示整理「2022-04-15」](https://www.wdssmq.com/post/20170421527.html "「CentOS 笔记」常见错误提示整理「2022-04-15」")
+
+[10 分钟的人生【哲理短文】](https://www.wdssmq.com/post/10FenZhongDeRenShengZheLiDuanWen.html "10 分钟的人生【哲理短文】")
 
 [「GM_脚本」度盘分享文件时自动复制为 HTML 或 MarkDown](https://www.wdssmq.com/post/20220412172.html "「GM_脚本」度盘分享文件时自动复制为 HTML 或 MarkDown")
 
@@ -48,6 +54,8 @@
 
 [「折腾」莫名其妙得解决了 wsl2 内 Docker 的自启动](https://www.wdssmq.com/post/20140328160.html "「折腾」莫名其妙得解决了 wsl2 内 Docker 的自启动")
 
+[难忘那年发生在图书馆的故事](https://www.wdssmq.com/post/2010020386.html "难忘那年发生在图书馆的故事")
+
 [【音乐】RAHA深度睡眠音乐【FLAC】【网盘下载】](https://www.wdssmq.com/post/20130802263.html "【音乐】RAHA深度睡眠音乐【FLAC】【网盘下载】")
 
 [【真·碎碎念】2022/02/28 ~ 2022/04/03](https://www.wdssmq.com/post/20220405245.html "【真·碎碎念】2022/02/28 ~ 2022/04/03")
@@ -60,6 +68,8 @@
 
 [【坑货笔记】零宽空白 &amp;amp;#8203; 是什么鬼！](https://www.wdssmq.com/post/20190818266.html "【坑货笔记】零宽空白 &amp;amp;#8203; 是什么鬼！")
 
+[拐杖【小小说】](https://www.wdssmq.com/post/20120714915.html "拐杖【小小说】")
+
 [「云书签」在 Y 分钟内学习 X](https://www.wdssmq.com/post/20200629824.html "「云书签」在 Y 分钟内学习 X")
 
 [【备忘】JS时间函数相关（Typecho自动缩略名）](https://www.wdssmq.com/post/20120512985.html "【备忘】JS时间函数相关（Typecho自动缩略名）")
@@ -71,16 +81,6 @@
 [【真·碎碎念】2022/01/24 ~ 2022/02/27](https://www.wdssmq.com/post/20190705014.html "【真·碎碎念】2022/01/24 ~ 2022/02/27")
 
 [某公司员工着装仪表、待人接物规定](https://www.wdssmq.com/post/20100204524.html "某公司员工着装仪表、待人接物规定")
-
-[2010年11月6日冷笑话合集 - 抗议](https://www.wdssmq.com/post/2010Nian11Yue6RiXiaoHuaHeJi-KangYi.html "2010年11月6日冷笑话合集 - 抗议")
-
-[2013年10月19日冷笑话合集 - 暴雨后的调侃](https://www.wdssmq.com/post/20131019819.html "2013年10月19日冷笑话合集 - 暴雨后的调侃")
-
-[2012年9月19日冷笑话合集 - 先兆](https://www.wdssmq.com/post/20120920306.html "2012年9月19日冷笑话合集 - 先兆")
-
-[中国武侠片五十条经典定律](https://www.wdssmq.com/post/20120508334.html "中国武侠片五十条经典定律")
-
-[2013年3月30日冷笑话合集 - 每天纠结三件事](https://www.wdssmq.com/post/20130330204.html "2013年3月30日冷笑话合集 - 每天纠结三件事")
 
 ---end---
 
