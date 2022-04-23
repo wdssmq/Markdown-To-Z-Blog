@@ -51,6 +51,9 @@ def init():
         if(os.environ["API_URL"]):
             config_info["API_URL"] = os.environ["API_URL"]
 
+        if(os.environ["IMG_HOST"]):
+            config_info["IMG_HOST"] = os.environ["IMG_HOST"]
+
         if(os.environ["GIT_REPO"]):
             config_info["GIT_REPO"] = os.environ["GIT_REPO"]
 
@@ -186,6 +189,15 @@ def update_readme(readme):
 
     return True
 # 在README.md中插入信息文章索引信息，更容易获取google的收录
+
+
+def up_img_host(md_name, md_content):
+    if "IMG_HOST" in config_info.keys():
+        md_content = re.sub(r'!\[([^\]]+)\]\(((?!http)[^\)]+)\)', r'![\1](%s_posts/%s/\2)' %
+                            (config_info["IMG_HOST"], md_name), md_content)
+    # fnBug(md_content, sys._getframe().f_lineno)
+    return md_content
+# 替换图片路径
 
 
 def read_md(file_path):
@@ -399,6 +411,8 @@ def main():
         #     alias = md_name
         #     fnLog("使用别名", alias)
         # Markdown 解析
+
+        md_content = up_img_host(md_name, md_content)
 
         content = markdown.markdown(
             md_content, extensions=['tables', 'fenced_code', 'sane_lists', 'md_in_html'])
