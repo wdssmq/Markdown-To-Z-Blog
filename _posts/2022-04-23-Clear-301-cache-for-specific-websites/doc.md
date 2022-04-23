@@ -74,5 +74,6 @@ if (-f $request_filename) {
 # 当访问路径不是真实文件时
 if (!-f $request_filename) {
     rewrite ^/((?!(zb_users|zb_system|sitemap)).*)$ https://www.baidu.com/$1 permanent;
+    rewrite ^/sitemap/.+ /index.php;
 }
 ```
