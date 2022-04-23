@@ -110,8 +110,12 @@ crontab -l
 
 # 开启命令行编辑
 crontab -e
-# —— 实际文件路径在`/var/spool/cron`，VSCode 可直接远程编辑；
+# —— 实际文件路径在 /var/spool/cron
+# —— VSCode 可直接远程编辑
 # —— 参考： https://www.wdssmq.com/post/20201120519.html
+
+cd /var/spool/cron && ls
+code root
 
 # 修改后重新载入配置文件
 /sbin/service crond reload
