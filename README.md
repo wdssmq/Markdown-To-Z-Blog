@@ -149,7 +149,7 @@ python api.py
 
 支持两种形式，需要配图的文章可以创建一个文件夹存放；
 
-**注：版本库内仅用于留存图片，文章内使用需传至图床；**
+**注：配图自动调用见「[#图床](#图床 "图床")」一节；**
 
 - _posts/*.md
 - _posts/*/doc.md
@@ -178,6 +178,45 @@ categories:
 正文段落二
 
 ```
+
+## 图床
+
+使用 Cloudflare Workers 反代 GitHub；
+
+根据「·参考」内容配置，然后设置如下 secret：
+
+```conf
+IMG_HOST=https://img.wdssmq.workers.dev/
+; 应以 / 结尾
+```
+
+图片放置：
+
+```md
+ _posts
+ ├─ 1970-01-01-empty.md
+ └─ 2022-04-23-One-Post
+     ├─ 001.png
+     ├─ 002.png
+     ├─ 003.png
+     └─ doc.png
+```
+
+文章内使用相对地址引用：
+
+```md
+![001.png](001.png)
+```
+
+发布时会尝试替换为：
+
+`https://img.wdssmq.workers.dev/_posts/2022-04-23-One-Post/001.png`
+
+**·参考：**
+
+「折腾」关于 2021 年末仍然没有完备的图床方案这件事\_电脑网络\_沉冰浮水：
+
+[https://www.wdssmq.com/post/20211225085.html](https://www.wdssmq.com/post/20211225085.html "「折腾」关于 2021 年末仍然没有完备的图床方案这件事\_电脑网络\_沉冰浮水")
 
 ## API 鉴权设置
 
