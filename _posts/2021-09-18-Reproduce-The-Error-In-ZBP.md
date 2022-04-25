@@ -27,6 +27,36 @@ HelloZBlog「插件开发演示」 - Z-Blog 应用中心：
 
 --------------
 
+> Array and string offset access syntax with curly braces is no longer supported
+
+`offset access`直译是「偏移访问」，对应的中文概念是「（数组）下标」；
+
+`syntax`是「语法」，比如`PHP`、`JavaScript`在表达普通字符串时单引号和双引号都可以，但是涉及「变量解析/模板字符串」时有各自的「规则语法」；
+
+`curly braces`是「大括号」；
+
+`no longer supported`——不再支持；
+
+```php
+// 正确
+$arr = array(1,2,3);
+echo $arr[0];
+// die();
+
+// 错误
+$arr = array(1,2,3);
+echo $arr{0}; // Array or string offset access with curly braces deprecated in PHP 7.4. Targeting PHP 8.1.0.
+// die();
+```
+
+编辑器语法检测会提示：
+
+「花括号」形式的「数组或字符串下标」已经在「PHP 7.4 中废弃（deprecated）」，然后「Targeting PHP 8.1.0」；
+
+所以这个「Targeting」该怎么翻译。。我自己现在用的 7.4，实际花括号并没有报错，各种讨论中也是用 PHP 8 的会出现这个报错；
+
+--------------
+
 > Trying to access array offset on value of type null
 
 ```php
