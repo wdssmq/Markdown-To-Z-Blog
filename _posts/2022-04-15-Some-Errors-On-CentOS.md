@@ -26,9 +26,9 @@ alias: 20170421527
 
 错误提示：
 
-> # tar: www.wdssmq.com-access_log: file changed as we read it
+> `# tar: www.wdssmq.com-access_log: file changed as we read it`
 >
-> # tar: www.wdssmq.com.log: file changed as we read it
+> `# tar: www.wdssmq.com.log: file changed as we read it`
 
 解决：
 
