@@ -79,13 +79,12 @@ Host 另一台
 
 ```bash
 # 依赖
-yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel
-yum install gcc perl-ExtUtils-MakeMaker
+yum install -y curl-devel expat-devel gettext-devel openssl-devel zlib-devel
+yum install -y gcc perl-ExtUtils-MakeMaker
+yum install -y wget
 
 # yum install git ← 这个安装版本不是最新的
 yum remove git
-
-yum install wget # 未安装过 wget，需要先安装
 
 cd ~
 if [ ! -d "tmp" ]; then
@@ -94,7 +93,7 @@ fi
 cd ~/tmp
 # 最新版本地址见：https://git-scm.com/download/linux
 GIT_VER=2.33.0
-wget https://www.kernel.org/pub/software/scm/git/git-${GIT_VER}.tar.gz
+wget https://www.kernel.org/pub/software/scm/git/git-${GIT_VER}.tar.gz --no-check-certificate
 # 镜像地址
 # wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-${GIT_VER}.tar.gz
 tar zxf git-${GIT_VER}.tar.gz
@@ -110,6 +109,8 @@ cd ~/tmp
 cd git-${GIT_VER}
 ./configure --prefix=/usr/local/git
 make && make install
+# —— 如果报错：/bin/sh: cc: command not found
+# —— 解决见：https://www.wdssmq.com/post/20170421527.html
 
 # 环境变量
 echo "export PATH=$PATH:/usr/local/git/bin" >> /etc/profile
