@@ -8,6 +8,8 @@
 
 ## 目录( 2022 年 04 月 26 日更新)
 
+[「CentOS 笔记」常见错误提示整理「2022-04-15」](https://www.wdssmq.com/post/20170421527.html "「CentOS 笔记」常见错误提示整理「2022-04-15」")
+
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
 
 [「水坑」Z-BlogPHP 中各种错误提示的复现](https://www.wdssmq.com/post/20200922437.html "「水坑」Z-BlogPHP 中各种错误提示的复现")
@@ -37,8 +39,6 @@
 [「折腾」Docker 化安装 Z-BlogPHP](https://www.wdssmq.com/post/20120817544.html "「折腾」Docker 化安装 Z-BlogPHP")
 
 [「折腾」重装了 VPS 却没有 tar 命令这种事](https://www.wdssmq.com/post/20211120519.html "「折腾」重装了 VPS 却没有 tar 命令这种事")
-
-[「CentOS 笔记」常见错误提示整理「2022-04-15」](https://www.wdssmq.com/post/20170421527.html "「CentOS 笔记」常见错误提示整理「2022-04-15」")
 
 [10 分钟的人生【哲理短文】](https://www.wdssmq.com/post/10FenZhongDeRenShengZheLiDuanWen.html "10 分钟的人生【哲理短文】")
 
