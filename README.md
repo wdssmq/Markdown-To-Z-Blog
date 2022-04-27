@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 04 月 26 日更新)
+## 目录( 2022 年 04 月 27 日更新)
+
+[【Ubuntu 笔记】常见错误提示整理](https://www.wdssmq.com/post/20131101035.html "【Ubuntu 笔记】常见错误提示整理")
 
 [「CentOS 笔记」常见错误提示整理「2022-04-15」](https://www.wdssmq.com/post/20170421527.html "「CentOS 笔记」常见错误提示整理「2022-04-15」")
 
@@ -79,8 +81,6 @@
 [拐杖【小小说】](https://www.wdssmq.com/post/20120714915.html "拐杖【小小说】")
 
 [「云书签」在 Y 分钟内学习 X](https://www.wdssmq.com/post/20200629824.html "「云书签」在 Y 分钟内学习 X")
-
-[【备忘】JS时间函数相关（Typecho自动缩略名）](https://www.wdssmq.com/post/20120512985.html "【备忘】JS时间函数相关（Typecho自动缩略名）")
 
 ---end---
 
