@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 04 月 27 日更新)
+## 目录( 2022 年 04 月 28 日更新)
+
+[评《龙与雀斑公主》：确定不是试图玩「叙述性诡计」？](https://www.wdssmq.com/post/20220428283.html "评《龙与雀斑公主》：确定不是试图玩「叙述性诡计」？")
 
 [【Ubuntu 笔记】常见错误提示整理](https://www.wdssmq.com/post/20131101035.html "【Ubuntu 笔记】常见错误提示整理")
 
@@ -60,6 +62,8 @@
 
 [【备忘】web.config 配置 IIS 显示详细错误信息](https://www.wdssmq.com/post/20160901698.html "【备忘】web.config 配置 IIS 显示详细错误信息")
 
+[三国版奥斯卡颁奖典礼记录](https://www.wdssmq.com/post/sanguobanaosikabanjiangdianlijilu.html "三国版奥斯卡颁奖典礼记录")
+
 [「折腾」压缩 wsl2 磁盘占用](https://www.wdssmq.com/post/20100428905.html "「折腾」压缩 wsl2 磁盘占用")
 
 [「折腾」VSCode + wsl2 + Docker 探究](https://www.wdssmq.com/post/20220211184.html "「折腾」VSCode + wsl2 + Docker 探究")
@@ -77,10 +81,6 @@
 [「VSCode 笔记」Git： Host key verification failed](https://www.wdssmq.com/post/20201216004.html "「VSCode 笔记」Git： Host key verification failed")
 
 [【坑货笔记】零宽空白 &amp;amp;#8203; 是什么鬼！](https://www.wdssmq.com/post/20190818266.html "【坑货笔记】零宽空白 &amp;amp;#8203; 是什么鬼！")
-
-[拐杖【小小说】](https://www.wdssmq.com/post/20120714915.html "拐杖【小小说】")
-
-[「云书签」在 Y 分钟内学习 X](https://www.wdssmq.com/post/20200629824.html "「云书签」在 Y 分钟内学习 X")
 
 ---end---
 
