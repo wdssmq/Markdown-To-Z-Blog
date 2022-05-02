@@ -11,13 +11,16 @@ id: 2158
 alias: 20140328160
 ---
 
+**最终并没能解析，纠结**
+
+<!--more-->
+
 ### 一、“解决”方案
 
 前文推荐：「[「折腾」VSCode + wsl2 + Docker 探究\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20220211184.html "「折腾」VSCode + wsl2 + Docker 探究\_电脑网络\_沉冰浮水")」
 
 网上最常见到命令好像并不生效，所以一直靠着输入法快捷输入`sudo service docker start`来运行，但果然是很麻烦；
 
-<!--more-->
 
 ```bash
 sudo systemctl enable docker
@@ -30,19 +33,21 @@ sudo systemctl enable docker
 > How to automatically start the Docker daemon on WSL2 – NillsF blog
 > `https://blog.nillsf.com/index.php/2020/06/29/how-to-automatically-start-the-docker-daemon-on-wsl2/`
 
-这个方案需要安装 zsh，安装见本文第二节；
+~这个方案需要安装 zsh，安装见本文第二节；~
 
 · 首先需要设置你的用户在执行 sudo 时不需要输入密码，我已经设置过了，虽然并不理解为什么能生效所以没也写笔记；
 
-· 向 `~/.zshrc` 写入内容：
+· 向 `~/.bashrc` 写入内容：
 
 ```bash
-echo '# Start Docker daemon automatically when logging in if not running.' >> ~/.zshrc
-echo 'RUNNING=`ps aux | grep dockerd | grep -v grep`' >> ~/.zshrc
-echo 'if [ -z "$RUNNING" ]; then' >> ~/.zshrc
-echo '    sudo dockerd > /dev/null 2>&1 &' >> ~/.zshrc
-echo '    disown' >> ~/.zshrc
-echo 'fi' >> ~/.zshrc
+echo '# Start Docker daemon automatically when logging in if not running.' >> ~/.bashrc
+echo 'RUNNING=`ps aux | grep dockerd | grep -v grep`' >> ~/.bashrc
+echo 'if [ -z "$RUNNING" ]; then' >> ~/.bashrc
+echo '    sudo dockerd > /dev/null 2>&1 &' >> ~/.bashrc
+echo '    disown' >> ~/.bashrc
+echo 'fi' >> ~/.bashrc
+
+source ~/.bashrc
 ```
 
 · 执行如果下命令，效果是在执行 docker 命令时可以不加 `sudo`？：
@@ -54,6 +59,8 @@ sudo usermod -a -G docker $USER
 ```
 
 ### 二、安装 zsh
+
+> 其实只是解决 Docker 自启的话并不需要换 zsh，是我英语力不够看漏了原文信息；
 
 > Oh-My-Zsh 的配置与使用 - 再见理想_ - 博客园
 > `https://www.cnblogs.com/monsterdev/p/11166720.html`
