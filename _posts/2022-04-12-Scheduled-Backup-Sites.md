@@ -149,7 +149,10 @@ service crond start
 旧空间内：
 
 ```bash
-# 进入旧空间实际存放打包文件夹的路径 /root/Backup/bak_20220413
+# 可以修改备份脚本中的 DATE_SUFF 变量，比如加个 _X 后缀然后执行一次打包最新数据
+# cd ~/bin
+# ./bak.sh
+# 进入旧空间实际存放打包文件夹的路径 /root/Backup/bak_20220413_X
 ln -s /usr/local/apache/conf/vhost vhost_a
 ln -s /usr/local/nginx/conf/vhost  vhost_n
 if [ ! -d /usr/local/nginx/conf/ssl ]; then
@@ -199,11 +202,22 @@ lnmp restart
 # 写入当前日期到 test.txt，用以验证解析切换是否成功
 cd /home/wwwroot
 for dir in $(ls -d */); do echo $(date +%Y%m%d) > $dir/test.txt; done
+# —— 这里怎么排除掉 ln ？
 ```
 
-**切换解析，等待生效；**「切换解析后建议尽快停掉旧空间的 web 服务，停用后再额外手动备份一次」
+**切换解析，等待生效；**「切换解析后建议尽快停掉旧空间的 web 服务」
 
-**然后照着上边教程重新配置一次自动备份；**
+**然后照着上边教程为新空间重新配置一次自动备份；**
+
+**清理文件**
+
+新空间内：
+
+```bash
+cd /home/wwwroot
+rm -rf *.tar.gz *.sql.gz
+rm -rf rm -rf vhost_a vhost_n ssl_n
+```
 
 命令备忘录：
 
