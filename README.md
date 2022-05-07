@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 05 月 05 日更新)
+## 目录( 2022 年 05 月 07 日更新)
+
+[「小目标」平均每篇文章/Git Repository 赚取 1 元](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元")
 
 [「GM 脚本」大会员 B 币领取提醒](https://www.wdssmq.com/post/20141219446.html "「GM 脚本」大会员 B 币领取提醒")
 
@@ -72,15 +74,13 @@
 
 [【备忘】web.config 配置 IIS 显示详细错误信息](https://www.wdssmq.com/post/20160901698.html "【备忘】web.config 配置 IIS 显示详细错误信息")
 
+[2010年11月21日冷笑话合集 - 副处级干部](https://www.wdssmq.com/post/2010Nian11Yue21RiLengXiaoHuaHeJi-FuChuJiGanBu.html "2010年11月21日冷笑话合集 - 副处级干部")
+
 [三国版奥斯卡颁奖典礼记录](https://www.wdssmq.com/post/sanguobanaosikabanjiangdianlijilu.html "三国版奥斯卡颁奖典礼记录")
 
 [「折腾」压缩 wsl2 磁盘占用](https://www.wdssmq.com/post/20100428905.html "「折腾」压缩 wsl2 磁盘占用")
 
 [「折腾」VSCode + wsl2 + Docker 探究](https://www.wdssmq.com/post/20220211184.html "「折腾」VSCode + wsl2 + Docker 探究")
-
-[难忘那年发生在图书馆的故事](https://www.wdssmq.com/post/2010020386.html "难忘那年发生在图书馆的故事")
-
-[【音乐】RAHA深度睡眠音乐【FLAC】【网盘下载】](https://www.wdssmq.com/post/20130802263.html "【音乐】RAHA深度睡眠音乐【FLAC】【网盘下载】")
 
 ---end---
 
