@@ -12,6 +12,7 @@ _posts/*.png
 _posts/draft-*
 # 4
 *.orig.png
+*.orgi.png
 note-*.md
 doc-*.md
 # 5
