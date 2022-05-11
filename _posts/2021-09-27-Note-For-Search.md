@@ -12,7 +12,7 @@ alias: 20100305270
 ### 2021-09-20 10:42
 正好今天星期一，可以测试下新写的 mdLint 插件。`https://marketplace.visualstudio.com/items?itemName=wdssmq.mdlint` 「- 之前经常拖延到周四什么的 -」
 
-<!--more-->
+<!-- more -->
 
 ### 2021-09-20 10:51
 接上条，虽然还需要慢慢优化；
