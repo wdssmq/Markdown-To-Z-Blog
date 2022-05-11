@@ -20,7 +20,9 @@ RewriteCond %{QUERY_STRING} ^id=(.+)$ # 这里的引用是 %1 而不是 $1
 RewriteRule ^$ /post/%1.html [L,R=301]
 ```
 
-至于 Nginx，同时有`$query_string`与`$args`两个变量用于获取网址参数，效果好像是一样的。
+至于 Nginx，同时有`$query_string`与`$args`两个变量用于获取网址参数，效果好像是一样的；
+
+注：`$arg_id.html`后的`?`表示跳转后不携带原来的网址参数；
 
 ```conf
 # page + post
