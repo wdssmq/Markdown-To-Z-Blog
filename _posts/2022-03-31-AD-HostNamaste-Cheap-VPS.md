@@ -1,5 +1,5 @@
 ---
-title: 「VPS」HostNamaste $20 年付
+title: 「VPS」HostNamaste $20 年付优惠
 tags:
 - VPS
 - 广告
@@ -9,6 +9,8 @@ categories:
 id: 33
 alias: 20220331233
 ---
+
+**试用结论：并不推荐这一家；**
 
 ### 跑题时间
 
@@ -186,8 +188,11 @@ Dual Intel Xeon E5-2660v2 / E5-2670v2 / AMD Epyc 7351P CPUs
 
 <!-- ---------------- -->
 
+<!-- [ShortSth:主机云][/ShortSth] -->
+
 <!-- [ShortSth:DesiVPS][/ShortSth] -->
 
 <!-- [ShortSth:HostNamaste][/ShortSth] -->
 
 <!-- [ShortSth:VultrVPS][/ShortSth] -->
+
