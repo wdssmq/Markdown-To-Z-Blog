@@ -8,6 +8,8 @@
 
 ## 目录( 2022 年 05 月 11 日更新)
 
+[「折腾」Nginx 解析网址参数并跳转](https://www.wdssmq.com/post/20201107566.html "「折腾」Nginx 解析网址参数并跳转")
+
 [「VPS」DesiVPS $20 年付优惠](https://www.wdssmq.com/post/20220219378.html "「VPS」DesiVPS $20 年付优惠")
 
 [「VPS」HostNamaste $20 年付优惠](https://www.wdssmq.com/post/20220331233.html "「VPS」HostNamaste $20 年付优惠")
@@ -79,8 +81,6 @@
 [经典搞笑的汽车窗后标语](https://www.wdssmq.com/post/JingDianGaoXiaoDeQiCheChuangHouBiaoYu.html "经典搞笑的汽车窗后标语")
 
 [【备忘】IIS7 显示具体错误提示](https://www.wdssmq.com/post/BeiWang-IIS7XianShiJuTiCuoWuTiShi.html "【备忘】IIS7 显示具体错误提示")
-
-[【备忘】web.config 配置 IIS 显示详细错误信息](https://www.wdssmq.com/post/20160901698.html "【备忘】web.config 配置 IIS 显示详细错误信息")
 
 ---end---
 
