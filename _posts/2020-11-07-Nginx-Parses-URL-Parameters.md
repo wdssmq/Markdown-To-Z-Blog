@@ -15,6 +15,8 @@ alias: 20201107566
 
 对于如上地址，在 Apache 下可以使用如下规则重定向（301）到伪静态地址。
 
+<!--more-->
+
 ```conf
 RewriteCond %{QUERY_STRING} ^id=(.+)$ # 这里的引用是 %1 而不是 $1
 RewriteRule ^$ /post/%1.html [L,R=301]
