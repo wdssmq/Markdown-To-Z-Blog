@@ -10,13 +10,30 @@ id: 1476
 alias: 20120817544
 ---
 
+## 使用 Docker Compose 部署「推荐」
+
+wdssmq/zbp-docker-compose: 使用 Docker Compose 快捷部署 Z-BlogPHP + MySQL；：
+
+[https://github.com/wdssmq/zbp-docker-compose](https://github.com/wdssmq/zbp-docker-compose "wdssmq/zbp-docker-compose: 使用 Docker Compose 快捷部署 Z-BlogPHP + MySQL；")
+
+<!--more-->
+
+```bash
+# 安装 Docker Compose
+sudo curl -L https://github.com/docker/compose/releases/download/v2.4.1/docker-compose-`uname -s`-`uname -m` \
+ -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+docker-compose --version
+```
+
+生成最新版 Docker Compose 安装命令：[https://demo.wdssmq.com/tools/GenShell/](https://demo.wdssmq.com/tools/GenShell/ "生成最新版 Docker Compose 安装命令")
+
 ## 创建一个网络用于容器互通
 
 `docker network create -d bridge net_web`
 
 后续创建的容器全部连接至该网络中，更多说明请见「[这个链接](https://www.wdssmq.com/post/20210820126.html "2021-08-07 17:58 笔记 | Docker 网络相关")」；
 
-<!--more-->
 
 ## Docker 安装 MysQL + PHPMyAdmin
 
@@ -137,17 +154,23 @@ git clone git@github.com:zblogcn/zblogphp-tencent-openapp-docker.git zbp-docker
 cd zbp-docker
 
 # Build
-docker build -t wdssmq/zblogphp:22.04 .
+docker build -t wdssmq/zblogphp:22.05 .
+# —— 指定 Tag
+docker build -t wdssmq/zblogphp .
+# —— 不指定 Tag，将默认为 :latest
 
 # 查看镜像
 docker image ls
 
 # 登录 docker hub
 # https://hub.docker.com/
+# https://hub.docker.com/settings/security
+# 推荐用 Access Tokens 作为下边登录的密码
 docker login -u <用户名> -p <密码>
 
 # 发布镜像
-docker push wdssmq/zblogphp:22.04
+docker push wdssmq/zblogphp:22.05
+docker push wdssmq/zblogphp:latest
 
 ```
 
