@@ -12,6 +12,8 @@ alias: 20131101035
 
 > manpath: can't set the locale; make sure $LC_* and $LANG are correct
 
+<!--more-->
+
 解决：
 
 1、分别执行 `locale` 和 `localectl list-locales` 查看数输出：
