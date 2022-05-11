@@ -406,7 +406,6 @@ def main():
         if "" == alias:
             _LOGS += "未指定 alias ：%s" % (md_name) + "\n"
 
-
         # if alias == "":
         #     alias = md_name
         #     fnLog("使用别名", alias)
@@ -415,7 +414,7 @@ def main():
         md_content = up_img_host(md_name, md_content)
 
         content = markdown.markdown(
-            md_content, extensions=['tables', 'fenced_code', 'sane_lists', 'md_in_html'])
+            md_content, extensions=['tables', 'fenced_code', 'sane_lists', 'md_in_html', 'nl2br'])
 
         content = "%s<!--%i-->\n" % (content, id)
         md_content = "%s<!--%i-->\n" % (md_content, id)
