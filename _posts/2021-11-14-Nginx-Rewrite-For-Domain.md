@@ -1,5 +1,5 @@
 ---
-title: 「备忘」nginx 重定向(301)相关
+title: 「备忘」Nginx 重定向（301）相关
 tags:
 - LNMP,Linux,301,Nginx
 categories:
