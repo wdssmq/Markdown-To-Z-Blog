@@ -124,8 +124,8 @@ def update_post(id, data_arg):
     # data_arg["CateID"] = cate_id
     author_id = config_info["AuthorID"]
     data_arg["AuthorID"] = author_id
-    # data_arg["Intro"] = "请在正文内使用<!-- more -->"
-    data_arg["Intro"] = "请在正文内使用&lt;!-- more --&gt;"
+    # data_arg["Intro"] = "请在正文内使用 <!-- more -->"
+    data_arg["Intro"] = "请在正文内使用 &lt;!-- more --&gt;"
     data = http("post", "post", "post", data_arg)
     if not data is None:
         post = data["post"]
@@ -205,7 +205,7 @@ def read_md(file_path):
     metadata = {}
     with open(file_path, 'r', encoding='UTF-8') as f:
         post = frontmatter.load(f)
-        content = post.content
+        content = post.content.replace("<!-- more -->", "<!--more-->")
         metadata = post.metadata
         # print("==>>", post.content)
         # print("===>>", post.metadata)
