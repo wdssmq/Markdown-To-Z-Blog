@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录( 2022 年 05 月 10 日更新)
+## 目录( 2022 年 05 月 11 日更新)
+
+[「VPS」DesiVPS $20 年付优惠](https://www.wdssmq.com/post/20220219378.html "「VPS」DesiVPS $20 年付优惠")
+
+[「VPS」HostNamaste $20 年付优惠](https://www.wdssmq.com/post/20220331233.html "「VPS」HostNamaste $20 年付优惠")
 
 [「图说」右键菜单栏工具什么的「2022-05」](https://www.wdssmq.com/post/20120915760.html "「图说」右键菜单栏工具什么的「2022-05」")
 
@@ -70,8 +74,6 @@
 
 [「广告慎入」百度网盘分销联盟（推广赚佣金）](https://www.wdssmq.com/post/20220414259.html "「广告慎入」百度网盘分销联盟（推广赚佣金）")
 
-[「VPS」HostNamaste $20 年付](https://www.wdssmq.com/post/20220331233.html "「VPS」HostNamaste $20 年付")
-
 [【列表】需要时却可能找不到的网址](https://www.wdssmq.com/post/20191227185.html "【列表】需要时却可能找不到的网址")
 
 [经典搞笑的汽车窗后标语](https://www.wdssmq.com/post/JingDianGaoXiaoDeQiCheChuangHouBiaoYu.html "经典搞笑的汽车窗后标语")
@@ -79,8 +81,6 @@
 [【备忘】IIS7 显示具体错误提示](https://www.wdssmq.com/post/BeiWang-IIS7XianShiJuTiCuoWuTiShi.html "【备忘】IIS7 显示具体错误提示")
 
 [【备忘】web.config 配置 IIS 显示详细错误信息](https://www.wdssmq.com/post/20160901698.html "【备忘】web.config 配置 IIS 显示详细错误信息")
-
-[2011年3月3日冷笑话合集 - 跟家一样](https://www.wdssmq.com/post/2011Nian3Yue3RiLengXiaoHuaHeJi-GenJiaYiYang.html "2011年3月3日冷笑话合集 - 跟家一样")
 
 ---end---
 
