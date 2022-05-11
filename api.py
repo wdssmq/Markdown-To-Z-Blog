@@ -421,7 +421,7 @@ def main():
 
         # post data构造
         data_arg = {"Type": "0", "ID": id, "Title": title, "Alias": alias,
-                    "Content": content, "MD_Content": md_content, "Tag": ",".join(tags), "CateName": cate, "Status": status}
+                    "Content": content, "MD_Content": md_content, "Tag": ",".join('%s' % tag for tag in tags), "CateName": cate, "Status": status}
         # 提交请求
         (done, post_id, post_mtime) = update_post(0, data_arg)
         # fnBug("%s %s %s" % (done, post_id, post_mtime), sys._getframe().f_lineno)
