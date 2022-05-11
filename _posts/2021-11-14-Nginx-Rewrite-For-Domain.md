@@ -1,5 +1,5 @@
 ---
-title: 【备忘】nginx 重定向(301)相关
+title: 「备忘」nginx 重定向(301)相关
 tags:
 - LNMP,Linux,301,Nginx
 categories:
@@ -69,4 +69,13 @@ server {
 ```bash
 /root/lnmp restart
 ```
+
+相关推荐：
+
+[「折腾」Nginx 解析网址参数并跳转\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20201107566.html "「折腾」Nginx 解析网址参数并跳转\_电脑网络\_沉冰浮水")
+
+[「备案」LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20181007103.html "「备案」LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水")
+
+[「笔记」LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20200129996.html "「笔记」LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水")
+
 <!--2346-->
