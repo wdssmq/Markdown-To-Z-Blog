@@ -32,9 +32,7 @@ fi
 
 cd ~/node
 if [ ! -d onebot ]; then
-  # 这是我自己的魔改 fork
-  git clone git@github.com:wdssmq/onebot.git
-  mv node-onebot onebot
+  git clone git@github.com:takayama-lily/node-onebot.git onebot
 fi
 
 cd ~/node/onebot
@@ -42,16 +40,18 @@ if [ ! -e config.js ]; then
   cp config.sample.js config.js
 fi
 
+# 修改 config.js 加入配置项；
+
 node main 12123222
 ```
 
-之后请参照使用说明登录：
+之后请参照引导揭示登录；
+
+可能需要的参考：
 
 如何完成滑动验证码并取得 ticket：[https://github.com/takayama-lily/onebot/issues/28](https://github.com/takayama-lily/onebot/issues/28 "如何完成滑动验证码并取得ticket · Issue #28 · takayama-lily/onebot")
 
 首次登录成功后只需要使用`node main 12123222`登录；
-
-**也可以在 config.js 中设置 autoLogin；**
 
 ### 使用 pm2 持久化运行
 
@@ -64,8 +64,8 @@ npm install -g pm2
 # 开启持久化运行
 cd ~/node/onebot
 # pm2 delete all
-# config 内设置 autoLogin 及 QQ 号
-pm2 start main.js -n onebot
+
+pm2 start main.js -n onebot -- 12123222
 pm2 logs onebot
 
 # 开机自启
