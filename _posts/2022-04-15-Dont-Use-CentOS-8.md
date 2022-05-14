@@ -40,3 +40,5 @@ yum install -y tar
 
 # 算了，，换 CentOS 7 试试；
 ```
+
+<!-- 果然不太懂 -->
