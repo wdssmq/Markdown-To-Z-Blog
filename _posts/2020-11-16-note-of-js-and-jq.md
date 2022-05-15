@@ -1,5 +1,5 @@
 ---
-title: 【备忘】JavaScript 及 JQuery 常用代码
+title: 【备忘】JavaScript 及 jQuery 常用代码
 tags:
 - JavaScript,JQuery,备忘
 categories:
@@ -8,22 +8,31 @@ id: 3107
 alias: 20201116687
 ---
 
+JavaScript 或 jQuery 中各种常用的代码总结；
+
+<!--more-->
+
 移除 class，移除属性：
+
 ```js
 // 移除class，移除属性
 $("input").removeClass("hidden").removeAttr("disabled");
 ```
-「- -」
+
+「- -」「- -」「- -」「- -」
 
 jQuery 操作 Select：
+
 ```js
 // https://www.cnblogs.com/shanyou/archive/2011/07/11/2103422.html
 // 可直接使用val(）方法赋值
 $('select').val(2);
 ```
-「- -」
+
+「- -」「- -」「- -」「- -」
 
 关于正则分组命名及回调替换：
+
 ```js
 function fnReplace(html, post_id) {
   const fnRegxCB = function () {
@@ -53,27 +62,33 @@ function fnReplace(html, post_id) {
   // );
 }
 ```
-「- -」
+
+「- -」「- -」「- -」「- -」
 
 obj 转网址参数：
+
 ```js
 // obj转网址参数
 const queryString = Object.keys(data)
   .map((key) => key + "=" + data[key])
   .join("&");
 ```
-「- -」
+
+「- -」「- -」「- -」「- -」
 
 obj 键值遍历：
+
 ```js
 // obj键值遍历
 Object.keys(req.headers).forEach(function (key) {
   console.log(key, req.headers[key]);
 });
 ```
-「- -」
+
+「- -」「- -」「- -」「- -」
 
 解除图片防盗链：
+
 ```js
 // 解除图片防盗链
 (() => {
@@ -86,9 +101,11 @@ Object.keys(req.headers).forEach(function (key) {
   });
 })();
 ```
-「- -」
+
+「- -」「- -」「- -」「- -」
 
 并不常用，只是备忘：
+
 ```js
 (()=>{
  for (let index = 0; index <= 13; index++) {

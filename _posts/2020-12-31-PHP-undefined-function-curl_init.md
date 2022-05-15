@@ -16,6 +16,8 @@ alias: 20201231275
 
 之前的评价：[总觉得 phpstudy 的“国产”属性太浓烈……](https://www.wdssmq.com/post/20200325228.html "总觉得phpstudy的“国产”属性太浓烈……")
 
+<!--more-->
+
 ### 二
 
 然后重点是我再一次需要用 Z-Blog 的网络类实现一个功能。

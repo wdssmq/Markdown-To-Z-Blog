@@ -8,6 +8,10 @@ id: 2346
 alias: 20140819797
 ---
 
+环境基于`https://lnmp.org/`脚本构建；
+
+<!--more-->
+
 LNMP 网站配置路径：
 
 > `/usr/local/nginx/conf/vhost/`
