@@ -13,6 +13,8 @@ alias: 20200413146
 
 历史原因，Z-Blog 的导航、友情链接管理都比较复杂，虽说将来预定会在系统层面进行修改，眼下作为过渡，推荐使用插件：
 
+<!--more-->
+
 > 链接模块管理 - Z-Blog 应用中心：
 >
 > [https://app.zblogcn.com/?id=1873](https://app.zblogcn.com/?id=1873 "链接模块管理 - Z-Blog 应用中心")
