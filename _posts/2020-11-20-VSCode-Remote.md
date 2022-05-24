@@ -123,7 +123,10 @@ git version
 
 # 安装nvm
 # 最新版见：https://github.com/nvm-sh/nvm
-wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.0/install.sh | bash
+# curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+curl -o- https://fastly.jsdelivr.net/gh/nvm-sh/nvm@v0.39.1/install.sh | bash
+
+# 执行完后需要关掉命令行终端再重新打开
 
 nvm install --lts
 nvm use --lts
@@ -135,4 +138,5 @@ https://juejin.im/post/6844904000639205384
 
 VS Code Remote SSH 配置 - 知乎
 https://zhuanlan.zhihu.com/p/68577071
+
 <!--3110-->
