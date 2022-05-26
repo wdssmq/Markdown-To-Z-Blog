@@ -15,9 +15,9 @@ alias: 20120830162
 
 所以 wsl 要不要大写这种事。。。
 
-「小目标」平均每篇文章/Git Repository 赚取 1 元_杂七杂八_沉冰浮水
-
-https://www.wdssmq.com/post/20210723266.html
+> 「小目标」平均每篇文章/Git Repository 赚取 1 元\_杂七杂八\_沉冰浮水：
+>
+> [https://www.wdssmq.com/post/20210723266.html](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元\_杂七杂八\_沉冰浮水")
 
 <!--more-->
 
@@ -27,13 +27,46 @@ https://www.wdssmq.com/post/20210723266.html
 
 [「折腾」VSCode + wsl2 + Docker 探究\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20220211184.html "「折腾」VSCode + wsl2 + Docker 探究\_电脑网络\_沉冰浮水")
 
+## Ubuntu 下安装 PHP 7.4
+
+```bash
+# sudo apt-get upgrade
+
+sudo apt-get install -y software-properties-common
+sudo add-apt-repository ppa:ondrej/php
+sudo apt-get update
+sudo apt-get install -y php7.4
+
+# 查看版本
+php -v
+
+# PHP 7.4.29 (cli) (built: Apr 21 2022 10:16:17) ( NTS )
+
+# 查看安装路径
+whereis php
+
+# php: /usr/bin/php7.4 /usr/bin/php ……
+```
+· 配置 VSCode 用于 PHP 验证：
+
+```json
+{
+  "php.validate.executablePath": "/usr/bin/php"
+}
+```
+
+> 无法验证，因为找不到 PHP 安装。使用设置 "php.validate.executablePath" 来配置 PHP 可执行文件。
+> 「[图示查看](https://www.wdssmq.com/post/20100204118.html#001)」
+
 ### 正文
 
-姑且会写各种 Z-BlogPHP 插件，目前主要开发（折腾）环境是 `WSL2` + `Ubuntu-18.04` + `Docker`，然后因为 `php.validate.executablePath` 的问题已经安装了 `PHP 7.2`，虽然忘记是怎么安装的了？之前的笔记本是 CentOS 下的，而这东西不更新了。。
+姑且会写各种 Z-BlogPHP 插件，目前主要开发（折腾）环境是 `WSL2` + `Ubuntu-18.04` + `Docker`；
 
-总之部分插件有用到 Composer 安装依赖，之前都是在 win 系统下使用；
+Docker 宿主环境内安装 PHP 主要是给 VSCode 语法验证使用；「安装方法已在上方补充」
 
-完整直接使用的代码
+然后部分插件有用到 Composer 安装依赖；
+
+完整直接使用的代码：
 
 ```bash
 # 添加写权限
