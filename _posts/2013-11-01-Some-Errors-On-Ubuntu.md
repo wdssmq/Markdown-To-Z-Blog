@@ -152,4 +152,24 @@ sudo apt install docker-ce
 >
 > sudo apt-get install libtool automake build-essential libssl-dev libsigc++-2.0-dev libc6-dev libncurses5-dev subversion libcppunit-dev unzip unrar-free curl
 
+\-----
+
+错误提示：
+
+> WARNING: failed to autodetect C++ compiler version (CXX=g++)
+>
+> WARNING: failed to autodetect C compiler version (CC=gcc)
+>
+> ERROR: No acceptable C compiler found!
+>        Please make sure you have a C compiler installed on your system and/or
+>        consider adjusting the CC environment variable if you installed
+>        it in a non-standard prefix.
+
+解决：
+
+```bash
+sudo apt-get install gcc
+sudo apt-get install build-essential
+```
+
 <!--1877-->
