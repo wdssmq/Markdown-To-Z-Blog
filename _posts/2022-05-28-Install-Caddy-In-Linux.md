@@ -15,6 +15,8 @@ alias: 20100604351
 
 环境为 Ubuntu 18.04，使用 VSCode 远程连接；
 
+<!--more-->
+
 各种中文教程中的安装脚本链接都失效了，然后配置说明比 Z-BlogPHP 的文档还栏；
 
 果然还是得看英文官方文档：[https://caddyserver.com/docs/](https://caddyserver.com/docs/ "Welcome — Caddy Documentation")；
@@ -23,7 +25,6 @@ alias: 20100604351
 
 「AD：[各种 VPS 推荐](https://www.wdssmq.com/tag/VPS/ "VPS\_沉冰浮水\_第1页")」
 
-<!--more-->
 
 ## 安装
 
@@ -86,17 +87,14 @@ file_server
 
 --------------------
 
-指定具体的 root 目录和域名；
+指定具体的 root 目录和域名等；
 
 ```conf
 blog.wdssmq.com
 root * /root/wwwroot/blog.wdssmq.com/public
+encode zstd gzip
 file_server
 ```
-
-> file\_server (Caddyfile directive) — Caddy Documentation：
->
-> [https://caddyserver.com/docs/caddyfile/directives/file_server](https://caddyserver.com/docs/caddyfile/directives/file_server "file\_server (Caddyfile directive) — Caddy Documentation")
 
 --------
 
@@ -114,3 +112,11 @@ localhost:2016 {
 	respond "Goodbye, world!"
 }
 ```
+
+> file\_server (Caddyfile directive) — Caddy Documentation：
+>
+> [https://caddyserver.com/docs/caddyfile/directives/file_server](https://caddyserver.com/docs/caddyfile/directives/file_server "file\_server (Caddyfile directive) — Caddy Documentation")
+
+> Caddyfile Tutorial — Caddy Documentation：
+>
+> [https://caddyserver.com/docs/caddyfile-tutorial](https://caddyserver.com/docs/caddyfile-tutorial "Caddyfile Tutorial — Caddy Documentation")
