@@ -19,7 +19,7 @@ alias: 20100604351
 
 果然还是得看英文官方文档：[https://caddyserver.com/docs/](https://caddyserver.com/docs/ "Welcome — Caddy Documentation")；
 
-`blog.wdssmq.com` ← 在这篇教程时姑且能打开了，先用了 hugo 测试，能够自动给配置 ssl 这点儿挺厉害的；
+`blog.wdssmq.com` ← 在写这篇教程时姑且能打开了，先用了 hugo 测试，能够自动给配置 ssl 这点挺厉害的；
 
 「AD：[各种 VPS 推荐](https://www.wdssmq.com/tag/VPS/ "VPS\_沉冰浮水\_第1页")」
 
