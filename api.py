@@ -193,8 +193,15 @@ def update_readme(readme):
 
 def up_img_host(md_name, md_content):
     if "IMG_HOST" in config_info.keys():
-        md_content = re.sub(r'!\[([^\]]+)\]\(((?!http)[^\)]+)\)', r'![\1](%s_posts/%s/\2)' %
-                            (config_info["IMG_HOST"], md_name), md_content)
+        img_host = config_info["IMG_HOST"]
+        if img_host.endswith("/"):
+            img_host = img_host[:-1]
+        # 图片地址替换 —— ./ 开头
+        md_content = re.sub(r'!\[([^\]]+)\]\(\.\/([^\)]+)\)',
+                            r'![\1](%s/_posts/\2)' % img_host, md_content)
+        # 图片地址替换 —— 同级目录
+        md_content = re.sub(r'!\[([^\]]+)\]\(((?!http)[^\)]+)\)', r'![\1](%s/_posts/%s/\2)' %
+                            (img_host, md_name), md_content)
     # fnBug(md_content, sys._getframe().f_lineno)
     return md_content
 # 替换图片路径
