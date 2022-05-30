@@ -21,28 +21,51 @@ Hugo 号称自己很快，但是文档过于不完善，还是选择了 Hexo；
 
 现想直接让 Hexo 读取里边的文章构建静态站点；
 
+注：
+
+明明 md2zb 内的其他文件没有映射进 source 文件夹，不加`_`前缀的话仍然会被复制到发布目录；
+
+也可能是因为测试时的缓存问题？不过加下划线排序会靠前也算正好；
+
 ```bash
 cd ~/wwwroot/blog
-git submodule add git@github.com:wdssmq/Markdown-To-Z-Blog.git md2zb
+git submodule add git@github.com:wdssmq/Markdown-To-Z-Blog.git _md2zb
 
 cd ~/wwwroot/blog/source
 # cd ../md2zb/_posts
 rm -rf _posts
 
-ln -si ../md2zb/_posts _posts
+ln -si ../_md2zb/_posts _posts
 ```
+
+更新子模块：
+
+```bash
+git submodule update --init --recursive
+```
+
+删除子模块：
+
+```bash
+git submodule deinit -f _md2zb
+git rm _md2zb
+```
+
+> Git 中 Submodule 的使用 - 知乎
+>
+> https://zhuanlan.zhihu.com/p/87053283
 
 ## 两个 Git 库单独存放
 
 ```bash
 cd ~/wwwroot
-git clone git@github.com:wdssmq/Markdown-To-Z-Blog.git md2zb
+git clone git@github.com:wdssmq/Markdown-To-Z-Blog.git _md2zb
 
 cd ~/wwwroot/blog/source
 # cd ../../md2zb/_posts
 rm -rf _posts
 
-ln -si ../../md2zb/_posts _posts
+ln -si ../../_md2zb/_posts _posts
 ```
 
 ## 相关推荐
