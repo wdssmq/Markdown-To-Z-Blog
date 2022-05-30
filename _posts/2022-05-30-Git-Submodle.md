@@ -41,7 +41,21 @@ ln -si ../_md2zb/_posts _posts
 更新子模块：
 
 ```bash
+# 初始化子模块（从父项目记录中检出指定提交）
 git submodule update --init --recursive
+
+# _md2zb @ 06e4fa1
+
+# 拉取子模块更新
+git submodule foreach 'git pull origin main'
+
+# 将当前提交记录更新至父项目
+git status
+git add _md2zb
+git commit -m"up. 子模块更新：_md2zb；"
+
+# _md2zb @ 62619bb
+
 ```
 
 删除子模块：
