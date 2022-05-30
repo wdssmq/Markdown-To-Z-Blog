@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 05 月 29 日更新)
+## 目录( 2022 年 05 月 30 日更新)
+
+[「笔记」.htaccess 及 nginx.conf 可用变量一览](https://www.wdssmq.com/post/20220301043.html "「笔记」.htaccess 及 nginx.conf 可用变量一览")
 
 [「纠结」那些好像很厉害的浏览器扩展](https://www.wdssmq.com/post/20220228232.html "「纠结」那些好像很厉害的浏览器扩展")
 
@@ -31,6 +33,8 @@
 [「折腾」Docker + Nginx 内映射子目录站点及自定义规则](https://www.wdssmq.com/post/20181028361.html "「折腾」Docker + Nginx 内映射子目录站点及自定义规则")
 
 [2010年11月9日冷笑话合集 - 最大的赌注](https://www.wdssmq.com/post/2010Nian11Yue9RiLengXiaoHuaHeJi-ZuiDaDeDuZhu.html "2010年11月9日冷笑话合集 - 最大的赌注")
+
+[老酷的搞笑语录](https://www.wdssmq.com/post/20100203797.html "老酷的搞笑语录")
 
 [「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」](https://www.wdssmq.com/post/20210724854.html "「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」")
 
@@ -77,10 +81,6 @@
 [「VPS」DesiVPS $20 年付优惠](https://www.wdssmq.com/post/20220219378.html "「VPS」DesiVPS $20 年付优惠")
 
 [「折腾」Nginx 解析网址参数并跳转](https://www.wdssmq.com/post/20201107566.html "「折腾」Nginx 解析网址参数并跳转")
-
-[「VPS」HostNamaste $20 年付优惠](https://www.wdssmq.com/post/20220331233.html "「VPS」HostNamaste $20 年付优惠")
-
-[「图说」右键菜单栏工具什么的「2022-05」](https://www.wdssmq.com/post/20120915760.html "「图说」右键菜单栏工具什么的「2022-05」")
 
 ---end---
 
