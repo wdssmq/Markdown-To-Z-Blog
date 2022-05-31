@@ -25,11 +25,13 @@
         "if [ -f *-new-post.md ]; then mv *-new-post.md ${_date}-new-post.md; fi \r\n",
         "if [ ! -f ${_date}-new-post.md ]; then \r\n",
         "  cp ${_empty} ${_date}-new-post.md \r\n",
+        "  sed -i \"s/{{ date }}/`date +%Y-%m-%d\\ %H:%M:%S`/\" ${_date}-new-post.md \r\n",
         "fi",
         "\r\n",
         "if [ ! -d ${_date}-new-post ]; then \r\n",
         "  mkdir ${_date}-new-post \r\n",
         "  cp ${_empty} ${_date}-new-post/doc.md \r\n",
+        "  sed -i \"s/{{ date }}/`date +%Y-%m-%d\\ %H:%M:%S`/\" ${_date}-new-post/doc.md \r\n",
         "fi",
         "\r\n"
       ],
