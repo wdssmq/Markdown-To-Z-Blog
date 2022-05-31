@@ -1,7 +1,9 @@
 ---
 title: 【备忘】msysGit 安装及使用
 tags:
-- Git,备忘,折腾
+- Git
+- 备忘
+- 折腾
 categories:
 - 电脑网络
 id: 2327

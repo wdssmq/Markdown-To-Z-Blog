@@ -1,7 +1,9 @@
 ---
 title: 【折腾】Docker 空间占用问题及 Nginx
 tags:
-- Docker,Nginx,折腾
+- Docker
+- Nginx
+- 折腾
 categories:
 - 电脑网络
 id: 357
