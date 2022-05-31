@@ -37,6 +37,8 @@ alias: 20211225085
 
 `https://img.wdssmq.workers.dev/doc/001.orig.png`
 
+实际配置步骤见：「[「折腾」Cloudflare Worker 反代 RSSHub\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20100219897.html "「折腾」Cloudflare Worker 反代 RSSHub\_电脑网络\_沉冰浮水")」
+
 ```js
 addEventListener("fetch", event => {
   event.respondWith(handleRequest(event.request))
