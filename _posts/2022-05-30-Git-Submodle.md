@@ -15,11 +15,32 @@ alias: 20100710361
 
 Hugo 号称自己很快，但是文档过于不完善，还是选择了 Hexo；
 
+因为历史原因，已经有了一个`_posts`文件夹和相应的文章；
+
+姑且用了 git 的子模块功能实现了让 hexo 直接读取；
+
+---------------
+
+同样因为历原因，一小部分的文章标签定义是下边这样的：
+
+```yml
+tags:
+- tag1,tag2,tag3
+```
+
+比起修改一波就想着写个插件自动处理；
+
+感觉上是弄出来了，但是感觉仍然不够优雅；
+
+wdssmq/hexo-split-tags: Separate tags with commas.：
+
+[https://github.com/wdssmq/hexo-split-tags](https://github.com/wdssmq/hexo-split-tags "wdssmq/hexo-split-tags: Separate tags with commas.")
+
+实际是额外读取了文章处理了一遍，加上原有的流程就会一篇文章编译两次，所以又加了一步通过标记把默认生成的文章排除掉；
+
+所以有没有更合适的接口直接拦截处理呢？
+
 ## Git Submodule
-
-我已经有一个 git 库，里边有一个`_post`文件夹存放文章；
-
-现想直接让 Hexo 读取里边的文章构建静态站点；
 
 注：
 
