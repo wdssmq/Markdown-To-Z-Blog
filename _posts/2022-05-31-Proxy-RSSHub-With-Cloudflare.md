@@ -17,11 +17,25 @@ alias: 20100219897
 
 所以本方案需要自行解决阅读器到`workers.dev`的连接；
 
+---------
+
+步骤：
+
+1、注册并登录：[https://workers.cloudflare.com/](https://workers.cloudflare.com/ "Cloudflare Workers®")；
+
+2、「创建服务」 → 可自行决定「服务名称」 → 「启动器」随便选一个就好 → 「创建服务」；「新注册可能要先设置`子域`」
+
+3、进入新建服务的内页 → 「快速编辑」；
+
+4、复制下边代码填入项目内，`cf_worker_host`修改为你的服务地址 → 「保存并部署」；
+
+
 ```js
 addEventListener("fetch", event => {
     event.respondWith(handleRequest(event.request))
 })
 
+// 如果有其他 RSSHub 地址也可以补充在这里
 const proxyList = [
     "https://rss.shab.fun/",
     "https://rsshub.rssforever.com/",
