@@ -1,7 +1,9 @@
 ---
 title: 【GM_脚本】Resilio Sync 密钥/任务导出备份
 tags:
-- JavaScript,浏览器,GM_脚本
+- JavaScript
+- 浏览器
+- GM_脚本
 categories:
 - 电脑网络
 id: 2884

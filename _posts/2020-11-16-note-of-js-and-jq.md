@@ -1,7 +1,9 @@
 ---
 title: 【备忘】JavaScript 及 jQuery 常用代码
 tags:
-- JavaScript,JQuery,备忘
+- JavaScript
+- JQuery
+- 备忘
 categories:
 - 电脑网络
 id: 3107
