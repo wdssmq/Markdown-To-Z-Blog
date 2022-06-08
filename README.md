@@ -6,7 +6,15 @@
 
 ---start---
 
-## 目录( 2022 年 06 月 04 日更新)
+## 目录( 2022 年 06 月 08 日更新)
+
+[【真·碎碎念】2022/04/11 ~ 2022/05/22](https://www.wdssmq.com/post/20220526309.html "【真·碎碎念】2022/04/11 ~ 2022/05/22")
+
+[【真·碎碎念】特别版「2021-11」](https://www.wdssmq.com/post/20220608324.html "【真·碎碎念】特别版「2021-11」")
+
+[【备忘】BAT 命令相关](https://www.wdssmq.com/post/20140315222.html "【备忘】BAT 命令相关")
+
+[IObit 软件推荐](https://www.wdssmq.com/post/20100213420.html "IObit 软件推荐")
 
 [「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
 
@@ -40,8 +48,6 @@
 
 [【Ubuntu 笔记】常见错误提示整理](https://www.wdssmq.com/post/20131101035.html "【Ubuntu 笔记】常见错误提示整理")
 
-[【真·碎碎念】2022/04/11 ~ 2022/05/22](https://www.wdssmq.com/post/20220526309.html "【真·碎碎念】2022/04/11 ~ 2022/05/22")
-
 [「折腾」Composer In Ubuntu / WSL2](https://www.wdssmq.com/post/20120830162.html "「折腾」Composer In Ubuntu / WSL2")
 
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
@@ -52,11 +58,17 @@
 
 [2010年11月9日冷笑话合集 - 最大的赌注](https://www.wdssmq.com/post/2010Nian11Yue9RiLengXiaoHuaHeJi-ZuiDaDeDuZhu.html "2010年11月9日冷笑话合集 - 最大的赌注")
 
+[2012年8月26日冷笑话合集 - 七夕的真相](https://www.wdssmq.com/post/20120826740.html "2012年8月26日冷笑话合集 - 七夕的真相")
+
 [私房钱【幽默故事】](https://www.wdssmq.com/post/20131210301.html "私房钱【幽默故事】")
+
+[2011年5月23日冷笑话合集 - 程序员征婚](https://www.wdssmq.com/post/2011Nian5Yue23RiLengXiaoHuaHeJi-ChengXuYuanZhengHun.html "2011年5月23日冷笑话合集 - 程序员征婚")
 
 [老酷的搞笑语录](https://www.wdssmq.com/post/20100203797.html "老酷的搞笑语录")
 
 [2009 年电影给我们的 27 条忠告](https://www.wdssmq.com/post/20100303539.html "2009 年电影给我们的 27 条忠告")
+
+[十年生死两茫茫，恒源祥，羊羊羊](https://www.wdssmq.com/post/ShiNianShengSiLiangMangMang-HengYuanXiang-YangYangYang.html "十年生死两茫茫，恒源祥，羊羊羊")
 
 [「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」](https://www.wdssmq.com/post/20210724854.html "「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」")
 
@@ -69,18 +81,6 @@
 [「GM_脚本」qBittorrent 批量修改种子 tracker](https://www.wdssmq.com/post/20191117777.html "「GM_脚本」qBittorrent 批量修改种子 tracker")
 
 [「备忘」Nginx 重定向（301）相关](https://www.wdssmq.com/post/20140819797.html "「备忘」Nginx 重定向（301）相关")
-
-[【PHP 笔记】Call to undefined function curl_init()](https://www.wdssmq.com/post/20201231275.html "【PHP 笔记】Call to undefined function curl_init()")
-
-[「水坑」Z-Blog 简易二级导航菜单 CSS](https://www.wdssmq.com/post/20200413146.html "「水坑」Z-Blog 简易二级导航菜单 CSS")
-
-[【真·碎碎念】2021/06/07 ~ 2021/06/13](https://www.wdssmq.com/post/20210820119.html "【真·碎碎念】2021/06/07 ~ 2021/06/13")
-
-[不能邮箱登录的网站都是耍流氓【无力吐槽】](https://www.wdssmq.com/post/20140507140.html "不能邮箱登录的网站都是耍流氓【无力吐槽】")
-
-[【真·碎碎念】2021-07-28「特别篇」](https://www.wdssmq.com/post/20120641176.html "【真·碎碎念】2021-07-28「特别篇」")
-
-[「折腾」重装了 VPS 却没有 tar 命令这种事](https://www.wdssmq.com/post/20211120519.html "「折腾」重装了 VPS 却没有 tar 命令这种事")
 
 ---end---
 
