@@ -6,6 +6,8 @@ tags:
 - 纠结
 categories:
 - 杂七杂八
+id: 51
+alias: 20220526309
 ---
 ### 2022-04-15 16:42
 VSCode HTML 格式化配置项：`{"html.format.wrapAttributes": "preserve-aligned"}`
