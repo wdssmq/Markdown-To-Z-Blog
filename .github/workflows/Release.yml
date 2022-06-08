@@ -7,7 +7,7 @@ on:
 jobs:
   build:
     name: Create Release
-    if: startsWith(github.ref, 'refs/tags/v-')
+    if: startsWith(github.ref, 'refs/tags/v')
     runs-on: ubuntu-latest
     env:
       ZIP_NAME: md2zbp
@@ -22,7 +22,7 @@ jobs:
         env:
           REF: ${{ github.ref }}
         run: |
-          TAG=${REF/refs\/tags\/v-}
+          TAG=${REF/refs\/tags\/v}
           echo "::set-output name=tag::${TAG}"
       - name: Pack as zip
         run: |
