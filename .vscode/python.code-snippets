@@ -1,0 +1,10 @@
+{
+  "fnBug": {
+    "scope": "py,python",
+    "prefix": ["fnBug","logBug"],
+    "body": [
+      "fnBug($1, sys._getframe().f_lineno)",
+    ],
+    "description": ""
+  }
+}
