@@ -323,7 +323,7 @@ def check_logs(key, mtime):
         log_mtime = _posts_logs_data[key]["mtime"]
         debugInfo = {"mtime": mtime, "log_mtime": log_mtime}
         if any(_cache_logs_data):
-            debugInfo["type"] = "git"
+            debugInfo["type"] = "git-change"
             if ("git_update" in _posts_logs_data[key].keys()):
                 msg = "update"
             else:
