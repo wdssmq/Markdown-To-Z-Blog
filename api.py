@@ -321,26 +321,28 @@ def check_logs(key, mtime):
     if (key in _posts_logs_data.keys()):
         id = _posts_logs_data[key]["id"]
         log_mtime = _posts_logs_data[key]["mtime"]
+        debugInfo = {"mtime": mtime, "log_mtime": log_mtime}
         if any(_cache_logs_data):
+            debugInfo["type"] = "git"
             if ("git_update" in _posts_logs_data[key].keys()):
                 msg = "update"
             else:
                 msg = "skip"
         else:
+            debugInfo["type"] = "file-mtime"
             if (mtime > log_mtime):
                 msg = "update"
             else:
                 msg = "skip"
-        # fnBug("md_name：%s, md_time: %s, log_time: %s, msg：%s" %
-        #       (key, mtime, log_mtime, msg), sys._getframe().f_lineno)
-
+        debugInfo["msg"] = msg
+        fnBug(debugInfo, sys._getframe().f_lineno)
     return (msg, id)
 # 日志查询
 
 
 def main():
     global _LOGS
-    # Actions中只针对提交的文件
+    # Actions 中只针对提交的文件
     fnLog("## update_git_diff")
     update_git_diff()
     fnLog()
@@ -367,14 +369,14 @@ def main():
             print("---")
             continue
         elif "update" == msg:
-            fnLog("md更新")
+            fnLog("md 更新")
 
         # 读取md文件信息
         (md_content, metadata) = read_md(md)
 
         # 判断内容格式
         if not any(metadata):
-            fnErr(["md数据错误", md], sys._getframe().f_lineno)
+            fnErr(["md 数据错误", md], sys._getframe().f_lineno)
             fnLog()
             print("---")
             continue
