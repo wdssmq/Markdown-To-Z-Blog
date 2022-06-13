@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 06 月 12 日更新)
+## 目录( 2022 年 06 月 13 日更新)
+
+[知识普及：什么是“OpenID”？](https://www.wdssmq.com/post/20100519288.html "知识普及：什么是“OpenID”？")
 
 [09：36「无力吐槽」](https://www.wdssmq.com/post/20100314286.html "09：36「无力吐槽」")
 
@@ -23,6 +25,8 @@
 [【备忘】BAT 命令相关](https://www.wdssmq.com/post/20140315222.html "【备忘】BAT 命令相关")
 
 [IObit 软件推荐](https://www.wdssmq.com/post/20100213420.html "IObit 软件推荐")
+
+[无味笑话](https://www.wdssmq.com/post/20100227822.html "无味笑话")
 
 [「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
 
@@ -66,6 +70,8 @@
 
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
 
+[曾经为女友做过的傻事](https://www.wdssmq.com/post/20100317221.html "曾经为女友做过的傻事")
+
 [男人这他妈一辈子](https://www.wdssmq.com/post/20100411894.html "男人这他妈一辈子")
 
 [「折腾」Docker + Nginx 内映射子目录站点及自定义规则](https://www.wdssmq.com/post/20181028361.html "「折腾」Docker + Nginx 内映射子目录站点及自定义规则")
@@ -75,12 +81,6 @@
 [2012年8月26日冷笑话合集 - 七夕的真相](https://www.wdssmq.com/post/20120826740.html "2012年8月26日冷笑话合集 - 七夕的真相")
 
 [私房钱【幽默故事】](https://www.wdssmq.com/post/20131210301.html "私房钱【幽默故事】")
-
-[2011年5月23日冷笑话合集 - 程序员征婚](https://www.wdssmq.com/post/2011Nian5Yue23RiLengXiaoHuaHeJi-ChengXuYuanZhengHun.html "2011年5月23日冷笑话合集 - 程序员征婚")
-
-[老酷的搞笑语录](https://www.wdssmq.com/post/20100203797.html "老酷的搞笑语录")
-
-[2009 年电影给我们的 27 条忠告](https://www.wdssmq.com/post/20100303539.html "2009 年电影给我们的 27 条忠告")
 
 ---end---
 
