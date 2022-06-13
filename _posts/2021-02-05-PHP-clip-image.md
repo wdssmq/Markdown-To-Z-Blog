@@ -10,6 +10,7 @@ categories:
 - 电脑网络
 id: 1103
 alias: 20210224481
+csdn: https://blog.csdn.net/qq_15022221/article/details/125266053
 ---
 
 Z-BlogPHP 1.7 将会提供一个`Thumb`基础类，本身只实现从「原图」到「缩略图」的转换和保存，简单说就是自动帮你变小。
