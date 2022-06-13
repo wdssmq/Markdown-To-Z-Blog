@@ -8,6 +8,8 @@
 
 ## 目录( 2022 年 06 月 13 日更新)
 
+[「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录](https://www.wdssmq.com/post/20210224481.html "「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录")
+
 [知识普及：什么是“OpenID”？](https://www.wdssmq.com/post/20100519288.html "知识普及：什么是“OpenID”？")
 
 [09：36「无力吐槽」](https://www.wdssmq.com/post/20100314286.html "09：36「无力吐槽」")
@@ -79,8 +81,6 @@
 [2010年11月9日冷笑话合集 - 最大的赌注](https://www.wdssmq.com/post/2010Nian11Yue9RiLengXiaoHuaHeJi-ZuiDaDeDuZhu.html "2010年11月9日冷笑话合集 - 最大的赌注")
 
 [2012年8月26日冷笑话合集 - 七夕的真相](https://www.wdssmq.com/post/20120826740.html "2012年8月26日冷笑话合集 - 七夕的真相")
-
-[私房钱【幽默故事】](https://www.wdssmq.com/post/20131210301.html "私房钱【幽默故事】")
 
 ---end---
 
