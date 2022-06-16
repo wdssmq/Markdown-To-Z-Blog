@@ -17,7 +17,7 @@ alias: 20220319691
 
 然后分了 C 盘把旧硬盘里的 Windows 系统复制进来，一通操作后深度系统的引导没了，一直想着怎么恢复回来；
 
-以及，「ESP」和「EFI」这两个各自是啥含义呢？
+以及，「ESP」和「EFI」这两个词各自是啥含义呢？
 
 <!--more-->
 
@@ -37,7 +37,7 @@ The rEFInd Boot Manager: Getting rEFInd：
 
 ↑ 在上边页面中「`A binary zip file`」指向链接下载到编译后的文件，解压后备用；
 
-## Windows 下挂载 esp 分区并设置访问权限
+## Windows 下挂载 ESP 分区并设置访问权限
 
 管理员权限打开 cmd 或 PowerShell 执行，`select disk 0`及`select par 3`为我当前的硬盘或分区序号；
 
@@ -75,16 +75,15 @@ set id=EBD0A0A2-B9E5-4433-87C0-68B6B72699C7
 set id=C12A7328-F81F-11D2-BA4B-00A0C93EC93B
 ```
 
-## 放置 rEFInd 文件到 efi 分区
+## 放置 rEFInd 文件到 EFI 分区
 
-复制下载文件中的「`refind`」文件夹到 efi 分区内，`E`是前边`ass`命令分配到的盘符：
+复制下载文件中的「`refind`」文件夹到 EFI 分区内，`E`是前边`ass`命令分配到的盘符：
 
 > `refind-bin-0.13.3.1\refind` → `E:\EFI\refind`；
 
 复制或改名：
 
 > `refind\refind.conf-sample` → `refind\refind.conf`；
-
 
 
 ## 添加至 UEFI 启动项
