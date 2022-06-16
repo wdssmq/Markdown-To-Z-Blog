@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 06 月 13 日更新)
+## 目录( 2022 年 06 月 16 日更新)
+
+[「折腾」使用 rEFInd 进行多系统引导](https://www.wdssmq.com/post/20220319691.html "「折腾」使用 rEFInd 进行多系统引导")
 
 [「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录](https://www.wdssmq.com/post/20210224481.html "「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录")
 
@@ -72,15 +74,13 @@
 
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
 
+[流沙有时比岩石更坚固！【人生哲理】](https://www.wdssmq.com/post/LiuShaYouShiBiYanShiGengJianGu.html "流沙有时比岩石更坚固！【人生哲理】")
+
 [曾经为女友做过的傻事](https://www.wdssmq.com/post/20100317221.html "曾经为女友做过的傻事")
 
 [男人这他妈一辈子](https://www.wdssmq.com/post/20100411894.html "男人这他妈一辈子")
 
 [「折腾」Docker + Nginx 内映射子目录站点及自定义规则](https://www.wdssmq.com/post/20181028361.html "「折腾」Docker + Nginx 内映射子目录站点及自定义规则")
-
-[2010年11月9日冷笑话合集 - 最大的赌注](https://www.wdssmq.com/post/2010Nian11Yue9RiLengXiaoHuaHeJi-ZuiDaDeDuZhu.html "2010年11月9日冷笑话合集 - 最大的赌注")
-
-[2012年8月26日冷笑话合集 - 七夕的真相](https://www.wdssmq.com/post/20120826740.html "2012年8月26日冷笑话合集 - 七夕的真相")
 
 ---end---
 
