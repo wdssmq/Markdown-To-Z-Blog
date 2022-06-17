@@ -45,22 +45,34 @@ addEventListener("fetch", event => {
 })
 
 async function handleRequest(request) {
+
   // Cloudflare Workers 分配的域名
-  cf_worker_host = "img.wdssmq.workers.dev";
+  // const cf_worker_host = "img.wdssmq.workers.dev";
+
+  // 同时绑定自己的域名
+  const cf_worker_host = new RegExp("img.wdssmq.workers.dev|img.wdssmq.com","g");
+
   // GitHub 仓库文件地址
-  github_host = "raw.githubusercontent.com/wdssmq/Markdown-To-Z-Blog/main";
+  const github_host = "raw.githubusercontent.com/wdssmq/Markdown-To-Z-Blog/main";
+
   // 替换
-  url = request.url.replace(cf_worker_host, github_host);
+  const url = request.url.replace(cf_worker_host, github_host);
   return fetch(url);
 }
 ```
 
-本地编辑时用如下形式的相对链接，发布时替换，不过自动化仍然是问题，，先这样吧：
+2022-06-17：
 
-```md
-<!-- 本地相对链接 -->
-![info-000.png](../2021-12-07-Genshin-Impact/info-000.png)
+然后也终于实现了在 md 中直接写相对地址，然后发布时自动替换；
 
-<!-- CDN 链接 -->
-![info-000.png](https://img.wdssmq.workers.dev/_posts/2021-12-07-Genshin-Impact/info-000.png)
-```
+-----
+
+wdssmq/Markdown-To-Z-Blog: 使用 GitHub Actions + Markdown 更新 Z-Blog 博客。#md2zb：
+
+[https://github.com/wdssmq/Markdown-To-Z-Blog#图床](https://github.com/wdssmq/Markdown-To-Z-Blog#%E5%9B%BE%E5%BA%8A "wdssmq/Markdown-To-Z-Blog: 使用 GitHub Actions + Markdown 更新 Z-Blog 博客。#md2zb")
+
+-----
+
+使用 GitHub Actions + Markdown 更新 Z-Blog 博客\_电脑网络\_沉冰浮水：
+
+[https://www.wdssmq.com/post/20210224498.html](https://www.wdssmq.com/post/20210224498.html "使用 GitHub Actions + Markdown 更新 Z-Blog 博客\_电脑网络\_沉冰浮水")
