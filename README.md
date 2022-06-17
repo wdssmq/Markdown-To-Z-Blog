@@ -188,18 +188,19 @@ categories:
 ```conf
 IMG_HOST=https://img.wdssmq.workers.dev/
 ; 应以 / 结尾
+; 实际也可绑定自己的域名如 https://img.wdssmq.com/
 ```
 
 图片放置：
 
 ```md
- _posts
+_posts
  ├─ 1970-01-01-empty.md
  └─ 2022-04-23-One-Post
      ├─ 001.png
      ├─ 002.png
      ├─ 003.png
-     └─ doc.png
+     └─ doc.md
 ```
 
 文章内使用相对地址引用：
