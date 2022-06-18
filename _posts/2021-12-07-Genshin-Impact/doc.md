@@ -60,36 +60,36 @@ alias: 20130808670
 
 008 至 010 中则包含了几个可以采集「矿物」的地点，主要是「铁矿」或「白铁矿」；
 
-![map-001.png](https://img.wdssmq.workers.dev/_posts/2021-12-07-Genshin-Impact/map-001.png)
+![map-001.png](map-001.png)
 
 ↑ map-001
 
-![map-002.png](https://img.wdssmq.workers.dev/_posts/2021-12-07-Genshin-Impact/map-002.png)
+![map-002.png](map-002.png)
 
 ↑ map-002
 
-![map-003.png](https://img.wdssmq.workers.dev/_posts/2021-12-07-Genshin-Impact/map-003.png)
+![map-003.png](map-003.png)
 
 ↑ map-003
 
-![map-004.png](https://img.wdssmq.workers.dev/_posts/2021-12-07-Genshin-Impact/map-004.png)
+![map-004.png](map-004.png)
 
 ↑ map-004 —— 孤云阁这边要同时打 4 个机器人，只是刷素材并不建议
 
-![map-008.png](https://img.wdssmq.workers.dev/_posts/2021-12-07-Genshin-Impact/map-008.png)
+![map-008.png](map-008.png)
 
 ↑ map-008
 
-![map-009.png](https://img.wdssmq.workers.dev/_posts/2021-12-07-Genshin-Impact/map-009.png)
+![map-009.png](map-009.png)
 
 ↑ map-009
 
-![map-010.png](https://img.wdssmq.workers.dev/_posts/2021-12-07-Genshin-Impact/map-010.png)
+![map-010.png](map-010.png)
 
 ↑ map-010
 
 ---------------
 
-![task-000.png](https://img.wdssmq.workers.dev/_posts/2021-12-07-Genshin-Impact/task-000.png)
+![task-000.png](task-000.png)
 
 --------
