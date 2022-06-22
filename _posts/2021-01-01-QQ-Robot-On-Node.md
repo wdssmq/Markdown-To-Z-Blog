@@ -24,6 +24,8 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/114174661
 
 ### 安装配置 ondebot
 
+另外一种安装方法：[https://github.com/takayama-lily/oicq/tree/master/http-api](https://github.com/takayama-lily/oicq/tree/master/http-api "oicq/http-api at master · takayama-lily/oicq")
+
 ```bash
 cd ~
 if [ ! -d node ]; then
