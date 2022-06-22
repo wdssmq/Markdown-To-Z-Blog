@@ -396,6 +396,13 @@ def main():
             print("---")
             continue
 
+        # DEBUG 开启时忽略 cover_id
+        if isinstance(cover_id, int) and _debug:
+            fnLog()
+            fnBug(cover_id, sys._getframe().f_lineno)
+            fnLog()
+            cover_id = ""
+
         if isinstance(cover_id, int) and id == 0:
             (cover_code, cover_title) = get_post_code(cover_id)
             if cover_code == 200:
