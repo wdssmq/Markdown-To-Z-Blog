@@ -403,6 +403,7 @@ def main():
             fnLog()
             cover_id = ""
 
+        # cover_id 不为空，且 _posts_logs_data 中不存在时远程拉取文章信息
         if isinstance(cover_id, int) and id == 0:
             (cover_code, cover_title) = get_post_code(cover_id)
             if cover_code == 200:
@@ -410,6 +411,7 @@ def main():
                 fnLog("文章将被覆盖", ("《%s》" % cover_title))
                 id = cover_id
 
+        # cover_id 不为空，但是与 _posts_logs_data 记录不一致时
         if isinstance(cover_id, int) and cover_id != id:
             _LOGS += "ID 不匹配：%s - %s - %s" % (md_name, cover_id, id) + "\n"
             fnErr(["ID 不匹配", md_name, cover_id, id])
