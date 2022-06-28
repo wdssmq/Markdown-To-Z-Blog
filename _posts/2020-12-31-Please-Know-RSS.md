@@ -45,3 +45,7 @@ Feed 输出扩展【PHP】 - Z-Blog 应用中心：[https://app.zblogcn.com/?id=
 知道 RSS 的人越少，我就越希望它能被人知道！ - 知乎
 
 [https://zhuanlan.zhihu.com/p/349349861](https://zhuanlan.zhihu.com/p/349349861 "知道RSS的人越少，我就越希望它能被人知道！ - 知乎")
+
+Qi Reader - Modern RSS Reader：
+
+[https://www.qireader.com.cn/](https://www.qireader.com.cn/ "Qi Reader - Modern RSS Reader")
