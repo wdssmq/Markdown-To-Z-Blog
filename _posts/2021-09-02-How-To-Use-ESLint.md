@@ -33,7 +33,7 @@ ESLint - Pluggable JavaScript linter - ESLint 中文：
 ### 安装 ESLint
 
 ```bash
-# 安装 cnpm 
+# 安装 cnpm
 npm install -g cnpm --registry=https://registry.npmmirror.com
 ```
 
@@ -66,44 +66,47 @@ cnpm ls eslint
 
 ```bash
 eslint --init
+# 所在目录如果没有 package.json 可能会报错，`npm init` 创建；
 
 # 选项一
-# ? How would you like to use ESLint? ...
-#   To check syntax only
-# > To check syntax and find problems
-#   To check syntax, find problems, and enforce code style
+? How would you like to use ESLint? ...
+  To check syntax only
+> To check syntax and find problems
+  To check syntax, find problems, and enforce code style
 
 # 选项二
-# ? What type of modules does your project use? ...
-# > JavaScript modules (import/export)
-#   CommonJS (require/exports)
-#   None of these
+? What type of modules does your project use? ...
+> JavaScript modules (import/export)
+  CommonJS (require/exports)
+  None of these
 
 # 选项三
-# ? Which framework does your project use? ...
-# > React
-#   Vue.js
-#   None of these
+? Which framework does your project use? ...
+> React
+  Vue.js
+  None of these
 
 # 选项四
-# ? Does your project use TypeScript? » No / Yes
+? Does your project use TypeScript? » No / Yes
 
 # 选项五
-# ? Where does your code run? ...  (Press <space> to select, <a> to toggle all, <i> to invert selection)
-# √ Browser
-# √ Node
+? Where does your code run? ...  (Press <space> to select, <a> to toggle all, <i> to invert selection)
+√ Browser
+√ Node
 
 # 选项六
-# ? What format do you want your config file to be in? ...
-#   JavaScript
-#   YAML
-# > JSON
+? What format do you want your config file to be in? ...
+√ JavaScript
+  YAML
+  JSON
 
-# 选项七 因为选择了 vue
-# The config that you've selected requires the following dependencies:
+# 选项七 根据选择可能需要安装额外的项目，比如 vue
+The config that you ve selected requires the following dependencies:
 
-# eslint-plugin-vue@latest
-# ? Would you like to install them now with npm? » No / Yes
+eslint-plugin-vue@latest
+
+# 选项七确认 - 是否直接安装上边列出的项目
+? Would you like to install them now with npm? » No / Yes
 ```
 
 选项一：
@@ -115,7 +118,7 @@ eslint --init
 
 选项二至选项六请按实际需要；
 
-选项七根据实际选择会不一样，另外默认的`npm instll XXX`可能会比较慢，可以选择 No 然后自己换用`cnpm`；
+选项七直接使用默认的`npm instll XXX`可能会比较慢，可以选择 No 然后自己换用`cnpm`手动安装依赖项目；
 
 ### 使用（CLI）
 
