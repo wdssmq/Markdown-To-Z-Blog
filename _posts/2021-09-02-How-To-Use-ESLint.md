@@ -33,8 +33,8 @@ ESLint - Pluggable JavaScript linter - ESLint 中文：
 ### 安装 ESLint
 
 ```bash
-# 淘宝镜像
-npm install -g cnpm --registry=https://registry.npm.taobao.org
+# 安装 cnpm 
+npm install -g cnpm --registry=https://registry.npmmirror.com
 ```
 
 使用 `cnpm 沉冰浮水` 仍然搜索不到匹配，/哭；
