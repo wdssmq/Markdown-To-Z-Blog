@@ -94,13 +94,13 @@ eslint --init
 √ Browser
 √ Node
 
-# 选项六
+# 选项六 - ESLint Config 文件保存为何种格式
 ? What format do you want your config file to be in? ...
 √ JavaScript
   YAML
   JSON
 
-# 选项七 根据选择可能需要安装额外的项目，比如 vue
+# 选项七 - 根据选择可能需要安装额外的项目，比如 vue
 The config that you ve selected requires the following dependencies:
 
 eslint-plugin-vue@latest
@@ -156,19 +156,38 @@ node_modules\.bin\eslint.cmd --init
 
 下边是目前决定使用的规则，以后会慢慢补充；
 
-```json
+```js
+/* global module:true */
+module.exports = {
+  "env": {
+    "browser": true,
+    "es2021": true,
+  },
+  "extends": "eslint:recommended",
+  "parserOptions": {
+    "ecmaVersion": "latest",
+  },
   "rules": {
-    "arrow-parens": 0,
-    "generator-star-spacing": 0,
-    "space-before-function-paren": 0,
-    "comma-dangle": [1, "always-multiline"],
-    "no-unused-vars": [1, { "args": "none" }],
-    "spaced-comment": [2, "always"],
-    "semi": [2, "always", { "omitLastInOneLineBlock": true }],
-    "quotes": [2, "double"],
+    "generator-star-spacing": 0, // generator 函数中 * 号前后的空格
+    // ------------------------------
+    "comma-dangle": [1, "always-multiline"], // 对象或数组的拖尾逗号
+    "arrow-parens":  [1, "as-needed", { "requireForBlockBody": true }], // 箭头函数参数括号
+    "no-unused-vars": [1, { "args": "none" }], // 变量声明后未使用
+    "space-before-function-paren": [1, { "anonymous": "never", "named": "never" }], // 函数圆括号之前的空格
+    // ------------------------------
+    "semi": [2, "always", { "omitLastInOneLineBlock": true }], // 语句强制分号结尾
+    "quotes": [2, "double"], // 引号类型
+    "spaced-comment": [2, "always"], // 注释前后的空格
+    "no-irregular-whitespace": [2, { "skipStrings": true, "skipRegExps": true }], // 禁止不规则的空白
     // "no-debugger": process.env.NODE_ENV === "production" ? 2 : 0,
-  }
+  },
+};
+
 ```
+
+List of available rules - ESLint 中文：
+
+[http://eslint.cn/docs/rules/](http://eslint.cn/docs/rules/ "List of available rules - ESLint 中文")
 
 ### 错误排查
 
