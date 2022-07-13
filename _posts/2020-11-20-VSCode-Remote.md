@@ -1,7 +1,11 @@
 ---
 title: 【折腾】VSCode 远程开发配置（Remote Development）
+date: 2020-11-20 11:21:59
 tags:
-- VSCode,Linux,VPS,折腾
+- VSCode
+- Linux
+- VPS
+- 折腾
 categories:
 - 电脑网络
 id: 3110

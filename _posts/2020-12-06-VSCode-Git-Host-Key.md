@@ -1,7 +1,10 @@
 ---
-title: 「VSCode 笔记」Git： Host key verification failed
+title: "「VSCode 笔记」Git: Host key verification failed"
+date: 2020-12-06 11:20:52
 tags:
-- VSCode,Git,笔记
+- VSCode
+- Git
+- 笔记
 categories:
 - 电脑网络
 id: 3115
