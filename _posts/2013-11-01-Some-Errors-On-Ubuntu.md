@@ -1,7 +1,10 @@
 ---
 title: 【Ubuntu 笔记】常见错误提示整理
+date: 2013-11-01 11:03:40
 tags:
-- Linux,Ubuntu,备忘
+- Linux
+- Ubuntu
+- 备忘
 categories:
 - 电脑网络
 id: 1877

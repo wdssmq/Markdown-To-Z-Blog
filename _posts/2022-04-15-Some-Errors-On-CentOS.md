@@ -1,7 +1,10 @@
 ---
 title: 「CentOS 笔记」常见错误提示整理「2022-04-15」
+date: 2022-04-15 11:04:27
 tags:
-- Linux,备忘,折腾
+- Linux
+- 备忘
+- 折腾
 categories:
 - 电脑网络
 id: 2756

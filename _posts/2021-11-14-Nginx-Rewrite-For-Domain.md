@@ -1,7 +1,11 @@
 ---
 title: 「备忘」Nginx 重定向（301）相关
+date: 2021-11-14 11:02:08
 tags:
-- LNMP,Linux,301,Nginx
+- LNMP
+- Linux
+- 301
+- Nginx
 categories:
 - 电脑网络
 id: 2346
