@@ -1,7 +1,10 @@
 ---
 title: 【笔记】LNMP 部署/续期 SSL 证书
 tags:
-- SSL,笔记,LNMP,Linux
+- SSL
+- 笔记
+- LNMP
+- Linux
 categories:
 - 电脑网络
 id: 2935
@@ -19,18 +22,21 @@ cnblogs: https://www.cnblogs.com/wdssmq/p/15193333.html
 ### 首次部署的简要教程，具体见[^参考链接 1]
 
 ```bash
-# 以dnspod和namesilo为例，实际应用的鉴权参数需要自行获取并替换
+# 以 dnspod 和 namesilo 为例，实际应用的鉴权参数需要自行获取并替换
 
 export DP_Id="12345"
 export DP_Key="abcdefg"
 lnmp dnsssl dp
 # 或者
 export Namesilo_Key="qwert"
+
 lnmp dnsssl namesilo
+# 或者
+lnmp onlyssl namesilo
 
 # 之后需要输入域名，站点完整目录等信息
-# 没有特别需要主域名直接使用根域名wdssmq.com，更多域名里用*.wdssmq.com
-# 不要同时出现*.wdssmq.com和www.wdssmq.com之类的
+# 没有特别需要主域名直接使用根域名 wdssmq.com，更多域名里用 *.wdssmq.com
+# 不要同时出现 *.wdssmq.com 和 www.wdssmq.com 之类的
 
 # /home/wwwroot/www.wdssmq.com ← 站点路径建议在方便复制的地方备一份，因为失败或出错的概率还是很大的 /doge
 
@@ -51,6 +57,8 @@ acme.sh --renew -d wdssmq.com
 # 多个站点的话可一次性检查
 acme.sh --cron
 
+# 如果提示 acme.sh 命令不存在则需要关掉命令行重新打开；
+
 # 设置定时任务
 crontab -e
 
@@ -60,5 +68,7 @@ crontab -e
 End
 
 [^参考链接 1](https://lnmp.org/faq/letsencrypt-wildcard-ssl.html "Let'sEncrypt 免费通配符/泛域名SSL证书添加使用教程 - LNMP一键安装包")
+
+[「折腾」Linux 定时备份教程\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20140816860.html "「折腾」Linux 定时备份教程\_电脑网络\_沉冰浮水")
 
 <!-- 2020-01-29-install-SSL-on-LNMP -->
