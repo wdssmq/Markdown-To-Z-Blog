@@ -27,11 +27,14 @@ cnblogs: https://www.cnblogs.com/wdssmq/p/15193333.html
 export DP_Id="12345"
 export DP_Key="abcdefg"
 lnmp dnsssl dp
-# 或者
-export Namesilo_Key="qwert"
 
-lnmp dnsssl namesilo
 # 或者
+
+export Namesilo_Key="qwert"
+lnmp dnsssl namesilo
+
+# 只申请证书
+lnmp onlyssl dp
 lnmp onlyssl namesilo
 
 # 之后需要输入域名，站点完整目录等信息
