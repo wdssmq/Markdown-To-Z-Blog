@@ -1,6 +1,6 @@
 ---
 title: 「折腾」Git Submodule 探究
-date: 2022-05-31 12:05:58
+date: 2022-05-30 12:05:58
 tags:
 - 折腾
 - Git
@@ -27,7 +27,7 @@ Hugo 号称自己很快，但是文档过于不完善，还是选择了 Hexo；
 
 ```yml
 tags:
-- tag1,tag2,tag3
+ - tag1,tag2,tag3
 ```
 
 比起修改一波就想着写个插件自动处理；

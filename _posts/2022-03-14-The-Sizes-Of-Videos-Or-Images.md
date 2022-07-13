@@ -1,7 +1,8 @@
 ---
 title: 「JavaScript」常用图片比例生成
+date: 2022-03-14 11:15:38
 tags:
-- JavaScript,
+- JavaScript
 - 折腾
 - 备忘
 categories:
