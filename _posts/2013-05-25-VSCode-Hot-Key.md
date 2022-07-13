@@ -1,7 +1,10 @@
 ---
 title: 「VSCode」快捷键备忘
+date: 2013-05-25 11:10:06
 tags:
-- 编辑器,VSCode,备忘
+- 编辑器
+- VSCode
+- 备忘
 categories:
 - 电脑网络
 id: 1642
