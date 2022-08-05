@@ -6,7 +6,15 @@
 
 ---start---
 
-## 目录( 2022 年 07 月 13 日更新)
+## 目录( 2022 年 08 月 06 日更新)
+
+[「折腾」使用 rEFInd 进行多系统引导](https://www.wdssmq.com/post/20220319691.html "「折腾」使用 rEFInd 进行多系统引导")
+
+[2014年1月19日冷笑话合集 - 逃过一劫](https://www.wdssmq.com/post/20140119211.html "2014年1月19日冷笑话合集 - 逃过一劫")
+
+[2010年8月12日冷笑话合集 - 误事的彩铃](https://www.wdssmq.com/post/2010Nian8Yue12RiXiaoHuaHeJi-WuShiDeCaiLing.html "2010年8月12日冷笑话合集 - 误事的彩铃")
+
+[拐杖【小小说】](https://www.wdssmq.com/post/20120714915.html "拐杖【小小说】")
 
 [【Ubuntu 笔记】常见错误提示整理](https://www.wdssmq.com/post/20131101035.html "【Ubuntu 笔记】常见错误提示整理")
 
@@ -73,14 +81,6 @@
 [「PHP」Cloudflare API 批量删除解析](https://www.wdssmq.com/post/20220321262.html "「PHP」Cloudflare API 批量删除解析")
 
 [友情链接](https://www.wdssmq.com/post/YouQingLianJie.html "友情链接")
-
-[「原神」关于原神你所不知道的 XXX](https://www.wdssmq.com/post/20190705013.html "「原神」关于原神你所不知道的 XXX")
-
-[「折腾」关于 2021 年末仍然没有完备的图床方案这件事](https://www.wdssmq.com/post/20211225085.html "「折腾」关于 2021 年末仍然没有完备的图床方案这件事")
-
-[「原神」关于满地图打素材却发现可以自动追踪这件事](https://www.wdssmq.com/post/20130808670.html "「原神」关于满地图打素材却发现可以自动追踪这件事")
-
-[工资祭文【无厘网文】](https://www.wdssmq.com/post/GongZiJiWen.html "工资祭文【无厘网文】")
 
 ---end---
 
