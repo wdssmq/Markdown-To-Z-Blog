@@ -8,6 +8,8 @@
 
 ## 目录( 2022 年 08 月 06 日更新)
 
+[【真·碎碎念】特别版「2022-08」](https://www.wdssmq.com/post/20220325815.html "【真·碎碎念】特别版「2022-08」")
+
 [【真·碎碎念】2021/06/21 ~ 2021/06/27](https://www.wdssmq.com/post/20100202604.html "【真·碎碎念】2021/06/21 ~ 2021/06/27")
 
 [说说 base64 编码](https://www.wdssmq.com/post/20191126724.html "说说 base64 编码")
@@ -79,8 +81,6 @@
 [【笔记】LNMP 部署/续期 SSL 证书](https://www.wdssmq.com/post/20200129996.html "【笔记】LNMP 部署/续期 SSL 证书")
 
 [「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
-
-[「年度套路」水水名下 Z-Blog 应用打包赠送](https://www.wdssmq.com/post/20120926864.html "「年度套路」水水名下 Z-Blog 应用打包赠送")
 
 ---end---
 
