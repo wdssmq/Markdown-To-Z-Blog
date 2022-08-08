@@ -1,5 +1,6 @@
 ---
 title: 【真·碎碎念】2022/04/11 ~ 2022/05/22
+date: 2022-05-26 20:58:45
 tags:
 - 碎雨集
 - 碎碎念
@@ -15,7 +16,11 @@ VSCode HTML 格式化配置项：`{"html.format.wrapAttributes": "preserve-align
 <!--more-->
 
 ### 2022-04-17 20:33
-Z-BlogPHP 后台 JavaScript 获取 csrfToken；`const csrfToken = $("meta[name='csrfToken']").attr("content");`
+Z-BlogPHP 后台 JavaScript 获取 csrfToken；
+
+`const csrfToken = $("meta[name='csrfToken']").attr("content");`
+
+\#大家来占关键词
 
 ### 2022-04-22 17:45
 Docusaurus - 静态文档构建 | Facebook 出品；

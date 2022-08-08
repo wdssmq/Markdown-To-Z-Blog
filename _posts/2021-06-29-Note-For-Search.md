@@ -49,3 +49,28 @@ Todo：研究下 zola 和 hugo；Gridea 一直不更新；
 ### 2021-06-29 15:49 总结
 
 最近几次都是周二发；
+
+-----------
+
+### 2022-08-08 20:40
+
+Z-BlogPHP 文章状态转文字：
+
+```php
+function mz_DemoPlugin_PostStatusConvert($arg)
+{
+  if (is_numeric($arg)) {
+    $status = intval($arg);
+  } else {
+    $status = $arg->Status;
+  }
+  $map = array(
+    0 => "公开",
+    1 => "草稿",
+    2 => "审核",
+  );
+  return $map[$status];
+}
+```
+
+\#大家来占关键词
