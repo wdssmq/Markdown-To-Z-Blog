@@ -6,9 +6,13 @@
 
 ---start---
 
-## 目录( 2022 年 08 月 11 日更新)
+## 目录( 2022 年 08 月 17 日更新)
 
 [「笔记」.htaccess 及 nginx.conf 可用变量一览](https://www.wdssmq.com/post/20220301043.html "「笔记」.htaccess 及 nginx.conf 可用变量一览")
+
+[「小代码」跨文件按行统计文本「Python」](https://www.wdssmq.com/post/20120901104.html "「小代码」跨文件按行统计文本「Python」")
+
+[【公告】关于字符串 0014cd6385f5 的说明](https://www.wdssmq.com/post/20171022294.html "【公告】关于字符串 0014cd6385f5 的说明")
 
 [【真·碎碎念】2021/06/21 ~ 2021/06/27](https://www.wdssmq.com/post/20100202604.html "【真·碎碎念】2021/06/21 ~ 2021/06/27")
 
@@ -16,11 +20,11 @@
 
 [各种懒得折腾](https://www.wdssmq.com/post/GeZhongLanDeSheTeng.html "各种懒得折腾")
 
-[【公告】关于字符串 0014cd6385f5 的说明](https://www.wdssmq.com/post/20171022294.html "【公告】关于字符串 0014cd6385f5 的说明")
-
 [2011年4月11日冷笑话合集 - 请假原因](https://www.wdssmq.com/post/20120721274.html "2011年4月11日冷笑话合集 - 请假原因")
 
 [2012年7月15日冷笑话合集 - 想做女人](https://www.wdssmq.com/post/20120715910.html "2012年7月15日冷笑话合集 - 想做女人")
+
+[2014年4月26日冷笑话合集 - 这招略狠](https://www.wdssmq.com/post/20140426340.html "2014年4月26日冷笑话合集 - 这招略狠")
 
 [【真·碎碎念】特别版「2022-08」](https://www.wdssmq.com/post/20220325815.html "【真·碎碎念】特别版「2022-08」")
 
@@ -77,10 +81,6 @@
 [口算题在线生成（可打印）](https://www.wdssmq.com/post/shuxue.html "口算题在线生成（可打印）")
 
 [「CentOS 笔记」常见错误提示整理「2022-04-15」](https://www.wdssmq.com/post/20170421527.html "「CentOS 笔记」常见错误提示整理「2022-04-15」")
-
-[「Z-Blog 玩家」计划](https://www.wdssmq.com/post/20210401133.html "「Z-Blog 玩家」计划")
-
-[【言说】不知道发没发的《黑豹》评论](https://www.wdssmq.com/post/20130403328.html "【言说】不知道发没发的《黑豹》评论")
 
 ---end---
 
