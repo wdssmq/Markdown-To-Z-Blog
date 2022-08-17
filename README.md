@@ -8,6 +8,8 @@
 
 ## 目录( 2022 年 08 月 17 日更新)
 
+[【真·碎碎念】2022/05/23 ~ 2022/06/19](https://www.wdssmq.com/post/20120687169.html "【真·碎碎念】2022/05/23 ~ 2022/06/19")
+
 [「笔记」.htaccess 及 nginx.conf 可用变量一览](https://www.wdssmq.com/post/20220301043.html "「笔记」.htaccess 及 nginx.conf 可用变量一览")
 
 [「小代码」跨文件按行统计文本「Python」](https://www.wdssmq.com/post/20120901104.html "「小代码」跨文件按行统计文本「Python」")
@@ -79,8 +81,6 @@
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
 
 [口算题在线生成（可打印）](https://www.wdssmq.com/post/shuxue.html "口算题在线生成（可打印）")
-
-[「CentOS 笔记」常见错误提示整理「2022-04-15」](https://www.wdssmq.com/post/20170421527.html "「CentOS 笔记」常见错误提示整理「2022-04-15」")
 
 ---end---
 
