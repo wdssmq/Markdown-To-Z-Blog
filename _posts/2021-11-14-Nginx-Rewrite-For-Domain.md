@@ -29,22 +29,27 @@ server {
     listen 443 ssl http2;
     server_name www.wdssmq.com feed.wdssmq.com wdssmq.com;
 
-    #……………………
+    # …………
 
     # 一般在 server_name 下边，自己找合适的位置
     if ($host = 'wdssmq.com' ) {
         rewrite ^/(.*)$ https://www.wdssmq.com/$1 permanent;
     }
+
     # 如有伪静态规则，则放在这里
-    if (-f $request_filename/index.html) {
-        rewrite (.*) $1/index.html break;
+    location / {
+      if (-f $request_filename/index.html) {
+          rewrite (.*) $1/index.html break;
+      }
+      if (-f $request_filename/index.php) {
+          rewrite (.*) $1/index.php;
+      }
+      if (!-f $request_filename) {
+          rewrite (.*) /index.php;
+      }
     }
-    if (-f $request_filename/index.php) {
-        rewrite (.*) $1/index.php;
-    }
-    if (!-f $request_filename) {
-        rewrite (.*) /index.php;
-    }
+
+    # …………
 }
 ```
 
@@ -55,14 +60,19 @@ server {
     listen 443 ssl http2;
     server_name demo.wdssmq.com zbp17.wdssmq.com;
 
-    #……………………
+    # …………
 
     # 一般在 server_name 下边，自己找合适的位置
     if ($host != 'demo.wdssmq.com' ) {
         rewrite ^/(.*)$ http://demo.wdssmq.com/$1 permanent;
     }
 
-    #……………………
+    # 如有伪静态规则，则放在这里
+    location / {
+      #  …………
+    }
+
+    # …………
 }
 ```
 
