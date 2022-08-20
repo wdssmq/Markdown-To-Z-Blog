@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 08 月 17 日更新)
+## 目录( 2022 年 08 月 20 日更新)
+
+[「备忘」Nginx 重定向（301）相关](https://www.wdssmq.com/post/20140819797.html "「备忘」Nginx 重定向（301）相关")
 
 [【真·碎碎念】2022/05/23 ~ 2022/06/19](https://www.wdssmq.com/post/20120687169.html "【真·碎碎念】2022/05/23 ~ 2022/06/19")
 
@@ -79,8 +81,6 @@
 [【言说】RSS 是一种态度！！](https://www.wdssmq.com/post/20201231613.html "【言说】RSS 是一种态度！！")
 
 [【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）")
-
-[口算题在线生成（可打印）](https://www.wdssmq.com/post/shuxue.html "口算题在线生成（可打印）")
 
 ---end---
 
