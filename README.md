@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 08 月 21 日更新)
+## 目录( 2022 年 08 月 23 日更新)
+
+[「言说」写了份有点「大」的代码](https://www.wdssmq.com/post/20190704011.html "「言说」写了份有点「大」的代码")
 
 [「大坑」关于 module 模式下如何正确引入 WebSocketServer](https://www.wdssmq.com/post/20220301064.html "「大坑」关于 module 模式下如何正确引入 WebSocketServer")
 
@@ -79,8 +81,6 @@
 [【备忘】AMD 显卡驱动问题一则及解决方案](https://www.wdssmq.com/post/20191126721.html "【备忘】AMD 显卡驱动问题一则及解决方案")
 
 [「JavaScript」常用图片比例生成](https://www.wdssmq.com/post/20201121554.html "「JavaScript」常用图片比例生成")
-
-[【言说】RSS 是一种态度！！](https://www.wdssmq.com/post/20201231613.html "【言说】RSS 是一种态度！！")
 
 ---end---
 
