@@ -56,6 +56,8 @@ export { gm_banner, gm_name };
 
 前者可以修改后允许跨域，后者则因为又依赖于上游包，就挺麻烦的；
 
+--------------
+
 总之各种纠结之后自己缝合了一个轮子出来 ——
 
 wdssmq/rollup-plugin-monkey: 使用 rollup 开发「GM\_脚本」：
@@ -65,6 +67,7 @@ wdssmq/rollup-plugin-monkey: 使用 rollup 开发「GM\_脚本」：
 - **目前代码在 v1 分支；**
 - README 好麻烦，pnpm 安装也有些问题要解决 Orz；
 - 要不要发布到 npm 啊，git 安装也不是不能用；
+- 所以我为了讲这一部分的内容水了一篇文章；
 
 --------------
 
