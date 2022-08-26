@@ -42,29 +42,49 @@ Git 命令，则可以设置在`~/.gitconfig`内：
 
 ```ini
 [core]
-	fileMode = false
+    fileMode = false
 [alias]
+    # status
     s   = status
     ss  = status --short --branch
+
+    # stash
+    sh  = stash
+    shp = stash pop
+    shl = stash list
+    shs = stash save
+    sha = stash apply
+    std = stash drop
+
+    # branch
     br  = branch
     bra = branch -a
+    brm = branch -m
     co  = checkout
-    # cob = checkout -b
+    cob = checkout -b
     sw  = switch
     swc = switch -c
+
+    # remote
     ra  = remote add
     rao = remote add origin
     ru  = remote set-url
     ruo = remote set-url origin
     # re  = remote
     rev = remote -v
+
+    # fetch
     fe  = fetch
     fep = fetch -p
     fo  = fetch origin
     fop = fetch origin -p
+
+    # merge
     mr  = merge
     mnc = merge --no-commit
     # msq = merge --squash
+
+    # commit
     ci  = commit
     cim = commit -m
 ```
