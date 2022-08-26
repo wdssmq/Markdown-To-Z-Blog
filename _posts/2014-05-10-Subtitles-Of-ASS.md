@@ -13,17 +13,21 @@ alias: 20140510891
 
 常见的几种字幕：
 
-1、srt：全称 SubRip Text，一句时间代码+一句字幕，体积小，可以用记事本打开编辑。
+1、`srt`：全称 SubRip Text，一句时间代码+一句字幕，体积小，可以用记事本打开编辑。
 
 <!-- more -->
 
-2、sub+idx：图形字幕，每条字幕就是一张图片，idx 文件为时间索引，可以用附注的 OCR 工具转换为 srt 字幕。
+2、`sub+idx`：图形字幕，每条字幕就是一张图片，idx 文件为时间索引，可以用附注的 OCR 工具转换为 srt 字幕。
 
-3、SSA：SubStation Alpha，目前版本为 v4.00；
+3、`SSA`：SubStation Alpha，目前版本为 v4.00；
 
-4、ASS：Advanced SubStation Alpha，相当于 SSA v4.00+。
+4、`ASS`：Advanced SubStation Alpha，相当于 SSA v4.00+。
 
-SSA/ASS 脚本可以更方便的给字幕（尤其是双语字幕）设置文本特效。
+`SSA/ASS` 脚本可以更方便的给字幕（尤其是双语字幕）设置文本特效。
+
+------------------
+
+2022-08-26：字幕编辑现在推荐这个：[https://github.com/SubtitleEdit/subtitleedit/releases](https://github.com/SubtitleEdit/subtitleedit/releases "Releases · SubtitleEdit/subtitleedit")
 
 ------------------
 
@@ -164,7 +168,7 @@ Dialogue: 0,0:01:10.38,0:01:13.61,eng,,0000,0000,0000,,- To the big bells\nas lo
 
 附注：
 
-\--[IdxSubOcr](http://www.cnblogs.com/stronghorse/p/4913182.html "IdxSubOcr")--OCR 引擎为 Microsoft Office Document Imaging (MODI)，MODI 的安装请仔细阅读软件说明，支持英文、简体中文、繁体中文、日文。另对 OCR 出来的字幕进行校对也是很恐怖的，感谢所有制作出优秀字幕的童鞋。
+\--[IdxSubOcr](https://www.cnblogs.com/stronghorse/p/14594337.html "IdxSubOcr")--OCR 引擎为 Microsoft Office Document Imaging (MODI)，MODI 的安装请仔细阅读软件说明，支持英文、简体中文、繁体中文、日文。另对 OCR 出来的字幕进行校对也是很恐怖的，感谢所有制作出优秀字幕的童鞋。
 
 \--[MKV 内置字幕提取/字幕编辑工具推荐](https://www.wdssmq.com/post/20120727734.html "MKV 内置字幕提取/字幕编辑工具推荐")--
 
