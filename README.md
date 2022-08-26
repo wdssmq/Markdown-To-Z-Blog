@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 08 月 23 日更新)
+## 目录( 2022 年 08 月 26 日更新)
+
+[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
 
 [「言说」写了份有点「大」的代码](https://www.wdssmq.com/post/20190704011.html "「言说」写了份有点「大」的代码")
 
@@ -79,8 +81,6 @@
 [【坑货笔记】零宽空白 &amp;amp;#8203; 是什么鬼！](https://www.wdssmq.com/post/20190818266.html "【坑货笔记】零宽空白 &amp;amp;#8203; 是什么鬼！")
 
 [【备忘】AMD 显卡驱动问题一则及解决方案](https://www.wdssmq.com/post/20191126721.html "【备忘】AMD 显卡驱动问题一则及解决方案")
-
-[「JavaScript」常用图片比例生成](https://www.wdssmq.com/post/20201121554.html "「JavaScript」常用图片比例生成")
 
 ---end---
 
