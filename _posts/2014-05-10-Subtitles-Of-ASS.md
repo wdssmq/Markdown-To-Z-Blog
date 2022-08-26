@@ -15,6 +15,8 @@ alias: 20140510891
 
 1、srt：全称 SubRip Text，一句时间代码+一句字幕，体积小，可以用记事本打开编辑。
 
+<!-- more -->
+
 2、sub+idx：图形字幕，每条字幕就是一张图片，idx 文件为时间索引，可以用附注的 OCR 工具转换为 srt 字幕。
 
 3、SSA：SubStation Alpha，目前版本为 v4.00；
