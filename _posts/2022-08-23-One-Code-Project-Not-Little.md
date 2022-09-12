@@ -64,12 +64,16 @@ wdssmq/rollup-plugin-monkey: 使用 rollup 开发「GM\_脚本」：
 
 [https://github.com/wdssmq/rollup-plugin-monkey](https://github.com/wdssmq/rollup-plugin-monkey "wdssmq/rollup-plugin-monkey: 使用 rollup 开发「GM\_脚本」")
 
-- **目前代码在 v1 分支；**
-- README 好麻烦，pnpm 安装也有些问题要解决 Orz；
-- 要不要发布到 npm 啊，git 安装也不是不能用；
+- ~~**目前代码在 v1 分支；**~~
+- ~~README 好麻烦~~，pnpm 安装仍然有些问题要解决 Orz；
+- ~~要不要发布到 npm 啊，git 安装也不是不能用；~~
 - 所以我为了讲这一部分的内容水了一篇文章；
 
 --------------
+
+>「小代码」rollup.js 开发「GM\_脚本」演示\_哔哩哔哩\_bilibili：
+>
+> [https://www.bilibili.com/video/BV1qe4y1d7ZM](https://www.bilibili.com/video/BV1qe4y1d7ZM "「小代码」rollup.js 开发「GM\_脚本」演示\_哔哩哔哩\_bilibili")
 
 > Disable Content-Security-Policy：
 >

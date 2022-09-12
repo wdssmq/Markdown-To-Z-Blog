@@ -20,6 +20,24 @@ alias: 20120627834
 >
 > [「GM 脚本」大会员 B 币领取提醒\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20141219446.html "「GM 脚本」大会员 B 币领取提醒\_电脑网络\_沉冰浮水")
 
+-----------
+
+2022-09-12：
+
+> **弄了个 rollup 插件出来：**
+>
+> wdssmq/rollup-plugin-monkey: 使用 rollup 开发「GM\_脚本」：
+>
+> [https://github.com/wdssmq/rollup-plugin-monkey](https://github.com/wdssmq/rollup-plugin-monkey "wdssmq/rollup-plugin-monkey: 使用 rollup 开发「GM\_脚本」")
+>
+> **视频演示：**
+>
+>「小代码」rollup.js 开发「GM\_脚本」演示\_哔哩哔哩\_bilibili：
+>
+> [https://www.bilibili.com/video/BV1qe4y1d7ZM](https://www.bilibili.com/video/BV1qe4y1d7ZM "「小代码」rollup.js 开发「GM\_脚本」演示\_哔哩哔哩\_bilibili")
+
+-----------
+
 一直以来，针对同一个网站的功能脚本会塞进一个文件里，比如之前 B 站的脚本有 330 行，维护修改是真的痛苦；
 
 「果然还是拆成小文件然后自动拼接会比较方便吧！」 ← 虽然这么想，但是咸鱼星人什么的。。
