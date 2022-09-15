@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 09 月 12 日更新)
+## 目录( 2022 年 09 月 15 日更新)
+
+[不知所谓的碎碎念「无力吐槽」](https://www.wdssmq.com/post/20100529960.html "不知所谓的碎碎念「无力吐槽」")
 
 [「折腾」使用 rollup.js 模块化编写 GM 脚本](https://www.wdssmq.com/post/20120627834.html "「折腾」使用 rollup.js 模块化编写 GM 脚本")
 
@@ -79,8 +81,6 @@
 [【Ubuntu 笔记】常见错误提示整理](https://www.wdssmq.com/post/20131101035.html "【Ubuntu 笔记】常见错误提示整理")
 
 [【列表】需要时却可能找不到的网址](https://www.wdssmq.com/post/20191227185.html "【列表】需要时却可能找不到的网址")
-
-[【备忘】原生 JS 监听未来元素事件实例](https://www.wdssmq.com/post/20190316472.html "【备忘】原生 JS 监听未来元素事件实例")
 
 ---end---
 
