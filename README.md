@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 09 月 15 日更新)
+## 目录( 2022 年 09 月 22 日更新)
+
+[「水坑」Z-BlogPHP 接口本质之「PHP 可变函数」](https://www.wdssmq.com/post/20220409155.html "「水坑」Z-BlogPHP 接口本质之「PHP 可变函数」")
 
 [「列表」电影清单「2018-01-24」](https://www.wdssmq.com/post/20130817400.html "「列表」电影清单「2018-01-24」")
 
@@ -26,11 +28,15 @@
 
 [【备忘】LNMPA 伪静态/301 相关](https://www.wdssmq.com/post/20181007103.html "【备忘】LNMPA 伪静态/301 相关")
 
+[2011年1月4日冷笑话合集 - 提速](https://www.wdssmq.com/post/2011Nian1Yue4RiLengXiaoHuaHeJi-TiSu.html "2011年1月4日冷笑话合集 - 提速")
+
 [【杂七杂八】番茄工作法及适用于 Chrome 的番茄钟](https://www.wdssmq.com/post/20190304854.html "【杂七杂八】番茄工作法及适用于 Chrome 的番茄钟")
 
 [【备忘】ASS 字幕格式简要](https://www.wdssmq.com/post/20140510891.html "【备忘】ASS 字幕格式简要")
 
 [MKV 内置字幕提取/字幕编辑工具推荐](https://www.wdssmq.com/post/20120727734.html "MKV 内置字幕提取/字幕编辑工具推荐")
+
+[2010年8月26日冷笑话合集 - 十二星座墓碑的经典碑文](https://www.wdssmq.com/post/2010nian8yue26rixiaohuaheji-shierxingzuomubeidejingdianbeiwen.html "2010年8月26日冷笑话合集 - 十二星座墓碑的经典碑文")
 
 [「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
 
@@ -75,12 +81,6 @@
 [「Z-BlogPHP」数据库透析插件 DIY 演示](https://www.wdssmq.com/post/20220806158.html "「Z-BlogPHP」数据库透析插件 DIY 演示")
 
 [「折腾」使用 rEFInd 进行多系统引导](https://www.wdssmq.com/post/20220319691.html "「折腾」使用 rEFInd 进行多系统引导")
-
-[2014年1月19日冷笑话合集 - 逃过一劫](https://www.wdssmq.com/post/20140119211.html "2014年1月19日冷笑话合集 - 逃过一劫")
-
-[2010年8月12日冷笑话合集 - 误事的彩铃](https://www.wdssmq.com/post/2010Nian8Yue12RiXiaoHuaHeJi-WuShiDeCaiLing.html "2010年8月12日冷笑话合集 - 误事的彩铃")
-
-[拐杖【小小说】](https://www.wdssmq.com/post/20120714915.html "拐杖【小小说】")
 
 ---end---
 
