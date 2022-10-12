@@ -19,7 +19,7 @@ alias: 20201107566
 
 ```conf
 RewriteCond %{QUERY_STRING} ^id=(.+)$ # 这里的引用是 %1 而不是 $1
-RewriteRule ^$ /post/%1.html [L,R=301]
+RewriteRule ^$ %{REQUEST_SCHEME}://%{HTTP_HOST}/post/%1.html [L,R=301]
 ```
 
 至于 Nginx，同时有`$query_string`与`$args`两个变量用于获取网址参数，效果好像是一样的；
