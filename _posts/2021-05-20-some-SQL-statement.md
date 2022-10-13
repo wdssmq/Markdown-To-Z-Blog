@@ -33,3 +33,13 @@ update `zbp_post` set `log_Content`=(REPLACE(`log_Content`,'{#ZC_BLOG_HOST#}zb_u
 SELECT * FROM `zbp_post` WHERE `log_Content` LIKE '%202012141607949338840263%';
 SELECT * FROM `zbp_post` WHERE `log_Content` LIKE '%{#ZC_BLOG_HOST#}zb_users/%';
 ```
+
+### 修改评论作者 ID
+
+当年从 ASP 换到 PHP，自己的评论回复记录并没有关联到用户表 - -；
+
+```sql
+-- 再条效果是一样的
+UPDATE `zbp_comment` SET `comm_AuthorID` = 1 WHERE `comm_Name` = '沉冰浮水' AND `comm_AuthorID` = 0
+UPDATE `zbp_comment` SET `comm_AuthorID` = 1 WHERE `comm_Name` = '沉冰浮水'
+```
