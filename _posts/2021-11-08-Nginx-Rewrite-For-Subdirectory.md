@@ -1,5 +1,6 @@
 ---
 title: Nginx 下二级目录伪静态的标准姿势
+date: 2021-11-08 11:37:13
 tags:
 - Nginx
 - PHP
