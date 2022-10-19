@@ -1,5 +1,6 @@
 ---
 title: 「VSCode」PHP 跨文件夹函数定义提示
+date: 2021-09-05 19:04:25
 tags:
 - VSCode
 - 代码
