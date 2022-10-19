@@ -1,5 +1,6 @@
 ---
 title: 「折腾」重装了 VPS 却没有 tar 命令这种事
+date: 2022-04-15 17:56:02
 tags:
 - 折腾
 - CentOS
