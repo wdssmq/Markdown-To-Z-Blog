@@ -1,5 +1,6 @@
 ---
 title: 「GM_脚本」GM_setClipboard 方法示例
+date: 2021-11-18 13:21:29
 tags:
 - GM_脚本
 - JavaScript
