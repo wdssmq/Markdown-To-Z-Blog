@@ -37,27 +37,27 @@ _debug = False
 
 def init():
     global config_info, _cache_logs_json, _debug
-    if((os.path.exists("config.json") == True)):
+    if ((os.path.exists("config.json") == True)):
         with open("config.json", 'rb') as f:
             config_info = json.loads(f.read())
         # fnBug(config_info, sys._getframe().f_lineno)
     try:
-        if(os.environ["API_USR"]):
+        if (os.environ["API_USR"]):
             config_info["API_USR"] = os.environ["API_USR"]
 
-        if(os.environ["API_PWD"]):
+        if (os.environ["API_PWD"]):
             config_info["API_PWD"] = os.environ["API_PWD"]
 
-        if(os.environ["API_URL"]):
+        if (os.environ["API_URL"]):
             config_info["API_URL"] = os.environ["API_URL"]
 
-        if(os.environ["IMG_HOST"]):
+        if (os.environ["IMG_HOST"]):
             config_info["IMG_HOST"] = os.environ["IMG_HOST"]
 
-        if(os.environ["GIT_REPO"]):
+        if (os.environ["GIT_REPO"]):
             config_info["GIT_REPO"] = os.environ["GIT_REPO"]
 
-        if(os.environ["_cache_logs"]):
+        if (os.environ["_cache_logs"]):
             _cache_logs_json = os.environ["_cache_logs"]
     except:
         if not ("USER" in os.environ.keys() and os.environ["USER"] == "root"):
@@ -251,7 +251,7 @@ def get_md_list(dir_path):
 
 
 def read_logs(file):
-    if(os.path.exists(file) == True):
+    if (os.path.exists(file) == True):
         file_byte = open(file, 'r')
         file_info = file_byte.read()
         result = json.loads(file_info)
