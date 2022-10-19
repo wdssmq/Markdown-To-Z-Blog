@@ -391,7 +391,7 @@ def main():
         status = metadata.get("status", "0")
 
         # 跳过「未命名」文章
-        if title == "未命名":
+        if title == "未命名" or "new-post" in md_name:
             fnErr("标题：" + title, sys._getframe().f_lineno)
             fnLog()
             print("---")
