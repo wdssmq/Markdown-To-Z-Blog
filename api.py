@@ -447,8 +447,10 @@ def main():
 
         # 提交请求
         (done, post_id, post_mtime) = update_post(0, data_arg)
+
         # fnBug("%s %s %s" % (done, post_id, post_mtime), sys._getframe().f_lineno)
         # fnBug(type(post_id), sys._getframe().f_lineno)
+
         # 写入日志
         if done:
             post_info = {"id": int(post_id), "mtime": post_mtime}
@@ -459,6 +461,8 @@ def main():
         fnLog("标题：" + title)
         fnLog("状态：" + str(done))
         print("---")
+    # end for
+
     print("-----")
     fnLog()
 
