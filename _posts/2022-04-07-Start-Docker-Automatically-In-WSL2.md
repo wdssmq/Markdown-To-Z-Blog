@@ -1,5 +1,6 @@
 ---
 title: 「折腾」莫名其妙得解决了 wsl2 内 Docker 的自启动
+date: 2022-04-07 14:48:07
 tags:
 - Docker
 - Ubuntu
