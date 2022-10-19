@@ -1,5 +1,6 @@
 ---
 title: 「水坑」关于 Z-BlogPHP 1.7 缩略图的一些记录
+date: 2021-02-24 18:28:12
 tags:
 - GesF-Force
 - PHP
