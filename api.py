@@ -63,7 +63,7 @@ def init():
         if not ("USER" in os.environ.keys() and os.environ["USER"] == "root"):
             locale.setlocale(locale.LC_CTYPE, 'chinese')
         fnLog("## init")
-        fnLog("无法获取github的secrets配置信息,开始使用本地变量")
+        fnLog("无法获 github 的 secrets 配置信息,开始使用本地变量")
         fnLog()
     fnLog("## init")
     if not any(config_info):
@@ -119,7 +119,7 @@ def get_post_list():
 
 
 def update_post(id, data_arg):
-    # Todo 通过分类名获取id
+    # Todo 通过分类名获取 id
     # cate_id = 12
     # data_arg["CateID"] = cate_id
     author_id = config_info["AuthorID"]
@@ -155,14 +155,14 @@ def http(method, mod, act, data_arg={}, format="data"):
     if format == "all":
         return rlt
     return rlt["data"]
-# http封装
+# http 封装
 
 
 def update_readme(readme):
     post_list = get_post_list()
     # 生成插入列表
     insert_info = ""
-    # 读取md_list中的文件标题
+    # 读取 md_list 中的文件标题
     for post in post_list:
         title = post["Title"]
         url = post["Url"]
@@ -173,7 +173,7 @@ def update_readme(readme):
     insert_info = "---start---\n\n## 目录(" + time.strftime(
         ' %Y 年 %m 月 %d 日') + "更新)" + "\n\n" + insert_info + "---end---"
 
-    # 获取README.md内容
+    # 获取 README.md 内容
     with open(readme, 'r', encoding='utf-8') as f:
         readme_md_content = f.read()
 
@@ -185,10 +185,10 @@ def update_readme(readme):
     with open(readme, 'w', encoding='utf-8', newline="\n") as f:
         f.write(new_readme_md_content)
 
-    fnLog("更新ReadMe成功")
+    fnLog("更新 README 成功")
 
     return True
-# 在README.md中插入信息文章索引信息，更容易获取google的收录
+# 在 README.md 中插入信息文章索引信息，更容易获取 google 的收录
 
 
 def up_img_host(md_name, md_content):
@@ -217,7 +217,7 @@ def read_md(file_path):
         # print("==>>", post.content)
         # print("===>>", post.metadata)
     return (content, metadata)
-# 获取markdown文件中的内容
+# 获取 markdown 文件中的内容
 
 
 def get_md_name(file):
@@ -229,7 +229,7 @@ def get_md_name(file):
         tmp_name = file.replace("/doc.md", "")
         md_name = os.path.basename(tmp_name)
     return (md_name, md_mtime)
-# 通过md文件获取项目名和更新时间
+# 通过 md 文件获取项目名和更新时间
 
 
 def get_md_list(dir_path):
@@ -247,7 +247,7 @@ def get_md_list(dir_path):
             if os.path.isdir(cur_path) and os.path.isfile(cur_doc):
                 md_list.append(cur_doc)
     return md_list
-# 获取特定目录的markdown文件列表
+# 获取特定目录的 markdown 文件列表
 
 
 def read_logs(file):
@@ -280,7 +280,7 @@ if _debug:
 _posts_logs_data = read_logs(_posts_logs_file)
 
 
-# git更新的文件（数组）
+# git 更新的文件（数组）
 _cache_logs_data = json.loads(_cache_logs_json)
 
 
@@ -303,7 +303,7 @@ def update_git_diff():
         if (md_name in _posts_logs_data.keys()):
             _posts_logs_data[md_name]["git_update"] = 1
             # print(_posts_logs_data[md_name])
-# Git中修改的文件
+# Git 中修改的文件
 
 
 def update_logs(key, value):
@@ -371,7 +371,7 @@ def main():
         elif "update" == msg:
             fnLog("md 更新")
 
-        # 读取md文件信息
+        # 读取 md 文件信息
         (md_content, metadata) = read_md(md)
 
         # 判断内容格式
@@ -381,7 +381,7 @@ def main():
             print("---")
             continue
 
-        # metadata解析
+        # metadata 解析
         title = metadata.get("title", "")
         tags = metadata.get("tags", "")
         cate = metadata.get("categories", "")
@@ -437,7 +437,7 @@ def main():
         content = "%s<!--%i-->\n" % (content, id)
         md_content = "%s<!--%i-->\n" % (md_content, id)
 
-        # post data构造
+        # post data 构造
         data_arg = {"Type": "0", "ID": id, "Title": title, "Alias": alias,
                     "Content": content, "MD_Content": md_content, "Tag": ",".join('%s' % tag for tag in tags), "CateName": cate, "Status": status}
         # 提交请求
@@ -457,7 +457,7 @@ def main():
     print("-----")
     fnLog()
 
-    # 更新最新文章到readme
+    # 更新最新文章到 readme
     fnLog("## update_readme")
     update_readme(_readme_file)
     fnLog()
