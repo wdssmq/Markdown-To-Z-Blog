@@ -1,5 +1,6 @@
 ---
 title: 「折腾」压缩 wsl2 磁盘占用
+date: 2022-04-08 09:18:01
 tags:
 - Docker
 - Ubuntu
