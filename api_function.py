@@ -1,6 +1,7 @@
 # Functions
 import os
 
+
 def fnEmpty(arg):
     return 1
 # 什么也不做
@@ -28,8 +29,9 @@ def fnLog(msg="", tip=None, type=""):
 # 输出信息
 
 
-def fnBug(msg, tip=None):
-    fnLog(msg, tip, "[debug]")
+def fnBug(msg, tip=None, debug=True):
+    if debug:
+        fnLog(msg, tip, "[debug]")
 # debug输出
 
 
