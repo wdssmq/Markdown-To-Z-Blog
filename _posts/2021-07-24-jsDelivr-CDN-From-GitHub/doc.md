@@ -1,5 +1,6 @@
 ---
 title: 「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」
+date: 2021-07-24 17:51:08
 tags:
 - GM_脚本
 - CDN
