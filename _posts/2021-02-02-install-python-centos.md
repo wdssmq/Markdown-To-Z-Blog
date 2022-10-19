@@ -1,5 +1,6 @@
 ---
 title: 【折腾】Linux(CentOS)安装 Python
+date: 2021-02-24 18:40:45
 tags:
 - Linux
 - CentOS
