@@ -1,5 +1,6 @@
 ---
 title: 「GM_脚本」复制任意网页的标题+网址，支持 HTML 及 MarkDown
+date: 2020-11-04 16:41:44
 tags:
 - GM_脚本
 - JavaScript
