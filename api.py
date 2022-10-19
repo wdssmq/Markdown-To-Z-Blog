@@ -83,6 +83,14 @@ fnLog()
 
 
 def login():
+    # 判断是否登录
+    if "token" in config_info.keys():
+        fnLog("已登录")
+        return True
+    else:
+        fnLog("未登录")
+
+    # 登录
     data_arg = {"username": config_info["API_USR"],
                 "password": config_info["API_PWD"]}
     data = http("post", "member", "login", data_arg)
@@ -140,15 +148,23 @@ def http(method, mod, act, data_arg={}, format="data"):
         headers_arg = {"Authorization": "Bearer " + config_info["token"]}
     except:
         headers_arg = {}
-        fnLog("未登录")
-    if method == "get":
-        r = requests.get(config_info["API_URL"] + "?mod=" + mod +
-                         "&act=" + act, params=data_arg, headers=headers_arg)
-        # 调试↓
-        # print(r.url)
-    else:
-        r = requests.post(config_info["API_URL"] + "?mod=" +
-                          mod + "&act=" + act, data=data_arg, headers=headers_arg)
+
+    url = config_info["API_URL"] + "?mod=" + mod + "&act=" + act
+
+    try:
+        if method == "get":
+            r = requests.get(url, params=data_arg, headers=headers_arg)
+        else:
+            r = requests.post(url, data=data_arg, headers=headers_arg)
+        fnBug(r.url, sys._getframe().f_lineno, _debug)
+    except:
+        fnErr("网络错误", sys._getframe().f_lineno)
+        sys.exit(0)
+
+    # fnBug(r.url, sys._getframe().f_lineno, _debug)
+    # fnBug(method, sys._getframe().f_lineno, _debug)
+    # fnBug(r.status_code, sys._getframe().f_lineno, _debug)
+    # fnBug(r.text, sys._getframe().f_lineno, _debug)
 
     rlt = r.json()
     if rlt["code"] > 200:
