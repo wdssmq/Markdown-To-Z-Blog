@@ -1,5 +1,6 @@
 ---
 title: Docker 内 php-nginx 的伪静态相关
+date: 2021-09-30 16:50:42
 tags:
 - Docker
 - PHP

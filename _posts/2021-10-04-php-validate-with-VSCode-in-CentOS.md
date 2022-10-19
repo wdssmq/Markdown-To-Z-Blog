@@ -1,5 +1,6 @@
 ---
 title: 「VSCode」远程 CentOS 中 php.validate.executablePath 的设置
+date: 2021-10-04 11:58:00
 tags:
 - VSCode
 - PHP
