@@ -149,6 +149,7 @@ def http(method, mod, act, data_arg={}, format="data"):
     else:
         r = requests.post(config_info["API_URL"] + "?mod=" +
                           mod + "&act=" + act, data=data_arg, headers=headers_arg)
+
     rlt = r.json()
     if rlt["code"] > 200:
         fnBug(rlt, sys._getframe().f_lineno)
@@ -286,7 +287,7 @@ _cache_logs_data = json.loads(_cache_logs_json)
 
 def update_git_diff():
     if any(_cache_logs_data):
-        fnBug(_cache_logs_data, sys._getframe().f_lineno)
+        fnBug(_cache_logs_data, sys._getframe().f_lineno, _debug)
         tip = "git"
     else:
         tip = "文件时间"
@@ -335,7 +336,7 @@ def check_logs(key, mtime):
             else:
                 msg = "skip"
         debugInfo["msg"] = msg
-        fnBug(debugInfo, sys._getframe().f_lineno)
+        fnBug(debugInfo, sys._getframe().f_lineno, _debug)
     return (msg, id)
 # 日志查询
 
