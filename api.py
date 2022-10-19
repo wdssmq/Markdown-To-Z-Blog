@@ -383,6 +383,7 @@ def main():
 
         # metadata 解析
         title = metadata.get("title", "")
+        date = metadata.get("date", "")
         tags = metadata.get("tags", "")
         cate = metadata.get("categories", "")
         alias = metadata.get("alias", "")
@@ -440,6 +441,10 @@ def main():
         # post data 构造
         data_arg = {"Type": "0", "ID": id, "Title": title, "Alias": alias,
                     "Content": content, "MD_Content": md_content, "Tag": ",".join('%s' % tag for tag in tags), "CateName": cate, "Status": status}
+        # 合并 date
+        if date != "":
+            data_arg["PostTime"] = date
+
         # 提交请求
         (done, post_id, post_mtime) = update_post(0, data_arg)
         # fnBug("%s %s %s" % (done, post_id, post_mtime), sys._getframe().f_lineno)
