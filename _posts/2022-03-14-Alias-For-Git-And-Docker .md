@@ -1,5 +1,6 @@
 ---
 title: 「折腾」git 及 docker 命令快捷输入
+date: 2022-03-14 00:02:09
 tags:
 - 折腾
 - Git
