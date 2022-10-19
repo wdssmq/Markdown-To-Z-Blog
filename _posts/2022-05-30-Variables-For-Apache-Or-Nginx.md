@@ -1,5 +1,6 @@
 ---
 title: 「笔记」.htaccess 及 nginx.conf 可用变量一览
+date: 2022-05-30 12:51:31
 tags:
 - 笔记
 - Apache
