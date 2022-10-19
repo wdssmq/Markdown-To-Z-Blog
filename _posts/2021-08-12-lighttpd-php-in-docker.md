@@ -1,5 +1,6 @@
 ---
 title: 「折腾」Docker 化部署 lighttpd 并安装 Z-BlogPHP
+date: 2021-08-12 13:00:14
 tags:
 - Docker
 - Z-BlogPHP
