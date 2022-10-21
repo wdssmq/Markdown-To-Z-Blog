@@ -6,81 +6,81 @@
 
 ---start---
 
-## 目录( 2022 年 09 月 22 日更新)
+## 目录( 2022 年 10 月 21 日更新)
 
-[「水坑」Z-BlogPHP 接口本质之「PHP 可变函数」](https://www.wdssmq.com/post/20220409155.html "「水坑」Z-BlogPHP 接口本质之「PHP 可变函数」")
+[「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
 
-[「列表」电影清单「2018-01-24」](https://www.wdssmq.com/post/20130817400.html "「列表」电影清单「2018-01-24」")
-
-[「列表」上一部](https://www.wdssmq.com/post/20190520228.html "「列表」上一部")
-
-[不知所谓的碎碎念「无力吐槽」](https://www.wdssmq.com/post/20100529960.html "不知所谓的碎碎念「无力吐槽」")
-
-[「列表」一些电影和小说。。。](https://www.wdssmq.com/post/20100701747.html "「列表」一些电影和小说。。。")
-
-[「折腾」使用 rollup.js 模块化编写 GM 脚本](https://www.wdssmq.com/post/20120627834.html "「折腾」使用 rollup.js 模块化编写 GM 脚本")
-
-[「言说」写了份有点「大」的代码](https://www.wdssmq.com/post/20190704011.html "「言说」写了份有点「大」的代码")
-
-[看完心情好爽的囧人囧事](https://www.wdssmq.com/post/20100212973.html "看完心情好爽的囧人囧事")
-
-[「笔记」Git Tag 操作汇总](https://www.wdssmq.com/post/20220407047.html "「笔记」Git Tag 操作汇总")
-
-[【备忘】LNMPA 伪静态/301 相关](https://www.wdssmq.com/post/20181007103.html "【备忘】LNMPA 伪静态/301 相关")
-
-[2011年1月4日冷笑话合集 - 提速](https://www.wdssmq.com/post/2011Nian1Yue4RiLengXiaoHuaHeJi-TiSu.html "2011年1月4日冷笑话合集 - 提速")
-
-[【杂七杂八】番茄工作法及适用于 Chrome 的番茄钟](https://www.wdssmq.com/post/20190304854.html "【杂七杂八】番茄工作法及适用于 Chrome 的番茄钟")
-
-[【备忘】ASS 字幕格式简要](https://www.wdssmq.com/post/20140510891.html "【备忘】ASS 字幕格式简要")
-
-[MKV 内置字幕提取/字幕编辑工具推荐](https://www.wdssmq.com/post/20120727734.html "MKV 内置字幕提取/字幕编辑工具推荐")
-
-[2010年8月26日冷笑话合集 - 十二星座墓碑的经典碑文](https://www.wdssmq.com/post/2010nian8yue26rixiaohuaheji-shierxingzuomubeidejingdianbeiwen.html "2010年8月26日冷笑话合集 - 十二星座墓碑的经典碑文")
-
-[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
+[「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
 
 [「大坑」关于 module 模式下如何正确引入 WebSocketServer](https://www.wdssmq.com/post/20220301064.html "「大坑」关于 module 模式下如何正确引入 WebSocketServer")
 
-[「备忘」Nginx 重定向（301）相关](https://www.wdssmq.com/post/20140819797.html "「备忘」Nginx 重定向（301）相关")
+[「GM_脚本」Feedly 标记已读辅助「小代码」](https://www.wdssmq.com/post/20100605569.html "「GM_脚本」Feedly 标记已读辅助「小代码」")
 
-[【真·碎碎念】2022/05/23 ~ 2022/06/19](https://www.wdssmq.com/post/20120687169.html "【真·碎碎念】2022/05/23 ~ 2022/06/19")
+[【折腾】GM_脚本“取回” Feedly 内的订阅源地址](https://www.wdssmq.com/post/20210305305.html "【折腾】GM_脚本“取回” Feedly 内的订阅源地址")
 
-[「笔记」.htaccess 及 nginx.conf 可用变量一览](https://www.wdssmq.com/post/20220301043.html "「笔记」.htaccess 及 nginx.conf 可用变量一览")
+[「折腾」Composer In Ubuntu / WSL2](https://www.wdssmq.com/post/20120830162.html "「折腾」Composer In Ubuntu / WSL2")
 
-[「小代码」跨文件按行统计文本「Python」](https://www.wdssmq.com/post/20120901104.html "「小代码」跨文件按行统计文本「Python」")
+[「折腾」VSCode + wsl2 + Docker 探究](https://www.wdssmq.com/post/20220211184.html "「折腾」VSCode + wsl2 + Docker 探究")
 
-[阿凡达——魔兽争霸世锦赛解说版](https://www.wdssmq.com/post/20100123112.html "阿凡达——魔兽争霸世锦赛解说版")
+[「折腾」使用 rollup.js 模块化编写 GM 脚本](https://www.wdssmq.com/post/20120627834.html "「折腾」使用 rollup.js 模块化编写 GM 脚本")
 
-[【公告】关于字符串 0014cd6385f5 的说明](https://www.wdssmq.com/post/20171022294.html "【公告】关于字符串 0014cd6385f5 的说明")
+[「折腾」Docker 化安装 Z-BlogPHP](https://www.wdssmq.com/post/20120817544.html "「折腾」Docker 化安装 Z-BlogPHP")
 
-[最纠结的科幻小说](https://www.wdssmq.com/post/ZuiJiuJieDeKeHuanXiaoShuo.html "最纠结的科幻小说")
+[「PHP」获取指定时间所在周的第一天（星期一）](https://www.wdssmq.com/post/20190704010.html "「PHP」获取指定时间所在周的第一天（星期一）")
 
-[【真·碎碎念】2021/06/21 ~ 2021/06/27](https://www.wdssmq.com/post/20100202604.html "【真·碎碎念】2021/06/21 ~ 2021/06/27")
+[「小目标」平均每篇文章/Git Repository 赚取 1 元](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元")
 
-[【真·碎碎念】2022/04/11 ~ 2022/05/22](https://www.wdssmq.com/post/20220526309.html "【真·碎碎念】2022/04/11 ~ 2022/05/22")
+[【真·碎碎念】2021/04/26 ~ 2021/05/02](https://www.wdssmq.com/post/20100305398.html "【真·碎碎念】2021/04/26 ~ 2021/05/02")
 
-[各种懒得折腾](https://www.wdssmq.com/post/GeZhongLanDeSheTeng.html "各种懒得折腾")
+[「水坑」关于如何回答「如何备份网站」这种事](https://www.wdssmq.com/post/20180717038.html "「水坑」关于如何回答「如何备份网站」这种事")
 
-[2011年4月11日冷笑话合集 - 请假原因](https://www.wdssmq.com/post/20120721274.html "2011年4月11日冷笑话合集 - 请假原因")
+[【真·碎碎念】2021/09/06 ~ 2021/09/12](https://www.wdssmq.com/post/20210913547.html "【真·碎碎念】2021/09/06 ~ 2021/09/12")
 
-[2012年7月15日冷笑话合集 - 想做女人](https://www.wdssmq.com/post/20120715910.html "2012年7月15日冷笑话合集 - 想做女人")
+[【折腾】互联网时代的“纸制”积分卡](https://www.wdssmq.com/post/20140425674.html "【折腾】互联网时代的“纸制”积分卡")
 
-[2014年4月26日冷笑话合集 - 这招略狠](https://www.wdssmq.com/post/20140426340.html "2014年4月26日冷笑话合集 - 这招略狠")
+[「图说」右键菜单栏工具什么的「2022-05」](https://www.wdssmq.com/post/20120915760.html "「图说」右键菜单栏工具什么的「2022-05」")
 
-[2013年11月10日冷笑话合集 - 消失的牛奶](https://www.wdssmq.com/post/20131110375.html "2013年11月10日冷笑话合集 - 消失的牛奶")
+[【折腾】用手机写 Markdown 并发布到 Z-Blog](https://www.wdssmq.com/post/20210224141.html "【折腾】用手机写 Markdown 并发布到 Z-Blog")
 
-[【真·碎碎念】特别版「2022-08」](https://www.wdssmq.com/post/20220325815.html "【真·碎碎念】特别版「2022-08」")
+[【折腾】pip 安装各种依赖遇到的坑](https://www.wdssmq.com/post/20210224781.html "【折腾】pip 安装各种依赖遇到的坑")
 
-[说说 base64 编码](https://www.wdssmq.com/post/20191126724.html "说说 base64 编码")
+[「水坑」Z-BlogPHP 中各种错误提示的复现](https://www.wdssmq.com/post/20200922437.html "「水坑」Z-BlogPHP 中各种错误提示的复现")
 
-[「Z-BlogPHP」插件管理添加「最近使用」功能](https://www.wdssmq.com/post/20100224724.html "「Z-BlogPHP」插件管理添加「最近使用」功能")
+[【真·碎碎念】2022/01/24 ~ 2022/02/27](https://www.wdssmq.com/post/20190705014.html "【真·碎碎念】2022/01/24 ~ 2022/02/27")
 
-[【资讯】Vultr 网站上线多语言首页，包括中文](https://www.wdssmq.com/post/20210401104.html "【资讯】Vultr 网站上线多语言首页，包括中文")
+[【备忘】msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit 安装及使用")
 
-[「Z-BlogPHP」数据库透析插件 DIY 演示](https://www.wdssmq.com/post/20220806158.html "「Z-BlogPHP」数据库透析插件 DIY 演示")
+[「折腾」尝试成为 Z-BlogPHP 区 UP 主](https://www.wdssmq.com/post/20220102004.html "「折腾」尝试成为 Z-BlogPHP 区 UP 主")
 
-[「折腾」使用 rEFInd 进行多系统引导](https://www.wdssmq.com/post/20220319691.html "「折腾」使用 rEFInd 进行多系统引导")
+[「折腾」莫名其妙得解决了 wsl2 内 Docker 的自启动](https://www.wdssmq.com/post/20140328160.html "「折腾」莫名其妙得解决了 wsl2 内 Docker 的自启动")
+
+[「水坑」Z-BlogPHP 常用接口或函数](https://www.wdssmq.com/post/20190316451.html "「水坑」Z-BlogPHP 常用接口或函数")
+
+[【折腾】使用 Quicker 拆分文件到子文件夹](https://www.wdssmq.com/post/20120827310.html "【折腾】使用 Quicker 拆分文件到子文件夹")
+
+[【真·碎碎念】2021/06/07 ~ 2021/06/13](https://www.wdssmq.com/post/20210820119.html "【真·碎碎念】2021/06/07 ~ 2021/06/13")
+
+[【真·碎碎念】2021/05/03 ~ 2021/05/09](https://www.wdssmq.com/post/20140414540.html "【真·碎碎念】2021/05/03 ~ 2021/05/09")
+
+[【言说】停不下的写作和代码](https://www.wdssmq.com/post/20210205073.html "【言说】停不下的写作和代码")
+
+[【折腾】独立博客之「熵」](https://www.wdssmq.com/post/20210227485.html "【折腾】独立博客之「熵」")
+
+[EasyPHP - 略有极客感的 WEB 环境工具](https://www.wdssmq.com/post/20210224528.html "EasyPHP - 略有极客感的 WEB 环境工具")
+
+[【小事】换新的键盘终于回来了](https://www.wdssmq.com/post/20140512942.html "【小事】换新的键盘终于回来了")
+
+[「折腾」Docker + Nginx 内映射子目录站点及自定义规则](https://www.wdssmq.com/post/20181028361.html "「折腾」Docker + Nginx 内映射子目录站点及自定义规则")
+
+[【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图](https://www.wdssmq.com/post/20100215532.html "【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图")
+
+[「GM_脚本」qBittorrent 批量修改种子 tracker](https://www.wdssmq.com/post/20191117777.html "「GM_脚本」qBittorrent 批量修改种子 tracker")
+
+[「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
+
+[「VPS」HostNamaste $20 年付优惠](https://www.wdssmq.com/post/20220331233.html "「VPS」HostNamaste $20 年付优惠")
+
+[「折腾」GM_脚本修改 bilibili 番剧链接为我的追番](https://www.wdssmq.com/post/20100222433.html "「折腾」GM_脚本修改 bilibili 番剧链接为我的追番")
 
 ---end---
 
