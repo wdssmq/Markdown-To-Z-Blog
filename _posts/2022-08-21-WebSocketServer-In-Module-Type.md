@@ -13,7 +13,7 @@ alias: 20220301064
 
 > WebSocket.Server is not a constructor
 
-遇到上边错误，直接照着 ejs 写法改成 mjs 形式，但是用不了；
+遇到上边错误，直接照着 cjs 写法改成 mjs 形式，但是用不了；
 
 <!--more-->
 

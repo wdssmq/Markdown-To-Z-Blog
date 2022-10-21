@@ -168,7 +168,14 @@ module.exports = {
   "parserOptions": {
     "ecmaVersion": "latest",
   },
+  // 全局变量声明
+  "globals": {
+    "module":"readonly",
+    "require":"readonly",
+  },
+  // 规则定义
   "rules": {
+    "@typescript-eslint/no-var-requires": 0, // 允许 require 语法赋值
     "generator-star-spacing": 0, // generator 函数中 * 号前后的空格
     // ------------------------------
     "comma-dangle": [1, "always-multiline"], // 对象或数组的拖尾逗号
