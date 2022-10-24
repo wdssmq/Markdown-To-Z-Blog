@@ -8,7 +8,7 @@
 
 ## 目录( 2022 年 10 月 24 日更新)
 
-[「年度套路」水水名下 Z-Blog 应用打包赠送](https://www.wdssmq.com/post/20120926864.html "「年度套路」水水名下 Z-Blog 应用打包赠送")
+[「年度套路」水水名下 Z-Blog 应用打包售卖](https://www.wdssmq.com/post/20120926864.html "「年度套路」水水名下 Z-Blog 应用打包售卖")
 
 [「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
 
