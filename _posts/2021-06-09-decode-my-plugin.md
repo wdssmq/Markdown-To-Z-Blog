@@ -1,6 +1,6 @@
 ---
 title: 「年度套路」水水名下 Z-Blog 应用打包赠送
-date: 2021-06-09 16:08:28
+date: 2022-10-24 16:08:28
 tags:
 - 折腾
 - 脑洞
@@ -13,7 +13,7 @@ alias: 20120926864
 
 ### 前言
 
-虽然不确定明年还会不会有；
+又是一年 1024 什么的；
 
 <!--more-->
 
@@ -43,73 +43,72 @@ Resilio Sync Key：
 
 Resilio Sync 是一个软件，可以加 QQ 群获取；
 
-QQ 群「我的咸鱼心」：
-
-> 189574683
+> 群号：189574683
+>
+> 链接：[「我的咸鱼心」](点击链接加入群聊【我的咸鱼心】：https://jq.qq.com/?_wv=1027&k=VFScbKEF "「我的咸鱼心」")
 
 ### 密码获取
 
 虽然最终文件是压缩包，但是加密使用的是`cryptomator`这个软件；
 
-密码含七组数字，按顺序以中划线`-`连接；
+文件其实是去年的打包，如果有人付费就更新一波……
 
-某组不是三位数，懒得改了；
+2021 年度整活「PWD」丨沉冰浮水丨爱发电：
 
-含有「附加」字段的，需要从相应链接内寻找；「仅需数字部分」
+[https://afdian.net/p/25d5bef6e6cb11eba3f652540025c377](https://afdian.net/p/25d5bef6e6cb11eba3f652540025c377 "2021 年度整活「PWD」丨沉冰浮水丨爱发电")
 
-1、
+↑ 需要充电「`￥73.00`」解锁查看；
 
-数据源：`https://github.com/zblogcn/zblogphp`
+### 优惠
 
-当前：559
+完成下方操作，可以优惠至「`￥37.00`」；
 
-2、
+另外，单独完成以下任务可以挑选一至三个插件试用；
 
-数据源：`https://www.inoreader.com/bundle/0014cd640d60`
+需要加 QQ 群发截图；「没错，加 QQ 群也是一项要求」
 
-当前：009
+> 群号：189574683
+>
+> 链接：[「我的咸鱼心」](点击链接加入群聊【我的咸鱼心】：https://jq.qq.com/?_wv=1027&k=VFScbKEF "「我的咸鱼心」")
 
-3、
+目前只有三项，需要全部完成，后续多了打算搞个 N 选 4 之类的；
 
-数据源：`https://feeds.pub/feed/https%3A%2F%2Fwww.wdssmq.com%2Ffeed.php`
+----
 
-~~当前：004~~
+平台：GitHub
 
-附加：PWD-7XX
+选项：
 
-4、
+> 链接：[https://github.com/wdssmq](https://github.com/wdssmq "wdssmq (沉冰浮水)")
+>
+> 操作：「Follow」
 
-数据源：`https://demo.wdssmq.com/post/20210629936.html`
+> 链接：[https://github.com/wdssmq?tab=repositories](https://github.com/wdssmq?tab=repositories "wdssmq (wdssmq) / Repositories · GitHub")
+>
+> 操作：「Star」任意一个项目
 
-~~当前：936~~
+----
 
-附加：PWD-XXXX
+平台：RSS 订阅
 
-5、
+备注：在任意在线 RSS 平台或客户端订阅均可；「见文末『推荐阅读』」
 
-数据源：`https://wxw.moe/invite/ArWsTnSZ`
+选项：
 
-~~当前：031~~
+> 链接：[https://feeds.pub/feed/https%3A%2F%2Fwww.wdssmq.com%2Ffeed.php](https://feeds.pub/feed/https%3A%2F%2Fwww.wdssmq.com%2Ffeed.php "沉冰浮水")
+>
+> 操作：注册并订阅（Follow）
 
-附加：PWD-2XX
+----
 
-注：可以在 `\#ZBlog` 话题下找；
+平台：哔哩哔哩
 
-6、
+选项：
 
-数据源：`https://jgchat.net/i/q7UmX2J8`
+> 链接：[https://space.bilibili.com/44744006](https://space.bilibili.com/44744006 "沉冰浮水的个人空间\_哔哩哔哩\_bilibili")
+>
+> 操作：「关注」+「投币」任意视频
 
-~~当前：021~~
-
-附加：PWD-X2X
-
-7、
-
-数据源：`https://bbs.zblogcn.com/thread-104457.html`
-
-~~当前：480~~
-
-附加：PWD-X6X
 
 ## 图片
 
@@ -120,3 +119,17 @@ QQ 群「我的咸鱼心」：
 佛系安利：Resilio Sync\_电脑网络\_沉冰浮水：
 
 [https://www.wdssmq.com/post/20180526833.html](https://www.wdssmq.com/post/20180526833.html "佛系安利：Resilio Sync\_电脑网络\_沉冰浮水")
+
+【言说】RSS 是一种态度！！\_杂七杂八\_沉冰浮水：
+
+[https://www.wdssmq.com/post/20201231613.html](https://www.wdssmq.com/post/20201231613.html "【言说】RSS 是一种态度！！\_杂七杂八\_沉冰浮水")
+
+<!--
+
+「年度套路」水水名下 Z-Blog 应用打包赠送
+https://bbs.zblogcn.com/thread-104457.html
+
+注册 - 呜呜 w(> ʌ <)w
+https://wxw.moe/invite/ArWsTnSZ
+
+-->
