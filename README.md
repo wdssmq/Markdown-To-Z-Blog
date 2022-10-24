@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 10 月 21 日更新)
+## 目录( 2022 年 10 月 24 日更新)
+
+[「年度套路」水水名下 Z-Blog 应用打包赠送](https://www.wdssmq.com/post/20120926864.html "「年度套路」水水名下 Z-Blog 应用打包赠送")
 
 [「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
 
@@ -79,8 +81,6 @@
 [「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
 
 [「VPS」HostNamaste $20 年付优惠](https://www.wdssmq.com/post/20220331233.html "「VPS」HostNamaste $20 年付优惠")
-
-[「折腾」GM_脚本修改 bilibili 番剧链接为我的追番](https://www.wdssmq.com/post/20100222433.html "「折腾」GM_脚本修改 bilibili 番剧链接为我的追番")
 
 ---end---
 
