@@ -8,6 +8,10 @@
 
 ## 目录( 2022 年 10 月 29 日更新)
 
+[「非专业揭骗」百瑞控股是个啥？](https://www.wdssmq.com/post/20141030270.html "「非专业揭骗」百瑞控股是个啥？")
+
+[「囧」因为一条 2015 年的评论躺枪这件事](https://www.wdssmq.com/post/20220417068.html "「囧」因为一条 2015 年的评论躺枪这件事")
+
 [「年度套路」水水名下 Z-Blog 应用打包售卖](https://www.wdssmq.com/post/20120926864.html "「年度套路」水水名下 Z-Blog 应用打包售卖")
 
 [「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
@@ -77,10 +81,6 @@
 [【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图](https://www.wdssmq.com/post/20100215532.html "【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图")
 
 [「GM_脚本」qBittorrent 批量修改种子 tracker](https://www.wdssmq.com/post/20191117777.html "「GM_脚本」qBittorrent 批量修改种子 tracker")
-
-[「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
-
-[「VPS」HostNamaste $20 年付优惠](https://www.wdssmq.com/post/20220331233.html "「VPS」HostNamaste $20 年付优惠")
 
 ---end---
 
