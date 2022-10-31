@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 10 月 29 日更新)
+## 目录( 2022 年 10 月 31 日更新)
+
+[【真·碎碎念】2022/06/20 ~ 2022/09/04](https://www.wdssmq.com/post/20120815269.html "【真·碎碎念】2022/06/20 ~ 2022/09/04")
 
 [「非专业揭骗」百瑞控股是个啥？](https://www.wdssmq.com/post/20141030270.html "「非专业揭骗」百瑞控股是个啥？")
 
@@ -79,8 +81,6 @@
 [「折腾」Docker + Nginx 内映射子目录站点及自定义规则](https://www.wdssmq.com/post/20181028361.html "「折腾」Docker + Nginx 内映射子目录站点及自定义规则")
 
 [【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图](https://www.wdssmq.com/post/20100215532.html "【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图")
-
-[「GM_脚本」qBittorrent 批量修改种子 tracker](https://www.wdssmq.com/post/20191117777.html "「GM_脚本」qBittorrent 批量修改种子 tracker")
 
 ---end---
 
