@@ -57,13 +57,15 @@ Resilio Sync 是一个软件，可以加 QQ 群获取；
 
 [https://afdian.net/p/25d5bef6e6cb11eba3f652540025c377](https://afdian.net/p/25d5bef6e6cb11eba3f652540025c377 "2021 年度整活「PWD」丨沉冰浮水丨爱发电")
 
+**重要：解密后得到的文件，不得以任何形式分享；**
+
 ↑ 需要充电「`￥73.00`」解锁查看；
 
 ### 优惠
 
 完成下方操作，可以优惠至「`￥37.00`」；
 
-另外，单独完成以下任务可以挑选一至三个插件试用；
+另外，单独完成以下任务可以挑选一至三个插件试用；「总价不超过 73 元」
 
 需要加 QQ 群发截图；「没错，加 QQ 群也是一项要求」
 
@@ -123,6 +125,12 @@ Resilio Sync 是一个软件，可以加 QQ 群获取；
 【言说】RSS 是一种态度！！\_杂七杂八\_沉冰浮水：
 
 [https://www.wdssmq.com/post/20201231613.html](https://www.wdssmq.com/post/20201231613.html "【言说】RSS 是一种态度！！\_杂七杂八\_沉冰浮水")
+
+### 其他
+
+本文本修改历史见：
+
+[https://github.com/wdssmq/Markdown-To-Z-Blog/commits/main/_posts/2021-06-09-decode-my-plugin.md](https://github.com/wdssmq/Markdown-To-Z-Blog/commits/main/_posts/2021-06-09-decode-my-plugin.md "History for \_posts/2021-06-09-decode-my-plugin.md - wdssmq/Markdown-To-Z-Blog")
 
 <!--
 
