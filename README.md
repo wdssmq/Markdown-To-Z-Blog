@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 10 月 31 日更新)
+## 目录( 2022 年 11 月 08 日更新)
+
+[「年度套路」水水名下 Z-Blog 应用打包售卖](https://www.wdssmq.com/post/20120926864.html "「年度套路」水水名下 Z-Blog 应用打包售卖")
 
 [【真·碎碎念】2022/06/20 ~ 2022/09/04](https://www.wdssmq.com/post/20120815269.html "【真·碎碎念】2022/06/20 ~ 2022/09/04")
 
@@ -14,7 +16,7 @@
 
 [「囧」因为一条 2015 年的评论躺枪这件事](https://www.wdssmq.com/post/20220417068.html "「囧」因为一条 2015 年的评论躺枪这件事")
 
-[「年度套路」水水名下 Z-Blog 应用打包售卖](https://www.wdssmq.com/post/20120926864.html "「年度套路」水水名下 Z-Blog 应用打包售卖")
+[【转载】古龙妙语](https://www.wdssmq.com/post/20140920429.html "【转载】古龙妙语")
 
 [「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
 
@@ -79,8 +81,6 @@
 [【小事】换新的键盘终于回来了](https://www.wdssmq.com/post/20140512942.html "【小事】换新的键盘终于回来了")
 
 [「折腾」Docker + Nginx 内映射子目录站点及自定义规则](https://www.wdssmq.com/post/20181028361.html "「折腾」Docker + Nginx 内映射子目录站点及自定义规则")
-
-[【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图](https://www.wdssmq.com/post/20100215532.html "【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图")
 
 ---end---
 
