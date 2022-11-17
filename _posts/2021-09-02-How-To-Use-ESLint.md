@@ -29,7 +29,7 @@ ESLint - Pluggable JavaScript linter - ESLint 中文：
 
 [http://eslint.cn/](http://eslint.cn/ "ESLint - Pluggable JavaScript linter - ESLint 中文")
 
-**虽然不太清楚，使用 VSCode 插件版仍然需要在项目下或全局安装 Npm 包的样子？**
+**虽然不太清楚，使用 VSCode 插件版仍然需要在项目下或全局安装`eslint`的样子？**
 
 ### 安装 ESLint
 
@@ -138,6 +138,7 @@ eslint-plugin-vue@latest
 ```
 
 选项一：
+
 - 仅检查语法；
 - 检查语法并查找问题；
 - 在前者基础上强制代码样式；
@@ -147,8 +148,10 @@ eslint-plugin-vue@latest
 之后根据实际需要用；
 
 额外注意：
+
 - 配置文件建议使用 JS 格式，因为 JSON 不支持注释；
-- 本文是以 cnpm 为基础，包管理器选项里没有，可以换 pnpm，或者不选择自动安装，手动执行`cnpm install`；
+- 本文是以 cnpm 为基础，包管理器选项里没有，可以换 pnpm；
+- 或者不选择自动安装，手动执行`cnpm install`；
 
 
 ### 使用（CLI）
