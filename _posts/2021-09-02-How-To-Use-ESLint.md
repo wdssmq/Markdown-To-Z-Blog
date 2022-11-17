@@ -50,7 +50,7 @@ cnpm ls eslint
 # 不知道为什么输出为空，加 -g 参数则直接卡住
 # 也没找到正确能用的方法
 
-# 下边命令可以得到全局node_modules的地址
+# 下边命令可以得到全局 node_modules 的地址
 cnpm root -g
 ```
 
@@ -66,38 +66,41 @@ cnpm ls eslint
 ### 初始化
 
 ```bash
-eslint --init
+cnpm init @eslint/config
+# eslint --init
 # 所在目录如果没有 package.json 可能会报错，`npm init` 创建；
 
-# 选项一
-? How would you like to use ESLint? ...
+# 选项一 - 如何使用 ESLint
+? How would you like to use ESLint? …
   To check syntax only
-> To check syntax and find problems
+▸ To check syntax and find problems
   To check syntax, find problems, and enforce code style
+# 注：如果选择了第 3 项，后续选项会不一样
 
-# 选项二
-? What type of modules does your project use? ...
-> JavaScript modules (import/export)
+
+# 选项二 - 模块引入方式
+? What type of modules does your project use? …
+▸ JavaScript modules (import/export)
   CommonJS (require/exports)
   None of these
 
-# 选项三
-? Which framework does your project use? ...
-> React
-  Vue.js
+# 选项三 - 项目使用的框架
+? Which framework does your project use? …
+  React
+▸ Vue.js
   None of these
 
-# 选项四
-? Does your project use TypeScript? » No / Yes
+# 选项四 - 是否使用 TypeScript
+? Does your project use TypeScript? ‣ No / Yes
 
-# 选项五
-? Where does your code run? ...  (Press <space> to select, <a> to toggle all, <i> to invert selection)
-√ Browser
-√ Node
+# 选项五 - 项目使用的环境，可以都选或都不选
+? Where does your code run? …  (Press <space> to select, <a> to toggle all, <i> to invert selection)
+✔ Browser
+✔ Node
 
 # 选项六 - ESLint Config 文件保存为何种格式
-? What format do you want your config file to be in? ...
-√ JavaScript
+? What format do you want your config file to be in? …
+▸ JavaScript
   YAML
   JSON
 
@@ -106,8 +109,32 @@ The config that you ve selected requires the following dependencies:
 
 eslint-plugin-vue@latest
 
-# 选项七确认 - 是否直接安装上边列出的项目
-? Would you like to install them now with npm? » No / Yes
+# 选项七 - 是否直接安装上边列出的项目
+? Would you like to install them now? ‣ No / Yes
+
+# 选项八 - 如果上一步选择了安装，会询问使用的包管理器
+? Which package manager do you want to use? …
+  npm
+  yarn
+▸ pnpm
+
+# ------------
+
+# 如果上边「选项一」选择了「To check syntax, find problems, and enforce code style」，会多出以下选项
+? How would you like to define a style for your project? …
+  Use a popular style guide
+▸ Answer questions about your style
+
+# 分支二 - 询问具体的代码风格，包括缩进、引号、分号等
+✔ How would you like to define a style for your project? · prompt
+✔ What style of indentation do you use? · 4
+✔ What quotes do you use for strings? · double
+✔ What line endings do you use? · unix
+✔ Do you require semicolons? · No / Yes
+
+# 分支一 - 选择 google 等厂商的代码风格
+✔ How would you like to define a style for your project? · guide
+✔ Which style guide do you want to follow? · google
 ```
 
 选项一：
@@ -115,11 +142,14 @@ eslint-plugin-vue@latest
 - 检查语法并查找问题；
 - 在前者基础上强制代码样式；
 
-建议选择：检查语法并查找问题；「默认选项」
+默认为第 2 项，实际建议第 3 项；
 
-选项二至选项六请按实际需要；
+之后根据实际需要用；
 
-选项七直接使用默认的`npm instll XXX`可能会比较慢，可以选择 No 然后自己换用`cnpm`手动安装依赖项目；
+额外注意：
+- 配置文件建议使用 JS 格式，因为 JSON 不支持注释；
+- 本文是以 cnpm 为基础，包管理器选项里没有，可以换 pnpm，或者不选择自动安装，手动执行`cnpm install`；
+
 
 ### 使用（CLI）
 
@@ -136,6 +166,8 @@ Command Line Interface - ESLint 中文：
 
 ### VSCode 插件版
 
+**注：插件版本好像依赖于全局安装的`eslint`包？**
+
 在「命令面板（Ctrl + Shift + P）」中输入`eslint`即可查看所拥有的命令：
 
 - `ESLint: Create ESLint configuration` 创建配置文件；
@@ -151,7 +183,22 @@ node_modules\.bin\eslint.cmd --init
 # bash: node_modules.bineslint.cmd: command not found
 ```
 
-所以保险起见还是自己执行`eslint --init`吧；
+所以保险起见还是自己执行`cnpm init @eslint/config`吧；
+
+插件有不少配置项，可以在「设置」中搜索`eslint`查看：
+
+```json
+{
+  "eslint.validate": [
+    "typescript",
+    "javascript",
+    "javascriptreact",
+    "vue"
+  ],
+  // 这里甚至并不能用「cnpm」 - -!
+  "eslint.packageManager": "pnpm"
+}
+```
 
 ### 检查规则
 
