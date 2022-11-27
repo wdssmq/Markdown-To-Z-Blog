@@ -6,7 +6,13 @@
 
 ---start---
 
-## 目录( 2022 年 11 月 17 日更新)
+## 目录( 2022 年 11 月 27 日更新)
+
+[「Git_笔记」HEAD detached from xxxx 问题解决](https://www.wdssmq.com/post/20221127394.html "「Git_笔记」HEAD detached from xxxx 问题解决")
+
+[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
+
+[老婆的风景【幽默故事】](https://www.wdssmq.com/post/20100626414.html "老婆的风景【幽默故事】")
 
 [「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
 
@@ -75,12 +81,6 @@
 [「折腾」尝试成为 Z-BlogPHP 区 UP 主](https://www.wdssmq.com/post/20220102004.html "「折腾」尝试成为 Z-BlogPHP 区 UP 主")
 
 [「折腾」莫名其妙得解决了 wsl2 内 Docker 的自启动](https://www.wdssmq.com/post/20140328160.html "「折腾」莫名其妙得解决了 wsl2 内 Docker 的自启动")
-
-[「水坑」Z-BlogPHP 常用接口或函数](https://www.wdssmq.com/post/20190316451.html "「水坑」Z-BlogPHP 常用接口或函数")
-
-[【折腾】使用 Quicker 拆分文件到子文件夹](https://www.wdssmq.com/post/20120827310.html "【折腾】使用 Quicker 拆分文件到子文件夹")
-
-[【真·碎碎念】2021/06/07 ~ 2021/06/13](https://www.wdssmq.com/post/20210820119.html "【真·碎碎念】2021/06/07 ~ 2021/06/13")
 
 ---end---
 
