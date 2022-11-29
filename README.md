@@ -8,6 +8,8 @@
 
 ## 目录( 2022 年 11 月 29 日更新)
 
+[「Git_笔记」Git Tag 操作汇总](https://www.wdssmq.com/post/20220407047.html "「Git_笔记」Git Tag 操作汇总")
+
 [「水坑」Z-BlogPHP 常用接口或函数](https://www.wdssmq.com/post/20190316451.html "「水坑」Z-BlogPHP 常用接口或函数")
 
 [「Git_笔记」git remote 命令](https://www.wdssmq.com/post/20220525683.html "「Git_笔记」git remote 命令")
@@ -79,8 +81,6 @@
 [「水坑」Z-BlogPHP 中各种错误提示的复现](https://www.wdssmq.com/post/20200922437.html "「水坑」Z-BlogPHP 中各种错误提示的复现")
 
 [【真·碎碎念】2022/01/24 ~ 2022/02/27](https://www.wdssmq.com/post/20190705014.html "【真·碎碎念】2022/01/24 ~ 2022/02/27")
-
-[【备忘】msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit 安装及使用")
 
 ---end---
 
