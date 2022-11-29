@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录( 2022 年 11 月 27 日更新)
+## 目录( 2022 年 11 月 29 日更新)
+
+[「水坑」Z-BlogPHP 常用接口或函数](https://www.wdssmq.com/post/20190316451.html "「水坑」Z-BlogPHP 常用接口或函数")
+
+[「Git_笔记」git remote 命令](https://www.wdssmq.com/post/20220525683.html "「Git_笔记」git remote 命令")
 
 [「Git_笔记」HEAD detached from xxxx 问题解决](https://www.wdssmq.com/post/20221127394.html "「Git_笔记」HEAD detached from xxxx 问题解决")
 
@@ -77,10 +81,6 @@
 [【真·碎碎念】2022/01/24 ~ 2022/02/27](https://www.wdssmq.com/post/20190705014.html "【真·碎碎念】2022/01/24 ~ 2022/02/27")
 
 [【备忘】msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit 安装及使用")
-
-[「折腾」尝试成为 Z-BlogPHP 区 UP 主](https://www.wdssmq.com/post/20220102004.html "「折腾」尝试成为 Z-BlogPHP 区 UP 主")
-
-[「折腾」莫名其妙得解决了 wsl2 内 Docker 的自启动](https://www.wdssmq.com/post/20140328160.html "「折腾」莫名其妙得解决了 wsl2 内 Docker 的自启动")
 
 ---end---
 
