@@ -17,6 +17,9 @@ alias: 20190520228
 
 \------------------------
 
+酷爱电影的庞波小姐 (豆瓣)
+https://movie.douban.com/subject/30037194/
+
 入殓师 (豆瓣)
 https://movie.douban.com/subject/2149806/
 
