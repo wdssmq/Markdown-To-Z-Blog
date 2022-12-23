@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2022 年 12 月 22 日更新)
+## 目录( 2022 年 12 月 23 日更新)
+
+[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
 
 [CSS 强制换行/不换行相关](https://www.wdssmq.com/post/20130331901.html "CSS 强制换行/不换行相关")
 
@@ -29,8 +31,6 @@
 [「Git_笔记」git remote 命令](https://www.wdssmq.com/post/20220525683.html "「Git_笔记」git remote 命令")
 
 [「Git_笔记」HEAD detached from xxxx 问题解决](https://www.wdssmq.com/post/20221127394.html "「Git_笔记」HEAD detached from xxxx 问题解决")
-
-[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
 
 [老婆的风景【幽默故事】](https://www.wdssmq.com/post/20100626414.html "老婆的风景【幽默故事】")
 
