@@ -60,6 +60,7 @@ Git 命令，则可以设置在`~/.gitconfig`内：
     # branch
     br  = branch
     bra = branch -a
+    brv = branch -a -v
     brm = branch -m
     brh = branch -h
     co  = checkout
