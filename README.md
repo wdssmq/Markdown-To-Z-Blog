@@ -6,17 +6,23 @@
 
 ---start---
 
-## 目录( 2022 年 12 月 23 日更新)
-
-[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
+## 目录( 2023 年 01 月 02 日更新)
 
 [CSS 强制换行/不换行相关](https://www.wdssmq.com/post/20130331901.html "CSS 强制换行/不换行相关")
+
+[关于 API 和 OAuth 授权验证](https://www.wdssmq.com/post/ZuoWanDeMengHaiZhenShiXuanYiJiaKeHuanTuCaoChuMei.html "关于 API 和 OAuth 授权验证")
+
+[【备忘】如何对定制的 Bootstrap 进行修改](https://www.wdssmq.com/post/20140717995.html "【备忘】如何对定制的 Bootstrap 进行修改")
+
+[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
 
 [「言说」系统重装恐惧症](https://www.wdssmq.com/post/20190130794.html "「言说」系统重装恐惧症")
 
 [「WSL2_笔记」WSL2 的网络配置什么的的](https://www.wdssmq.com/post/20220527442.html "「WSL2_笔记」WSL2 的网络配置什么的的")
 
 [「列表」上一部](https://www.wdssmq.com/post/20190520228.html "「列表」上一部")
+
+[2014年2月09日冷笑话合集 - 带一瓶特仑苏](https://www.wdssmq.com/post/20140209940.html "2014年2月09日冷笑话合集 - 带一瓶特仑苏")
 
 [50 个忧郁得让人心碎的句子](https://www.wdssmq.com/post/20100430975.html "50 个忧郁得让人心碎的句子")
 
@@ -75,12 +81,6 @@
 [「折腾」Docker 化安装 Z-BlogPHP](https://www.wdssmq.com/post/20120817544.html "「折腾」Docker 化安装 Z-BlogPHP")
 
 [「PHP」获取指定时间所在周的第一天（星期一）](https://www.wdssmq.com/post/20190704010.html "「PHP」获取指定时间所在周的第一天（星期一）")
-
-[「小目标」平均每篇文章/Git Repository 赚取 1 元](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元")
-
-[【真·碎碎念】2021/04/26 ~ 2021/05/02](https://www.wdssmq.com/post/20100305398.html "【真·碎碎念】2021/04/26 ~ 2021/05/02")
-
-[「水坑」关于如何回答「如何备份网站」这种事](https://www.wdssmq.com/post/20180717038.html "「水坑」关于如何回答「如何备份网站」这种事")
 
 ---end---
 
