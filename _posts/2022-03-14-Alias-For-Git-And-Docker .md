@@ -55,7 +55,7 @@ Git 命令，则可以设置在`~/.gitconfig`内：
     shl = stash list
     shs = stash save
     sha = stash apply
-    std = stash drop
+    shd = stash drop
 
     # branch
     br  = branch
@@ -67,6 +67,11 @@ Git 命令，则可以设置在`~/.gitconfig`内：
     cob = checkout -b
     sw  = switch
     swc = switch -c
+
+    # tag
+    tg = tag -n
+    tgr = ls-remote --tags origin
+    tgp = push origin --tags
 
     # remote
     ra  = remote add
@@ -90,6 +95,7 @@ Git 命令，则可以设置在`~/.gitconfig`内：
     # commit
     ci  = commit
     cim = commit -m
+
 ```
 
 本文会以实际需要慢慢补充条目，你也可以参考下边文章：
