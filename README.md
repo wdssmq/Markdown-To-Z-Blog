@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录( 2023 年 01 月 03 日更新)
+## 目录( 2023 年 01 月 18 日更新)
+
+[「备忘」web.config 设置重定向（301）](https://www.wdssmq.com/post/web-configSheZhiZhongDingXiang-301.html "「备忘」web.config 设置重定向（301）")
+
+[同时养鹦鹉和婴儿的杯具](https://www.wdssmq.com/post/TongShiYangHeYingErDeBeiJu.html "同时养鹦鹉和婴儿的杯具")
 
 [「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
 
@@ -14,15 +18,25 @@
 
 [回收](https://www.wdssmq.com/post/20230103207.html "回收")
 
+[玩人人网发生的悲情时刻](https://www.wdssmq.com/post/WanRenRenWangFaShengDeBeiQingShiKe.html "玩人人网发生的悲情时刻")
+
+[男女关系 26 个绝妙比喻](https://www.wdssmq.com/post/NanNuGuanXi26GeJueMiaoBiYu.html "男女关系 26 个绝妙比喻")
+
 [优化大师很久没更新了啊【无力吐槽】](https://www.wdssmq.com/post/YouHuaDaShiHenJiuMeiGengXinLeAWuLiTuCao.html "优化大师很久没更新了啊【无力吐槽】")
 
 [2011年1月17日冷笑话合集 - 神秘死亡](https://www.wdssmq.com/post/2011Nian1Yue17RiLengXiaoHuaHeJi-ShenMiSiWang.html "2011年1月17日冷笑话合集 - 神秘死亡")
+
+[《甩词歌》甩动 2010](https://www.wdssmq.com/post/ShuaiCiGe-ShuaiDong2010.html "《甩词歌》甩动 2010")
+
+[2011年1月27日冷笑话合集 - 点名](https://www.wdssmq.com/post/2011Nian1Yue27RiLengXiaoHuaHeJi-DianMing.html "2011年1月27日冷笑话合集 - 点名")
 
 [CSS 强制换行/不换行相关](https://www.wdssmq.com/post/20130331901.html "CSS 强制换行/不换行相关")
 
 [关于 API 和 OAuth 授权验证](https://www.wdssmq.com/post/ZuoWanDeMengHaiZhenShiXuanYiJiaKeHuanTuCaoChuMei.html "关于 API 和 OAuth 授权验证")
 
 [【备忘】如何对定制的 Bootstrap 进行修改](https://www.wdssmq.com/post/20140717995.html "【备忘】如何对定制的 Bootstrap 进行修改")
+
+[2012年10月2日冷笑话合集 - 吃货妹子伤不起](https://www.wdssmq.com/post/20121008639.html "2012年10月2日冷笑话合集 - 吃货妹子伤不起")
 
 [「言说」系统重装恐惧症](https://www.wdssmq.com/post/20190130794.html "「言说」系统重装恐惧症")
 
@@ -67,20 +81,6 @@
 [【真·碎碎念】2022/06/20 ~ 2022/09/04](https://www.wdssmq.com/post/20120815269.html "【真·碎碎念】2022/06/20 ~ 2022/09/04")
 
 [「非专业揭骗」百瑞控股是个啥？](https://www.wdssmq.com/post/20141030270.html "「非专业揭骗」百瑞控股是个啥？")
-
-[「囧」因为一条 2015 年的评论躺枪这件事](https://www.wdssmq.com/post/20220417068.html "「囧」因为一条 2015 年的评论躺枪这件事")
-
-[【转载】古龙妙语](https://www.wdssmq.com/post/20140920429.html "【转载】古龙妙语")
-
-[「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
-
-[「大坑」关于 module 模式下如何正确引入 WebSocketServer](https://www.wdssmq.com/post/20220301064.html "「大坑」关于 module 模式下如何正确引入 WebSocketServer")
-
-[「GM_脚本」Feedly 标记已读辅助「小代码」](https://www.wdssmq.com/post/20100605569.html "「GM_脚本」Feedly 标记已读辅助「小代码」")
-
-[【折腾】GM_脚本“取回” Feedly 内的订阅源地址](https://www.wdssmq.com/post/20210305305.html "【折腾】GM_脚本“取回” Feedly 内的订阅源地址")
-
-[「折腾」Composer In Ubuntu / WSL2](https://www.wdssmq.com/post/20120830162.html "「折腾」Composer In Ubuntu / WSL2")
 
 ---end---
 
