@@ -8,13 +8,13 @@
 
 ## 目录( 2023 年 01 月 18 日更新)
 
+[「备忘」那些需要全局安装的 node 包](https://www.wdssmq.com/post/20230103270.html "「备忘」那些需要全局安装的 node 包")
+
 [「备忘」web.config 设置重定向（301）](https://www.wdssmq.com/post/web-configSheZhiZhongDingXiang-301.html "「备忘」web.config 设置重定向（301）")
 
 [同时养鹦鹉和婴儿的杯具](https://www.wdssmq.com/post/TongShiYangHeYingErDeBeiJu.html "同时养鹦鹉和婴儿的杯具")
 
 [「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
-
-[回收](https://www.wdssmq.com/post/20230103270.html "回收")
 
 [回收](https://www.wdssmq.com/post/20230103207.html "回收")
 
