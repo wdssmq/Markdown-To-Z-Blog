@@ -6,9 +6,15 @@
 
 ---start---
 
-## 目录( 2023 年 02 月 09 日更新)
+## 目录( 2023 年 02 月 13 日更新)
+
+[「折腾」Docker + pipenv 运行 Python 项目](https://www.wdssmq.com/post/20220531665.html "「折腾」Docker + pipenv 运行 Python 项目")
 
 [「折腾」Docker 部署 Gitea 时的一些记录](https://www.wdssmq.com/post/20220721836.html "「折腾」Docker 部署 Gitea 时的一些记录")
+
+[2011年1月5日冷笑话合集 - 亲自出马](https://www.wdssmq.com/post/2011Nian1Yue5RiLengXiaoHuaHeJi-QinZiChuMa.html "2011年1月5日冷笑话合集 - 亲自出马")
+
+[2010年11月29日冷笑话合集 - 打蚊子](https://www.wdssmq.com/post/2010Nian11Yue29RiLengXiaoHuaHeJi-DaWenZi.html "2010年11月29日冷笑话合集 - 打蚊子")
 
 [「折腾」GitHub Actions 如何提取推送的 Tag](https://www.wdssmq.com/post/20220706871.html "「折腾」GitHub Actions 如何提取推送的 Tag")
 
@@ -29,6 +35,8 @@
 [「备忘」那些需要全局安装的 node 包](https://www.wdssmq.com/post/20230103270.html "「备忘」那些需要全局安装的 node 包")
 
 [「备忘」web.config 设置重定向（301）](https://www.wdssmq.com/post/web-configSheZhiZhongDingXiang-301.html "「备忘」web.config 设置重定向（301）")
+
+[2011年9月5日冷笑话合集 - 别的妈妈怎么办](https://www.wdssmq.com/post/2011Nian9Yue5RiLengXiaoHuaHeJi-BieDeMaMaZenMeBan.html "2011年9月5日冷笑话合集 - 别的妈妈怎么办")
 
 [2011年8月7日冷笑话合集 - 证件类型](https://www.wdssmq.com/post/2011Nian8Yue7RiLengXiaoHuaHeJi-ZhengJianLeiXing.html "2011年8月7日冷笑话合集 - 证件类型")
 
@@ -73,14 +81,6 @@
 [2011年1月19日冷笑话合集 - 换男友](https://www.wdssmq.com/post/2011Nian1Yue19RiLengXiaoHuaHeJi-HuanNanYou.html "2011年1月19日冷笑话合集 - 换男友")
 
 [2011年2月14日冷笑话合集 - 自带乐器](https://www.wdssmq.com/post/2011Nian2Yue14RiLengXiaoHuaHeJi-ZiDaiLeQi.html "2011年2月14日冷笑话合集 - 自带乐器")
-
-[2011年2月12日冷笑话合集 - 等指示](https://www.wdssmq.com/post/2011Nian2Yue12RiLengXiaoHuaHeJi-DengZhiShi.html "2011年2月12日冷笑话合集 - 等指示")
-
-[2011年1月24日冷笑话合集 - 春运](https://www.wdssmq.com/post/2011Nian1Yue24RiLengXiaoHuaHeJi-ChunYun.html "2011年1月24日冷笑话合集 - 春运")
-
-[【备忘】如何对定制的 Bootstrap 进行修改](https://www.wdssmq.com/post/20140717995.html "【备忘】如何对定制的 Bootstrap 进行修改")
-
-[2012年10月2日冷笑话合集 - 吃货妹子伤不起](https://www.wdssmq.com/post/20121008639.html "2012年10月2日冷笑话合集 - 吃货妹子伤不起")
 
 ---end---
 
