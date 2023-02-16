@@ -6,11 +6,15 @@
 
 ---start---
 
-## 目录( 2023 年 02 月 13 日更新)
+## 目录( 2023 年 02 月 16 日更新)
+
+[「备忘」那些需要全局安装的 node 包](https://www.wdssmq.com/post/20230103270.html "「备忘」那些需要全局安装的 node 包")
 
 [「折腾」Docker + pipenv 运行 Python 项目](https://www.wdssmq.com/post/20220531665.html "「折腾」Docker + pipenv 运行 Python 项目")
 
 [「折腾」Docker 部署 Gitea 时的一些记录](https://www.wdssmq.com/post/20220721836.html "「折腾」Docker 部署 Gitea 时的一些记录")
+
+[皮卡丘那些令人心碎的句子](https://www.wdssmq.com/post/PiKaQiuNaXieLingRenXinSuiDeJuZi.html "皮卡丘那些令人心碎的句子")
 
 [2011年1月5日冷笑话合集 - 亲自出马](https://www.wdssmq.com/post/2011Nian1Yue5RiLengXiaoHuaHeJi-QinZiChuMa.html "2011年1月5日冷笑话合集 - 亲自出马")
 
@@ -30,9 +34,9 @@
 
 [总觉得 phpstudy 的「国产」属性太浓烈……](https://www.wdssmq.com/post/20200325228.html "总觉得 phpstudy 的「国产」属性太浓烈……")
 
-[2010年11月19日冷笑话合集 - 遗产](https://www.wdssmq.com/post/2010Nian11Yue19RiLengXiaoHuaHeJi-YiChan.html "2010年11月19日冷笑话合集 - 遗产")
+[当年投胎选了 Hard 模式，结果生在中国](https://www.wdssmq.com/post/DangNianTouTaiXuanLeHardMoShi-JieGuoShengZaiZhongGuo.html "当年投胎选了 Hard 模式，结果生在中国")
 
-[「备忘」那些需要全局安装的 node 包](https://www.wdssmq.com/post/20230103270.html "「备忘」那些需要全局安装的 node 包")
+[2010年11月19日冷笑话合集 - 遗产](https://www.wdssmq.com/post/2010Nian11Yue19RiLengXiaoHuaHeJi-YiChan.html "2010年11月19日冷笑话合集 - 遗产")
 
 [「备忘」web.config 设置重定向（301）](https://www.wdssmq.com/post/web-configSheZhiZhongDingXiang-301.html "「备忘」web.config 设置重定向（301）")
 
@@ -77,10 +81,6 @@
 [关于 API 和 OAuth 授权验证](https://www.wdssmq.com/post/ZuoWanDeMengHaiZhenShiXuanYiJiaKeHuanTuCaoChuMei.html "关于 API 和 OAuth 授权验证")
 
 [2011年1月20日冷笑话合集 - 好计策](https://www.wdssmq.com/post/2011Nian1Yue20RiLengXiaoHuaHeJi-HaoJiCe.html "2011年1月20日冷笑话合集 - 好计策")
-
-[2011年1月19日冷笑话合集 - 换男友](https://www.wdssmq.com/post/2011Nian1Yue19RiLengXiaoHuaHeJi-HuanNanYou.html "2011年1月19日冷笑话合集 - 换男友")
-
-[2011年2月14日冷笑话合集 - 自带乐器](https://www.wdssmq.com/post/2011Nian2Yue14RiLengXiaoHuaHeJi-ZiDaiLeQi.html "2011年2月14日冷笑话合集 - 自带乐器")
 
 ---end---
 
