@@ -3,6 +3,7 @@ title: 「折腾」ESLint 安装与使用
 date: 2021-09-02 13:37:25
 tags:
 - JavaScript
+- eslint
 - VSCode
 - 折腾
 categories:
@@ -161,6 +162,10 @@ eslint-plugin-vue@latest
 eslint vite.config.js
 # 检查目录
 eslint src/**/*.vue src/**/*.js
+# 指定后缀 + 自动修复
+eslint . --ext .js,.mjs --fix
+# 排除指定文件中定义的路径
+eslint . --ext .js,.mjs --fix --ignore-path .gitignore
 ```
 
 Command Line Interface - ESLint 中文：
