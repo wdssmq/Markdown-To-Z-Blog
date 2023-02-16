@@ -29,8 +29,11 @@ cnpm i -g @lint-md/core @lint-md/cli
 # lint-md/lint-md: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！
 # https://github.com/lint-md/lint-md
 
-cnpm install -g browser-sync
+cnpm i -g browser-sync
 # Browsersync - Time-saving synchronised browser testing
 # https://browsersync.io/
 
+cnpm i -g eslint
+# 「折腾」ESLint 安装与使用_电脑网络_沉冰浮水
+# https://www.wdssmq.com/post/20190917021.html
 ```
