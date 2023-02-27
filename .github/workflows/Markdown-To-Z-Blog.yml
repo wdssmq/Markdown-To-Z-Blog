@@ -6,29 +6,34 @@ on:
     paths:
       - '_posts/**'
 jobs:
-  push:
+  post:
     runs-on: ubuntu-20.04
     env:
-      TZ: Asia/Shanghai # https://xirikm.net/2020/215-1
+      TZ: Asia/Shanghai
     steps:
+      # Checkout
       - name: Checkout
-        uses: actions/checkout@v2 # Checking out the repo
+        uses: actions/checkout@v3
+      # Install deps - pipenv in Docker
       - name: Install dependecies
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
-          command: install -d # Install all dependencies, including development ones
+          command: install -d
+      # Get Post Changes
       - name: Get file changes
         id: file_changes
         uses: trilom/file-changes-action@v1.2.4
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           # output: '" "'
+      # Set ENV Form Last Step
       - name: _cache_logs
         env:
           _cache_logs: ${{ steps.file_changes.outputs.files }}
         run: |
           echo ${_cache_logs}
-      - name: Build
+      # Post To Z-BlogPHP - pipenv in Docker
+      - name: Post
         env:
           API_USR: ${{ secrets.API_USR }}
           API_PWD: ${{ secrets.API_PWD }}
@@ -38,7 +43,8 @@ jobs:
           _cache_logs: ${{ steps.file_changes.outputs.files }}
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
-          command: run build
+          command: run post
+      # Commit Changes To Git
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
