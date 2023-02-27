@@ -122,9 +122,9 @@ Resilio Sync 是一个软件，可以加 QQ 群获取；
 
 [https://www.wdssmq.com/post/20180526833.html](https://www.wdssmq.com/post/20180526833.html "佛系安利：Resilio Sync\_电脑网络\_沉冰浮水")
 
-【言说】RSS 是一种态度！！\_杂七杂八\_沉冰浮水：
+「言说」RSS 是一种态度！！\_杂七杂八\_沉冰浮水：
 
-[https://www.wdssmq.com/post/20201231613.html](https://www.wdssmq.com/post/20201231613.html "【言说】RSS 是一种态度！！\_杂七杂八\_沉冰浮水")
+[https://www.wdssmq.com/post/20201231613.html](https://www.wdssmq.com/post/20201231613.html "「言说」RSS 是一种态度！！\_杂七杂八\_沉冰浮水")
 
 ### 其他
 
