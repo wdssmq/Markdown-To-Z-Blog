@@ -1,5 +1,5 @@
 ---
-title: 【言说】停不下的写作和代码
+title: 「言说」停不下的写作和代码
 date: 2021-02-05 17:14:01
 tags:
 - md2zb
@@ -107,7 +107,7 @@ wdssmq/Markdown-To-Z-Blog: 使用 GitHub Actions + Markdown 更新 Z-Blog 博客
 
 而我正好在昨天写了一篇：
 
-[【言说】相对擅长写代码，然而也只有写代码](https://zbp17.wdssmq.com/post/8.html "【言说】相对擅长写代码，然而也只有写代码")
+[「言说」相对擅长写代码，然而也只有写代码](https://zbp17.wdssmq.com/post/8.html "「言说」相对擅长写代码，然而也只有写代码")
 
 然而也没有然而。。。。
 
