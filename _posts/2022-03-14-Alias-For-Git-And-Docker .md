@@ -77,12 +77,16 @@ Git 命令，则可以设置在`~/.gitconfig`内：
     rea = remote add
     res = remote set-url
     rev = remote -v
+    ren = remote rename
+    rem = remote remove
+    re  = remote
 
     # fetch
     fe  = fetch
+    fea = fetch --all
     fep = fetch -p
-    fo  = fetch origin
-    fop = fetch origin -p
+    # fo  = fetch origin
+    # fop = fetch origin -p
 
     # merge
     mr  = merge

@@ -36,8 +36,12 @@ git remote -v
 
 # 获取并查看分支信息
 
-git fetch -a
+git fetch --all
 git branch -a
+
+# -a 命令不懂啥用处
+
+# git fetch -a
 
 # 设置默认仓库
 
@@ -46,6 +50,10 @@ git config branch.master.remote wdssmq
 # 下边命令可以直接修改远程仓库地址
 
 # git remote set-url origin <url>
+
+# 从另外的远程库合并更新
+
+git merge --no-commit BrowserSync/master
 
 ```
 
