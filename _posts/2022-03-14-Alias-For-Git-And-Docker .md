@@ -74,11 +74,8 @@ Git 命令，则可以设置在`~/.gitconfig`内：
     tgp = push origin --tags
 
     # remote
-    ra  = remote add
-    rao = remote add origin
-    ru  = remote set-url
-    ruo = remote set-url origin
-    # re  = remote
+    rea = remote add
+    res = remote set-url
     rev = remote -v
 
     # fetch
