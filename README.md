@@ -8,6 +8,8 @@
 
 ## 目录( 2023 年 03 月 02 日更新)
 
+[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
+
 [「言说」卡关人生](https://www.wdssmq.com/post/20230102799.html "「言说」卡关人生")
 
 [流沙有时比岩石更坚固！【人生哲理】](https://www.wdssmq.com/post/LiuShaYouShiBiYanShiGengJianGu.html "流沙有时比岩石更坚固！【人生哲理】")
@@ -79,8 +81,6 @@
 [20 件学开车遇到的杯具事，连车都笑了！](https://www.wdssmq.com/post/20JianXueKaiCheYuDaoDeBeiJuShi-LianCheDouXiaoLe.html "20 件学开车遇到的杯具事，连车都笑了！")
 
 [在线等！外地 QQ 号东莞能用吗？【无厘网文】](https://www.wdssmq.com/post/ZaiXianDeng-WaiDiQQHaoDongNengYongMa.html "在线等！外地 QQ 号东莞能用吗？【无厘网文】")
-
-[2011 年 1 月 1 日冷笑话合集 - 流行](https://www.wdssmq.com/post/2011Nian1Yue1RiLengXiaoHuaHeJi-LiuXing.html "2011 年 1 月 1 日冷笑话合集 - 流行")
 
 ---end---
 
