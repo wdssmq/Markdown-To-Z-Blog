@@ -10,6 +10,8 @@
 
 [「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
 
+[「Git_笔记」git remote 命令](https://www.wdssmq.com/post/20220525683.html "「Git_笔记」git remote 命令")
+
 [「言说」卡关人生](https://www.wdssmq.com/post/20230102799.html "「言说」卡关人生")
 
 [流沙有时比岩石更坚固！【人生哲理】](https://www.wdssmq.com/post/LiuShaYouShiBiYanShiGengJianGu.html "流沙有时比岩石更坚固！【人生哲理】")
@@ -79,8 +81,6 @@
 [2011 年 9 月 7 日冷笑话合集 - 迷人的月色](https://www.wdssmq.com/post/2011Nian9Yue7RiLengXiaoHuaHeJi-MiRenDeYueSe.html "2011 年 9 月 7 日冷笑话合集 - 迷人的月色")
 
 [20 件学开车遇到的杯具事，连车都笑了！](https://www.wdssmq.com/post/20JianXueKaiCheYuDaoDeBeiJuShi-LianCheDouXiaoLe.html "20 件学开车遇到的杯具事，连车都笑了！")
-
-[在线等！外地 QQ 号东莞能用吗？【无厘网文】](https://www.wdssmq.com/post/ZaiXianDeng-WaiDiQQHaoDongNengYongMa.html "在线等！外地 QQ 号东莞能用吗？【无厘网文】")
 
 ---end---
 
