@@ -8,6 +8,8 @@
 
 ## 目录( 2023 年 03 月 04 日更新)
 
+[「Ubuntu 笔记」最终并没有用上的 Lubuntu](https://www.wdssmq.com/post/20200315932.html "「Ubuntu 笔记」最终并没有用上的 Lubuntu")
+
 [MS 很多天没更新了。。](https://www.wdssmq.com/post/MSHenDuoTianMeiGengXinLe.html "MS 很多天没更新了。。")
 
 [「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
@@ -79,8 +81,6 @@
 [2011 年 8 月 18 日冷笑话合集 - 自己家一样](https://www.wdssmq.com/post/2011Nian8Yue18RiLengXiaoHuaHeJi-ZiJiJiaYiYang.html "2011 年 8 月 18 日冷笑话合集 - 自己家一样")
 
 [等人不超过 45 分钟【生活哲学】](https://www.wdssmq.com/post/DengRenBuChaoGuo45FenZhongShengHuoZheXue.html "等人不超过 45 分钟【生活哲学】")
-
-[善举之后！](https://www.wdssmq.com/post/20100204358.html "善举之后！")
 
 ---end---
 
