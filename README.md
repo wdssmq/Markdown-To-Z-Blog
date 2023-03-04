@@ -8,6 +8,16 @@
 
 ## 目录( 2023 年 03 月 04 日更新)
 
+[「列表」需要时却可能找不到的网址](https://www.wdssmq.com/post/20191227185.html "「列表」需要时却可能找不到的网址")
+
+[「列表」一些 Git 项目列表](https://www.wdssmq.com/post/20200609636.html "「列表」一些 Git 项目列表")
+
+[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
+
+[2011 年 8 月 28 日冷笑话合集 - 女婿太优秀](https://www.wdssmq.com/post/2011Nian8Yue28RiLengXiaoHuaHeJi-NuXuTaiYouXiu.html "2011 年 8 月 28 日冷笑话合集 - 女婿太优秀")
+
+[「折腾」Linux 命令行部署 QQ 机器人 mirai](https://www.wdssmq.com/post/20141117777.html "「折腾」Linux 命令行部署 QQ 机器人 mirai")
+
 [「Ubuntu 笔记」最终并没有用上的 Lubuntu](https://www.wdssmq.com/post/20200315932.html "「Ubuntu 笔记」最终并没有用上的 Lubuntu")
 
 [MS 很多天没更新了。。](https://www.wdssmq.com/post/MSHenDuoTianMeiGengXinLe.html "MS 很多天没更新了。。")
@@ -48,8 +58,6 @@
 
 [2011 年 7 月 2 日冷笑话合集 - 杂志的作用](https://www.wdssmq.com/post/2011Nian7Yue2RiLengXiaoHuaHeJi-ZaZhiDeZuoYong.html "2011 年 7 月 2 日冷笑话合集 - 杂志的作用")
 
-[「折腾」Linux 命令行部署 QQ 机器人 mirai](https://www.wdssmq.com/post/20141117777.html "「折腾」Linux 命令行部署 QQ 机器人 mirai")
-
 [我想买一部 IP4 请问什么牌子的比较好？](https://www.wdssmq.com/post/WoXiangMaiYiBuIP4QingWenShiMePaiZiDeBiJiaoHao.html "我想买一部 IP4 请问什么牌子的比较好？")
 
 [2010 年 12 月 1 日冷笑话合集 - 生命的估价](https://www.wdssmq.com/post/2010Nian12Yue1RiLengXiaoHuaHeJi-ShengMingDeGuJia.html "2010 年 12 月 1 日冷笑话合集 - 生命的估价")
@@ -73,14 +81,6 @@
 [2011 年 9 月 13 日冷笑话合集 - 开学](https://www.wdssmq.com/post/2011Nian9Yue13RiLengXiaoHuaHeJi-KaiXue.html "2011 年 9 月 13 日冷笑话合集 - 开学")
 
 [今天心情不错，点个名【老湿语录】](https://www.wdssmq.com/post/JinTianXinQingBuCuo-DianGeMingLaoShiYuLu.html "今天心情不错，点个名【老湿语录】")
-
-[2010 年 8 月 20 日冷笑话合集 - 家庭历史](https://www.wdssmq.com/post/2010Nian8Yue20RiXiaoHuaHeJi-JiaTingLiShi.html "2010 年 8 月 20 日冷笑话合集 - 家庭历史")
-
-[2019，又一个十年的开始与结束【说点什么】](https://www.wdssmq.com/post/20190105756.html "2019，又一个十年的开始与结束【说点什么】")
-
-[2011 年 8 月 18 日冷笑话合集 - 自己家一样](https://www.wdssmq.com/post/2011Nian8Yue18RiLengXiaoHuaHeJi-ZiJiJiaYiYang.html "2011 年 8 月 18 日冷笑话合集 - 自己家一样")
-
-[等人不超过 45 分钟【生活哲学】](https://www.wdssmq.com/post/DengRenBuChaoGuo45FenZhongShengHuoZheXue.html "等人不超过 45 分钟【生活哲学】")
 
 ---end---
 
