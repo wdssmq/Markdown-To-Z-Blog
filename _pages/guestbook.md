@@ -3,6 +3,7 @@ title: 留言本 / 关于
 date: 2021-03-27 09:45:11
 id: 1633
 alias: guestbook
+layout: page
 ---
 
 ```yml
