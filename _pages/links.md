@@ -6,7 +6,7 @@ alias: YouQingLianJie
 layout: page
 ---
 
-## 请以先试图认识我开始：
+## 请以先试图认识我开始
 
 - 群：我的咸鱼心 [https://jq.qq.com/?_wv=1027&k=3FgS3aI1](https://jq.qq.com/?_wv=1027&k=3FgS3aI1 "我的咸鱼心")
 - QQ：349467624
@@ -18,7 +18,7 @@ layout: page
 
 <!--more-->
 
-## 要求：
+## 要求
 
 **1、基于前台模板构成的页面源码符合一定质量（参考 w3c 验证）**
 
