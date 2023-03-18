@@ -1,5 +1,5 @@
 ---
-title: 【折腾】基于 Node 的 QQ 机器人项目
+title: 「折腾」基于 Node 的 QQ 机器人项目
 date: 2021-01-01 11:19:13
 tags:
 - QQ
@@ -13,6 +13,15 @@ zhihu: https://zhuanlan.zhihu.com/p/353340704
 csdn: https://blog.csdn.net/qq_15022221/article/details/114174661
 ---
 
+> 2023-03-15
+>
+> 又又不能用了，不过有个 Fork 还有推进：[icqqjs/icqq](https://github.com/icqqjs/icqq "Tencent QQ Bot Library for Node.js")；
+>
+> 本来想自己实现 OneBot 接口，算是第一个 TS 项目，就略艰难，然后就发现也已经有了：[lc-cn/onebots](https://github.com/lc-cn/onebots "基于 icqq 的多例 oneBot 管理应用")；
+
+
+> 2021-01-01
+>
 > 酷 Q 不能用了。更换了 Node 项目。
 >
 > [【折腾】在 Docker 中运行酷 Q 机器人](https://www.wdssmq.com/post/20181129356.html "【折腾】在 Docker 中运行酷 Q 机器人")
@@ -25,38 +34,26 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/114174661
 
 <!--more-->
 
-### 安装配置 ondebot
-
-另外一种安装方法：[https://github.com/takayama-lily/oicq/tree/master/http-api](https://github.com/takayama-lily/oicq/tree/master/http-api "oicq/http-api at master · takayama-lily/oicq")
+### 安装及配置
 
 ```bash
-cd ~
-if [ ! -d node ]; then
-  mkdir -p node
-fi
+# 全局安装
+# npm install -g onebots
+cnpm install -g onebots
 
-cd ~/node
-if [ ! -d onebot ]; then
-  git clone git@github.com:takayama-lily/node-onebot.git onebot
-fi
+# 创建目录
+RUN_DIR=~/node/onebots
+mkdir -p $RUN_DIR
+cd $RUN_DIR
 
-cd ~/node/onebot
-if [ ! -e config.js ]; then
-  cp config.sample.js config.js
-fi
+# 初始化
+onebots -c config.yaml
 
-# 修改 config.js 加入配置项；
-
-node main 12123222
+# 修改配置后再次执行
+onebots -c config.yaml
 ```
 
-之后请参照引导揭示登录；
-
-可能需要的参考：
-
-如何完成滑动验证码并取得 ticket：[https://github.com/takayama-lily/onebot/issues/28](https://github.com/takayama-lily/onebot/issues/28 "如何完成滑动验证码并取得ticket · Issue #28 · takayama-lily/onebot")
-
-首次登录成功后只需要使用`node main 12123222`登录；
+> 具体配置，如何后台运行，然后和 Z-BlogPHP 的互通啥的目前没还没搞定……
 
 ### 使用 pm2 持久化运行
 
@@ -67,11 +64,14 @@ PM2 是 node 进程管理工具，可以利用它来简化很多 node 应用管�
 npm install -g pm2
 
 # 开启持久化运行
-cd ~/node/onebot
+RUN_DIR=~/node/onebots
+cd $RUN_DIR
 # pm2 delete all
 
-pm2 start main.js -n onebot -- 12123222
-pm2 logs onebot
+
+# 这里目前没搞定，，，
+# pm2 start ecosystem.config.js
+# pm2 logs onebots
 
 # 开机自启
 pm2 save
