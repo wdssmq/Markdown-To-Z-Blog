@@ -8,6 +8,8 @@
 
 ## 目录( 2023 年 03 月 19 日更新)
 
+[各种广告「广告慎入」](https://www.wdssmq.com/post/20230319748.html "各种广告「广告慎入」")
+
 [2019，又一个十年的开始与结束【说点什么】](https://www.wdssmq.com/post/20190105756.html "2019，又一个十年的开始与结束【说点什么】")
 
 [话说把“无力吐槽”弄个子栏目？](https://www.wdssmq.com/post/HuaShuoBa-WuLiTuCao-NongGeZiLanMu.html "话说把“无力吐槽”弄个子栏目？")
@@ -79,8 +81,6 @@
 [2010 暴强语录盘点](https://www.wdssmq.com/post/20100411517.html "2010 暴强语录盘点")
 
 [有一种爱叫喜欢，有一种喜欢叫爱](https://www.wdssmq.com/post/20100515424.html "有一种爱叫喜欢，有一种喜欢叫爱")
-
-[流沙有时比岩石更坚固！【人生哲理】](https://www.wdssmq.com/post/LiuShaYouShiBiYanShiGengJianGu.html "流沙有时比岩石更坚固！【人生哲理】")
 
 ---end---
 
