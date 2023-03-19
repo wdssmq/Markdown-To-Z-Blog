@@ -16,6 +16,8 @@ alias: web-configSheZhiZhongDingXiang-301
 
 从 IIS7.0 开始支持通过 web.config 文件进行一些设置，包括重定向（301）。
 
+<!--more-->
+
 需要服务器安装重写组件（Rewrite），下载安装或者询问空间商是否支持；
 
 > URL Rewrite : The Official Microsoft IIS Site
