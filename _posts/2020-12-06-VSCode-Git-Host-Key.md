@@ -83,6 +83,23 @@ ssh-keygen -t ecdsa
 
 --------------------
 
+> kex_exchange_identification: Connection closed by remote host
+
+说明：
+
+以我这儿来说就是网络问题，关于 github 的连接问题，首选建议是配置 host 文件，见这个项目： [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520 "521xueweihan/GitHub520")
+
+我遇到这个问题是因为在 SSH 配置中设置了代理，然后代理不通了，理论上换个节点也能好，但是正好前边配置过了 host，之后改为直连看看吧；
+
+```ini
+Host github.com
+  User git
+  # ProxyCommand "C:\Program Files\Git\mingw64\bin\connect.exe" -S 127.0.0.1:10808 %h %p
+
+```
+
+--------------------
+
 相关：
 
 [【备忘】msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit安装及使用")
