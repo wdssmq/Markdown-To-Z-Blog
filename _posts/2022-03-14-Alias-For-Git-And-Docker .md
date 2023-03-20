@@ -69,7 +69,7 @@ Git 命令，则可以设置在`~/.gitconfig`内：
     swc = switch -c
 
     # tag
-    tg = tag -n
+    tgn = tag -n
     tgr = ls-remote --tags origin
     tgp = push origin --tags
 
@@ -96,6 +96,16 @@ Git 命令，则可以设置在`~/.gitconfig`内：
     # commit
     ci  = commit
     cim = commit -m
+
+    # push
+    pus = push origin
+    put = push origin --tags
+
+    # reset
+    res = reset --soft HEAD^
+    rem = reset --mixed HEAD^
+    resc = reset --soft
+    remc = reset --mixed
 
 ```
 
