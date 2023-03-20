@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2023 年 03 月 19 日更新)
+## 目录( 2023 年 03 月 20 日更新)
+
+[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
 
 [「VSCode 笔记」Git: Host key verification failed](https://www.wdssmq.com/post/20201216004.html "「VSCode 笔记」Git: Host key verification failed")
 
@@ -30,6 +32,8 @@
 
 [「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
 
+[老湿，乃流氓了](https://www.wdssmq.com/post/LaoShi-NaiLiuMangLe.html "老湿，乃流氓了")
+
 [「言说」相对擅长写代码，然而也只有写代码](https://www.wdssmq.com/post/20210224671.html "「言说」相对擅长写代码，然而也只有写代码")
 
 [【非解决】关于&amp;quot;修复此驱动器时出现问题&amp;quot;](https://www.wdssmq.com/post/20131224366.html "【非解决】关于&amp;quot;修复此驱动器时出现问题&amp;quot;")
@@ -41,6 +45,8 @@
 [2010 年 9 月 1 日冷笑话合集 - 电脑桌面](https://www.wdssmq.com/post/2010nian9yue1rixiaohuaheji-diannaozhuomian.html "2010 年 9 月 1 日冷笑话合集 - 电脑桌面")
 
 [2010 年 9 月 4 日冷笑话合集 - 意味着什么？](https://www.wdssmq.com/post/2010nian9yue4rixiaohuaheji-yiweizheshime.html "2010 年 9 月 4 日冷笑话合集 - 意味着什么？")
+
+[中国菜的装 13 小资叫法](https://www.wdssmq.com/post/ZhongGuoDeZhuang13XiaoZiJiaoFa.html "中国菜的装 13 小资叫法")
 
 [2011 年 8 月 20 日冷笑话合集 - 微不足道](https://www.wdssmq.com/post/2011Nian8Yue20RiLengXiaoHuaHeJi-WeiBuZuDao.html "2011 年 8 月 20 日冷笑话合集 - 微不足道")
 
@@ -74,13 +80,7 @@
 
 [MS 很多天没更新了。。](https://www.wdssmq.com/post/MSHenDuoTianMeiGengXinLe.html "MS 很多天没更新了。。")
 
-[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
-
 [「Git_笔记」git remote 命令](https://www.wdssmq.com/post/20220525683.html "「Git_笔记」git remote 命令")
-
-[「言说」卡关人生](https://www.wdssmq.com/post/20230102799.html "「言说」卡关人生")
-
-[2010 暴强语录盘点](https://www.wdssmq.com/post/20100411517.html "2010 暴强语录盘点")
 
 ---end---
 
