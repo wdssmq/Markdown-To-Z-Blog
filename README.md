@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2023 年 03 月 20 日更新)
+## 目录( 2023 年 03 月 23 日更新)
+
+[「折腾」Linux 命令行部署 QQ 机器人 mirai](https://www.wdssmq.com/post/20141117777.html "「折腾」Linux 命令行部署 QQ 机器人 mirai")
 
 [「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
 
@@ -34,6 +36,8 @@
 
 [老湿，乃流氓了](https://www.wdssmq.com/post/LaoShi-NaiLiuMangLe.html "老湿，乃流氓了")
 
+[4A 装逼指南简版](https://www.wdssmq.com/post/20100219270.html "4A 装逼指南简版")
+
 [「言说」相对擅长写代码，然而也只有写代码](https://www.wdssmq.com/post/20210224671.html "「言说」相对擅长写代码，然而也只有写代码")
 
 [【非解决】关于&amp;quot;修复此驱动器时出现问题&amp;quot;](https://www.wdssmq.com/post/20131224366.html "【非解决】关于&amp;quot;修复此驱动器时出现问题&amp;quot;")
@@ -45,6 +49,8 @@
 [2010 年 9 月 1 日冷笑话合集 - 电脑桌面](https://www.wdssmq.com/post/2010nian9yue1rixiaohuaheji-diannaozhuomian.html "2010 年 9 月 1 日冷笑话合集 - 电脑桌面")
 
 [2010 年 9 月 4 日冷笑话合集 - 意味着什么？](https://www.wdssmq.com/post/2010nian9yue4rixiaohuaheji-yiweizheshime.html "2010 年 9 月 4 日冷笑话合集 - 意味着什么？")
+
+[精品校园笑话：学生们真有才](https://www.wdssmq.com/post/20100220895.html "精品校园笑话：学生们真有才")
 
 [中国菜的装 13 小资叫法](https://www.wdssmq.com/post/ZhongGuoDeZhuang13XiaoZiJiaoFa.html "中国菜的装 13 小资叫法")
 
@@ -60,6 +66,8 @@
 
 [2015 年 4 月 22 日冷笑话合集 - 精辟的见解](https://www.wdssmq.com/post/20150422372.html "2015 年 4 月 22 日冷笑话合集 - 精辟的见解")
 
+[2015 年 7 月 2 日冷笑话合集 - 毛衣穿反了](https://www.wdssmq.com/post/20150702401.html "2015 年 7 月 2 日冷笑话合集 - 毛衣穿反了")
+
 [2010 年 12 月 10 日冷笑话合集 - 最可怜的人](https://www.wdssmq.com/post/2010Nian12Yue10RiLengXiaoHuaHeJi-ZuiKeLianDeRen.html "2010 年 12 月 10 日冷笑话合集 - 最可怜的人")
 
 [「列表」一些 Git 项目列表](https://www.wdssmq.com/post/20200609636.html "「列表」一些 Git 项目列表")
@@ -68,19 +76,11 @@
 
 [2011 年 8 月 28 日冷笑话合集 - 女婿太优秀](https://www.wdssmq.com/post/2011Nian8Yue28RiLengXiaoHuaHeJi-NuXuTaiYouXiu.html "2011 年 8 月 28 日冷笑话合集 - 女婿太优秀")
 
-[「折腾」Linux 命令行部署 QQ 机器人 mirai](https://www.wdssmq.com/post/20141117777.html "「折腾」Linux 命令行部署 QQ 机器人 mirai")
+[2010 年 9 月 24 日冷笑话合集 - 开业酬宾](https://www.wdssmq.com/post/2010nian9yue24rixiaohuaheji-kaiyechoubin.html "2010 年 9 月 24 日冷笑话合集 - 开业酬宾")
 
 [100 句既囧又有深度的话](https://www.wdssmq.com/post/20100214276.html "100 句既囧又有深度的话")
 
 [悲情的发现 Paypal 已经支持银联的](https://www.wdssmq.com/post/BeiQingDeFaXianPaypalYiJingZhiChiYinLianDe.html "悲情的发现 Paypal 已经支持银联的")
-
-[IT 业人士群聚喝酒的讲究](https://www.wdssmq.com/post/ITYeRenShiQunJuHeJiuDeJiangJiu.html "IT 业人士群聚喝酒的讲究")
-
-[「Ubuntu 笔记」最终并没有用上的 Lubuntu](https://www.wdssmq.com/post/20200315932.html "「Ubuntu 笔记」最终并没有用上的 Lubuntu")
-
-[MS 很多天没更新了。。](https://www.wdssmq.com/post/MSHenDuoTianMeiGengXinLe.html "MS 很多天没更新了。。")
-
-[「Git_笔记」git remote 命令](https://www.wdssmq.com/post/20220525683.html "「Git_笔记」git remote 命令")
 
 ---end---
 
