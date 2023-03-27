@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2023 年 03 月 23 日更新)
+## 目录( 2023 年 03 月 27 日更新)
+
+[「前端」切割图片并打乱](https://www.wdssmq.com/post/20220621981.html "「前端」切割图片并打乱")
 
 [「折腾」Linux 命令行部署 QQ 机器人 mirai](https://www.wdssmq.com/post/20141117777.html "「折腾」Linux 命令行部署 QQ 机器人 mirai")
 
@@ -42,6 +44,8 @@
 
 [【非解决】关于&amp;quot;修复此驱动器时出现问题&amp;quot;](https://www.wdssmq.com/post/20131224366.html "【非解决】关于&amp;quot;修复此驱动器时出现问题&amp;quot;")
 
+[各类 YY 文的固定套路【无厘网文】](https://www.wdssmq.com/post/20131030848.html "各类 YY 文的固定套路【无厘网文】")
+
 [2013 年 7 月 30 日冷笑话合集 - 老外不全会英语](https://www.wdssmq.com/post/20130730970.html "2013 年 7 月 30 日冷笑话合集 - 老外不全会英语")
 
 [练嘴经典，教你怎样幽默](https://www.wdssmq.com/post/20100517720.html "练嘴经典，教你怎样幽默")
@@ -76,11 +80,7 @@
 
 [2011 年 8 月 28 日冷笑话合集 - 女婿太优秀](https://www.wdssmq.com/post/2011Nian8Yue28RiLengXiaoHuaHeJi-NuXuTaiYouXiu.html "2011 年 8 月 28 日冷笑话合集 - 女婿太优秀")
 
-[2010 年 9 月 24 日冷笑话合集 - 开业酬宾](https://www.wdssmq.com/post/2010nian9yue24rixiaohuaheji-kaiyechoubin.html "2010 年 9 月 24 日冷笑话合集 - 开业酬宾")
-
-[100 句既囧又有深度的话](https://www.wdssmq.com/post/20100214276.html "100 句既囧又有深度的话")
-
-[悲情的发现 Paypal 已经支持银联的](https://www.wdssmq.com/post/BeiQingDeFaXianPaypalYiJingZhiChiYinLianDe.html "悲情的发现 Paypal 已经支持银联的")
+[2010 年 9 月 20 日冷笑话合集 - 名字太长](https://www.wdssmq.com/post/2010nian9yue20rixiaohuaheji-mingzitaichang.html "2010 年 9 月 20 日冷笑话合集 - 名字太长")
 
 ---end---
 
