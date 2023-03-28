@@ -62,9 +62,9 @@ alias: 20230102708
 
 首先这个是早期基于 Win10 版本的方案，需要再梳理下：
 
-> GenCode - 生成某串字符 - 水水的演示站：
+> GenCode - 一个特殊的 TOTP 生成工具 - 我的网站：
 >
-> [https://demo.wdssmq.com/tools/code/](https://demo.wdssmq.com/tools/code/ "GenCode - 生成某串字符 - 水水的演示站")
+> [https://demo.wdssmq.com/tools/GenCode/](https://demo.wdssmq.com/tools/GenCode/ "GenCode - 一个特殊的 TOTP 生成工具 - 我的网站")
 
 后来试过几种写小程序的姿势，也是写的这个需求，最新的是用了 taro：
 
@@ -80,42 +80,44 @@ alias: 20230102708
 
 因为只要输出 4 位字母，想着并不需要太复杂的计算，前边两版都是自己折腾的，也不知道能不能称之为「算法」；
 
-然后今天想起来可以让 AI 生成一下，顺便写了这篇文章，写到这里时还没仔细看生成的结果；
-
 > 不用复杂的加密实现一个 TOTP 算法，密钥只有数字，时间周期以天为单位，只有基本的加减剩除和 charCodeAt，输出为 4 位纯字母，A-Z 都有可能出现
 
+使用上边咒语时得到了一段看起来可以的代码，然而仔细看才发现函数给并没有使用 `secret` 变量，又让 AI 修改了几次……
+
+再给次机会，不行就还用自己的吧……
+
 ```js
-// 密钥，只有数字
-const secret = "1234567890";
-// 周期长度（以秒为单位）
-const period = 24 * 60 * 60; // 每天
 function totp(secret, period) {
     const timestamp = Math.floor(Date.now() / 1000); // 当前 Unix 时间戳
     const counter = Math.floor(timestamp / period); // 计数器取整数部分
 
-    let hashBytes = "";
+    let num = parseInt(secret);
 
-    for (let i = 7; i >= 0; i--) {
-        const byteVal = (counter >> (8 * i)) & 0xff;
-        hashBytes += String.fromCharCode(byteVal);
-    }
+    // 将密钥和计数器相加得到一个大数
+    num += counter;
 
+    // 对这个大数进行一些操作以获取哈希值
+    num *= num;
+    num /= (counter + 1) * secret;
+
+    // 获取前4位字符并将其映射到A-Z之间的ASCII码
     let password = "";
-
     for (let i = 0; i < 4; i++) {
-        let index = (hashBytes.charCodeAt(i) & 127) % 26 + 65;
+        let index = ((num >> (i * 8)) & 255) % 26 + 65;
         password += String.fromCharCode(index);
     }
 
     return password;
 }
-// 输出密码
-console.log(totp(secret, period));
+// 使用示例：
+const secretKey = "1234567890";
+const timePeriodInSecs = 24 * 60 * 60;
+console.log(totp(secretKey, timePeriodInSecs));
 ```
 
-> 上述代码使用了 charCodeAt 函数和基本算术运算来计算哈希值，并将其转换成 A-Z 字符集中的字符。由于密钥只包含数字，因此我们可以直接将计数器转换成字节数组而不必进行任何加密操作。
+> 此实现使用了传入的密钥和时间周期来生成哈希值。它首先将输入的字符串类型数字转换为整型，然后将其与当前时间戳除以给定周期后得到的计数器相加，从而产生一个较大的数字。接下来对该数字执行一些简单操作以生成哈希值，并从中提取前四个字符作为密码。
 >
-> 需要注意的是，在实际应用中，TOTP 算法需要更多安全措施来保护密钥和哈希函数等敏感信息。
+> 需要注意，在实际应用中，此算法可能不足以提供与标准 TOTP 算法相同的安全性保证。因此，如果需要更高的安全性，请使用专业的加密库或第三方服务来实现 TOTP 算法。
 
 
 ## 其他
