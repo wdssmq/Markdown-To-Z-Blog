@@ -9,6 +9,7 @@ categories:
 - 往物语
 id: 472
 alias: ZheGeZiMuZuHaoLan
+douban: https://www.douban.com/note/847135794
 ---
 
 实在是太懒了，，多加几个“-”会死啊。。

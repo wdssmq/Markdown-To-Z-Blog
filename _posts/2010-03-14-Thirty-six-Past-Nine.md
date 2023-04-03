@@ -9,6 +9,7 @@ categories:
 - 往物语
 id: 152
 alias: 20100314286
+douban: https://www.douban.com/note/847135719
 ---
 
 2022-06-12：所以说……
