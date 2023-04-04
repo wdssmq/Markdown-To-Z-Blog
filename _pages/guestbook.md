@@ -1,9 +1,9 @@
 ---
 title: 留言本 / 关于
 date: 2021-03-27 09:45:11
+layout: page
 id: 1633
 alias: guestbook
-layout: page
 ---
 
 ```yml
@@ -50,22 +50,22 @@ RSS 订阅：[https://feed.wdssmq.com/](https://feed.wdssmq.com/ "沉冰浮水�
 -\\| [![嘟特-@wdssmq](https://img.shields.io/mastodon/follow/142218?style=social&label=%E5%98%9F%E7%89%B9&domain=https%3A%2F%2Fwxw.moe%2F)](https://wxw.moe/users/wdssmq "嘟特-@wdssmq")
 -\\| [![哔哩哔哩-沉冰浮水](https://img.shields.io/badge/dynamic/json?style=social&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9&query=count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fbilibili%2F44744006&color=FE7398&logo=bilibili)](https://space.bilibili.com/44744006 "哔哩哔哩-沉冰浮水")
 -\\| [![知乎-沉冰浮水](https://img.shields.io/badge/dynamic/json?style=social&label=%E7%9F%A5%E4%B9%8E&query=count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fwdssmq&color=0084ff&logo=zhihu)](https://afdian.net/a/wdssmq "知乎-沉冰浮水")
--\\| [![GitHub-wdssmq](https://img.shields.io/github/followers/wdssmq?style=social&label=GitHub)](https://github.com/wdssmq.com "GitHub-wdssmq")
+-\\| [![GitHub-wdssmq](https://img.shields.io/github/followers/wdssmq?style=social&label=GitHub)](https://github.com/wdssmq "GitHub-wdssmq")
 
 ----
 
 QQ 群：[189574683](https://jq.qq.com/?_wv=1027&k=efK3gwpH "我的咸鱼心")
 
-博客：[https://www.wdssmq.com](https://www.wdssmq.com "沉冰浮水")
+博客：[https://www.wdssmq.com](https://www.wdssmq.com "沉冰浮水的博客")
 
-Feed：[https://feed.wdssmq.com](http://feed.wdssmq.com "Feed")
+Feed：[https://feed.wdssmq.com](http://feed.wdssmq.com "Feed_沉冰浮水")
 
-嘟特：\[ShortSth:嘟特\]Url\[/ShortSth\]
+嘟特：[https://wxw.moe/users/wdssmq](https://wxw.moe/users/wdssmq "沉冰浮水 - 呜呜 w(> ʌ <)w")
 
-B 站：[https://space.bilibili.com/44744006](https://space.bilibili.com/44744006 "bilibili")
+B 站：[https://space.bilibili.com/44744006](https://space.bilibili.com/44744006 "沉冰浮水_哔哩哔哩")
 
-知乎：[https://www.zhihu.com/people/wdssmq](https://www.zhihu.com/people/wdssmq "知乎")
+知乎：[https://www.zhihu.com/people/wdssmq](https://www.zhihu.com/people/wdssmq "沉冰浮水_知乎")
 
-GitHub：[https://github.com/wdssmq](https://github.com/wdssmq "GitHub")
+GitHub：[https://github.com/wdssmq](https://github.com/wdssmq "沉冰浮水 - GitHub")
 
-GreasyFork：[https://greasyfork.org/zh-CN/users/6865-wdssmq](https://greasyfork.org/zh-CN/users/6865-wdssmq "GreasyFork")
+GreasyFork：[https://greasyfork.org/zh-CN/users/6865-wdssmq](https://greasyfork.org/zh-CN/users/6865-wdssmq "wdsssmq - GreasyFork")
