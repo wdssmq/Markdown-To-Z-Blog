@@ -6,13 +6,19 @@
 
 ---start---
 
-## 目录( 2023 年 04 月 03 日更新)
+## 目录( 2023 年 04 月 11 日更新)
+
+[「言说」姑且还是备份了下新浪博客](https://www.wdssmq.com/post/20220808693.html "「言说」姑且还是备份了下新浪博客")
+
+[2012 年 7 月 25 日冷笑话合集 - 语出惊人](https://www.wdssmq.com/post/20100304464.html "2012 年 7 月 25 日冷笑话合集 - 语出惊人")
 
 [09：36「无力吐槽」](https://www.wdssmq.com/post/20100314286.html "09：36「无力吐槽」")
 
 [这个字幕组好懒【无力吐槽】](https://www.wdssmq.com/post/ZheGeZiMuZuHaoLan.html "这个字幕组好懒【无力吐槽】")
 
 [MKV 内置字幕提取/字幕编辑工具推荐](https://www.wdssmq.com/post/20120727734.html "MKV 内置字幕提取/字幕编辑工具推荐")
+
+[2014 年 3 月 25 日冷笑话合集 - 是亲爹吗？](https://www.wdssmq.com/post/20140325309.html "2014 年 3 月 25 日冷笑话合集 - 是亲爹吗？")
 
 [【真·碎碎念】2023/01/02 ~ 2023/04/02](https://www.wdssmq.com/post/20200129944.html "【真·碎碎念】2023/01/02 ~ 2023/04/02")
 
@@ -30,7 +36,11 @@
 
 [各种广告「广告慎入」](https://www.wdssmq.com/post/20230319748.html "各种广告「广告慎入」")
 
+[2011 年 8 月 26 日冷笑话合集 - 有钱的游客](https://www.wdssmq.com/post/2011Nian8Yue26RiLengXiaoHuaHeJi-YouQianDeYouKe.html "2011 年 8 月 26 日冷笑话合集 - 有钱的游客")
+
 [2010 年 11 月 8 日冷笑话合集 - 总结](https://www.wdssmq.com/post/2010Nian11Yue8RiXiaoHuaHeJi-ZongJie.html "2010 年 11 月 8 日冷笑话合集 - 总结")
+
+[2011 年 8 月 10 日冷笑话合集 - 危险的食物](https://www.wdssmq.com/post/2011Nian8Yue10RiLengXiaoHuaHeJi-WeiXianDeShiWu.html "2011 年 8 月 10 日冷笑话合集 - 危险的食物")
 
 [2019，又一个十年的开始与结束【说点什么】](https://www.wdssmq.com/post/20190105756.html "2019，又一个十年的开始与结束【说点什么】")
 
@@ -50,6 +60,8 @@
 
 [「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
 
+[2010 年 10 月 4 日冷笑话合集 - 喝多了](https://www.wdssmq.com/post/2010Nian10Yue4RiLengXiaoHuaHeJi-HeDuoLe.html "2010 年 10 月 4 日冷笑话合集 - 喝多了")
+
 [老湿，乃流氓了](https://www.wdssmq.com/post/LaoShi-NaiLiuMangLe.html "老湿，乃流氓了")
 
 [4A 装逼指南简版](https://www.wdssmq.com/post/20100219270.html "4A 装逼指南简版")
@@ -60,27 +72,15 @@
 
 [各类 YY 文的固定套路【无厘网文】](https://www.wdssmq.com/post/20131030848.html "各类 YY 文的固定套路【无厘网文】")
 
+[2010 年 10 月 16 日冷笑话合集 - 需要我帮忙吗？](https://www.wdssmq.com/post/2010nian10yue16rixiaohuaheji-xuyaowobangmangma.html "2010 年 10 月 16 日冷笑话合集 - 需要我帮忙吗？")
+
+[26 个字母说爱你](https://www.wdssmq.com/post/26GeZiMuShuoAiNi.html "26 个字母说爱你")
+
 [2013 年 7 月 30 日冷笑话合集 - 老外不全会英语](https://www.wdssmq.com/post/20130730970.html "2013 年 7 月 30 日冷笑话合集 - 老外不全会英语")
 
 [练嘴经典，教你怎样幽默](https://www.wdssmq.com/post/20100517720.html "练嘴经典，教你怎样幽默")
 
 [2010 年 9 月 1 日冷笑话合集 - 电脑桌面](https://www.wdssmq.com/post/2010nian9yue1rixiaohuaheji-diannaozhuomian.html "2010 年 9 月 1 日冷笑话合集 - 电脑桌面")
-
-[2010 年 9 月 4 日冷笑话合集 - 意味着什么？](https://www.wdssmq.com/post/2010nian9yue4rixiaohuaheji-yiweizheshime.html "2010 年 9 月 4 日冷笑话合集 - 意味着什么？")
-
-[精品校园笑话：学生们真有才](https://www.wdssmq.com/post/20100220895.html "精品校园笑话：学生们真有才")
-
-[中国菜的装 13 小资叫法](https://www.wdssmq.com/post/ZhongGuoDeZhuang13XiaoZiJiaoFa.html "中国菜的装 13 小资叫法")
-
-[2011 年 8 月 20 日冷笑话合集 - 微不足道](https://www.wdssmq.com/post/2011Nian8Yue20RiLengXiaoHuaHeJi-WeiBuZuDao.html "2011 年 8 月 20 日冷笑话合集 - 微不足道")
-
-[2015 年 1 月 12 日冷笑话合集 - 小孩和大人的区别](https://www.wdssmq.com/post/20150112195.html "2015 年 1 月 12 日冷笑话合集 - 小孩和大人的区别")
-
-[2015 年 1 月 21 日冷笑话合集 - 打蜡的水果](https://www.wdssmq.com/post/20150121133.html "2015 年 1 月 21 日冷笑话合集 - 打蜡的水果")
-
-[2015 年 3 月 2 日冷笑话合集 - 数学都是体育老师教的？](https://www.wdssmq.com/post/20100504174.html "2015 年 3 月 2 日冷笑话合集 - 数学都是体育老师教的？")
-
-[2015 年 3 月 23 日冷笑话合集 - 离婚理由](https://www.wdssmq.com/post/20150323841.html "2015 年 3 月 23 日冷笑话合集 - 离婚理由")
 
 ---end---
 
