@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2023 年 04 月 11 日更新)
+## 目录( 2023 年 04 月 12 日更新)
+
+[所以就不是很懂 SEO](https://www.wdssmq.com/post/20100609752.html "所以就不是很懂 SEO")
 
 [「言说」姑且还是备份了下新浪博客](https://www.wdssmq.com/post/20220808693.html "「言说」姑且还是备份了下新浪博客")
 
@@ -17,6 +19,8 @@
 [这个字幕组好懒【无力吐槽】](https://www.wdssmq.com/post/ZheGeZiMuZuHaoLan.html "这个字幕组好懒【无力吐槽】")
 
 [MKV 内置字幕提取/字幕编辑工具推荐](https://www.wdssmq.com/post/20120727734.html "MKV 内置字幕提取/字幕编辑工具推荐")
+
+[2011 年 3 月 29 日冷笑话合集 - 贵在真实](https://www.wdssmq.com/post/20100215153.html "2011 年 3 月 29 日冷笑话合集 - 贵在真实")
 
 [2014 年 3 月 25 日冷笑话合集 - 是亲爹吗？](https://www.wdssmq.com/post/20140325309.html "2014 年 3 月 25 日冷笑话合集 - 是亲爹吗？")
 
@@ -77,10 +81,6 @@
 [26 个字母说爱你](https://www.wdssmq.com/post/26GeZiMuShuoAiNi.html "26 个字母说爱你")
 
 [2013 年 7 月 30 日冷笑话合集 - 老外不全会英语](https://www.wdssmq.com/post/20130730970.html "2013 年 7 月 30 日冷笑话合集 - 老外不全会英语")
-
-[练嘴经典，教你怎样幽默](https://www.wdssmq.com/post/20100517720.html "练嘴经典，教你怎样幽默")
-
-[2010 年 9 月 1 日冷笑话合集 - 电脑桌面](https://www.wdssmq.com/post/2010nian9yue1rixiaohuaheji-diannaozhuomian.html "2010 年 9 月 1 日冷笑话合集 - 电脑桌面")
 
 ---end---
 
