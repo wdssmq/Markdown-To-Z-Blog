@@ -8,6 +8,10 @@ categories:
  - 杂七杂八
 id: 283
 alias: 20100609752
+xlog: https://xlog.wdssmq.com/2023-04-12-What-Is-SEO
+csdn: https://blog.csdn.net/qq_15022221/article/details/130109705
+cnblogs: https://www.cnblogs.com/wdssmq/p/17310169.html
+geeknote: https://geeknote.net/wdssmq/posts/2280
 ---
 
 「[SEO](https://www.wdssmq.com/tag/SEO/ "SEO")」 这个 TAG 下以前有没有发过文章甚至都不记得了，至少现在本篇是第一篇……
