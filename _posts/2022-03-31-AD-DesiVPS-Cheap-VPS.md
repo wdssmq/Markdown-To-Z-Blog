@@ -2,14 +2,16 @@
 title: 「VPS」DesiVPS $20 年付优惠
 date: 2022-03-31 11:56:40
 tags:
+- DesiVPS
 - VPS
 - 广告
-- 广告慎入
 categories:
 - 广告慎入
 id: 1034
 alias: 20220219378
 ---
+
+<!-- 2022-03-31-AD-DesiVPS-Cheap-VPS.md -->
 
 ### 写在前边
 
@@ -43,6 +45,8 @@ alias: 20220219378
 [ShortSth:主机云][/ShortSth]「主要站点就放在这家」
 
 ### 配置信息
+
+> 2023-04-14：以下信息已失效；
 
 <!-- vps -->
 
@@ -124,7 +128,10 @@ Price : $105/Year | $10.5/Month
 
 <!-- [ShortSth:DesiVPS][/ShortSth] -->
 
-<!-- [ShortSth:HostNamaste][/ShortSth] -->
+<!-- [ShortSth:RackNerdVPS][/ShortSth] -->
 
 <!-- [ShortSth:VultrVPS][/ShortSth] -->
 
+<!-- [ShortSth:HostNamaste][/ShortSth] -->
+
+<!-- [ShortSth:aff][/ShortSth] -->
