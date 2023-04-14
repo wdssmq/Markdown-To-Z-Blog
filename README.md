@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录( 2023 年 04 月 12 日更新)
+## 目录( 2023 年 04 月 14 日更新)
+
+[「VPS」DesiVPS $20 年付优惠](https://www.wdssmq.com/post/20220219378.html "「VPS」DesiVPS $20 年付优惠")
+
+[「VPS」DesiVPS 23 年四月优惠丨可选中文 win 系统](https://www.wdssmq.com/post/20100211992.html "「VPS」DesiVPS 23 年四月优惠丨可选中文 win 系统")
 
 [所以就不是很懂 SEO](https://www.wdssmq.com/post/20100609752.html "所以就不是很懂 SEO")
 
@@ -28,6 +32,10 @@
 
 [【真·碎碎念】2022/09/05 ~ 2023/01/01](https://www.wdssmq.com/post/20230118772.html "【真·碎碎念】2022/09/05 ~ 2023/01/01")
 
+[集体奔向二十的 90 后](https://www.wdssmq.com/post/JiTiBenXiangErShiDe90Hou-RenRenDouShiYiShuJia.html "集体奔向二十的 90 后")
+
+[2011 年 10 月 11 日冷笑话合集 - 上学时的那些事](https://www.wdssmq.com/post/2011Nian10Yue11RiLengXiaoHuaHeJi-ShangXueShiDeNaXieShi.html "2011 年 10 月 11 日冷笑话合集 - 上学时的那些事")
+
 [「言说」2023 年仍然在纠结密码问题什么的](https://www.wdssmq.com/post/20230102708.html "「言说」2023 年仍然在纠结密码问题什么的")
 
 [「前端」切割图片并打乱](https://www.wdssmq.com/post/20220621981.html "「前端」切割图片并打乱")
@@ -41,6 +49,8 @@
 [各种广告「广告慎入」](https://www.wdssmq.com/post/20230319748.html "各种广告「广告慎入」")
 
 [2011 年 8 月 26 日冷笑话合集 - 有钱的游客](https://www.wdssmq.com/post/2011Nian8Yue26RiLengXiaoHuaHeJi-YouQianDeYouKe.html "2011 年 8 月 26 日冷笑话合集 - 有钱的游客")
+
+[2010 年 9 月 6 日冷笑话合集 - 默许](https://www.wdssmq.com/post/2010nian9yue6rixiaohuaheji-moxu.html "2010 年 9 月 6 日冷笑话合集 - 默许")
 
 [2010 年 11 月 8 日冷笑话合集 - 总结](https://www.wdssmq.com/post/2010Nian11Yue8RiXiaoHuaHeJi-ZongJie.html "2010 年 11 月 8 日冷笑话合集 - 总结")
 
@@ -71,16 +81,6 @@
 [4A 装逼指南简版](https://www.wdssmq.com/post/20100219270.html "4A 装逼指南简版")
 
 [「言说」相对擅长写代码，然而也只有写代码](https://www.wdssmq.com/post/20210224671.html "「言说」相对擅长写代码，然而也只有写代码")
-
-[【非解决】关于&amp;quot;修复此驱动器时出现问题&amp;quot;](https://www.wdssmq.com/post/20131224366.html "【非解决】关于&amp;quot;修复此驱动器时出现问题&amp;quot;")
-
-[各类 YY 文的固定套路【无厘网文】](https://www.wdssmq.com/post/20131030848.html "各类 YY 文的固定套路【无厘网文】")
-
-[2010 年 10 月 16 日冷笑话合集 - 需要我帮忙吗？](https://www.wdssmq.com/post/2010nian10yue16rixiaohuaheji-xuyaowobangmangma.html "2010 年 10 月 16 日冷笑话合集 - 需要我帮忙吗？")
-
-[26 个字母说爱你](https://www.wdssmq.com/post/26GeZiMuShuoAiNi.html "26 个字母说爱你")
-
-[2013 年 7 月 30 日冷笑话合集 - 老外不全会英语](https://www.wdssmq.com/post/20130730970.html "2013 年 7 月 30 日冷笑话合集 - 老外不全会英语")
 
 ---end---
 
