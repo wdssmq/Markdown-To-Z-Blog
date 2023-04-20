@@ -6,15 +6,29 @@
 
 ---start---
 
-## 目录( 2023 年 04 月 14 日更新)
+## 目录( 2023 年 04 月 20 日更新)
+
+[「折腾」使用 rollup.js 模块化编写 GM 脚本](https://www.wdssmq.com/post/20120627834.html "「折腾」使用 rollup.js 模块化编写 GM 脚本")
+
+[2010 年 8 月 29 日冷笑话合集 - 动物生存本领的启示](https://www.wdssmq.com/post/2010nian8yue29rixiaohuaheji-dongwushengcunbenlingdeqishi.html "2010 年 8 月 29 日冷笑话合集 - 动物生存本领的启示")
+
+[世界再大，我却遇见你；世界再小，我却丢了你](https://www.wdssmq.com/post/20100521212.html "世界再大，我却遇见你；世界再小，我却丢了你")
+
+[酒桌上的 DOTA](https://www.wdssmq.com/post/JiuZhuoShangDeDOTA-RenRenDouShiYiShuJia.html "酒桌上的 DOTA")
 
 [「VPS」DesiVPS $20 年付优惠](https://www.wdssmq.com/post/20220219378.html "「VPS」DesiVPS $20 年付优惠")
 
 [「VPS」DesiVPS 23 年四月优惠丨可选中文 win 系统](https://www.wdssmq.com/post/20100211992.html "「VPS」DesiVPS 23 年四月优惠丨可选中文 win 系统")
 
+[2013 年 11 月 21 日冷笑话合集 - 有钱又怎样](https://www.wdssmq.com/post/20131121374.html "2013 年 11 月 21 日冷笑话合集 - 有钱又怎样")
+
 [所以就不是很懂 SEO](https://www.wdssmq.com/post/20100609752.html "所以就不是很懂 SEO")
 
 [「言说」姑且还是备份了下新浪博客](https://www.wdssmq.com/post/20220808693.html "「言说」姑且还是备份了下新浪博客")
+
+[2010 年 9 月 25 日冷笑话合集 - 曾经](https://www.wdssmq.com/post/2010Nian9Yue25RiLengXiaoHuaHeJi-CengJing.html "2010 年 9 月 25 日冷笑话合集 - 曾经")
+
+[牛掰：有趣的 “嗑瓜子理论”](https://www.wdssmq.com/post/Niu-YouQuDe-GuaZiLiLun.html "牛掰：有趣的 “嗑瓜子理论”")
 
 [2012 年 7 月 25 日冷笑话合集 - 语出惊人](https://www.wdssmq.com/post/20100304464.html "2012 年 7 月 25 日冷笑话合集 - 语出惊人")
 
@@ -24,13 +38,23 @@
 
 [MKV 内置字幕提取/字幕编辑工具推荐](https://www.wdssmq.com/post/20120727734.html "MKV 内置字幕提取/字幕编辑工具推荐")
 
+[2014 年 12 月 4 日冷笑话合集 - 前男友现任好丑，我应该高兴吗？](https://www.wdssmq.com/post/20141204151.html "2014 年 12 月 4 日冷笑话合集 - 前男友现任好丑，我应该高兴吗？")
+
+[某公司员工着装仪表、待人接物规定](https://www.wdssmq.com/post/20100204524.html "某公司员工着装仪表、待人接物规定")
+
+[从骗女孩上床看次贷危机](https://www.wdssmq.com/post/CongPianNuHaiShangChuangKanCiDaiWeiJi.html "从骗女孩上床看次贷危机")
+
 [2011 年 3 月 29 日冷笑话合集 - 贵在真实](https://www.wdssmq.com/post/20100215153.html "2011 年 3 月 29 日冷笑话合集 - 贵在真实")
+
+[2011 年 4 月 27 日冷笑话合集 - 除不了的祸害](https://www.wdssmq.com/post/20100309323.html "2011 年 4 月 27 日冷笑话合集 - 除不了的祸害")
 
 [2014 年 3 月 25 日冷笑话合集 - 是亲爹吗？](https://www.wdssmq.com/post/20140325309.html "2014 年 3 月 25 日冷笑话合集 - 是亲爹吗？")
 
 [【真·碎碎念】2023/01/02 ~ 2023/04/02](https://www.wdssmq.com/post/20200129944.html "【真·碎碎念】2023/01/02 ~ 2023/04/02")
 
 [【真·碎碎念】2022/09/05 ~ 2023/01/01](https://www.wdssmq.com/post/20230118772.html "【真·碎碎念】2022/09/05 ~ 2023/01/01")
+
+[搞笑 WOW 之操作指令](https://www.wdssmq.com/post/GaoXiaoWOWZhiCaoZuoZhiLing.html "搞笑 WOW 之操作指令")
 
 [集体奔向二十的 90 后](https://www.wdssmq.com/post/JiTiBenXiangErShiDe90Hou-RenRenDouShiYiShuJia.html "集体奔向二十的 90 后")
 
@@ -57,30 +81,6 @@
 [2011 年 8 月 10 日冷笑话合集 - 危险的食物](https://www.wdssmq.com/post/2011Nian8Yue10RiLengXiaoHuaHeJi-WeiXianDeShiWu.html "2011 年 8 月 10 日冷笑话合集 - 危险的食物")
 
 [2019，又一个十年的开始与结束【说点什么】](https://www.wdssmq.com/post/20190105756.html "2019，又一个十年的开始与结束【说点什么】")
-
-[话说把“无力吐槽”弄个子栏目？](https://www.wdssmq.com/post/HuaShuoBa-WuLiTuCao-NongGeZiLanMu.html "话说把“无力吐槽”弄个子栏目？")
-
-[「非专业揭骗」百瑞控股是个啥？](https://www.wdssmq.com/post/20141030270.html "「非专业揭骗」百瑞控股是个啥？")
-
-[关于 API 和 OAuth 授权验证](https://www.wdssmq.com/post/ZuoWanDeMengHaiZhenShiXuanYiJiaKeHuanTuCaoChuMei.html "关于 API 和 OAuth 授权验证")
-
-[「备忘」web.config 设置重定向（301）](https://www.wdssmq.com/post/web-configSheZhiZhongDingXiang-301.html "「备忘」web.config 设置重定向（301）")
-
-[「折腾」基于 Node 的 QQ 机器人项目](https://www.wdssmq.com/post/20210101974.html "「折腾」基于 Node 的 QQ 机器人项目")
-
-[2014 年 5 月 1 日冷笑话合集 - 求阴影面积](https://www.wdssmq.com/post/20140501251.html "2014 年 5 月 1 日冷笑话合集 - 求阴影面积")
-
-[「列表」需要时却可能找不到的网址](https://www.wdssmq.com/post/20191227185.html "「列表」需要时却可能找不到的网址")
-
-[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
-
-[2010 年 10 月 4 日冷笑话合集 - 喝多了](https://www.wdssmq.com/post/2010Nian10Yue4RiLengXiaoHuaHeJi-HeDuoLe.html "2010 年 10 月 4 日冷笑话合集 - 喝多了")
-
-[老湿，乃流氓了](https://www.wdssmq.com/post/LaoShi-NaiLiuMangLe.html "老湿，乃流氓了")
-
-[4A 装逼指南简版](https://www.wdssmq.com/post/20100219270.html "4A 装逼指南简版")
-
-[「言说」相对擅长写代码，然而也只有写代码](https://www.wdssmq.com/post/20210224671.html "「言说」相对擅长写代码，然而也只有写代码")
 
 ---end---
 
