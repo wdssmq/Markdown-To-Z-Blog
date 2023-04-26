@@ -27,9 +27,11 @@ alias: guestbook
 
 ### 投喂支持
 
+<!-- 留言本 / 关于：[https://www.wdssmq.com/guestbook.html](https://www.wdssmq.com/guestbook.html "留言本 / 关于\_沉冰浮水\_置百丈玄冰而崩裂，掷须臾池水而漂摇。") -->
+
 爱发电：[https://afdian.net/a/wdssmq](https://afdian.net/a/wdssmq "沉冰浮水正在创作和 z-blog 相关或无关的各种有用或没用的代码 | 爱发电")
 
-接受 B 站硬币或发电：[https://space.bilibili.com/44744006/video](https://space.bilibili.com/44744006/video "沉冰浮水的个人空间\_哔哩哔哩\_bilibili")
+哔哩哔哩：[https://space.bilibili.com/44744006](https://space.bilibili.com/44744006 "沉冰浮水的个人空间\_哔哩哔哩\_bilibili")
 
 RSS 订阅：[https://feed.wdssmq.com/](https://feed.wdssmq.com/ "沉冰浮水博客的 RSS 订阅地址") 「[「言说」RSS 是一种态度！！](https://www.wdssmq.com/post/20201231613.html "「言说」RSS 是一种态度！！")」
 
