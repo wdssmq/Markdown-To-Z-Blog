@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录( 2023 年 05 月 31 日更新)
+## 目录( 2023 年 06 月 04 日更新)
+
+[「水坑」关于如何正确的修改不属于自己的 Z-BlogPHP 应用](https://www.wdssmq.com/post/20230604529.html "「水坑」关于如何正确的修改不属于自己的 Z-BlogPHP 应用")
 
 [「列表」Z-Blog 主题、插件注意事项](https://www.wdssmq.com/post/20191120012.html "「列表」Z-Blog 主题、插件注意事项")
 
@@ -79,8 +81,6 @@
 [2010 年 11 月 1 日冷笑话合集 - 赶飞机](https://www.wdssmq.com/post/2010Nian11Yue1RiXiaoHuaHeJi-GanFeiJi.html "2010 年 11 月 1 日冷笑话合集 - 赶飞机")
 
 [2011 年 8 月 29 日冷笑话合集 - 减肥药](https://www.wdssmq.com/post/2011Nian8Yue29RiLengXiaoHuaHeJi-JianFeiYao.html "2011 年 8 月 29 日冷笑话合集 - 减肥药")
-
-[10 个精彩智力问题，看你会做几道？](https://www.wdssmq.com/post/10gejingcaizhiliwenti-kannihuizuojidao.html "10 个精彩智力问题，看你会做几道？")
 
 ---end---
 
