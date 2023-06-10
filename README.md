@@ -6,7 +6,13 @@
 
 ---start---
 
-## 目录( 2023 年 06 月 05 日更新)
+## 目录( 2023 年 06 月 10 日更新)
+
+[「言说」仍然找不准自己定位的水水](https://www.wdssmq.com/post/20210403155.html "「言说」仍然找不准自己定位的水水")
+
+[恐惧和利益在同一个梦里体现](https://www.wdssmq.com/post/20121225833.html "恐惧和利益在同一个梦里体现")
+
+[诺基亚 Lumia526 编辑博文实测](https://www.wdssmq.com/post/20121010741_8799.html "诺基亚 Lumia526 编辑博文实测")
 
 [「折腾」使用 Gource 为 Git 仓库生成动态视频](https://www.wdssmq.com/post/20230426471.html "「折腾」使用 Gource 为 Git 仓库生成动态视频")
 
@@ -17,6 +23,10 @@
 [WebDav 折腾「其一」](https://www.wdssmq.com/post/20100514969.html "WebDav 折腾「其一」")
 
 [PowerA XBox 兼容手柄](https://www.wdssmq.com/post/20230501376.html "PowerA XBox 兼容手柄")
+
+[读研如同蹲大狱](https://www.wdssmq.com/post/DuYanRuTongDunDaYu.html "读研如同蹲大狱")
+
+[唐僧揍孔明，黛玉杀宋江](https://www.wdssmq.com/post/TangSengZouKongMing-YuShaSongJiang.html "唐僧揍孔明，黛玉杀宋江")
 
 [「GM_脚本」qBittorrent 批量修改种子 tracker](https://www.wdssmq.com/post/20191117777.html "「GM_脚本」qBittorrent 批量修改种子 tracker")
 
@@ -31,6 +41,8 @@
 [2014 年 1 月 18 日冷笑话合集 - 这就是现实吧](https://www.wdssmq.com/post/20140118606.html "2014 年 1 月 18 日冷笑话合集 - 这就是现实吧")
 
 [2011 年 9 月 6 日冷笑话合集 - 太年轻了](https://www.wdssmq.com/post/2011Nian9Yue6RiLengXiaoHuaHeJi-TaiNianQingLe.html "2011 年 9 月 6 日冷笑话合集 - 太年轻了")
+
+[2011 年 1 月 3 日冷笑话合集 - 哪个 BAI](https://www.wdssmq.com/post/2011Nian1Yue3RiLengXiaoHuaHeJi-NaGeBAI.html "2011 年 1 月 3 日冷笑话合集 - 哪个 BAI")
 
 [2010 年 8 月 8 日冷笑话合集 - 君子报仇](https://www.wdssmq.com/post/2010Nian8Yue8RiXiaoHuaHeJi-JunZiBaoChou.html "2010 年 8 月 8 日冷笑话合集 - 君子报仇")
 
@@ -69,18 +81,6 @@
 [2010 年 10 月 13 日冷笑话合集 - 占位](https://www.wdssmq.com/post/2010Nian10Yue13RiLengXiaoHuaHeJi-ZhanWei.html "2010 年 10 月 13 日冷笑话合集 - 占位")
 
 [2010 年 9 月 8 日冷笑话合集 - 他赢了](https://www.wdssmq.com/post/2010nian9yue8rixiaohuaheji-tayingle.html "2010 年 9 月 8 日冷笑话合集 - 他赢了")
-
-[2010 暴强语录盘点](https://www.wdssmq.com/post/20100411517.html "2010 暴强语录盘点")
-
-[域名更换工作基本完成](https://www.wdssmq.com/post/YuMingGengHuanGongZuoJiBenWanCheng.html "域名更换工作基本完成")
-
-[我还是再找个主机吧。](https://www.wdssmq.com/post/WoHaiShiZaiZhaoGeZhuJiBa.html "我还是再找个主机吧。")
-
-[z-blog 转 WP 插件_支持文章别名及留言板](https://www.wdssmq.com/post/z-blogZhuanWPChaJian-ZhiChiWenZhangBieMingJiLiuYanBan.html "z-blog 转 WP 插件_支持文章别名及留言板")
-
-[短期内不会再碰 WP 了吧](https://www.wdssmq.com/post/DuanQiNeiBuHuiZaiPengWPLeBa.html "短期内不会再碰 WP 了吧")
-
-[2010 年 11 月 1 日冷笑话合集 - 赶飞机](https://www.wdssmq.com/post/2010Nian11Yue1RiXiaoHuaHeJi-GanFeiJi.html "2010 年 11 月 1 日冷笑话合集 - 赶飞机")
 
 ---end---
 
