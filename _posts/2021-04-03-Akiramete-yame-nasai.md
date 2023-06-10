@@ -23,29 +23,13 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/124233737
 
 <!--more-->
 
-> 群名称：水水的退款事务群；
+> 群名称：我的咸鱼心
 >
-> 群   号：576621997
+> 群   号：189574683
 >
-> 加群链接：[https://jq.qq.com/?_wv=1027&k=206MVPCP](https://jq.qq.com/?_wv=1027&k=206MVPCP "水水的退款事务群")
+> 加群链接：[https://jq.qq.com/?_wv=1027&k=1Vdo2rUM](https://jq.qq.com/?_wv=1027&k=1Vdo2rUM "我的咸鱼心")
 
-**注：本人名下其他应用原来收费后转为免费或下架的，同样可加群商议退款；（实付金额不小于`￥13.7`）**
-
-【【说起来我自己甚至买过苹果系统下的一个 NTFS 读写软件，其他的包括 Steam 游戏也是一堆吃灰的！！】】
-
-对于付费购买过以下三个主题的用户，依各自情况予以退款或补偿：
-
-超 ZB 級的捏牠學園 - Z-Blog 应用中心：[https://app.zblogcn.com/?id=18112](https://app.zblogcn.com/?id=18112 "超ZB級的捏牠學園 - Z-Blog 应用中心")
-
-↑ 最新，购买还比较少，可全额退！↑
-
-这就是咸鱼吗？（仮） - Z-Blog 应用中心：[https://app.zblogcn.com/?id=2235#tab-comment](https://app.zblogcn.com/?id=2235#tab-comment "这就是咸鱼吗？（仮） - Z-Blog 应用中心")
-
-↑ 对于实际订单金额大于`￥13.7`的，可退还`75%`！↑
-
-某不科学的 ACG 向主题 - Z-Blog 应用中心：[https://app.zblogcn.com/?id=1798](https://app.zblogcn.com/?id=1798 "某不科学的ACG向主题 - Z-Blog 应用中心")
-
-↑ 此主题应用中心将一直收费，但是可通过 Git 库免费下载，2021-04-03 前购买且实际订单金额大于`￥13.7`的，可退还`50%`！ ↑
+<!-- 【【说起来我自己甚至买过苹果系统下的一个 NTFS 读写软件，其他的包括 Steam 游戏也是一堆吃灰的！！】】 -->
 
 ---------------
 
