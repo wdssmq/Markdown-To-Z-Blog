@@ -44,6 +44,10 @@ Git 命令，则可以设置在`~/.gitconfig`内：
 ```ini
 [core]
     fileMode = false
+[init]
+    defaultBranch = main
+[pull]
+    rebase = true
 [alias]
     # status
     s   = status
@@ -106,6 +110,10 @@ Git 命令，则可以设置在`~/.gitconfig`内：
     rem = reset --mixed HEAD^
     resc = reset --soft
     remc = reset --mixed
+
+    # config
+    cfcf = config core.filemode false
+    cfpr = config pull.rebase true
 
 ```
 
