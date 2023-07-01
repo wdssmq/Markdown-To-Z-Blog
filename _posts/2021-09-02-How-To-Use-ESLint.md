@@ -401,3 +401,5 @@ export default {
 正确方法，修改「.eslintrc.json」文件
 
 `"extends": ["eslint:recommended", "plugin:vue/essential"],`→`"extends": ["eslint:recommended", "plugin:vue/vue3-essential"],`；
+
+<!-- 2023-07-01 10:59:00 -->
