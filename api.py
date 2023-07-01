@@ -480,7 +480,11 @@ def main():
 
         # 写入日志
         if done:
-            post_info = {"id": int(post_id), "mtime": post_mtime}
+            post_info = {
+                "id": int(post_id),
+                "len": len(md_content),
+                "mtime": post_mtime,
+                }
             update_logs(md_name, post_info)
             flag_logs_save = True
 
