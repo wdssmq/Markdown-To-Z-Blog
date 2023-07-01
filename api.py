@@ -325,12 +325,19 @@ def update_git_diff():
 
 def update_logs(key, value):
     _posts_logs_data[key] = value
-    file = open(_posts_logs_file, 'w')
-    file.write(json.dumps(_posts_logs_data))
-    file.close()
     return True
-# 写入同步
+# 写入/更新日志字段
 
+def save_logs():
+    # 按字典键对数据进行排序
+    sorted_data = {k: _posts_logs_data[k] for k in sorted(_posts_logs_data.keys())}
+    # 保存
+    file = open(_posts_logs_file, 'w')
+    file.write(json.dumps(sorted_data, indent=4))
+    file.close()
+    fnLog("更新 JSON 成功")
+    return True
+# 保存日志
 
 def check_logs(key, mtime):
     msg = ""
@@ -368,6 +375,9 @@ def main():
     fnLog("## login")
     login()
     fnLog()
+
+    # 记录是否需要更新日志
+    flag_logs_save = False
 
     # 获取 md 文件列表并处理
     fnLog("## 遍历文章处理：")
@@ -472,6 +482,7 @@ def main():
         if done:
             post_info = {"id": int(post_id), "mtime": post_mtime}
             update_logs(md_name, post_info)
+            flag_logs_save = True
 
         # 输出结果
         fnLog("文件：" + md_name)
@@ -482,6 +493,12 @@ def main():
 
     print("-----")
     fnLog()
+
+    # 有更新时保存日志
+    if flag_logs_save:
+        fnLog("## save_logs")
+        save_logs()
+        fnLog()
 
     # 更新最新文章到 readme
     fnLog("## update_readme")
