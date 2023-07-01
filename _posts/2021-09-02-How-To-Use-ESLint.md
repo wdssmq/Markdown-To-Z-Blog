@@ -160,12 +160,13 @@ eslint-plugin-vue@latest
 ```bash
 # 检查指定文件
 eslint vite.config.js
-# 检查目录
+# 检查目录，使用这种写法如果不存在具体某个后缀的文件，会报错
 eslint src/**/*.vue src/**/*.js
-# 指定后缀 + 自动修复
-eslint . --ext .js,.mjs --fix
+# 指定后缀 + 自动修复，注意后缀前的点号，也不需要加空格
+# 不需要每种后缀都存在实际文件
+eslint . --ext .js,.ts,.mjs --fix
 # 排除指定文件中定义的路径
-eslint . --ext .js,.mjs --fix --ignore-path .gitignore
+eslint . --ext .js,.ts,.mjs --fix --ignore-path .gitignore
 ```
 
 Command Line Interface - ESLint 中文：
