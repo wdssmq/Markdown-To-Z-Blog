@@ -7,11 +7,11 @@ name = "pypi"
 post = "python api.py"
 
 [packages]
-markdown = "3.3.4"
-requests = "2.26.0"
-python-frontmatter = "1.0.0"
+markdown = "*"
+requests = "*"
+python-frontmatter = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3.*"

@@ -414,12 +414,12 @@ def main():
             print("---")
             continue
 
-        # # DEBUG 开启时忽略 cover_id
-        # if isinstance(cover_id, int) and _debug:
-        #     fnLog()
-        #     fnBug(cover_id, sys._getframe().f_lineno)
-        #     fnLog()
-        #     cover_id = ""
+        # DEBUG 开启时以 cover_id 为准
+        if isinstance(cover_id, int) and _debug and id == 0:
+            fnLog()
+            fnBug(cover_id, sys._getframe().f_lineno)
+            fnLog()
+            id = cover_id
 
         # cover_id 不为空，且 _posts_logs_data 中不存在时远程拉取文章信息
         if isinstance(cover_id, int) and id == 0:
