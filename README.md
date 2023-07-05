@@ -6,81 +6,81 @@
 
 ---start---
 
-## 目录( 2023 年 07 月 01 日更新)
+## 目录( 2023 年 07 月 05 日更新)
 
-[「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
+[「折腾」Linux 命令行部署 QQ 机器人 mirai](https://www.wdssmq.com/post/20141117777.html "「折腾」Linux 命令行部署 QQ 机器人 mirai")
 
-[2011 年 10 月【无力吐槽】](https://www.wdssmq.com/post/2011Nian10YueWuLiTuCao.html "2011 年 10 月【无力吐槽】")
+[「油猴」针对 QQ 群管理的「值日生」提示功能](https://www.wdssmq.com/post/20210531442.html "「油猴」针对 QQ 群管理的「值日生」提示功能")
 
-[「无从复盘的过往」skap is nothing](https://www.wdssmq.com/post/20201126661.html "「无从复盘的过往」skap is nothing")
+[【真·碎碎念】2022/05/23 ~ 2022/06/19](https://www.wdssmq.com/post/20120687169.html "【真·碎碎念】2022/05/23 ~ 2022/06/19")
 
-[「言说」仍然找不准自己定位的水水](https://www.wdssmq.com/post/20210403155.html "「言说」仍然找不准自己定位的水水")
+[【真·碎碎念】2021/08/09 ~ 2021/08/15](https://www.wdssmq.com/post/20210216108.html "【真·碎碎念】2021/08/09 ~ 2021/08/15")
 
-[恐惧和利益在同一个梦里体现](https://www.wdssmq.com/post/20121225833.html "恐惧和利益在同一个梦里体现")
+[09：36「无力吐槽」](https://www.wdssmq.com/post/20100314286.html "09：36「无力吐槽」")
 
-[二楞的智慧](https://www.wdssmq.com/post/ErLengDeZhiHui.html "二楞的智慧")
+[「水坑」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「水坑」Z-BlogPHP 模板机制讲解「简易版」")
 
-[诺基亚 Lumia526 编辑博文实测](https://www.wdssmq.com/post/20121010741_8799.html "诺基亚 Lumia526 编辑博文实测")
+[「VPS」DesiVPS $20 年付优惠](https://www.wdssmq.com/post/20220219378.html "「VPS」DesiVPS $20 年付优惠")
 
-[「折腾」使用 Gource 为 Git 仓库生成动态视频](https://www.wdssmq.com/post/20230426471.html "「折腾」使用 Gource 为 Git 仓库生成动态视频")
+[口算题在线生成（可打印）](https://www.wdssmq.com/post/shuxue.html "口算题在线生成（可打印）")
 
-[「水坑」关于如何正确的修改不属于自己的 Z-BlogPHP 应用](https://www.wdssmq.com/post/20230604529.html "「水坑」关于如何正确的修改不属于自己的 Z-BlogPHP 应用")
+[【备忘】ASS 字幕格式简要](https://www.wdssmq.com/post/20140510891.html "【备忘】ASS 字幕格式简要")
 
-[「列表」Z-Blog 主题、插件注意事项](https://www.wdssmq.com/post/20191120012.html "「列表」Z-Blog 主题、插件注意事项")
+[「GM_脚本」复制任意网页的标题+网址，支持 HTML 及 MarkDown](https://www.wdssmq.com/post/20201104429.html "「GM_脚本」复制任意网页的标题+网址，支持 HTML 及 MarkDown")
+
+[「折腾」RSSerpent 插件笔记](https://www.wdssmq.com/post/20120817543.html "「折腾」RSSerpent 插件笔记")
+
+[【GM_脚本】Resilio Sync 密钥/任务导出备份](https://www.wdssmq.com/post/20190130502.html "【GM_脚本】Resilio Sync 密钥/任务导出备份")
+
+[【小事】我现在用的搜狗账号，还是当年注册过的那个么？](https://www.wdssmq.com/post/20210418519.html "【小事】我现在用的搜狗账号，还是当年注册过的那个么？")
+
+[【真·碎碎念】2021/09/06 ~ 2021/09/12](https://www.wdssmq.com/post/20210913547.html "【真·碎碎念】2021/09/06 ~ 2021/09/12")
+
+[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
+
+[「言说」2023 年仍然在纠结密码问题什么的](https://www.wdssmq.com/post/20230102708.html "「言说」2023 年仍然在纠结密码问题什么的")
 
 [WebDav 折腾「其一」](https://www.wdssmq.com/post/20100514969.html "WebDav 折腾「其一」")
 
-[PowerA XBox 兼容手柄](https://www.wdssmq.com/post/20230501376.html "PowerA XBox 兼容手柄")
+[【真·碎碎念】特别版「2022-08」](https://www.wdssmq.com/post/20220325815.html "【真·碎碎念】特别版「2022-08」")
 
-[2014 年 1 月 11 日冷笑话合集 - 免得被冤枉](https://www.wdssmq.com/post/20140111668.html "2014 年 1 月 11 日冷笑话合集 - 免得被冤枉")
+[「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」](https://www.wdssmq.com/post/20210724854.html "「GM_脚本」获取 GitHub 项目文件的 jsDelivr CDN 地址「好像没啥用系列」")
 
-[读研如同蹲大狱](https://www.wdssmq.com/post/DuYanRuTongDunDaYu.html "读研如同蹲大狱")
+[「折腾」GitHub Actions 如何提取推送的 Tag](https://www.wdssmq.com/post/20220706871.html "「折腾」GitHub Actions 如何提取推送的 Tag")
 
-[唐僧揍孔明，黛玉杀宋江](https://www.wdssmq.com/post/TangSengZouKongMing-YuShaSongJiang.html "唐僧揍孔明，黛玉杀宋江")
+[「言说」不知道发没发的《黑豹》评论](https://www.wdssmq.com/post/20130403328.html "「言说」不知道发没发的《黑豹》评论")
 
-[「GM_脚本」qBittorrent 批量修改种子 tracker](https://www.wdssmq.com/post/20191117777.html "「GM_脚本」qBittorrent 批量修改种子 tracker")
+[「WSL2_笔记」WSL2 的网络配置什么的的](https://www.wdssmq.com/post/20220527442.html "「WSL2_笔记」WSL2 的网络配置什么的的")
 
-[2014 年 9 月 13 日冷笑话合集 - 吃货的世界](https://www.wdssmq.com/post/20140913750.html "2014 年 9 月 13 日冷笑话合集 - 吃货的世界")
+[「折腾」尝试成为 Z-BlogPHP 区 UP 主](https://www.wdssmq.com/post/20220102004.html "「折腾」尝试成为 Z-BlogPHP 区 UP 主")
 
-[【音乐】RAHA 深度睡眠音乐【FLAC】【网盘下载】](https://www.wdssmq.com/post/20130802263.html "【音乐】RAHA 深度睡眠音乐【FLAC】【网盘下载】")
+[「GM_脚本」度盘分享文件时自动复制为 HTML 或 MarkDown](https://www.wdssmq.com/post/20220412172.html "「GM_脚本」度盘分享文件时自动复制为 HTML 或 MarkDown")
 
-[「水坑」一些 SQL 语句](https://www.wdssmq.com/post/20120816277.html "「水坑」一些 SQL 语句")
+[【真·碎碎念】2021-07-28「特别篇」](https://www.wdssmq.com/post/20120641176.html "【真·碎碎念】2021-07-28「特别篇」")
 
-[2013 年 10 月 26 日冷笑话合集 - 重病的朋友](https://www.wdssmq.com/post/20131026161.html "2013 年 10 月 26 日冷笑话合集 - 重病的朋友")
+[【真·碎碎念】2022/06/20 ~ 2022/09/04](https://www.wdssmq.com/post/20120815269.html "【真·碎碎念】2022/06/20 ~ 2022/09/04")
 
-[2014 年 1 月 18 日冷笑话合集 - 这就是现实吧](https://www.wdssmq.com/post/20140118606.html "2014 年 1 月 18 日冷笑话合集 - 这就是现实吧")
+[【备忘】JavaScript 及 jQuery 常用代码](https://www.wdssmq.com/post/20201116687.html "【备忘】JavaScript 及 jQuery 常用代码")
 
-[2011 年 9 月 6 日冷笑话合集 - 太年轻了](https://www.wdssmq.com/post/2011Nian9Yue6RiLengXiaoHuaHeJi-TaiNianQingLe.html "2011 年 9 月 6 日冷笑话合集 - 太年轻了")
+[一些能用的 BT Tracker 服务器地址【不定时更新】](https://www.wdssmq.com/post/20130323295.html "一些能用的 BT Tracker 服务器地址【不定时更新】")
 
-[2011 年 1 月 3 日冷笑话合集 - 哪个 BAI](https://www.wdssmq.com/post/2011Nian1Yue3RiLengXiaoHuaHeJi-NaGeBAI.html "2011 年 1 月 3 日冷笑话合集 - 哪个 BAI")
+[「水坑」如何正确的自定义 CSS 样式](https://www.wdssmq.com/post/20190705015.html "「水坑」如何正确的自定义 CSS 样式")
 
-[2010 年 8 月 8 日冷笑话合集 - 君子报仇](https://www.wdssmq.com/post/2010Nian8Yue8RiXiaoHuaHeJi-JunZiBaoChou.html "2010 年 8 月 8 日冷笑话合集 - 君子报仇")
+[「非专业揭骗」百瑞控股是个啥？](https://www.wdssmq.com/post/20141030270.html "「非专业揭骗」百瑞控股是个啥？")
 
-[2010 年 8 月 4 日冷笑话合集 - 你真幸运](https://www.wdssmq.com/post/2010Nian8Yue4RiXiaoHuaHeJi-NiZhenXingYun.html "2010 年 8 月 4 日冷笑话合集 - 你真幸运")
+[【真·碎碎念】2021/12/06 ~ 2021/12/26](https://www.wdssmq.com/post/20140830728.html "【真·碎碎念】2021/12/06 ~ 2021/12/26")
 
-[2010 年 12 月 18 日冷笑话合集 - 我是程序员](https://www.wdssmq.com/post/2010Nian12Yue18RiLengXiaoHuaHeJi-WoShiChengXuYuan.html "2010 年 12 月 18 日冷笑话合集 - 我是程序员")
+[「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
 
-[2011 年 8 月 11 日冷笑话合集 - 狮子不饿](https://www.wdssmq.com/post/2011Nian8Yue11RiLengXiaoHuaHeJi-ShiZiBuE.html "2011 年 8 月 11 日冷笑话合集 - 狮子不饿")
+[「折腾」Composer In Ubuntu / WSL2](https://www.wdssmq.com/post/20120830162.html "「折腾」Composer In Ubuntu / WSL2")
 
-[2011 年 6 月 27 日冷笑话合集 - 吝啬的邻居](https://www.wdssmq.com/post/2011Nian6Yue27RiLengXiaoHuaHeJi-LinDeLinJu.html "2011 年 6 月 27 日冷笑话合集 - 吝啬的邻居")
+[「折腾」Windows 下修改文件（夹）的时间为最新](https://www.wdssmq.com/post/20120782141.html "「折腾」Windows 下修改文件（夹）的时间为最新")
 
-[人生致命的 8 个经典问题](https://www.wdssmq.com/post/RenShengZhiMingDe8GeJingDianWenTi.html "人生致命的 8 个经典问题")
+[「笔记」.htaccess 及 nginx.conf 可用变量一览](https://www.wdssmq.com/post/20220301043.html "「笔记」.htaccess 及 nginx.conf 可用变量一览")
 
-[2010 年 11 月 25 日冷笑话合集 - 象棋](https://www.wdssmq.com/post/2010Nian11Yue25RiLengXiaoHuaHeJi-XiangQi.html "2010 年 11 月 25 日冷笑话合集 - 象棋")
+[「图集」各种零碎图片「2022-05-26」](https://www.wdssmq.com/post/20100204118.html "「图集」各种零碎图片「2022-05-26」")
 
-[2010 年 10 月 17 日冷笑话合集 - 家常饭菜的知心话](https://www.wdssmq.com/post/2010nian10yue17rixiaohuaheji-jiachangfandezhixinhua.html "2010 年 10 月 17 日冷笑话合集 - 家常饭菜的知心话")
-
-[找个好女孩做老婆](https://www.wdssmq.com/post/20100601368.html "找个好女孩做老婆")
-
-[让人抓狂的辩护律师](https://www.wdssmq.com/post/RangRenZhuaKuangDeBianHuLvShi.html "让人抓狂的辩护律师")
-
-[2011 年 8 月 6 日冷笑话合集 - 回来再说](https://www.wdssmq.com/post/2011Nian8Yue6RiLengXiaoHuaHeJi-HuiLaiZaiShuo.html "2011 年 8 月 6 日冷笑话合集 - 回来再说")
-
-[2011 年 3 月 11 日冷笑话合集 - 坑爹的网名](https://www.wdssmq.com/post/2011Nian3Yue11RiLengXiaoHua-KengDieDeWangMing.html "2011 年 3 月 11 日冷笑话合集 - 坑爹的网名")
-
-[2010 年 11 月 16 日冷笑话合集 - 吃饭的](https://www.wdssmq.com/post/2010Nian11Yue16RiLengXiaoHuaHeJi-ChiFanDe.html "2010 年 11 月 16 日冷笑话合集 - 吃饭的")
-
-[这尼玛是人类算 24 点的方法！！！！](https://www.wdssmq.com/post/ZheNiMaShiRenLeiSuan24DianDeFangFa.html "这尼玛是人类算 24 点的方法！！！！")
+[「折腾」使用 rEFInd 进行多系统引导](https://www.wdssmq.com/post/20220319691.html "「折腾」使用 rEFInd 进行多系统引导")
 
 ---end---
 
