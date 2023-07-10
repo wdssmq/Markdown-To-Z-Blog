@@ -1,5 +1,5 @@
 ---
-title: 【Ubuntu 笔记】常见错误提示整理
+title: 「Ubuntu 笔记」常见错误提示整理
 date: 2013-11-01 11:03:40
 tags:
 - Linux
@@ -173,6 +173,22 @@ sudo apt install docker-ce
 ```bash
 sudo apt-get install gcc
 sudo apt-get install build-essential
+```
+
+\-----
+
+错误提示：
+
+> error while loading shared libraries: libc++.so.1: cannot open shared object file: No such file or directory
+>
+> error while loading shared libraries: libunwind.so.1: cannot open shared object file: No such file or directory
+
+解决：
+
+```bash
+sudo apt-get update
+sudo apt-get install -y libc++1 libunwind-dev
+
 ```
 
 <!--1877-->
