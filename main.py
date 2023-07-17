@@ -8,6 +8,8 @@ import inspect
 
 # 从 bin/base.py 中导入通用函数
 from bin.base import fnBug, fnErr, fnLog
+# 从 bin/http.py 中导入 http 请求封装
+from bin.http import login, http_init
 
 # 时间信息
 _now = int(time.time())
@@ -78,6 +80,10 @@ def init():
     else:
         fnBug("config 内拥有以下值: %s" % str(config_info.keys()), inspect.currentframe().f_lineno,
               debug_info["debug"])
+
+    # 登录
+    http_init(config_info, logs_info, debug_info)
+    login()
 # 初始化函数
 
 
