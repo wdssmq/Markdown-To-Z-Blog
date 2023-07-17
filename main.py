@@ -33,6 +33,7 @@ debug_info = {
 
 # pylint: disable=global-statement, consider-using-f-string
 
+
 def init():
     ''' 初始化 '''
     global config_info
@@ -60,7 +61,8 @@ def init():
 
     except KeyError:
         fnLog("无法获 github 的 secrets 配置信息，开始使用本地变量")
-        fnBug("config 内拥有以下值: %s" % str(config_info.keys()), inspect.currentframe().f_lineno)
+        fnBug("config 内拥有以下值: %s" % str(config_info.keys()),
+              inspect.currentframe().f_lineno)
 
     # 读取配置文件
     if os.path.exists("config.json") is True:
