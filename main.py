@@ -63,6 +63,7 @@ def init():
 
     except KeyError:
         fnLog("无法获 github 的 secrets 配置信息，开始使用本地变量")
+        fnBug("config 内拥有以下值: %s" % str(config_info.keys()), inspect.currentframe().f_lineno)
 
     # 读取 debug 配置
     if "DEBUG" in config_info.keys() and config_info["DEBUG"]:
