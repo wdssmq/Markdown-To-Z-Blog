@@ -15,11 +15,17 @@ jobs:
       # Checkout
       - name: Checkout
         uses: actions/checkout@v3
-      # Install deps - pipenv in Docker
-      - name: Install dependecies
-        uses: VaultVulp/action-pipenv@v2.0.1
+      # Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          command: install -d
+          python-version: '3.10'
+          cache: 'pipenv'
+      # Install pipenv and dependencies
+      - name: Install pipenv and dependencies
+        run: |
+          pip3 install --user pipenv
+          pipenv --python python3 && pipenv install
       # Get Post Changes
       - name: Get changed files
         id: changed-files
@@ -30,7 +36,7 @@ jobs:
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             echo "$file was changed"
           done
-      # Post To Z-BlogPHP - pipenv in Docker
+      # Post To Z-BlogPHP
       - name: Post
         env:
           API_USR: ${{ secrets.API_USR }}
@@ -38,10 +44,9 @@ jobs:
           API_URL: ${{ secrets.API_URL }}
           IMG_HOST: ${{ secrets.IMG_HOST }}
           GIT_REPO: ${{ github.repository }}
-          _cache_logs: ${{ steps.changed-files.outputs.all_changed_files }}
-        uses: VaultVulp/action-pipenv@v2.0.1
-        with:
-          command: run post
+          GIT_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+        run: |
+          pipenv run build
       # Commit Changes To Git
       - name: Commit files
         run: |
