@@ -1,6 +1,5 @@
-# Functions
+""" 通用函数封装 """
 import os
-
 
 def fnEmpty(arg):
     return 1
@@ -32,7 +31,7 @@ def fnLog(msg="", tip=None, type=""):
 def fnBug(msg, tip=None, debug=True):
     if debug:
         fnLog(msg, tip, "[debug]")
-# debug输出
+# 调试信息输出
 
 
 def fnErr(msg, tip=None):
