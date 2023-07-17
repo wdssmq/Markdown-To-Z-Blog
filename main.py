@@ -29,8 +29,7 @@ debug_info = {
     "log": ""
 }
 
-# pylint: disable=global-statement
-
+# pylint: disable=global-statement, consider-using-f-string
 
 def init():
     ''' 初始化 '''
