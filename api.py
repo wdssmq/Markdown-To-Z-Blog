@@ -298,7 +298,8 @@ _posts_logs_data = read_logs(_posts_logs_file)
 
 
 # git 更新的文件（数组）
-_cache_logs_data = json.loads(_cache_logs_json)
+# _cache_logs_data = json.loads(_cache_logs_json)
+_cache_logs_data = _cache_logs_json
 
 
 def update_git_diff():
