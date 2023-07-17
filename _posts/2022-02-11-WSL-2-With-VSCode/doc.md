@@ -199,7 +199,7 @@ git --version
 
 **其他：**
 
-WSL2 网络代理配置（apt 与 git) - 知乎
+WSL2 网络代理配置（apt 与 git） - 知乎
 
 `https://zhuanlan.zhihu.com/p/108927713`
 
