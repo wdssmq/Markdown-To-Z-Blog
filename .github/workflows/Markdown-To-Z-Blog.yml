@@ -46,7 +46,7 @@ jobs:
           GIT_REPO: ${{ github.repository }}
           GIT_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         run: |
-          pipenv run build
+          pipenv run post
       # Commit Changes To Git
       - name: Commit files
         run: |
