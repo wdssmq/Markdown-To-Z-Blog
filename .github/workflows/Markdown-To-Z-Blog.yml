@@ -2,9 +2,10 @@ name: Markdown-To-Z-Blog
 on:
   push:
     branches:
-      - main
-    paths:
-      - '_posts/**'
+      # - main
+      - test-*
+    # paths:
+    #   - '_posts/**'
 jobs:
   post:
     runs-on: ubuntu-20.04
