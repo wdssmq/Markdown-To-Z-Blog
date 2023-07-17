@@ -6,7 +6,7 @@
 
 ---start---
 
-## 目录( 2023 年 07 月 05 日更新)
+## 目录( 2023 年 07 月 17 日更新)
 
 [「折腾」Linux 命令行部署 QQ 机器人 mirai](https://www.wdssmq.com/post/20141117777.html "「折腾」Linux 命令行部署 QQ 机器人 mirai")
 
