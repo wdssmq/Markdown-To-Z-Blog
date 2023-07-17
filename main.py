@@ -36,11 +36,6 @@ def init():
     global config_info
     fnLog("## init")
 
-    # 读取配置文件
-    if os.path.exists("config.json") is True:
-        with open("config.json", 'rb') as config_file:
-            config_info = json.loads(config_file.read())
-
     # 读取 github secrets 配置
     try:
         if os.environ["API_USR"]:
@@ -64,6 +59,11 @@ def init():
     except KeyError:
         fnLog("无法获 github 的 secrets 配置信息，开始使用本地变量")
         fnBug("config 内拥有以下值: %s" % str(config_info.keys()), inspect.currentframe().f_lineno)
+
+    # 读取配置文件
+    if os.path.exists("config.json") is True:
+        with open("config.json", 'rb') as config_file:
+            config_info = json.loads(config_file.read())
 
     # 读取 debug 配置
     if "DEBUG" in config_info.keys() and config_info["DEBUG"]:
