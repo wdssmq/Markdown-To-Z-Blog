@@ -67,7 +67,7 @@ def init():
     # 读取 debug 配置
     if "DEBUG" in config_info.keys() and config_info["DEBUG"]:
         debug_info["debug"] = True
-        fnBug(debug_info["debug"],
+        fnBug("debug 已开启: %s" % debug_info["debug"],
               inspect.currentframe().f_lineno, debug_info["debug"])
 
     # 判断为空时退出
@@ -75,7 +75,7 @@ def init():
         fnErr("配置信息为空", inspect.currentframe().f_lineno)
         sys.exit(0)
     else:
-        fnBug(config_info.keys(), inspect.currentframe().f_lineno,
+        fnBug("config 内拥有以下值: %s" % str(config_info.keys()), inspect.currentframe().f_lineno,
               debug_info["debug"])
 # 初始化函数
 
