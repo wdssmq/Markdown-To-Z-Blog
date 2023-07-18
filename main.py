@@ -10,8 +10,8 @@ import inspect
 from bin.base import fnBug, fnErr, fnLog
 # 从 bin/func.py 中导入函数
 from bin.func import read_logs
-# 从 bin/http.py 中导入 http 请求封装
-from bin.http_func import login, http_init
+# 从 bin/http_func.py 中导入 http 请求封装
+from bin.http_func import http_init, login
 
 # 时间信息
 _now = int(time.time())
@@ -89,8 +89,10 @@ def init():
 
     # 调试模式使用另外的文件路径
     if debug_info["debug"]:
-        logs_info["logs_file"] = os.path.join(os.getcwd(), "_debug_posts_logs.json")
-        logs_info["readme_file"] = os.path.join(os.getcwd(), "_debug_README.md")
+        logs_info["logs_file"] = os.path.join(
+            os.getcwd(), "_debug_posts_logs.json")
+        logs_info["readme_file"] = os.path.join(
+            os.getcwd(), "_debug_README.md")
 
     # 读取日志文件
     logs_info["list"] = read_logs(logs_info["logs_file"])
