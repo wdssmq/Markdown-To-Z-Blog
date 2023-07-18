@@ -84,13 +84,18 @@ def init():
         fnBug("debug 已开启: %s" % debug_info["debug"],
               inspect.currentframe().f_lineno, debug_info["debug"])
 
-    # 判断为空时退出
-    if not any(config_info):
-        fnErr("配置信息为空", inspect.currentframe().f_lineno)
+    # 判断同时有 'API_USR', 'API_PWD', 'API_URL' 三个配置
+    if "API_USR" not in config_info.keys() or "API_PWD" not in config_info.keys() or "API_URL" not in config_info.keys():
+        fnErr("缺少配置信息: %s" % str(config_info.keys()),
+              inspect.currentframe().f_lineno)
         sys.exit(0)
     else:
         fnBug("config 内拥有以下值: %s" % str(config_info.keys()), inspect.currentframe().f_lineno,
               debug_info["debug"])
+
+    # 自定义图床域名
+    if "IMG_HOST" not in config_info.keys():
+        config_info["IMG_HOST"] = ""
 
     # 调试模式使用另外的文件路径
     if debug_info["debug"]:
