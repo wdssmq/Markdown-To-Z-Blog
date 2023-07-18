@@ -19,6 +19,31 @@ def read_logs(file_path):
 # 读取日志
 
 
+def update_logs(key, value, logs_info):
+    logs_info["list"][key] = value
+    return True
+# 写入/更新日志字段
+
+
+def save_logs(logs_info):
+    """ 保存日志 """
+    fnLog("### 保存日志")
+    if not logs_info["need_save"]:
+        fnLog("不需要保存")
+        fnLog()
+        return
+    # 按字典键对数据进行排序
+    sorted_data = {k: logs_info["list"][k]
+                   for k in sorted(logs_info["list"].keys())}
+    # 保存
+    with open(logs_info["logs_file"], 'w', encoding='utf-8') as file:
+        file.write(json.dumps(sorted_data, indent=4))
+        file.close()
+        fnLog("更新 JSON 成功")
+        fnLog()
+# 保存日志
+
+
 def update_logs_git(logs_info, debug=False):
     """ 将 git 更新的文件标记为待更新 """
     from bin.md_func import get_md_info
