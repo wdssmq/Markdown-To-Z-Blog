@@ -27,7 +27,7 @@ def fnLog(msg="", tip=None, log_type=""):
         msg = rlt
     if isinstance(msg, int):
         msg = str(msg)
-    if not any(msg):
+    if not any(msg) and not any(tip):
         print("")
     else:
         print(f"_{log_type}{msg}{tip}")
