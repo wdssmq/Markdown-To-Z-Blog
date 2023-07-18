@@ -83,5 +83,41 @@ def login():
     else:
         fnErr("登录失败", inspect.currentframe().f_lineno)
         sys.exit(0)
-
 # 登录
+
+
+def get_post_code(id):
+    """ 查找文章，返回状态码 """
+    data = http({
+        "method": "get",
+        "mod": "post",
+        "act": "get"
+    }, {
+        "id": id
+    }, "all")
+    data["title"] = ""
+    if not data["data"] is None:
+        data["title"] = data["data"]["post"]["Title"]
+    return (data["code"], data["title"])
+# 查找文章，返回状态码
+
+def update_post(data_arg):
+    """ 更新文章 """
+    # Todo 通过分类名获取 id
+    # cate_id = 12
+    # data_arg["CateID"] = cate_id
+    author_id = config_info["AuthorID"]
+    data_arg["AuthorID"] = author_id
+    # data_arg["Intro"] = "请在正文内使用 <!-- more -->"
+    data_arg["Intro"] = "请在正文内使用 &lt;!-- more --&gt;"
+    data = http({
+        "method": "post",
+        "mod": "post",
+        "act": "post"
+    }, data_arg)
+    if not data is None:
+        post = data["post"]
+        # print(post)
+        return (True, post["ID"], post["UpdateTime"])
+    return (False, 0, 0)
+# 更新文章
