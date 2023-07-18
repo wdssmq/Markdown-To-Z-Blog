@@ -64,7 +64,9 @@ def init():
             config_info["GIT_REPO"] = os.environ["GIT_REPO"]
 
         if os.environ["GIT_CHANGED_FILES"]:
-            logs_info["changed"] = os.environ["GIT_CHANGED_FILES"]
+            # logs_info["changed"] = os.environ["GIT_CHANGED_FILES"]
+            # 字符串转列表，去除首尾空格，空格分割
+            logs_info["changed"] = os.environ["GIT_CHANGED_FILES"].strip().split(" ")
 
     except KeyError:
         fnLog("无法获 github 的 secrets 配置信息，开始使用本地变量")
@@ -99,6 +101,8 @@ def init():
 
     # 读取日志文件
     logs_info["list"] = read_logs(logs_info["logs_file"])
+    # 合并更新日志
+    update_logs_git(logs_info, debug_info["debug"])
 
     # fnBug(logs_info["list"], inspect.currentframe().f_lineno, debug_info["debug"])
 # 初始化函数
@@ -110,9 +114,6 @@ init()
 # 登录调用
 http_init(config_info, logs_info, debug_info)
 login()
-
-# 合并更新日志
-update_logs_git(logs_info)
 
 # md 处理调用
 md_init(config_info, logs_info, debug_info)
