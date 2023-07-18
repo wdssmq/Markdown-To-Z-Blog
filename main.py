@@ -8,6 +8,8 @@ import inspect
 
 # 从 bin/base.py 中导入通用函数
 from bin.base import fnBug, fnErr, fnLog
+# 从 bin/func.py 中导入函数
+from bin.func import read_logs
 # 从 bin/http.py 中导入 http 请求封装
 from bin.http_func import login, http_init
 
@@ -25,6 +27,8 @@ config_info = {}
 logs_info = {
     "changed": [],
     "list": [],
+    "logs_file": os.path.join(os.getcwd(), "_posts_logs.json"),
+    "readme_file": os.path.join(os.getcwd(), "README.md")
 }
 debug_info = {
     "debug": False,
@@ -82,6 +86,16 @@ def init():
     else:
         fnBug("config 内拥有以下值: %s" % str(config_info.keys()), inspect.currentframe().f_lineno,
               debug_info["debug"])
+
+    # 调试模式使用另外的文件路径
+    if debug_info["debug"]:
+        logs_info["logs_file"] = os.path.join(os.getcwd(), "_debug_posts_logs.json")
+        logs_info["readme_file"] = os.path.join(os.getcwd(), "_debug_README.md")
+
+    # 读取日志文件
+    logs_info["list"] = read_logs(logs_info["logs_file"])
+
+    # fnBug(logs_info["list"], inspect.currentframe().f_lineno, debug_info["debug"])
 
     # 登录
     http_init(config_info, logs_info, debug_info)
