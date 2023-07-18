@@ -2,10 +2,25 @@
 import os
 import json
 import inspect
+import re
 
 from bin.base import fnEmpty, fnLog, fnBug
 
-# pylint: disable=import-outside-toplevel
+# pylint: disable=import-outside-toplevel, consider-using-f-string
+
+def up_img_host(md_name, md_content, img_host = ""):
+    """ 替换图片路径 """
+    if img_host != "":
+        if img_host.endswith("/"):
+            img_host = img_host[:-1]
+        # 图片地址替换 —— ./ 开头
+        md_content = re.sub(r'!\[([^\]]+)\]\(\.\/([^\)]+)\)',
+                            r'![\1](%s/_posts/\2)' % img_host, md_content)
+        # 图片地址替换 —— 同级目录
+        md_content = re.sub(r'!\[([^\]]+)\]\(((?!http)[^\)]+)\)', r'![\1](%s/_posts/%s/\2)' %
+                            (img_host, md_name), md_content)
+    return md_content
+# 替换图片路径
 
 
 def read_logs(file_path):
