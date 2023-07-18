@@ -9,14 +9,8 @@ from bin.base import fnBug, fnErr, fnLog
 
 # 全局变量
 config_info = {}
-logs_info = {
-    "changed": [],
-    "list": [],
-}
-debug_info = {
-    "debug": False,
-    "log": ""
-}
+logs_info = {}
+debug_info = {}
 
 
 def http_init(config, logs, debug):
