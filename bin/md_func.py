@@ -3,7 +3,8 @@ import os
 import frontmatter
 import inspect
 
-from bin.base import fnEmpty, fnLog, fnGetTimeStr, fnGetFileTime
+from bin.base import fnEmpty, fnLog, fnBug, fnGetTimeStr, fnGetFileTime
+from bin.func import check_logs
 
 # pylint: disable=global-statement, consider-using-f-string
 
@@ -76,7 +77,16 @@ def md_list_fn(posts_dir):
     for md in md_list:
         # 获取文件信息
         (md_name, md_mtime) = get_md_info(md)
-        fnLog("### %s | %s" % (md_name, fnGetTimeStr(md_mtime)),
+        # 判断更新时间
+        (log_msg, log_id) = check_logs(
+            md_name, md_mtime, logs_info, debug_info["debug"])
+        fnLog("### %s | %s | %s" % (md_name, log_id, fnGetTimeStr(md_mtime)),
               inspect.currentframe().f_lineno)
-
+        if "skip" == log_msg:
+            fnLog("无需同步")
+            continue
+        if "update" == log_msg:
+            fnLog("md 更新")
+        else:
+            fnLog("md 新增")
     # end for
