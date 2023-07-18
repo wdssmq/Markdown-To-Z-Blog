@@ -1,5 +1,6 @@
 """ 通用函数封装 """
 import os
+import time
 
 # pylint: disable=invalid-name
 
@@ -45,6 +46,10 @@ def fnErr(msg, tip=None):
     fnLog(msg, tip, "_[err]")
 # 错误信息
 
+def fnGetTimeStr(time_stamp):
+    """ 时间戳转换 """
+    return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time_stamp))
+# 时间戳转换
 
 def fnGetDirsInDir(path):
     """ 获取子文件夹 """
