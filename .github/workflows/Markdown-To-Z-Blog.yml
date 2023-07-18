@@ -2,8 +2,8 @@ name: Markdown-To-Z-Blog
 on:
   push:
     branches:
-      # - main
-      - test-*
+      - main
+      # - test-*
     paths:
       - '_posts/**'
 jobs:
