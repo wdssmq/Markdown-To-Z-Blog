@@ -1,9 +1,17 @@
 {
   "fnBug": {
     "scope": "py,python",
-    "prefix": ["fnBug","logBug"],
+    "prefix": ["fnBug"],
     "body": [
-      "fnBug($1, sys._getframe().f_lineno)",
+      "fnBug($1, inspect.currentframe().f_lineno ${3:, ${2:debug_info[\"debug\"]}})",
+    ],
+    "description": ""
+  },
+  "fnLog": {
+    "scope": "py,python",
+    "prefix": ["fnLog"],
+    "body": [
+      "fnLog($1, inspect.currentframe().f_lineno)",
     ],
     "description": ""
   }
