@@ -4,8 +4,8 @@ on:
     branches:
       # - main
       - test-*
-    # paths:
-    #   - '_posts/**'
+    paths:
+      - '_posts/**'
 jobs:
   post:
     runs-on: ubuntu-20.04
