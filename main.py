@@ -12,6 +12,8 @@ from bin.base import fnBug, fnErr, fnLog
 from bin.func import read_logs
 # 从 bin/http_func.py 中导入 http 请求封装
 from bin.http_func import http_init, login
+# 众 bin/md_func.py 中导入 md 文件处理函数
+from bin.md_func import md_init, md_list_fn
 
 # 时间信息
 _now = int(time.time())
@@ -28,7 +30,8 @@ logs_info = {
     "changed": [],
     "list": [],
     "logs_file": os.path.join(os.getcwd(), "_posts_logs.json"),
-    "readme_file": os.path.join(os.getcwd(), "README.md")
+    "readme_file": os.path.join(os.getcwd(), "README.md"),
+    "posts_dir": os.path.join(os.getcwd(), "_posts"),
 }
 debug_info = {
     "debug": False,
@@ -98,11 +101,16 @@ def init():
     logs_info["list"] = read_logs(logs_info["logs_file"])
 
     # fnBug(logs_info["list"], inspect.currentframe().f_lineno, debug_info["debug"])
-
-    # 登录
-    http_init(config_info, logs_info, debug_info)
-    login()
 # 初始化函数
 
 
+# 初始化调用
 init()
+
+# 登录调用
+http_init(config_info, logs_info, debug_info)
+login()
+
+# md 处理调用
+md_init(config_info, logs_info, debug_info)
+md_list_fn(logs_info["posts_dir"])
