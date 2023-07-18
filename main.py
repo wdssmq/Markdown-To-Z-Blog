@@ -32,6 +32,7 @@ logs_info = {
     "logs_file": os.path.join(os.getcwd(), "_posts_logs.json"),
     "readme_file": os.path.join(os.getcwd(), "README.md"),
     "posts_dir": os.path.join(os.getcwd(), "_posts"),
+    "need_save": False
 }
 debug_info = {
     "debug": False,
