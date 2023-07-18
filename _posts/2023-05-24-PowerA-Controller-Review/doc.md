@@ -1,6 +1,6 @@
 ---
 title: PowerA XBox 兼容手柄
-date: 2023-05-24 12:27:45
+date: 2023-05-24 12:27:54
 tags:
  - 硬件
  - XBox
