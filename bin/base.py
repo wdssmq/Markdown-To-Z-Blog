@@ -3,10 +3,11 @@ import os
 
 # pylint: disable=invalid-name
 
-def fnEmpty():
-    """ 占位空函数 """
-    return 1
-# 什么也不做
+def fnEmpty(arg):
+    """ 占位空函数，用来应对 unused-variable """
+    # 返回 arg 的值
+    return arg
+# 占位空函数，用来应对 unused-variable
 
 
 def fnLog(msg="", tip=None, log_type=""):
