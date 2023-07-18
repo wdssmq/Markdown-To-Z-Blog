@@ -21,6 +21,7 @@ def md_init(config, logs, debug):
     config_info = config
     logs_info = logs
     debug_info = debug
+    debug_info["debug"] = True
 
 
 def get_md_list(dir_path):

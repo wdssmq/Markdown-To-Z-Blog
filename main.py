@@ -9,7 +9,7 @@ import inspect
 # 从 bin/base.py 中导入通用函数
 from bin.base import fnBug, fnErr, fnLog
 # 从 bin/func.py 中导入函数
-from bin.func import read_logs
+from bin.func import read_logs, update_logs_git
 # 从 bin/http_func.py 中导入 http 请求封装
 from bin.http_func import http_init, login
 # 众 bin/md_func.py 中导入 md 文件处理函数
@@ -110,6 +110,9 @@ init()
 # 登录调用
 http_init(config_info, logs_info, debug_info)
 login()
+
+# 合并更新日志
+update_logs_git(logs_info)
 
 # md 处理调用
 md_init(config_info, logs_info, debug_info)
