@@ -35,6 +35,7 @@ def read_logs(file_path):
 
 
 def update_logs(key, value, logs_info):
+    """ 写入/更新日志字段 """
     logs_info["list"][key] = value
     return True
 # 写入/更新日志字段
@@ -84,10 +85,7 @@ def update_logs_git(logs_info, debug=False):
 def check_logs(key, file_mtime, logs_info, debug=False):
     """ 检查是否需要更新 """
     logs_list = logs_info["list"]
-    # logs_changed = logs_info["changed"]
-
-    # fnBug(logs_changed, inspect.currentframe().f_lineno, debug)
-    # fnBug(key in logs_changed, inspect.currentframe().f_lineno, debug)
+    is_git_update = logs_info["is_git_update"]
 
     log_msg = ""
     log_id = 0
@@ -98,7 +96,9 @@ def check_logs(key, file_mtime, logs_info, debug=False):
 
         fnBug(log_data, inspect.currentframe().f_lineno, debug)
 
-        if file_mtime > log_mtime:
+        if is_git_update and log_data.get("git_update", 0) == 1:
+            log_msg = "update"
+        elif not is_git_update and file_mtime > log_mtime:
             log_msg = "update"
         else:
             log_msg = "skip"

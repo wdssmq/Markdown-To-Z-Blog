@@ -32,7 +32,8 @@ logs_info = {
     "logs_file": os.path.join(os.getcwd(), "_posts_logs.json"),
     "readme_file": os.path.join(os.getcwd(), "README.md"),
     "posts_dir": os.path.join(os.getcwd(), "_posts"),
-    "need_save": False
+    "need_save": False,
+    "is_git_update": False,
 }
 debug_info = {
     "debug": False,
@@ -98,6 +99,9 @@ def init():
     # 自定义图床域名
     if "IMG_HOST" not in config_info.keys():
         config_info["IMG_HOST"] = ""
+
+    if any(logs_info["changed"]):
+        logs_info["is_git_update"] = True
 
     # 调试模式使用另外的文件路径
     if debug_info["debug"]:
