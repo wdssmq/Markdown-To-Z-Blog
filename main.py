@@ -67,7 +67,8 @@ def init():
         if os.environ["GIT_CHANGED_FILES"]:
             # logs_info["changed"] = os.environ["GIT_CHANGED_FILES"]
             # 字符串转列表，去除首尾空格，空格分割
-            logs_info["changed"] = os.environ["GIT_CHANGED_FILES"].strip().split(" ")
+            logs_info["changed"] = os.environ["GIT_CHANGED_FILES"].strip().split(
+                " ")
 
     except KeyError:
         fnLog("无法获 github 的 secrets 配置信息，开始使用本地变量")
@@ -100,6 +101,7 @@ def init():
 
     # 调试模式使用另外的文件路径
     if debug_info["debug"]:
+        # logs_info["posts_dir"] = os.path.join(os.getcwd(), "_debug_posts")
         logs_info["logs_file"] = os.path.join(
             os.getcwd(), "_debug_posts_logs.json")
         logs_info["readme_file"] = os.path.join(
@@ -108,6 +110,7 @@ def init():
     # 读取日志文件
     logs_info["list"] = read_logs(logs_info["logs_file"])
     # 合并更新日志
+    fnLog()
     update_logs_git(logs_info, debug_info["debug"])
 
     # fnBug(logs_info["list"], inspect.currentframe().f_lineno, debug_info["debug"])
@@ -124,3 +127,6 @@ login()
 # md 处理调用
 md_init(config_info, logs_info, debug_info)
 md_list_fn(logs_info["posts_dir"])
+
+# 输出调试信息
+print(debug_info["log"])
