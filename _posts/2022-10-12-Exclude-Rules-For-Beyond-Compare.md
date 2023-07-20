@@ -16,6 +16,8 @@ alias: 20100202934
 
 <!--more-->
 
+<!-- 文件排除丨排除规则 -->
+
 ```ini
 ; 文件
 *-new-post.md
@@ -23,12 +25,20 @@ alias: 20100202934
 
 ; 文件夹
 .git
-.sync
 .history
+.sync
+__pycache__
 node_modules
-Tencent Files
-tdata
+#__SDXC__
 *-new-post
+*git
+*var
+*web
+Desktop
+Documents
+OneDrive
+Seafile
+
 ```
 
 附：对于「FastCopy」，则使用以下形式排除文件夹：
