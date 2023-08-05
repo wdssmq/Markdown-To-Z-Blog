@@ -7,7 +7,7 @@ on:
     paths:
       - '_posts/**'
 jobs:
-  post:
+  def:
     runs-on: ubuntu-20.04
     env:
       TZ: Asia/Shanghai
@@ -54,6 +54,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git status
           git diff-index --quiet HEAD || (git commit -m "Auto Commit" -a --no-verify)
+      # Push Changes To Git
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
