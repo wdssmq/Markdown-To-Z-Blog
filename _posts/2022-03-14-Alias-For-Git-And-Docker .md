@@ -37,7 +37,7 @@ dkrm,3=sudo docker rm --force
 dkrm,4=sudo docker rm
 ```
 
-Git 命令，则可以设置在`~/.gitconfig`内：
+Git 命令，则可以设置在 `~/.gitconfig` 内：
 
 使用时可以直接 `git br` 或 `git co`；
 
@@ -79,7 +79,7 @@ Git 命令，则可以设置在`~/.gitconfig`内：
 
     # remote
     rea = remote add
-    res = remote set-url
+    reu = remote set-url
     rev = remote -v
     ren = remote rename
     rem = remote remove
