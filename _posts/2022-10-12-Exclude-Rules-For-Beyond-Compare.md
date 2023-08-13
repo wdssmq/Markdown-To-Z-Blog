@@ -24,10 +24,11 @@ alias: 20100202934
 *.crdownload
 
 ; 文件夹
+__pycache__
+_gsdata_
 .git
 .history
 .sync
-__pycache__
 node_modules
 #__SDXC__
 *-new-post
@@ -37,7 +38,6 @@ node_modules
 Desktop
 Documents
 OneDrive
-Seafile
 
 ```
 
