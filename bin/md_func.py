@@ -16,8 +16,9 @@ logs_info = {}
 debug_info = {}
 
 
+# 初始化
 def md_init(config, logs, debug):
-    """ 初始化 """
+    """初始化"""
     global config_info, logs_info, debug_info
 
     config_info = config
@@ -25,8 +26,9 @@ def md_init(config, logs, debug):
     debug_info = debug
 
 
+# 获取特定目录的 markdown 文件列表
 def get_md_list(dir_path):
-    """ 获取特定目录的 markdown 文件列表 """
+    """获取特定目录的 markdown 文件列表"""
     # 绝对路径列表
     md_list = []
     dirs = os.listdir(dir_path)
@@ -41,11 +43,11 @@ def get_md_list(dir_path):
             if os.path.isdir(cur_path) and os.path.isfile(cur_doc):
                 md_list.append(cur_doc)
     return md_list
-# 获取特定目录的 markdown 文件列表
 
 
+# 通过 md 文件获取项目名和更新时间
 def get_md_info(file_path):
-    """ 通过 md 文件获取项目名和更新时间 """
+    """通过 md 文件获取项目名和更新时间"""
     (md_mtime, md_ctime) = fnGetFileTime(file_path)
     fnEmpty(md_ctime)
     file_path = file_path.replace("\\", "/")
@@ -54,34 +56,34 @@ def get_md_info(file_path):
         tmp_name = file_path.replace("/doc.md", "")
         md_name = os.path.basename(tmp_name)
     return (md_name, md_mtime)
-# 通过 md 文件获取项目名和更新时间
 
 
+# 获取 markdown 文件中的内容
 def get_md_content(file_path):
-    """ 获取 markdown 文件中的内容 """
+    """获取 markdown 文件中的内容"""
     content = ""
     metadata = {}
-    with open(file_path, 'r', encoding='UTF-8') as f:
+    with open(file_path, "r", encoding="UTF-8") as f:
         post = frontmatter.load(f)
         content = post.content.replace("<!-- more -->", "<!--more-->")
         metadata = post.metadata
         # print("==>>", post.content)
         # print("===>>", post.metadata)
     return (content, metadata)
-# 获取 markdown 文件中的内容
 
 
+# 检查 markdown 文件是否符合要求
 def md_file_check(md_meta, md_file):
-    """ 检查 markdown 文件是否符合要求 """
+    """检查 markdown 文件是否符合要求"""
     if md_meta["title"] == "未命名" or "new-post" in md_meta["md_name"]:
-        fnErr("标题或文件名不符合要求：%s" % md_file,  inspect.currentframe().f_lineno)
+        fnErr("标题或文件名不符合要求：%s" % md_file, inspect.currentframe().f_lineno)
         return False
     return True
-# 检查 markdown 文件是否符合要求
 
 
+# 解析 markdown 文件并发送
 def md_post_fn(md_content, md_meta, md_file):
-    """ 解析 markdown 文件并发送 """
+    """解析 markdown 文件并发送"""
     # 跳过「未命名」文章
     if not md_file_check(md_meta, md_file):
         return False
@@ -102,7 +104,7 @@ def md_post_fn(md_content, md_meta, md_file):
     # DEBUG 开启时以 cover_id 为准
     if debug and isinstance(post_data["cover_id"], int) and post_data["log_id"] == 0:
         fnLog()
-        fnBug(post_data["cover_id"],  inspect.currentframe().f_lineno)
+        fnBug(post_data["cover_id"], inspect.currentframe().f_lineno)
         fnLog()
         post_data["log_id"] = post_data["cover_id"]
 
@@ -110,33 +112,42 @@ def md_post_fn(md_content, md_meta, md_file):
     if isinstance(post_data["cover_id"], int) and post_data["log_id"] == 0:
         (web_code, web_title) = get_post_code(post_data["cover_id"])
         if web_code == 200:
-            fnLog("文章将被覆盖：「%s」「%s」" %
-                  (post_data["cover_id"], web_title))
+            fnLog("文章将被覆盖：「%s」「%s」" % (post_data["cover_id"], web_title))
             post_data["log_id"] = post_data["cover_id"]
         else:
-            fnErr("文章不存在：%s" % post_data["cover_id"],
-                  inspect.currentframe().f_lineno)
+            fnErr("文章不存在：%s" % post_data["cover_id"], inspect.currentframe().f_lineno)
             debug_info["log"] += "文章不存在：%s | %s \n" % (
-                post_data["cover_id"], post_data["md_name"])
+                post_data["cover_id"],
+                post_data["md_name"],
+            )
             return False
 
     # cover_id 不为空，但是与 _posts_logs_data 记录不一致时
-    if isinstance(post_data["cover_id"], int) and post_data["cover_id"] != post_data["log_id"]:
-        debug_info["log"] += "ID 不匹配：%s - %s - %s \n" % (post_data["md_name"],
-                                                         post_data["cover_id"], post_data["log_id"])
+    if (
+        isinstance(post_data["cover_id"], int)
+        and post_data["cover_id"] != post_data["log_id"]
+    ):
+        debug_info["log"] += "ID 不匹配：%s - %s - %s \n" % (
+            post_data["md_name"],
+            post_data["cover_id"],
+            post_data["log_id"],
+        )
 
     if not isinstance(post_data["cover_id"], int):
-        debug_info["log"] += "未指定 id ：%s - %s \n" % (post_data["md_name"],
-                                                     post_data["cover_id"])
+        debug_info["log"] += "未指定 id ：%s - %s \n" % (
+            post_data["md_name"],
+            post_data["cover_id"],
+        )
 
     if post_data["alias"] == "":
         debug_info["log"] += "未指定 alias ：%s \n" % (post_data["md_name"])
 
-    md_content = up_img_host(
-        post_data["md_name"], md_content, config_info["IMG_HOST"])
+    md_content = up_img_host(post_data["md_name"], md_content, config_info["IMG_HOST"])
 
     html_content = markdown.markdown(
-        md_content, extensions=['tables', 'fenced_code', 'sane_lists', 'md_in_html', 'nl2br'])
+        md_content,
+        extensions=["tables", "fenced_code", "sane_lists", "md_in_html", "nl2br"],
+    )
 
     html_content = "%s<!--%i-->\n" % (html_content, post_data["log_id"])
     md_content = "%s<!--%i-->\n" % (md_content, post_data["log_id"])
@@ -149,7 +160,7 @@ def md_post_fn(md_content, md_meta, md_file):
         "Alias": post_data["alias"],
         "Content": html_content,
         "MD_Content": md_content,
-        "Tag": ",".join('%s' % tag for tag in post_data["tags"]),
+        "Tag": ",".join("%s" % tag for tag in post_data["tags"]),
         "CateName": post_data["cate"],
         "Status": post_data["status"],
     }
@@ -177,8 +188,9 @@ def md_post_fn(md_content, md_meta, md_file):
     return True
 
 
+# 获取 md 文件列表并处理
 def md_list_fn(posts_dir):
-    """ 获取 md 文件列表并处理 """
+    """获取 md 文件列表并处理"""
     fnLog()
     fnLog("## 遍历文章处理：")
     md_list = get_md_list(posts_dir)
@@ -188,9 +200,12 @@ def md_list_fn(posts_dir):
 
         # 判断更新时间
         (log_msg, log_id) = check_logs(
-            md_name, md_mtime, logs_info, debug_info["debug"])
-        fnLog("### %s | %s | %s" % (md_name, log_id, fnGetTimeStr(md_mtime)),
-              inspect.currentframe().f_lineno)
+            md_name, md_mtime, logs_info, debug_info["debug"]
+        )
+        fnLog(
+            "### %s | %s | %s" % (md_name, log_id, fnGetTimeStr(md_mtime)),
+            inspect.currentframe().f_lineno,
+        )
         if "skip" == log_msg:
             fnLog("无需同步")
             fnLog()
@@ -220,4 +235,3 @@ def md_list_fn(posts_dir):
     fnLog("### 文章计数")
     fnBug(len(md_list), inspect.currentframe().f_lineno, debug_info["debug"])
     fnLog("共计：%s" % len(logs_info["list"]))
-# 获取 md 文件列表并处理
