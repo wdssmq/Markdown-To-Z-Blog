@@ -80,6 +80,28 @@ def login():
         sys.exit(0)
 
 
+# 获取文章列表
+def get_post_list():
+    """获取文章列表"""
+    data = http(
+        {
+            "method": "get",
+            "mod": "post",
+            "act": "list",
+        },
+        {
+            "page": 1,
+            "sortby": "UpdateTime",
+            "order": "DESC",
+            "perpage": 37,
+        },
+        "data",
+    )
+    if not data is None:
+        return data["list"]
+    return []
+
+
 # 查找文章，返回状态码
 def get_post_code(id):
     """查找文章，返回状态码"""
