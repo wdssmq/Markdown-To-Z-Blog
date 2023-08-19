@@ -5,8 +5,8 @@ import inspect
 import markdown
 
 from bin.base import fnEmpty, fnLog, fnBug, fnErr, fnGetTimeStr, fnGetFileTime
-from bin.func import check_logs, update_logs, save_logs, up_img_host
-from bin.http_func import get_post_code, update_post
+from bin.func import check_logs, update_logs, save_logs, up_img_host, update_readme
+from bin.http_func import get_post_code, update_post, get_post_list
 
 # pylint: disable=global-statement, consider-using-f-string
 
@@ -235,3 +235,9 @@ def md_list_fn(posts_dir):
     fnLog("### 文章计数")
     fnBug(len(md_list), inspect.currentframe().f_lineno, debug_info["debug"])
     fnLog("共计：%s" % len(logs_info["list"]))
+    if not logs_info["need_save"]:
+        return
+    # 更新 readme
+    fnLog()
+    post_list = get_post_list()
+    update_readme(logs_info["readme_file"], post_list, debug_info)

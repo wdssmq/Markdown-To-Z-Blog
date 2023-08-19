@@ -3,6 +3,7 @@ import os
 import json
 import inspect
 import re
+import time
 
 from bin.base import fnEmpty, fnLog, fnBug
 
@@ -105,3 +106,41 @@ def check_logs(key, file_mtime, logs_info, debug=False):
 
     return log_msg, log_id
 # 检查是否需要更新
+
+insert_tpl = """
+---start---\n
+## 目录 - {date_str} 更新\n
+{post_list_str}\n
+---end---
+"""
+
+def update_readme(readme_file, post_list, debug_info):
+    """ 更新 README """
+    fnLog("### 更新 README")
+    fnBug(len(post_list), inspect.currentframe().f_lineno, debug_info["debug"])
+    date_str = time.strftime(
+        ' %Y 年 %m 月 %d 日')
+    post_list_str = ""
+    # 读取 md_list 中的文件标题
+    for post in post_list:
+        title = post["Title"]
+        url = post["Url"]
+        md_link = '[%s](%s "%s")' % (title,  url,  title)
+        post_list_str = post_list_str + md_link + "\n\n"
+    post_list_str = post_list_str.strip()
+    # 读取 readme 文件
+    with open(readme_file, 'r', encoding='utf-8') as file:
+        readme_content = file.read()
+        file.close()
+    # 替换内容
+    insert_str = insert_tpl.format(
+        date_str=date_str, post_list_str=post_list_str)
+    # 清除前后空白
+    insert_str = insert_str.strip()
+    new_readme = re.sub(r'---start---(.|\n)*?---end---', insert_str , readme_content)
+
+    with open(readme_file, 'w', encoding='utf-8') as file:
+        file.write(new_readme)
+        file.close()
+    return True
+# 更新 README
