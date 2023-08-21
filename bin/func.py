@@ -137,7 +137,7 @@ def update_readme(readme_file, post_list, debug_info):
         date_str=date_str, post_list_str=post_list_str)
     # 清除前后空白
     insert_str = insert_str.strip()
-    new_readme = re.sub(r'---start---(.|\n)*?---end---', insert_str , readme_content)
+    new_readme = re.sub(r'---start---(.|\n)*?---end---', insert_str , readme_content, 1)
 
     with open(readme_file, 'w', encoding='utf-8') as file:
         file.write(new_readme)
