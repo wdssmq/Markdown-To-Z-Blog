@@ -29,6 +29,16 @@ alias: 20120902324
 
 > qBit 自身也是支持追加响应头的，新添加的理论上是会覆盖旧的，不知道姿势不对还是什么原因没走通；
 
+**· 需要添加的字段：**
+
+对于 `wdssmq/rollup-plugin-monkey`，需要为 `Content-Security-Policy` 补充相应规则：
+
+- `default-src 'self' 'unsafe-inline' https://* data:;`
+- `connect-src ws://localhost:3000;`
+- `script-src 'unsafe-inline' https://* http://localhost:3000;`
+
+注：具体要与原始值合并，原则上应该是在原值基础上添加 `ws://localhost:3000` 和 `http://localhost:3000`；
+
 **· 操作步骤：**
 
 CSP 报错示意（001.png）；
@@ -51,7 +61,7 @@ CSP 报错示意（001.png）；
 
 ↑ 003.png
 
-添加「替代规则」（004.png）
+添加「替代规则」，具体值以实际需要为准（004.png）
 
 ![004.png](004.png "添加、指定「替代规则」")
 
