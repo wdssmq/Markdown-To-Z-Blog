@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2023 年 08 月 21 日 更新
+## 目录 -  2023 年 08 月 23 日 更新
+
+[「折腾」使用浏览器自带功能修改网站「响应标头」](https://www.wdssmq.com/post/20120902324.html "「折腾」使用浏览器自带功能修改网站「响应标头」")
 
 [关于 GitHub 的 OpenGraph 接口](https://www.wdssmq.com/post/20230223986.html "关于 GitHub 的 OpenGraph 接口")
 
@@ -41,8 +43,6 @@
 [不知所谓的碎碎念「无力吐槽」](https://www.wdssmq.com/post/20100529960.html "不知所谓的碎碎念「无力吐槽」")
 
 [「动画」《成龙历险记》角色评价](https://www.wdssmq.com/post/20230421917.html "「动画」《成龙历险记》角色评价")
-
-[「折腾」使用浏览器自带功能修改网站「响应标头」](https://www.wdssmq.com/post/20120902324.html "「折腾」使用浏览器自带功能修改网站「响应标头」")
 
 [「言说」卡关人生](https://www.wdssmq.com/post/20230102799.html "「言说」卡关人生")
 
