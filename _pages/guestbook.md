@@ -20,7 +20,7 @@ alias: guestbook
   名称: diu 协会 / GesF Lib / 咸鱼特攻队
   介绍: 不承认亦不反对其他任何人自称同组织成员！
   附: 「咸鱼特攻队」因为对应的外文「GesF Force」会有重复的字母 F，所以不太想用；
-  再附: 组织宣传片无限鸽制中，如果能有一个用来收硬币就好了！
+
 ```
 
 <!--more-->
@@ -71,7 +71,7 @@ Feed：[https://feed.wdssmq.com](http://feed.wdssmq.com "Feed_沉冰浮水")
 <!-- Mastodon -->
 嘟特：[https://wxw.moe/users/wdssmq](https://wxw.moe/users/wdssmq "沉冰浮水 - 呜呜 w(> ʌ <)w")
 
-<!-- B 站 -->
+<!-- 哔哩哔哩 -->
 哔哩哔哩：[https://space.bilibili.com/44744006](https://space.bilibili.com/44744006 "沉冰浮水_哔哩哔哩")
 
 <!-- 知乎 -->
@@ -79,6 +79,9 @@ Feed：[https://feed.wdssmq.com](http://feed.wdssmq.com "Feed_沉冰浮水")
 
 <!-- GitHub -->
 GitHub：[https://github.com/wdssmq](https://github.com/wdssmq "沉冰浮水 - GitHub")
+
+<!-- 百度贴吧 -->
+百度贴吧：[https://tieba.baidu.com/home/main?un=沉冰浮水](https://tieba.baidu.com/home/main?un=%E6%B2%89%E5%86%B0%E6%B5%AE%E6%B0%B4 "沉冰浮水的贴吧")
 
 <!-- GreasyFork -->
 <!-- GreasyFork：[https://greasyfork.org/zh-CN/users/6865-wdssmq](https://greasyfork.org/zh-CN/users/6865-wdssmq "wdsssmq - GreasyFork") -->
