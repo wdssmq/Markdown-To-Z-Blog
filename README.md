@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录 -  2023 年 08 月 28 日 更新
+## 目录 -  2023 年 09 月 14 日 更新
+
+[【折腾】互联网时代的“纸制”积分卡](https://www.wdssmq.com/post/20140425674.html "【折腾】互联网时代的“纸制”积分卡")
+
+[生活中那些很有意思的小定律](https://www.wdssmq.com/post/shenghuozhongnaxiehenyouyisidexiaodinglu.html "生活中那些很有意思的小定律")
 
 [WebDav 折腾「其二」之 rclone](https://www.wdssmq.com/post/20100203443.html "WebDav 折腾「其二」之 rclone")
 
@@ -24,7 +28,11 @@
 
 [「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
 
+[2014 年 9 月 20 日冷笑话合集 - 推销员素质越来越高了](https://www.wdssmq.com/post/20140920458.html "2014 年 9 月 20 日冷笑话合集 - 推销员素质越来越高了")
+
 [「折腾」Docker 部署 Caddy](https://www.wdssmq.com/post/20100717821.html "「折腾」Docker 部署 Caddy")
+
+[手机页游仙游记物品掉落整理](https://www.wdssmq.com/post/20111220980.html "手机页游仙游记物品掉落整理")
 
 [薛定鄂的碎碎念「无力吐槽」](https://www.wdssmq.com/post/20150127189.html "薛定鄂的碎碎念「无力吐槽」")
 
@@ -73,14 +81,6 @@
 [「前端」切割图片并打乱](https://www.wdssmq.com/post/20220621981.html "「前端」切割图片并打乱")
 
 [「原神」关于满地图打素材却发现可以自动追踪这件事](https://www.wdssmq.com/post/20130808670.html "「原神」关于满地图打素材却发现可以自动追踪这件事")
-
-[「水坑」关于如何正确的修改不属于自己的 Z-BlogPHP 应用](https://www.wdssmq.com/post/20230604529.html "「水坑」关于如何正确的修改不属于自己的 Z-BlogPHP 应用")
-
-[「折腾」Linux 命令行部署 QQ 机器人 mirai](https://www.wdssmq.com/post/20141117777.html "「折腾」Linux 命令行部署 QQ 机器人 mirai")
-
-[「油猴」针对 QQ 群管理的「值日生」提示功能](https://www.wdssmq.com/post/20210531442.html "「油猴」针对 QQ 群管理的「值日生」提示功能")
-
-[【真·碎碎念】2022/05/23 ~ 2022/06/19](https://www.wdssmq.com/post/20120687169.html "【真·碎碎念】2022/05/23 ~ 2022/06/19")
 
 ---end---
 
