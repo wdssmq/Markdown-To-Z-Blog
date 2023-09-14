@@ -6,7 +6,7 @@ tags:
 - 互联网
 - 脑洞
 - Z-Blog
-- Z-BLogPHP
+- Z-BlogPHP
 categories:
 - 电脑网络
 id: 397
