@@ -53,6 +53,7 @@ cnpm ls eslint
 
 # 下边命令可以得到全局 node_modules 的地址
 cnpm root -g
+
 ```
 
 **当前项目内：**
@@ -62,12 +63,14 @@ cnpm root -g
 cnpm install eslint --save-dev
 # 查看版本号
 cnpm ls eslint
+
 ```
 
 ### 初始化
 
 ```bash
 cnpm init @eslint/config
+# pnpm create @eslint/config
 # eslint --init
 # 所在目录如果没有 package.json 可能会报错，`npm init` 创建；
 
@@ -99,13 +102,13 @@ cnpm init @eslint/config
 ✔ Browser
 ✔ Node
 
-# 选项六 - ESLint Config 文件保存为何种格式
+# 选项六 - ESLint Config 文件保存为何种格式，建议 JS，JSON 不支持注释
 ? What format do you want your config file to be in? …
 ▸ JavaScript
   YAML
   JSON
 
-# 选项七 - 根据选择可能需要安装额外的项目，比如 vue
+# 选项七 - 根据选择可能需要安装额外的项目，比如 vue 的插件
 The config that you ve selected requires the following dependencies:
 
 eslint-plugin-vue@latest
@@ -136,6 +139,7 @@ eslint-plugin-vue@latest
 # 分支一 - 选择 google 等厂商的代码风格
 ✔ How would you like to define a style for your project? · guide
 ✔ Which style guide do you want to follow? · google
+
 ```
 
 选项一：
@@ -160,13 +164,18 @@ eslint-plugin-vue@latest
 ```bash
 # 检查指定文件
 eslint vite.config.js
-# 检查目录，使用这种写法如果不存在具体某个后缀的文件，会报错
-eslint src/**/*.vue src/**/*.js
-# 指定后缀 + 自动修复，注意后缀前的点号，也不需要加空格
-# 不需要每种后缀都存在实际文件
+
+# 可以使用 --fix 修复能够自动修复的问题
+
+# 按路径匹配文件，某一对引号内的规则没能匹配到文件时会报错
+eslint "src/**/*.vue" "src/**/*.{js,mjs,ts}" --fix
+
+# 指定后缀，注意后缀前的点号，也不需要加空格，不需要每种后缀都有相应的文件
 eslint . --ext .js,.ts,.mjs --fix
+
 # 排除指定文件中定义的路径
 eslint . --ext .js,.ts,.mjs --fix --ignore-path .gitignore
+
 ```
 
 Command Line Interface - ESLint 中文：
@@ -190,6 +199,7 @@ Command Line Interface - ESLint 中文：
 ```bash
 node_modules\.bin\eslint.cmd --init
 # bash: node_modules.bineslint.cmd: command not found
+
 ```
 
 所以保险起见还是自己执行`cnpm init @eslint/config`吧；
@@ -232,22 +242,28 @@ module.exports = {
     // 规则定义
     'rules': {
         /* 相对通用的规则 */
+
+        // 缩进
         'indent': [
             'error',
             4,
         ],
+        // 换行符
         'linebreak-style': [
             'error',
             'unix',
         ],
+        // 引号
         'quotes': [
             'error',
             'single',
         ],
+        // 分号
         'semi': [
             'error',
             'never',
         ],
+        // 单行注释的空格
         'spaced-comment': [
             'error',
             'always',
@@ -255,11 +271,11 @@ module.exports = {
 
         /* 以下按需配置 */
 
-        // 允许 require 语法赋值
-        '@typescript-eslint/no-var-requires': 0,
+        // // 允许 require 语法赋值
+        // '@typescript-eslint/no-var-requires': 0,
 
-        // generator 函数中 * 号前后的空格
-        'generator-star-spacing': 0,
+        // // generator 函数中 * 号前后的空格
+        // 'generator-star-spacing': 0,
 
         // 对象或数组的拖尾逗号
         // always-multiline 表示只有在多行时才需要拖尾逗号
