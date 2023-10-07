@@ -33,6 +33,8 @@
         "  cp ${_empty} ${_date}-new-post/doc.md \r\n",
         "  sed -i \"s/{{ date }}/`date +%Y-%m-%d\\ %H:%M:%S`/\" ${_date}-new-post/doc.md \r\n",
         "fi",
+        "\r\n",
+        "code ${_date}-new-post.md",
         "\r\n"
       ],
       "group": {
