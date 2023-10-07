@@ -6,11 +6,19 @@
 
 ---start---
 
-## 目录 -  2023 年 10 月 04 日 更新
+## 目录 -  2023 年 10 月 07 日 更新
+
+[「笔记」各种碎片信息「2023-10-07」](https://www.wdssmq.com/post/20230223818.html "「笔记」各种碎片信息「2023-10-07」")
 
 [「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
 
+[2012 年 1 月 5 日冷笑话合集 - 迫于无奈](https://www.wdssmq.com/post/20120105832.html "2012 年 1 月 5 日冷笑话合集 - 迫于无奈")
+
 [2011 年 10 月 15 日冷笑话合集 - 尴尬](https://www.wdssmq.com/post/2011Nian10Yue15RiLengXiaoHuaHeJi.html "2011 年 10 月 15 日冷笑话合集 - 尴尬")
+
+[2011 年 5 月 14 日冷笑话合集 - 算你好运](https://www.wdssmq.com/post/2011Nian5Yue14RiLengXiaoHuaHeJi-SuanNiHaoYun.html "2011 年 5 月 14 日冷笑话合集 - 算你好运")
+
+[2011 年 10 月 14 日冷笑话合集 - 加速度](https://www.wdssmq.com/post/2011Nian10Yue14RiLengXiaoHuaHeJi-JiaSuDu.html "2011 年 10 月 14 日冷笑话合集 - 加速度")
 
 [【折腾】互联网时代的“纸制”积分卡](https://www.wdssmq.com/post/20140425674.html "【折腾】互联网时代的“纸制”积分卡")
 
@@ -73,14 +81,6 @@
 [不知所谓的碎碎念「无力吐槽」](https://www.wdssmq.com/post/20100529960.html "不知所谓的碎碎念「无力吐槽」")
 
 [小白兔的爱情](https://www.wdssmq.com/post/20100601486.html "小白兔的爱情")
-
-[「动画」《成龙历险记》角色评价](https://www.wdssmq.com/post/20230421917.html "「动画」《成龙历险记》角色评价")
-
-[「言说」卡关人生](https://www.wdssmq.com/post/20230102799.html "「言说」卡关人生")
-
-[PowerA XBox 兼容手柄](https://www.wdssmq.com/post/20230501376.html "PowerA XBox 兼容手柄")
-
-[「水坑」浏览器内清理特定网站的 301 缓存](https://www.wdssmq.com/post/20211130948.html "「水坑」浏览器内清理特定网站的 301 缓存")
 
 ---end---
 
