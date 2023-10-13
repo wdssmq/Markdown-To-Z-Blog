@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2023 年 10 月 08 日 更新
+## 目录 -  2023 年 10 月 13 日 更新
+
+[「VSCode」快捷键备忘](https://www.wdssmq.com/post/20130525410.html "「VSCode」快捷键备忘")
 
 [「笔记」各种碎片信息「2023-10-07」](https://www.wdssmq.com/post/20230223818.html "「笔记」各种碎片信息「2023-10-07」")
 
@@ -19,6 +21,8 @@
 [2011 年 5 月 14 日冷笑话合集 - 算你好运](https://www.wdssmq.com/post/2011Nian5Yue14RiLengXiaoHuaHeJi-SuanNiHaoYun.html "2011 年 5 月 14 日冷笑话合集 - 算你好运")
 
 [2011 年 10 月 14 日冷笑话合集 - 加速度](https://www.wdssmq.com/post/2011Nian10Yue14RiLengXiaoHuaHeJi-JiaSuDu.html "2011 年 10 月 14 日冷笑话合集 - 加速度")
+
+[2013 年 9 月 5 日冷笑话 - 晚上骑车不安全](https://www.wdssmq.com/post/20130905603.html "2013 年 9 月 5 日冷笑话 - 晚上骑车不安全")
 
 [【折腾】互联网时代的“纸制”积分卡](https://www.wdssmq.com/post/20140425674.html "【折腾】互联网时代的“纸制”积分卡")
 
@@ -77,10 +81,6 @@
 [2011 年 10 月「无力吐槽」](https://www.wdssmq.com/post/2011Nian10YueWuLiTuCao.html "2011 年 10 月「无力吐槽」")
 
 [这个字幕组好懒「无力吐槽」](https://www.wdssmq.com/post/ZheGeZiMuZuHaoLan.html "这个字幕组好懒「无力吐槽」")
-
-[不知所谓的碎碎念「无力吐槽」](https://www.wdssmq.com/post/20100529960.html "不知所谓的碎碎念「无力吐槽」")
-
-[小白兔的爱情](https://www.wdssmq.com/post/20100601486.html "小白兔的爱情")
 
 ---end---
 
