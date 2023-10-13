@@ -26,7 +26,7 @@ cdblogs: https://www.cnblogs.com/wdssmq/p/15167982.html
 
 部分键为自定义，并且需要删掉冲突的定义；
 
-几个留空的是没有默认项又没决定好自定义成啥；
+<!-- 几个留空的是没有默认项又没决定好自定义成啥； -->
 
 **请根据命令项查看实际绑定键或自定义；**
 
@@ -72,6 +72,7 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf "键盘�
 | ctrl + shfit + e         | 工作区/文件夹查看            | workbench.view.explorer                          |
 | ctrl + shift + k         | 删除当前行                   | 感觉 ctrl + l，然后 del 会更安全？               |
 | ctrl + shift + l         | 将全部查找匹配项添加到选择   | addCursorsAtSearchResults                        |
+| ctrl + shift + t         | 重新打开关闭的编辑器页       | workbench.action.reopenClosedEditor              |
 | alt + d                  | 将下一个查找匹配项添加到选择 | editor.action.addSelectionToNextFindMatch        |
 | alt + ↑                  | 向上移动行                   | editor.action.moveLinesUpAction                  |
 | alt + ↓                  | 向上移动行                   | editor.action.moveLinesDownAction                |
