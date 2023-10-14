@@ -8,6 +8,8 @@
 
 ## 目录 -  2023 年 10 月 14 日 更新
 
+[「图说」两部手机在夏天如何携带这种事](https://www.wdssmq.com/post/20231014544.html "「图说」两部手机在夏天如何携带这种事")
+
 [各种广告「广告慎入」](https://www.wdssmq.com/post/20230319748.html "各种广告「广告慎入」")
 
 [话说把「无力吐槽」弄个子栏目？](https://www.wdssmq.com/post/HuaShuoBa-WuLiTuCao-NongGeZiLanMu.html "话说把「无力吐槽」弄个子栏目？")
@@ -79,8 +81,6 @@
 [「杂巧杂八」番茄工作法及适用于 Chrome 的番茄钟](https://www.wdssmq.com/post/20190304854.html "「杂巧杂八」番茄工作法及适用于 Chrome 的番茄钟")
 
 [不能邮箱登录的网站都是耍流氓「无力吐槽」](https://www.wdssmq.com/post/20140507140.html "不能邮箱登录的网站都是耍流氓「无力吐槽」")
-
-[单线程睡眠「无力吐槽」](https://www.wdssmq.com/post/20141129906.html "单线程睡眠「无力吐槽」")
 
 ---end---
 
