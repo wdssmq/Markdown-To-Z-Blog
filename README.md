@@ -6,9 +6,13 @@
 
 ---start---
 
-## 目录 -  2023 年 10 月 18 日 更新
+## 目录 -  2023 年 10 月 20 日 更新
+
+[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
 
 [「水坑」并没有图的技能树图谱](https://www.wdssmq.com/post/20230914731.html "「水坑」并没有图的技能树图谱")
+
+[「水坑」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「水坑」Z-BlogPHP 模板机制讲解「简易版」")
 
 [【梦物语】2020 年 09 月 25 日](https://www.wdssmq.com/post/20150215200.html "【梦物语】2020 年 09 月 25 日")
 
@@ -77,10 +81,6 @@
 [「无从复盘的过往」skap is nothing](https://www.wdssmq.com/post/20201126661.html "「无从复盘的过往」skap is nothing")
 
 [忘记标题的碎碎念「无力吐槽」](https://www.wdssmq.com/post/20141122436.html "忘记标题的碎碎念「无力吐槽」")
-
-[想得多，做得少，说得更少「无力吐槽」](https://www.wdssmq.com/post/20150108252.html "想得多，做得少，说得更少「无力吐槽」")
-
-[「列表」Z-Blog 主题、插件注意事项](https://www.wdssmq.com/post/20191120012.html "「列表」Z-Blog 主题、插件注意事项")
 
 ---end---
 
