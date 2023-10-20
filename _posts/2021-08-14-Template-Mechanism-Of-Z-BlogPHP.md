@@ -23,13 +23,10 @@ Z-BlogPHP 模板语法汇总：
 
 [https://docs.zblogcn.com/php/markup/](https://docs.zblogcn.com/php/markup/ "Z-BlogPHP 模板语法汇总")
 
-「小目标」平均每篇文章/Git Repository 赚取 1 元\_杂七杂八\_沉冰浮水：
-
-[https://www.wdssmq.com/post/20210723266.html](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元\_杂七杂八\_沉冰浮水")
-
-> 为什么叫「水坑」见：
+> 为什么叫「水坑」见： [「水坑」系列教程索引](/post/20200617652.html "「水坑」系列教程索引")
 >
-> [「水坑」系列教程索引](/post/20200617652.html "「水坑」系列教程索引")
+> 「水坑」系列文章列表： [/tag/GesF-Force/](/tag/GesF-Force/ "Tag: GesF-Force")
+
 
 ### PHP 可变变量（动态变量）
 
