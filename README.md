@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2023 年 10 月 24 日 更新
+## 目录 -  2023 年 10 月 25 日 更新
+
+[「Ubuntu 笔记」常见错误提示整理](https://www.wdssmq.com/post/20131101035.html "「Ubuntu 笔记」常见错误提示整理")
 
 [「备忘」Windows 文件名不能出现的字符及正则过滤](https://www.wdssmq.com/post/20190228854.html "「备忘」Windows 文件名不能出现的字符及正则过滤")
 
@@ -79,8 +81,6 @@
 [2014 年 9 月 20 日冷笑话合集 - 推销员素质越来越高了](https://www.wdssmq.com/post/20140920458.html "2014 年 9 月 20 日冷笑话合集 - 推销员素质越来越高了")
 
 [「折腾」Docker 部署 Caddy](https://www.wdssmq.com/post/20100717821.html "「折腾」Docker 部署 Caddy")
-
-[手机页游仙游记物品掉落整理](https://www.wdssmq.com/post/20111220980.html "手机页游仙游记物品掉落整理")
 
 ---end---
 
