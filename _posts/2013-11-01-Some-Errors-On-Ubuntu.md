@@ -71,7 +71,7 @@ locale
 # …………
 ```
 
-\-----
+----
 
 错误提示：
 
@@ -87,7 +87,7 @@ sudo apt update
 sudo apt install docker-ce
 ```
 
-\-----
+----
 
 错误提示：
 
@@ -97,7 +97,7 @@ sudo apt install docker-ce
 
 > apt-get remove golang-docker-credential-helpers
 
-\-----
+----
 
 错误提示：
 
@@ -117,7 +117,7 @@ sudo apt install docker-ce
 >
 > 127.0.0.1 localhost localhost.localdomain vps.wdssmq.com
 
-\-----
+----
 
 错误提示：
 
@@ -141,7 +141,7 @@ sudo apt install docker-ce
 >
 > make install
 
-\-----
+----
 
 错误提示：
 
@@ -155,7 +155,7 @@ sudo apt install docker-ce
 >
 > sudo apt-get install libtool automake build-essential libssl-dev libsigc++-2.0-dev libc6-dev libncurses5-dev subversion libcppunit-dev unzip unrar-free curl
 
-\-----
+----
 
 错误提示：
 
@@ -175,7 +175,7 @@ sudo apt-get install gcc
 sudo apt-get install build-essential
 ```
 
-\-----
+----
 
 错误提示：
 
