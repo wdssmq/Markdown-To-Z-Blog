@@ -23,8 +23,18 @@ npm install -g cnpm --registry=https://registry.npmmirror.com
 cnpm get registry
 
 # pnpm
-# npm install -g pnpm
+# npm 安装
+npm install -g pnpm
+
+# PowerShell - Windows
+iwr https://get.pnpm.io/install.ps1 -useb | iex
+
+# Bash - Linux / WSL
 curl -fsSL https://get.pnpm.io/install.sh | sh -
+
+# 初始化（Windows 可能需要，执行后要开一个新终端安装项目）
+pnpm setup
+
 # 设置淘宝源
 pnpm config set registry https://registry.npmmirror.com
 pnpm get registry
@@ -37,23 +47,23 @@ pnpm get registry
 # lint-md
 pnpm install -g @lint-md/core @lint-md/cli
 
-# browser-sync
-pnpm install -g browser-sync
+# docsify
+pnpm install -g docsify-cli
 
 # eslint
 pnpm install -g eslint
 
-# typescript && ts-node
-pnpm install -g typescript ts-node
-
 # rollup
 pnpm install -g rollup
 
+# typescript && ts-node
+pnpm install -g typescript ts-node
+
+# browser-sync
+pnpm install -g browser-sync
+
 # hexo
 pnpm install -g hexo-cli
-
-# docsify
-pnpm install -g docsify-cli
 
 ```
 
