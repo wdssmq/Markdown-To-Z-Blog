@@ -30,16 +30,17 @@ alias: 20220211184
 # 查看可用列表
 wsl -l -o
 
-# 安装 Ubuntu-18.04
-wsl --install -d Ubuntu-18.04
+# 安装 Ubuntu-20.04
+wsl --install -d Ubuntu-20.04
 
 # 查看已安装
 wsl -l -v
+
 ```
 
 注：Debian 版本信息为 9.5 (stretch)，好像不符合 Docker 的要求；
 
-下边是我的踩坑记录，虽然就结果上好像是可以用的？
+下边是我的踩坑记录，相当于分步安装，可以只安装 wsl2 功能自身而不安装 Linux 发行版，之后可以从备份中恢复；
 
 **安装 WSL：**
 
@@ -48,6 +49,15 @@ wsl -l -v
     - 「适用于 Linux 的 Windows 子系统」
     - 「虚拟机平台」
 - 确定并重启系统；
+
+理论上也可以 PowerShell 中执行如下命令：
+
+```powershell
+# 需要管理员权限，执行后也要先重启再安装内核更新
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+
+```
 
 **升级为 WSL 2：**
 
@@ -61,14 +71,16 @@ wsl -l -v
 
 **设置默认版本：**
 
-```bash
-wsl --set-default-version 2
-# 设置 WSL 2 为默认；
-```
-
 决定下一步将要安装的 Linux 发行版默认使用的 WSL 版本；
 
 我一开始没执行这一步，但是好像可以再改；
+
+```bash
+wsl --set-default-version 2
+# 设置 WSL 2 为默认；
+
+```
+
 
 **安装 Linux 发行版：**
 
@@ -89,6 +101,7 @@ wsl -l -o
 # Ubuntu-16.04    Ubuntu 16.04 LTS
 # Ubuntu-18.04    Ubuntu 18.04 LTS
 # Ubuntu-20.04    Ubuntu 20.04 LTS
+
 ```
 
 **查看已安装 Linux 子系统：**
@@ -97,28 +110,69 @@ wsl -l -o
 
 |     | NAME         | STATE   | VERSION |
 | --- | ------------ | ------- | ------- |
-| \*  | Ubuntu-18.04 | Running | 1       |
+| \*  | Ubuntu-20.04 | Running | 1       |
+
+
+**备份和恢复：**
+
+
+```bash
+# 从文件导入
+mkdir -p /c/WSL
+wsl --shutdown && wsl -l -v
+echo $(date +%Y-%m-%d\ %H:%M)
+wsl --import Ubuntu-20.04 "C:\WSL\Ubuntu-20.04" "D:\#bak\WSL\wsl-2023-02-06.tar"
+echo $(date +%Y-%m-%d\ %H:%M)
+# exit ← 把这一行也复制上，以保证上一行的时间能够输出
+
+# 注：恢复后默认使用 root 连接，需要在额外修改用户；
+cat /etc/wsl.conf
+sudo su
+sudo echo -e "[user]" >> /etc/wsl.conf
+sudo echo -e "default = wdssmq" >> /etc/wsl.conf
+su wdssmq
+cat /etc/wsl.conf
+
+# 备份打包
+mkdir -p /c/WSL
+wsl --shutdown && wsl -l -v
+echo $(date '+%Y-%m-%d %H:%M')
+wsl --export Ubuntu-20.04 "/c/WSL/wsl-$(date +%Y-%m-%d).tar"
+echo $(date '+%Y-%m-%d %H:%M')
+# exit ← 把这一行也复制上，以保证上一行的时间能够输出
+
+```
+
+其他：
+
+ - wsl 内部可以用 `/mnt/c/xxx` 直接读写 Windows 下的内容；
+ - Windows 可以使用 `\\wsl$\Ubuntu-20.04\home\wdssmq` 浏览 wsl 内文件；
+
 
 **修改已安装 Linux 子系统：**
+
+> **如果直接安装了 wsl2 则可以跳过这一步；**
 
 要在以前安装的 Linux 发行版上从 WSL 1 更新到 WSL 2，请使用命令 `wsl --set-version <distro name> 2`，将 `<distro name>` 替换为要更新的 Linux 发行版的名称。 例如，`wsl --set-version Ubuntu-20.04 2` 会将 Ubuntu 20.04 发行版设置为使用 WSL 2。
 
 然而我第一次执行时提示如下：
 
 ```bash
-wsl --set-version Ubuntu-18.04 2
+wsl --set-version Ubuntu-20.04 2
 # 正在进行转换，这可能需要几分钟时间...
 # 有关与 WSL 2 的主要区别的信息，请访问 https://aka.ms/wsl2
 # WSL 2 需要更新其内核组件。有关信息，请访问 https://aka.ms/wsl2kernel
+
 ```
 
 所以需要安装上边说的「WSL2 Linux 内核更新包」，安装后再次执行转换：
 
 ```bash
-wsl --set-version Ubuntu-18.04 2
+wsl --set-version Ubuntu-20.04 2
 # 正在进行转换，这可能需要几分钟时间...
 # 有关与 WSL 2 的主要区别的信息，请访问 https://aka.ms/wsl2
 # 转换完成。
+
 ```
 
 **安装 Docker：**
@@ -169,6 +223,7 @@ sudo service docker start
 # 查看 docker 运行状态
 service docker status
 # * Docker is running
+
 ```
 
 **安装 Z-BlogPHP：**
@@ -189,6 +244,7 @@ Win10 与 WSL2 间的网络和文件互访 - LOGI
 sudo apt install git
 git --version
 # git version 2.17.1
+
 ```
 
 默认安装的版本较低，需要最新版可以参考下方：
@@ -222,6 +278,7 @@ ipconfig
 # 172.26.160.1
 
 # export https_proxy="socks5://172.26.160.1:10808"
+
 ```
 
 -----
