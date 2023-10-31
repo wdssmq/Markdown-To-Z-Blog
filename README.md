@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录 -  2023 年 10 月 27 日 更新
+## 目录 -  2023 年 10 月 31 日 更新
+
+[「笔记」各种碎片信息「2023-10-07」](https://www.wdssmq.com/post/20230223818.html "「笔记」各种碎片信息「2023-10-07」")
+
+[2014 年 2 月 6 日冷笑话合集 - 完满的饭局](https://www.wdssmq.com/post/20140206851.html "2014 年 2 月 6 日冷笑话合集 - 完满的饭局")
 
 [「折腾」VSCode + wsl2 + Docker 探究](https://www.wdssmq.com/post/20220211184.html "「折腾」VSCode + wsl2 + Docker 探究")
 
@@ -36,8 +40,6 @@
 
 [「VSCode」快捷键备忘](https://www.wdssmq.com/post/20130525410.html "「VSCode」快捷键备忘")
 
-[「笔记」各种碎片信息「2023-10-07」](https://www.wdssmq.com/post/20230223818.html "「笔记」各种碎片信息「2023-10-07」")
-
 [「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
 
 [2012 年 1 月 5 日冷笑话合集 - 迫于无奈](https://www.wdssmq.com/post/20120105832.html "2012 年 1 月 5 日冷笑话合集 - 迫于无奈")
@@ -45,6 +47,8 @@
 [2011 年 10 月 15 日冷笑话合集 - 尴尬](https://www.wdssmq.com/post/2011Nian10Yue15RiLengXiaoHuaHeJi.html "2011 年 10 月 15 日冷笑话合集 - 尴尬")
 
 [2011 年 5 月 14 日冷笑话合集 - 算你好运](https://www.wdssmq.com/post/2011Nian5Yue14RiLengXiaoHuaHeJi-SuanNiHaoYun.html "2011 年 5 月 14 日冷笑话合集 - 算你好运")
+
+[羊群的选择](https://www.wdssmq.com/post/YangQunDeXuanZe.html "羊群的选择")
 
 [2011 年 10 月 14 日冷笑话合集 - 加速度](https://www.wdssmq.com/post/2011Nian10Yue14RiLengXiaoHuaHeJi-JiaSuDu.html "2011 年 10 月 14 日冷笑话合集 - 加速度")
 
@@ -77,10 +81,6 @@
 [「备忘」谷歌自定义搜索设置](https://www.wdssmq.com/post/20100212798.html "「备忘」谷歌自定义搜索设置")
 
 [「言说」RSS 是一种态度！！](https://www.wdssmq.com/post/20201231613.html "「言说」RSS 是一种态度！！")
-
-[2013 年 8 月 22 日冷笑话合集 - 违心话](https://www.wdssmq.com/post/20130822627.html "2013 年 8 月 22 日冷笑话合集 - 违心话")
-
-[「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
 
 ---end---
 
