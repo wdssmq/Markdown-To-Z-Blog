@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2023 年 10 月 31 日 更新
+## 目录 -  2023 年 11 月 01 日 更新
+
+[「列表」VSCode 插件推荐](https://www.wdssmq.com/post/20201120794.html "「列表」VSCode 插件推荐")
 
 [「笔记」各种碎片信息「2023-10-07」](https://www.wdssmq.com/post/20230223818.html "「笔记」各种碎片信息「2023-10-07」")
 
@@ -25,6 +27,8 @@
 [「水坑」并没有图的技能树图谱](https://www.wdssmq.com/post/20230914731.html "「水坑」并没有图的技能树图谱")
 
 [「水坑」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「水坑」Z-BlogPHP 模板机制讲解「简易版」")
+
+[兜风【幽默故事】](https://www.wdssmq.com/post/20130930804.html "兜风【幽默故事】")
 
 [【梦物语】2020 年 09 月 25 日](https://www.wdssmq.com/post/20150215200.html "【梦物语】2020 年 09 月 25 日")
 
@@ -77,10 +81,6 @@
 [2010 年 8 月 22 日冷笑话合集 - 不许进](https://www.wdssmq.com/post/2010Nian8Yue22RiLengXiaoHuaHeJi-BuXuJin.html "2010 年 8 月 22 日冷笑话合集 - 不许进")
 
 [关于 GitHub 的 OpenGraph 接口](https://www.wdssmq.com/post/20230223986.html "关于 GitHub 的 OpenGraph 接口")
-
-[「备忘」谷歌自定义搜索设置](https://www.wdssmq.com/post/20100212798.html "「备忘」谷歌自定义搜索设置")
-
-[「言说」RSS 是一种态度！！](https://www.wdssmq.com/post/20201231613.html "「言说」RSS 是一种态度！！")
 
 ---end---
 
