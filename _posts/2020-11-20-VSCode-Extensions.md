@@ -110,6 +110,14 @@ https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense
 
 ----
 
+GitHub Copilot - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
+
+↑↑ 代码智能提示，需要 GitHub 账号，收费；
+
+----
+
 Prettier - Code formatter - Visual Studio Marketplace
 
 https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
