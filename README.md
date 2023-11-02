@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2023 年 11 月 01 日 更新
+## 目录 -  2023 年 11 月 02 日 更新
+
+[「备忘」Z-BlogPHP 代码设置页面标题、关键词及描述](https://www.wdssmq.com/post/20140719962.html "「备忘」Z-BlogPHP 代码设置页面标题、关键词及描述")
 
 [「列表」VSCode 插件推荐](https://www.wdssmq.com/post/20201120794.html "「列表」VSCode 插件推荐")
 
@@ -79,8 +81,6 @@
 [「折腾」使用浏览器自带功能修改网站「响应标头」](https://www.wdssmq.com/post/20120902324.html "「折腾」使用浏览器自带功能修改网站「响应标头」")
 
 [2010 年 8 月 22 日冷笑话合集 - 不许进](https://www.wdssmq.com/post/2010Nian8Yue22RiLengXiaoHuaHeJi-BuXuJin.html "2010 年 8 月 22 日冷笑话合集 - 不许进")
-
-[关于 GitHub 的 OpenGraph 接口](https://www.wdssmq.com/post/20230223986.html "关于 GitHub 的 OpenGraph 接口")
 
 ---end---
 
