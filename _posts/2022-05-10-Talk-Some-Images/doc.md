@@ -17,7 +17,7 @@ alias: 20120915760
 
 ### Git Bash
 
-[【备忘】msysGit 安装及使用\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit 安装及使用\_电脑网络\_沉冰浮水")
+[「备忘」msysGit 安装及使用\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20140804123.html "「备忘」msysGit 安装及使用\_电脑网络\_沉冰浮水")
 
 Git for Windows 的安装教程里有标注过，Windows Explorer integration 一项中，「Git GUI Here」可以不要，然后要留着「Git Bash Here」；
 

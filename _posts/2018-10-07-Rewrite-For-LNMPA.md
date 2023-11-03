@@ -1,5 +1,5 @@
 ---
-title: 【备忘】LNMPA 伪静态/301 相关
+title: 「备忘」LNMPA 伪静态/301 相关
 date: 2018-10-07 09:38:54
 tags:
 - LNMP

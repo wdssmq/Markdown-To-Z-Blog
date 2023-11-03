@@ -1,5 +1,5 @@
 ---
-title: 【备忘】msysGit 安装及使用
+title: 「备忘」msysGit 安装及使用
 date: 2014-08-04 14:11:07
 tags:
 - Git
