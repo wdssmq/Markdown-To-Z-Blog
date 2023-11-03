@@ -1,5 +1,5 @@
 ---
-title: 【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图
+title: 「备忘」Z-BlogPHP 使用随机图片 API 设置缩略图
 date: 2021-07-06 09:57:26
 tags:
 - 备忘

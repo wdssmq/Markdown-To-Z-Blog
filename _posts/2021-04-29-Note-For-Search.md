@@ -25,7 +25,7 @@ alias: 20100305398
 
 · CentOS 定时运行 丨 Linux 定时备份
 
-[【备忘】Linux 定时备份教程\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20140816860.html "【备忘】Linux 定时备份教程\_电脑网络\_沉冰浮水")
+[「备忘」Linux 定时备份教程\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20140816860.html "「备忘」Linux 定时备份教程\_电脑网络\_沉冰浮水")
 
 · CentOS 6 查看启动任务
 

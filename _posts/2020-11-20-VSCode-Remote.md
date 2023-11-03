@@ -20,7 +20,7 @@ alias: 20201120519
 
 <!--more-->
 
-1、本地安装 Git [【备忘】msysGit 安装及使用\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit安装及使用\_电脑网络\_沉冰浮水")
+1、本地安装 Git [「备忘」msysGit 安装及使用\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20140804123.html "「备忘」msysGit安装及使用\_电脑网络\_沉冰浮水")
 
 2、VSCode 中搜索安装 Remote Development（会安装一整套的插件）
 
