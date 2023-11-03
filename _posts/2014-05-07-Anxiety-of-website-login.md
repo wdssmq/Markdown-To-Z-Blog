@@ -63,7 +63,7 @@ Z-Blog 的 wap.asp 和 zb\_system\\WAP 文件夹已经没有存在的必要了�
 
 想尝试下 WP 系统的手机呢，，但是 TD 和 WCDMA 的问题。。什么时候能携号转网啊。。
 
-如果网站空间有分配二级或三级域名，记得弄下 301，，收录好像蛮多的--[【备忘】web.config 设置重定向（301）](https://www.wdssmq.com/post/web-configSheZhiZhongDingXiang-301.html "【备忘】web.config 设置重定向（301）")--
+如果网站空间有分配二级或三级域名，记得弄下 301，，收录好像蛮多的--[「备忘」web.config 设置重定向（301）](https://www.wdssmq.com/post/web-configSheZhiZhongDingXiang-301.html "「备忘」web.config 设置重定向（301）")--
 
 就这样吧。。
 

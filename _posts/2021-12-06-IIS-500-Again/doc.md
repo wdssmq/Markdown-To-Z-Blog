@@ -19,7 +19,7 @@ alias: 20130316783
 
 很久很久以前已经写过一篇：
 
-> [【备忘】IIS7 显示具体错误提示\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/BeiWang-IIS7XianShiJuTiCuoWuTiShi.html "【备忘】IIS7 显示具体错误提示\_电脑网络\_沉冰浮水")
+> [「备忘」IIS7 显示具体错误提示\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/BeiWang-IIS7XianShiJuTiCuoWuTiShi.html "「备忘」IIS7 显示具体错误提示\_电脑网络\_沉冰浮水")
 >
 > ↑ 虽然并没有配图
 
@@ -34,7 +34,7 @@ alias: 20130316783
 <!-- ![003.png](003.png) -->
 ![003.png](https://s2.loli.net/2021/12/06/iWyhrwSkUlpFoVs.png)
 
-虽然马上就 2022 年了，对于 IIS 虚拟主机，可参考如下文章进行设置：
+上边是能直接操作 IIS 控制台的方式，对于虚拟主机，需要配置 web.config 文件：
 
-> [【备忘】web.config 配置 IIS 显示详细错误信息\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20160901698.html "【备忘】web.config 配置 IIS 显示详细错误信息\_电脑网络\_沉冰浮水")
+
 

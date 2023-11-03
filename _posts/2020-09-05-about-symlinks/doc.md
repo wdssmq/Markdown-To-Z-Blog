@@ -45,7 +45,7 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/121232057
 
 **注：Git 通过开启相应的设置也是可以支持符号连接的：**
 
-- [【备忘】msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit安装及使用") ←差不多最后一步有个「symlinks」相关的选项。
+- [「备忘」msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "「备忘」msysGit安装及使用") ←差不多最后一步有个「symlinks」相关的选项。
 - 然后在 `.git/config` 中开启「core.symlinks」
 
 ### 最后备忘一条 SQL
