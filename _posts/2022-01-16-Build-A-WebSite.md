@@ -188,7 +188,7 @@ Download FileZilla Client for Windows (64bit x86)：
 
 [「水坑」关于如何回答「如何备份网站」这种事\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20180717038.html "「水坑」关于如何回答「如何备份网站」这种事\_电脑网络\_沉冰浮水")「初学者推荐」
 
-[【备忘】Linux 定时备份教程\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20140816860.html "【备忘】Linux定时备份教程\_电脑网络\_沉冰浮水")「进阶」
+[「备忘」Linux 定时备份教程\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20140816860.html "「备忘」Linux定时备份教程\_电脑网络\_沉冰浮水")「进阶」
 
 ### SSL
 
@@ -204,7 +204,7 @@ Download FileZilla Client for Windows (64bit x86)：
 
 > [【笔记】LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20200129996.html "【笔记】LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水")
 >
-> [【备忘】LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20181007103.html "【备忘】LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水")
+> [「备忘」LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20181007103.html "「备忘」LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水")
 
 ### 伪静态和 301 跳转
 

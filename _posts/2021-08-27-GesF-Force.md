@@ -51,21 +51,21 @@ alias: 20200617652
 
 反正没人看.jpg
 
-【备忘】LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水：
+「备忘」LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水：
 
-[https://www.wdssmq.com/post/20181007103.html](https://www.wdssmq.com/post/20181007103.html "【备忘】LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水")
+[https://www.wdssmq.com/post/20181007103.html](https://www.wdssmq.com/post/20181007103.html "「备忘」LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水")
 
 「列表」VSCode 插件推荐\_电脑网络\_沉冰浮水：
 
 [https://www.wdssmq.com/post/20201120794.html](https://www.wdssmq.com/post/20201120794.html "「列表」VSCode 插件推荐\_电脑网络\_沉冰浮水")
 
-【备忘】win10 + IIS + PHP + MySQL\_电脑网络\_沉冰浮水：
+「备忘」win10 + IIS + PHP + MySQL\_电脑网络\_沉冰浮水：
 
-[https://www.wdssmq.com/post/20210705807.html](https://www.wdssmq.com/post/20210705807.html "【备忘】win10 + IIS + PHP + MySQL\_电脑网络\_沉冰浮水")
+[https://www.wdssmq.com/post/20210705807.html](https://www.wdssmq.com/post/20210705807.html "「备忘」win10 + IIS + PHP + MySQL\_电脑网络\_沉冰浮水")
 
-【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图\_电脑网络\_沉冰浮水：
+「备忘」Z-BlogPHP 使用随机图片 API 设置缩略图\_电脑网络\_沉冰浮水：
 
-[https://www.wdssmq.com/post/20100215532.html](https://www.wdssmq.com/post/20100215532.html "【备忘】Z-BlogPHP 使用随机图片 API 设置缩略图\_电脑网络\_沉冰浮水")
+[https://www.wdssmq.com/post/20100215532.html](https://www.wdssmq.com/post/20100215532.html "「备忘」Z-BlogPHP 使用随机图片 API 设置缩略图\_电脑网络\_沉冰浮水")
 
 【教程】Z-Blog 插件运作机制简述\_电脑网络\_沉冰浮水：
 
