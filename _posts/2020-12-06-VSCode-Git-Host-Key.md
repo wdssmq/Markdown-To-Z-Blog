@@ -102,7 +102,7 @@ Host github.com
 
 相关：
 
-[【备忘】msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "【备忘】msysGit安装及使用")
+[「备忘」msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "「备忘」msysGit安装及使用")
 
 [【VSCode】快捷键备忘](https://www.wdssmq.com/post/20130525410.html "【VSCode】快捷键备忘")
 

@@ -11,7 +11,7 @@ id: 2885
 alias: 20190130794
 ---
 
-> 【备忘】Resilio Sync 密钥/任务导出备份\_电脑网络\_沉冰浮水
+> 「备忘」Resilio Sync 密钥/任务导出备份\_电脑网络\_沉冰浮水
 >
 > https://www.wdssmq.com/post/20190130502.html
 
