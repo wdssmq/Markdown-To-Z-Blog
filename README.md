@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2023 年 11 月 03 日 更新
+## 目录 -  2023 年 11 月 05 日 更新
+
+[「瞎扯」人际关系中的信息势能](https://www.wdssmq.com/post/20180705442.html "「瞎扯」人际关系中的信息势能")
 
 [「水坑」关于时不时需要向人解释什么是「个人网站」这种事](https://www.wdssmq.com/post/20210828777.html "「水坑」关于时不时需要向人解释什么是「个人网站」这种事")
 
@@ -79,8 +81,6 @@
 [各种广告「广告慎入」](https://www.wdssmq.com/post/20230319748.html "各种广告「广告慎入」")
 
 [话说把「无力吐槽」弄个子栏目？](https://www.wdssmq.com/post/HuaShuoBa-WuLiTuCao-NongGeZiLanMu.html "话说把「无力吐槽」弄个子栏目？")
-
-[「图集」各种零碎图片「2022-05-26」](https://www.wdssmq.com/post/20100204118.html "「图集」各种零碎图片「2022-05-26」")
 
 ---end---
 
