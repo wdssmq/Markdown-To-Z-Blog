@@ -6,9 +6,13 @@
 
 ---start---
 
-## 目录 -  2023 年 11 月 05 日 更新
+## 目录 -  2023 年 11 月 11 日 更新
+
+[「备忘」Git 部署到 FTP](https://www.wdssmq.com/post/20150922705.html "「备忘」Git 部署到 FTP")
 
 [「瞎扯」人际关系中的信息势能](https://www.wdssmq.com/post/20180705442.html "「瞎扯」人际关系中的信息势能")
+
+[道德底线【人生哲理】](https://www.wdssmq.com/post/20100206492.html "道德底线【人生哲理】")
 
 [「水坑」关于时不时需要向人解释什么是「个人网站」这种事](https://www.wdssmq.com/post/20210828777.html "「水坑」关于时不时需要向人解释什么是「个人网站」这种事")
 
@@ -56,6 +60,8 @@
 
 [「笔记」各种碎片信息「2023-10-07」](https://www.wdssmq.com/post/20230223818.html "「笔记」各种碎片信息「2023-10-07」")
 
+[2010 年 8 月 21 日冷笑话合集 - 关于校医](https://www.wdssmq.com/post/2010nian8yue21rixiaohuaheji-guanyuxiaoyi.html "2010 年 8 月 21 日冷笑话合集 - 关于校医")
+
 [2014 年 2 月 6 日冷笑话合集 - 完满的饭局](https://www.wdssmq.com/post/20140206851.html "2014 年 2 月 6 日冷笑话合集 - 完满的饭局")
 
 [「折腾」VSCode + wsl2 + Docker 探究](https://www.wdssmq.com/post/20220211184.html "「折腾」VSCode + wsl2 + Docker 探究")
@@ -75,12 +81,6 @@
 [【梦物语】2020 年 09 月 25 日](https://www.wdssmq.com/post/20150215200.html "【梦物语】2020 年 09 月 25 日")
 
 [当男人把少女关在房间里的不同版本](https://www.wdssmq.com/post/dangnanrenbashaonuguanzaifangjianlidebutongbanben.html "当男人把少女关在房间里的不同版本")
-
-[「图说」两部手机在夏天如何携带这种事](https://www.wdssmq.com/post/20231014544.html "「图说」两部手机在夏天如何携带这种事")
-
-[各种广告「广告慎入」](https://www.wdssmq.com/post/20230319748.html "各种广告「广告慎入」")
-
-[话说把「无力吐槽」弄个子栏目？](https://www.wdssmq.com/post/HuaShuoBa-WuLiTuCao-NongGeZiLanMu.html "话说把「无力吐槽」弄个子栏目？")
 
 ---end---
 
