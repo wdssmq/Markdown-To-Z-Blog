@@ -8,6 +8,8 @@
 
 ## 目录 -  2023 年 11 月 11 日 更新
 
+[「转记」中子星绪](https://www.wdssmq.com/post/20190622412.html "「转记」中子星绪")
+
 [「备忘」Git 部署到 FTP](https://www.wdssmq.com/post/20150922705.html "「备忘」Git 部署到 FTP")
 
 [「瞎扯」人际关系中的信息势能](https://www.wdssmq.com/post/20180705442.html "「瞎扯」人际关系中的信息势能")
@@ -79,8 +81,6 @@
 [兜风【幽默故事】](https://www.wdssmq.com/post/20130930804.html "兜风【幽默故事】")
 
 [【梦物语】2020 年 09 月 25 日](https://www.wdssmq.com/post/20150215200.html "【梦物语】2020 年 09 月 25 日")
-
-[当男人把少女关在房间里的不同版本](https://www.wdssmq.com/post/dangnanrenbashaonuguanzaifangjianlidebutongbanben.html "当男人把少女关在房间里的不同版本")
 
 ---end---
 
