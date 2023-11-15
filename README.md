@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2023 年 11 月 11 日 更新
+## 目录 -  2023 年 11 月 15 日 更新
+
+[「VSCode」快捷键备忘](https://www.wdssmq.com/post/20130525410.html "「VSCode」快捷键备忘")
 
 [「转记」中子星绪](https://www.wdssmq.com/post/20190622412.html "「转记」中子星绪")
 
@@ -58,6 +60,8 @@
 
 [「备忘」Z-BlogPHP 代码设置页面标题、关键词及描述](https://www.wdssmq.com/post/20140719962.html "「备忘」Z-BlogPHP 代码设置页面标题、关键词及描述")
 
+[2010 年 10 月 12 日冷笑话合集 - 河蟹](https://www.wdssmq.com/post/2010Nian10Yue12RiLengXiaoHuaHeJi-HeXie.html "2010 年 10 月 12 日冷笑话合集 - 河蟹")
+
 [「列表」VSCode 插件推荐](https://www.wdssmq.com/post/20201120794.html "「列表」VSCode 插件推荐")
 
 [「笔记」各种碎片信息「2023-10-07」](https://www.wdssmq.com/post/20230223818.html "「笔记」各种碎片信息「2023-10-07」")
@@ -77,10 +81,6 @@
 [「水坑」并没有图的技能树图谱](https://www.wdssmq.com/post/20230914731.html "「水坑」并没有图的技能树图谱")
 
 [「水坑」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「水坑」Z-BlogPHP 模板机制讲解「简易版」")
-
-[兜风【幽默故事】](https://www.wdssmq.com/post/20130930804.html "兜风【幽默故事】")
-
-[【梦物语】2020 年 09 月 25 日](https://www.wdssmq.com/post/20150215200.html "【梦物语】2020 年 09 月 25 日")
 
 ---end---
 
