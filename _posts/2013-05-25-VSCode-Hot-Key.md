@@ -24,7 +24,7 @@ cdblogs: https://www.cnblogs.com/wdssmq/p/15167982.html
 
 以及，好像在用 VSCode 之前已经用了很久 TortoiseGit 了，所以 VSCode 内置的 Git 相关功能都没怎么了解，`ctrl + shift + g`赛高。。。
 
-部分键为自定义，并且需要删掉冲突的定义；
+**部分键为自定义，并且需要删掉冲突的定义；**
 
 <!-- 几个留空的是没有默认项又没决定好自定义成啥； -->
 
@@ -44,21 +44,20 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf "键盘�
 | ++++                     | ++++                         | ++++                                             |
 | alt + shift + ←          | 智能选择 - 收缩              | editor.action.smartSelect.shrink                 |
 | alt + shift + →          | 智能选择 - 扩展              | editor.action.smartSelect.expand                 |
-| alt + shift + ↑          | 选中文本 - 向上一行          | cursorUpSelect                                   |
-| alt + shift + ↓          | 选中文本 - 向下一行          | cursorDownSelect                                 |
 | ctrl + ←                 | 光标移动 - 单词左侧为界      | cursorWordLeft                                   |
 | ctrl + →                 | 光标移动 - 单词右侧为界      | cursorWordEndRight                               |
+| ctrl + shift + ←         | 选中文本 - 单词左侧为界      | cursorWordLeftSelect                             |
+| ctrl + shift + →         | 选中文本 - 单词右侧为界      | cursorWordEndRightSelect                         |
+| shift + ↑                | 选中文本 - 向上一行          | cursorUpSelect                                   |
+| shift + ↓                | 选中文本 - 向下一行          | cursorDownSelect                                 |
+| ++++                     | ++++                         | ++++                                             |
 | ctrl + k alt + ←         | 光标移动 - 词首或驼峰        | cursorWordPartLeft                               |
 | ctrl + k alt + →         | 光标移动 - 词尾或驼峰        | cursorWordPartRight                              |
 | ctrl + k alt + shift + ← | 选中文本 - 词首或驼峰        | cursorWordPartLeftSelect                         |
 | ctrl + k alt + shift + → | 选中文本 - 词尾或驼峰        | cursorWordPartRightSelect                        |
-| ctrl + shift + ←         | 选中文本 - 单词左侧为界      | cursorWordLeftSelect                             |
-| ctrl + shift + →         | 选中文本 - 单词右侧为界      | cursorWordEndRightSelect                         |
 | ++++                     | ++++                         | ++++                                             |
 | alt + ↑                  | 向上移动行                   | editor.action.moveLinesUpAction                  |
-| alt + ↑ alt + ↑          | 同一列的上一行添加光标       | editor.action.insertCursorAbove                  |
-| alt + ↓                  | 向上移动行                   | editor.action.moveLinesDownAction                |
-| alt + ↓ alt + ↓          | 同一列的下一行添加光标       | editor.action.insertCursorBelow                  |
+| alt + ↓                  | 向下移动行                   | editor.action.moveLinesDownAction                |
 | alt + d                  | 将下一个查找匹配项添加到选择 | editor.action.addSelectionToNextFindMatch        |
 | ctrl + alt + b           | 格式化代码/文档              | editor.action.formatDocument                     |
 | ctrl + b                 | 切换侧栏显隐                 | workbench.action.toggleSidebarVisibility         |
@@ -83,5 +82,7 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf "键盘�
 | ctrl + shift + p         | 命令面板                     | workbench.action.showCommands                    |
 | ctrl + shift + t         | 重新打开关闭的编辑器页       | workbench.action.reopenClosedEditor              |
 | ctrl + shift + x         | 扩展/插件 查看               | workbench.view.extensions                        |
+| shift + alt + ↑          | 同一列的上一行添加光标       | editor.action.insertCursorAbove                  |
+| shift + alt + ↓          | 同一列的下一行添加光标       | editor.action.insertCursorBelow                  |
 
 <!--1642-->
