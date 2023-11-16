@@ -6,9 +6,13 @@
 
 ---start---
 
-## 目录 -  2023 年 11 月 15 日 更新
+## 目录 -  2023 年 11 月 16 日 更新
+
+[「VPS」RackNerd 2023 年黑五特价](https://www.wdssmq.com/post/20231112097.html "「VPS」RackNerd 2023 年黑五特价")
 
 [「VSCode」快捷键备忘](https://www.wdssmq.com/post/20130525410.html "「VSCode」快捷键备忘")
+
+[2011 年 1 月 22 日冷笑话合集 - 谁的老婆好](https://www.wdssmq.com/post/2011Nian1Yue22RiLengXiaoHuaHeJi-ShuiDeLaoPoHao.html "2011 年 1 月 22 日冷笑话合集 - 谁的老婆好")
 
 [「转记」中子星绪](https://www.wdssmq.com/post/20190622412.html "「转记」中子星绪")
 
@@ -17,6 +21,8 @@
 [「瞎扯」人际关系中的信息势能](https://www.wdssmq.com/post/20180705442.html "「瞎扯」人际关系中的信息势能")
 
 [道德底线【人生哲理】](https://www.wdssmq.com/post/20100206492.html "道德底线【人生哲理】")
+
+[2012 年 7 月 26 日冷笑话合集 - 此地无银](https://www.wdssmq.com/post/20100619666.html "2012 年 7 月 26 日冷笑话合集 - 此地无银")
 
 [「水坑」关于时不时需要向人解释什么是「个人网站」这种事](https://www.wdssmq.com/post/20210828777.html "「水坑」关于时不时需要向人解释什么是「个人网站」这种事")
 
@@ -64,6 +70,8 @@
 
 [「列表」VSCode 插件推荐](https://www.wdssmq.com/post/20201120794.html "「列表」VSCode 插件推荐")
 
+[2010 年 8 月 18 日冷笑话合集 - 敏感内容](https://www.wdssmq.com/post/2010Nian8Yue18RiXiaoHuaHeJi.html "2010 年 8 月 18 日冷笑话合集 - 敏感内容")
+
 [「笔记」各种碎片信息「2023-10-07」](https://www.wdssmq.com/post/20230223818.html "「笔记」各种碎片信息「2023-10-07」")
 
 [2010 年 8 月 21 日冷笑话合集 - 关于校医](https://www.wdssmq.com/post/2010nian8yue21rixiaohuaheji-guanyuxiaoyi.html "2010 年 8 月 21 日冷笑话合集 - 关于校医")
@@ -73,14 +81,6 @@
 [「折腾」VSCode + wsl2 + Docker 探究](https://www.wdssmq.com/post/20220211184.html "「折腾」VSCode + wsl2 + Docker 探究")
 
 [「备忘」那些需要全局安装的 node 包](https://www.wdssmq.com/post/20230103270.html "「备忘」那些需要全局安装的 node 包")
-
-[「Ubuntu 笔记」常见错误提示整理](https://www.wdssmq.com/post/20131101035.html "「Ubuntu 笔记」常见错误提示整理")
-
-[「备忘」Windows 文件名不能出现的字符及正则过滤](https://www.wdssmq.com/post/20190228854.html "「备忘」Windows 文件名不能出现的字符及正则过滤")
-
-[「水坑」并没有图的技能树图谱](https://www.wdssmq.com/post/20230914731.html "「水坑」并没有图的技能树图谱")
-
-[「水坑」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「水坑」Z-BlogPHP 模板机制讲解「简易版」")
 
 ---end---
 
