@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2023 年 11 月 22 日 更新
+## 目录 -  2023 年 11 月 23 日 更新
+
+[「折腾」Vue 简单的状态管理实践](https://www.wdssmq.com/post/20220810247.html "「折腾」Vue 简单的状态管理实践")
 
 [「图集」各种零碎图片「2022-05-26」](https://www.wdssmq.com/post/20100204118.html "「图集」各种零碎图片「2022-05-26」")
 
@@ -79,8 +81,6 @@
 [「列表」VSCode 插件推荐](https://www.wdssmq.com/post/20201120794.html "「列表」VSCode 插件推荐")
 
 [2010 年 8 月 18 日冷笑话合集 - 敏感内容](https://www.wdssmq.com/post/2010Nian8Yue18RiXiaoHuaHeJi.html "2010 年 8 月 18 日冷笑话合集 - 敏感内容")
-
-[「笔记」各种碎片信息「2023-10-07」](https://www.wdssmq.com/post/20230223818.html "「笔记」各种碎片信息「2023-10-07」")
 
 ---end---
 
