@@ -8,6 +8,10 @@
 
 ## 目录 -  2023 年 11 月 27 日 更新
 
+[「过往」百度网盘七年纪](https://www.wdssmq.com/post/20120515987.html "「过往」百度网盘七年纪")
+
+[「广告慎入」百度网盘分销联盟（推广赚佣金）](https://www.wdssmq.com/post/20220414259.html "「广告慎入」百度网盘分销联盟（推广赚佣金）")
+
 [「折腾」GitHub Actions 反代 RSSHub + 多实例轮询](https://www.wdssmq.com/post/20100309739.html "「折腾」GitHub Actions 反代 RSSHub + 多实例轮询")
 
 [「折腾」Vue 简单的状态管理实践](https://www.wdssmq.com/post/20220810247.html "「折腾」Vue 简单的状态管理实践")
@@ -77,10 +81,6 @@
 [「备忘」JavaScript 及 jQuery 常用代码](https://www.wdssmq.com/post/20201116687.html "「备忘」JavaScript 及 jQuery 常用代码")
 
 [「言说」系统重装恐惧症](https://www.wdssmq.com/post/20190130794.html "「言说」系统重装恐惧症")
-
-[「备忘」Z-BlogPHP 代码设置页面标题、关键词及描述](https://www.wdssmq.com/post/20140719962.html "「备忘」Z-BlogPHP 代码设置页面标题、关键词及描述")
-
-[2010 年 10 月 12 日冷笑话合集 - 河蟹](https://www.wdssmq.com/post/2010Nian10Yue12RiLengXiaoHuaHeJi-HeXie.html "2010 年 10 月 12 日冷笑话合集 - 河蟹")
 
 ---end---
 
