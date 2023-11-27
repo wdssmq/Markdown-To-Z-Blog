@@ -1,5 +1,5 @@
 ---
-title: 【折腾】GitHub Actions 反代 RSSHub + 多实例轮询
+title: 「折腾」GitHub Actions 反代 RSSHub + 多实例轮询
 date: 2021-04-25 13:57:51
 tags:
 - GitHub
@@ -15,6 +15,8 @@ zhihu: https://zhuanlan.zhihu.com/p/367656502
 jianshu: https://www.jianshu.com/p/e6f6eb7511e0
 cnblogs: https://www.cnblogs.com/wdssmq/p/15167922.html
 ---
+
+> 2023-11-27：不再推荐使用，见文末 Cloudflare Worker 方案。
 
 ## 软件名称
 
@@ -52,3 +54,9 @@ wdssmq/proxy\_rsshub: 使用 GitHub Actions 反代 RSSHub + 多实例轮询
 wdssmq/proxy\_rsshub: 使用 GitHub Actions 反代 RSSHub + 多实例轮询：
 
 [https://github.com/wdssmq/proxy_rsshub](https://github.com/wdssmq/proxy_rsshub "wdssmq/proxy\_rsshub: 使用 GitHub Actions 反代 RSSHub + 多实例轮询")
+
+------
+
+> 「折腾」Cloudflare Worker 反代 RSSHub\_电脑网络\_沉冰浮水
+>
+> [https://www.wdssmq.com/post/20100219897.html](https://www.wdssmq.com/post/20100219897.html "「折腾」Cloudflare Worker 反代 RSSHub\_电脑网络\_沉冰浮水")
