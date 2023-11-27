@@ -52,7 +52,7 @@ RSS 订阅：[https://feed.wdssmq.com](https://feed.wdssmq.com "沉冰浮水博�
 -\\| [![Feedly-wdssmq](https://img.shields.io/badge/dynamic/json?style=social&label=Feedly&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fwww.wdssmq.com%2Ffeed.php&color=2bb24c&logo=feedly)](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.wdssmq.com%2Ffeed.php "Feedly-wdssmq")
 -\\| [![嘟特-@wdssmq](https://img.shields.io/mastodon/follow/142218?style=social&label=%E5%98%9F%E7%89%B9&domain=https%3A%2F%2Fwxw.moe%2F)](https://wxw.moe/users/wdssmq "嘟特-@wdssmq")
 -\\| [![哔哩哔哩-沉冰浮水](https://img.shields.io/badge/dynamic/json?style=social&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9&query=count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fbilibili%2F44744006&color=FE7398&logo=bilibili)](https://space.bilibili.com/44744006 "哔哩哔哩-沉冰浮水")
--\\| [![知乎-沉冰浮水](https://img.shields.io/badge/dynamic/json?style=social&label=%E7%9F%A5%E4%B9%8E&query=count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fwdssmq&color=0084ff&logo=zhihu)](https://afdian.net/a/wdssmq "知乎-沉冰浮水")
+-\\| [![知乎-沉冰浮水](https://img.shields.io/badge/dynamic/json?style=social&label=%E7%9F%A5%E4%B9%8E&query=count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fwdssmq&color=0084ff&logo=zhihu)](https://www.zhihu.com/people/wdssmq "知乎-沉冰浮水")
 -\\| [![GitHub-wdssmq](https://img.shields.io/github/followers/wdssmq?style=social&label=GitHub)](https://github.com/wdssmq "GitHub-wdssmq")
 
 ----
@@ -83,7 +83,7 @@ GitHub：[https://github.com/wdssmq](https://github.com/wdssmq "沉冰浮水 - G
 百度贴吧：[https://tieba.baidu.com/home/main?un=沉冰浮水](https://tieba.baidu.com/home/main?un=%E6%B2%89%E5%86%B0%E6%B5%AE%E6%B0%B4 "沉冰浮水的贴吧")
 
 <!-- GreasyFork -->
-<!-- GreasyFork：[https://greasyfork.org/zh-CN/users/6865-wdssmq](https://greasyfork.org/zh-CN/users/6865-wdssmq "wdsssmq - GreasyFork") -->
+GreasyFork：[https://greasyfork.org/zh-CN/users/6865-wdssmq](https://greasyfork.org/zh-CN/users/6865-wdssmq "wdsssmq - GreasyFork")
 
 <!-- End -->
 <!-- ---- -->
