@@ -30,6 +30,7 @@ _gsdata_
 .history
 .sync
 node_modules
+Tencent Files
 #__SDXC__
 *-new-post
 *git
@@ -38,11 +39,19 @@ node_modules
 Desktop
 Documents
 OneDrive
+Videos
 
 ```
 
-附：对于「FastCopy」，则使用以下形式排除文件夹：
+附：对于「FastCopy」，文件夹需要添加添加`\`：
 
 ```txt
-.git\;.sync\;.history\;node_modules\;Tencent Files\;tdata\;*-new-post\;
+__pycache__\
+_gsdata_\
+.git\
+.history\
+.sync\
+node_modules\
+Tencent Files\
+
 ```
