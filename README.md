@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2023 年 11 月 27 日 更新
+## 目录 -  2023 年 12 月 01 日 更新
+
+[「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
 
 [「过往」百度网盘七年纪](https://www.wdssmq.com/post/20120515987.html "「过往」百度网盘七年纪")
 
@@ -79,8 +81,6 @@
 [「图说」右键菜单栏工具什么的「2022-05」](https://www.wdssmq.com/post/20120915760.html "「图说」右键菜单栏工具什么的「2022-05」")
 
 [「备忘」JavaScript 及 jQuery 常用代码](https://www.wdssmq.com/post/20201116687.html "「备忘」JavaScript 及 jQuery 常用代码")
-
-[「言说」系统重装恐惧症](https://www.wdssmq.com/post/20190130794.html "「言说」系统重装恐惧症")
 
 ---end---
 
