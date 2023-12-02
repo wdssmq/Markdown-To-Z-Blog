@@ -1,6 +1,6 @@
 ---
-title: 「VPS」DesiVPS $20 年付优惠
-date: 2022-03-31 11:56:40
+title: 「VPS」DesiVPS 2023 黑五促销
+date: 2023-12-02 11:31:09
 tags:
 - DesiVPS
 - VPS
@@ -15,17 +15,23 @@ alias: 20220219378
 
 ### 写在前边
 
-虽然不是很懂 NVMe SSD，标价 $20/Year 的那款配置是「1 GB | 10 GB」就觉得这「优惠」略虚；
+所以说，他们家的活动推送就略晚什么的。。
 
-有台「1.5 GB | 25 GB」的机子，也是年付 20 刀，不过毕竟已经是两年前入手的了，服务商都被今天介绍的 DesiVPS 收购了；
+不过正纠结今年要不要续费前一台，账单时间是 12 月 17， `1.5 GB / 25 GB`，年付 19.50 刀……
+
+这次的重心也是 NVME SSD，同样价格的话硬盘就比较小什么的。。
 
 <!--more-->
 
-高一档的 $35，折合人民币 235 元，确实需要的话可能还是不错的；
+> 之前的促销条目好像还可以买？ `2 GB / 40 GB`，看付 25 刀，以硬盘空间来说要更划算？
+>
+> 「VPS」DesiVPS 23 年四月优惠丨可选中文 win 系统\_广告慎入\_沉冰浮水
+>
+> [https://www.wdssmq.com/post/20100211992.html](https://www.wdssmq.com/post/20100211992.html "「VPS」DesiVPS 23 年四月优惠丨可选中文 win 系统\_广告慎入\_沉冰浮水")
 
-就 DesiVPS 的控制台面板之类的来说，也比上次介绍的 HostNamaste 好不少；
+<!--
 
-[「VPS」HostNamaste $20 年付优惠\_广告慎入\_沉冰浮水](https://www.wdssmq.com/post/20220331233.html "「VPS」HostNamaste $20 年付优惠\_广告慎入\_沉冰浮水")
+### 一些过往
 
 话说从 14 年开始就在用博客所在的这家服务商 ——
 
@@ -38,6 +44,8 @@ alias: 20220219378
 
 18 块的一开始舍不得丢还多续了几个月；
 
+-->
+
 ### 注册链接
 
 [ShortSth:DesiVPS][/ShortSth]
@@ -46,81 +54,133 @@ alias: 20220219378
 
 ### 配置信息
 
-> 2023-04-14：以下信息已失效；
+> 此处内容发布于 2023-12-02，请注意信息是否失效；
 
 <!-- vps -->
 
-NVMe-VPS-1GB
+**优惠码：**
 
-1 CPU Cores
-1 GB RAM
-10 GB NVMe SSD Hard Disk
-1 IP Address
-1.5 TB Bandwidth
-Price : $20/Year
+`BLACK10` ← 使用此优惠码可额外获得 10% 优惠（购买 + 续费）；
 
-[NVMe-VPS-1GB](https://clients.desivps.com/index.php?rp%3D%2Fstore%2Fcustom-offers%2Fnvm-vps-1gb)
+**共同配置：**
 
-----
+- 1 个 IPv6 地址
+- 10 GBPS 端口
+- 每年 3 次 IP 更换
+- 每月一个快照备份
+- 机房好像都是圣何塞（San Jose）
 
-NVMe-VPS-2GB
+**Linux VPS：**
 
-1 CPU Cores
-2 GB RAM
-20 GB NVMe SSD Hard Disk
-1000 Mbps Port
-1 IP Address
-2.5 TB Bandwidth
-1 free Ipv6
-Price : $35/Year | $3.5/Month
+1GB KVM VPS 10GBPS
 
-[NVMe-VPS-2GB](https://clients.desivps.com/index.php?rp%3D%2Fstore%2Fcustom-offers%2Fnvme-vps-2gb)
+- 1 CPU Cores
+- 1 GB RAM
+- 15 GB NVME SSD
+- 1 IPv4 Address
+- 1.5 TB bandwidth
 
-----
+价格: `$17/year`（约 ￥121.36/年）
 
-NVMe-VPS-4GB
-
-2 CPU Cores
-4 GB RAM
-40 GB NVMe SSD Hard Disk
-1000 Mbps Port
-2 IP Address
-5TB Bandwidth
-Free Ipv6
-Price : $70/Year | $7.0/Month
-
-[NVMe-VPS-4GB](https://clients.desivps.com/index.php?rp%3D%2Fstore%2Fcustom-offers%2Fnvme-vps-4gb)
+购买链接: [https://clients.desivps.com/cart.php?a=add&pid=198](https://clients.desivps.com/cart.php?a=add&pid=198)
 
 ----
 
-NVMe-VPS-6GB
+2GB KVM VPS 10GBPS
 
-3 CPU Cores
-6 GB RAM
-60 GB NVMe SSD Hard Disk
-1000 Mbps Port
-3 IP Address
-7.5 TB Bandwidth
-Free Ipv6
-Price : $105/Year | $10.5/Month
+- 1 CPU Cores
+- 2 GB RAM
+- 30 GB NVME SSD
+- 1 IPv4 Address
+- 3 TB bandwidth
 
-[NVMe-VPS-6GB](https://clients.desivps.com/index.php?rp%3D%2Fstore%2Fcustom-offers%2Fnvme-vps-6gb)
+价格: `$33/year`（约 ￥235.57/年）
+
+购买链接: [https://clients.desivps.com/cart.php?a=add&pid=199](https://clients.desivps.com/cart.php?a=add&pid=199)
+
+----
+
+3GB KVM VPS 10GBPS
+
+- 2 CPU Cores
+- 3 GB RAM
+- 45 GB NVME SSD
+- 2 IPv4 Address
+- 4.5 TB bandwidth
+
+价格: `$49/year`（约 ￥349.79/年）
+
+购买链接: [https://clients.desivps.com/cart.php?a=add&pid=200](https://clients.desivps.com/cart.php?a=add&pid=200)
+
+----
+
+4GB KVM VPS 10GBPS
+
+- 2 CPU Cores
+- 4 GB RAM
+- 60 GB NVME SSD
+- 2 IPv4 Address
+- 6 TB bandwidth
+
+价格: `$65/year`（约 ￥464.01/年）
+
+购买链接: [https://clients.desivps.com/cart.php?a=add&pid=201](https://clients.desivps.com/cart.php?a=add&pid=201)
+
+----
+
+5GB KVM VPS 10GBPS
+
+- 3 CPU Cores
+- 5 GB RAM
+- 75 GB NVME SSD
+- 3 IPv4 Address
+- 7.5 TB bandwidth
+
+价格: `$81/year`（约 ￥578.23/年）
+
+购买链接: [https://clients.desivps.com/cart.php?a=add&pid=202](https://clients.desivps.com/cart.php?a=add&pid=202)
+
+----
+
+6GB KVM VPS 10GBPS
+
+- 3 CPU Cores
+- 6 GB RAM
+- 90 GB NVME SSD
+- 3 IPv4 Address
+- 9 TB bandwidth
+
+价格: `$97/year`（约 ￥692.44/年）
+
+购买链接: [https://clients.desivps.com/cart.php?a=add&pid=203](https://clients.desivps.com/cart.php?a=add&pid=203)
+
+**Windows OS：**
+
+提供中文版 Windows Server 2012 或 2016，同样可更换 IP 及一个快照备份；
+
+就比较贵，大概给下配置信息及 pid；
+
+- 1 core CPU / 2 GB RAM / 30 GB SSD / 1000Mbps port / 1 IP address / 2.5 TB bandwidth / `$8/month or $88/year` / [购买：pid=171](https://clients.desivps.com/cart.php?a=add&pid=171)
+
+- 2 core CPU / 4 GB RAM / 60 GB SSD / 1000Mbps port / 2 IP address / 5.0 TB bandwidth / `$16/month or $176/year` / [购买：pid=172](https://clients.desivps.com/cart.php?a=add&pid=172)
+
+- 3 core CPU / 6 GB RAM / 90 GB SSD / 1000Mbps port / 2 IP address / 7.5 TB bandwidth / `$24/month or $264/year` / [购买：pid=173](https://clients.desivps.com/cart.php?a=add&pid=173)
 
 <!-- /vps -->
 
 ### 网络信息
 
-- Los Angeles, CA, USA
-- Test IP: `2.56.176.6`
-- Test File: `http://2.56.176.6/100MB.bin`
+- San Jose, CA, USA
+- Test IP: `139.28.232.5`
+- Test File: `http://139.28.232.5/100MB.bin`
 - Looking Glass: `https://lg.desivps.com`
 
-### 服务器信息
+<!-- ### 服务器信息
 
 - CPU E5-2660 v3
 - 128 GB DDR4 RAM
 - 2 TB NVMe SSD (Raid-1)
-- 1 GBPS Network port
+- 1 GBPS Network port -->
 
 <!-- ---------------- -->
 
