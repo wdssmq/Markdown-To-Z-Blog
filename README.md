@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2023 年 12 月 01 日 更新
+## 目录 -  2023 年 12 月 02 日 更新
+
+[「VPS」DesiVPS 2023 黑五促销](https://www.wdssmq.com/post/20220219378.html "「VPS」DesiVPS 2023 黑五促销")
 
 [「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
 
@@ -79,8 +81,6 @@
 [「水坑」IIS 部署站点 500 错误排查](https://www.wdssmq.com/post/20130316783.html "「水坑」IIS 部署站点 500 错误排查")
 
 [「图说」右键菜单栏工具什么的「2022-05」](https://www.wdssmq.com/post/20120915760.html "「图说」右键菜单栏工具什么的「2022-05」")
-
-[「备忘」JavaScript 及 jQuery 常用代码](https://www.wdssmq.com/post/20201116687.html "「备忘」JavaScript 及 jQuery 常用代码")
 
 ---end---
 
