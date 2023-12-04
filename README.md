@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2023 年 12 月 02 日 更新
+## 目录 -  2023 年 12 月 04 日 更新
+
+[希望，应该，可以「无力吐槽」](https://www.wdssmq.com/post/20140701544.html "希望，应该，可以「无力吐槽」")
 
 [「VPS」DesiVPS 2023 黑五促销](https://www.wdssmq.com/post/20220219378.html "「VPS」DesiVPS 2023 黑五促销")
 
@@ -79,8 +81,6 @@
 [合并了 Typecho 文章到 Z-Blog](https://www.wdssmq.com/post/20200905897.html "合并了 Typecho 文章到 Z-Blog")
 
 [「水坑」IIS 部署站点 500 错误排查](https://www.wdssmq.com/post/20130316783.html "「水坑」IIS 部署站点 500 错误排查")
-
-[「图说」右键菜单栏工具什么的「2022-05」](https://www.wdssmq.com/post/20120915760.html "「图说」右键菜单栏工具什么的「2022-05」")
 
 ---end---
 
