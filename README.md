@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录 -  2023 年 12 月 04 日 更新
+## 目录 -  2023 年 12 月 16 日 更新
+
+[「代码片段」JavaScript 数组的 reduce() 方法](https://www.wdssmq.com/post/20231130787.html "「代码片段」JavaScript 数组的 reduce() 方法")
+
+[2013 年 10 月 13 日冷笑话合集 - 就到医院了，坚持住](https://www.wdssmq.com/post/20131013254.html "2013 年 10 月 13 日冷笑话合集 - 就到医院了，坚持住")
 
 [希望，应该，可以「无力吐槽」](https://www.wdssmq.com/post/20140701544.html "希望，应该，可以「无力吐槽」")
 
@@ -38,13 +42,23 @@
 
 [「备忘」Git 部署到 FTP](https://www.wdssmq.com/post/20150922705.html "「备忘」Git 部署到 FTP")
 
+[经典诗词话校园](https://www.wdssmq.com/post/JingDianShiCiHuaXiaoYuan.html "经典诗词话校园")
+
+[恋爱就像三国杀](https://www.wdssmq.com/post/LianAiJiuXiangSanGuoSha.html "恋爱就像三国杀")
+
 [金庸作品的另类搞笑简介](https://www.wdssmq.com/post/JinYongZuoPinDeLingLeiGaoXiaoJianJie.html "金庸作品的另类搞笑简介")
+
+[“我不喜欢这个梦，可这已经是现实了”](https://www.wdssmq.com/post/20120419248.html "“我不喜欢这个梦，可这已经是现实了”")
 
 [「瞎扯」人际关系中的信息势能](https://www.wdssmq.com/post/20180705442.html "「瞎扯」人际关系中的信息势能")
 
 [汉语超拽的老外](https://www.wdssmq.com/post/HanYuChaoZhuaiDeLaoWai.html "汉语超拽的老外")
 
 [道德底线【人生哲理】](https://www.wdssmq.com/post/20100206492.html "道德底线【人生哲理】")
+
+[三国人物最潮的简介](https://www.wdssmq.com/post/20100607404.html "三国人物最潮的简介")
+
+[一些语录（2011 年 2 月 23 日）](https://www.wdssmq.com/post/YiXieYuLu-2011Nian2Yue23Ri.html "一些语录（2011 年 2 月 23 日）")
 
 [2012 年 7 月 26 日冷笑话合集 - 此地无银](https://www.wdssmq.com/post/20100619666.html "2012 年 7 月 26 日冷笑话合集 - 此地无银")
 
@@ -67,20 +81,6 @@
 [「备忘」msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "「备忘」msysGit 安装及使用")
 
 [「备忘」Z-BlogPHP 使用随机图片 API 设置缩略图](https://www.wdssmq.com/post/20100215532.html "「备忘」Z-BlogPHP 使用随机图片 API 设置缩略图")
-
-[「备忘」再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "「备忘」再再次谈系统安装【2021】")
-
-[「备忘」win10 + IIS + PHP + MySQL](https://www.wdssmq.com/post/20210705807.html "「备忘」win10 + IIS + PHP + MySQL")
-
-[「备忘」AMD 显卡驱动问题一则及解决方案](https://www.wdssmq.com/post/20191126721.html "「备忘」AMD 显卡驱动问题一则及解决方案")
-
-[「VSCode 笔记」Git: Host key verification failed](https://www.wdssmq.com/post/20201216004.html "「VSCode 笔记」Git: Host key verification failed")
-
-[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
-
-[合并了 Typecho 文章到 Z-Blog](https://www.wdssmq.com/post/20200905897.html "合并了 Typecho 文章到 Z-Blog")
-
-[「水坑」IIS 部署站点 500 错误排查](https://www.wdssmq.com/post/20130316783.html "「水坑」IIS 部署站点 500 错误排查")
 
 ---end---
 
