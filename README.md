@@ -6,13 +6,17 @@
 
 ---start---
 
-## 目录 -  2023 年 12 月 16 日 更新
+## 目录 -  2024 年 01 月 04 日 更新
+
+[「折腾」GM_脚本 + CF Workers KV 半自动收集 B 用户投稿转为 RSS](https://www.wdssmq.com/post/20120519803.html "「折腾」GM_脚本 + CF Workers KV 半自动收集 B 用户投稿转为 RSS")
 
 [「代码片段」JavaScript 数组的 reduce() 方法](https://www.wdssmq.com/post/20231130787.html "「代码片段」JavaScript 数组的 reduce() 方法")
 
 [2013 年 10 月 13 日冷笑话合集 - 就到医院了，坚持住](https://www.wdssmq.com/post/20131013254.html "2013 年 10 月 13 日冷笑话合集 - 就到医院了，坚持住")
 
 [希望，应该，可以「无力吐槽」](https://www.wdssmq.com/post/20140701544.html "希望，应该，可以「无力吐槽」")
+
+[2010 年 7 月 29 日冷笑话合集 - 有这样一个人](https://www.wdssmq.com/post/2010nian7yue29rixiaohuaheji-youzheyangyigeren.html "2010 年 7 月 29 日冷笑话合集 - 有这样一个人")
 
 [「VPS」DesiVPS 2023 黑五促销](https://www.wdssmq.com/post/20220219378.html "「VPS」DesiVPS 2023 黑五促销")
 
@@ -77,10 +81,6 @@
 [「备忘」LNMPA 伪静态/301 相关](https://www.wdssmq.com/post/20181007103.html "「备忘」LNMPA 伪静态/301 相关")
 
 [不能邮箱登录的网站都是耍流氓「无力吐槽」](https://www.wdssmq.com/post/20140507140.html "不能邮箱登录的网站都是耍流氓「无力吐槽」")
-
-[「备忘」msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "「备忘」msysGit 安装及使用")
-
-[「备忘」Z-BlogPHP 使用随机图片 API 设置缩略图](https://www.wdssmq.com/post/20100215532.html "「备忘」Z-BlogPHP 使用随机图片 API 设置缩略图")
 
 ---end---
 
