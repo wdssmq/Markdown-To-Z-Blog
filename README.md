@@ -6,9 +6,13 @@
 
 ---start---
 
-## 目录 -  2024 年 01 月 04 日 更新
+## 目录 -  2024 年 01 月 25 日 更新
+
+[「笔记」各种碎片信息「2023-10-07」](https://www.wdssmq.com/post/20230223818.html "「笔记」各种碎片信息「2023-10-07」")
 
 [「折腾」GM_脚本 + CF Workers KV 半自动收集 B 用户投稿转为 RSS](https://www.wdssmq.com/post/20120519803.html "「折腾」GM_脚本 + CF Workers KV 半自动收集 B 用户投稿转为 RSS")
+
+[哈利波特是局三国杀吧](https://www.wdssmq.com/post/HaLiBoTeShiJuSanGuoShaBa.html "哈利波特是局三国杀吧")
 
 [「代码片段」JavaScript 数组的 reduce() 方法](https://www.wdssmq.com/post/20231130787.html "「代码片段」JavaScript 数组的 reduce() 方法")
 
@@ -77,10 +81,6 @@
 [【真·碎碎念】2021/04/26 ~ 2021/05/02](https://www.wdssmq.com/post/20100305398.html "【真·碎碎念】2021/04/26 ~ 2021/05/02")
 
 [「备忘」ASS 字幕格式简要](https://www.wdssmq.com/post/20140510891.html "「备忘」ASS 字幕格式简要")
-
-[「备忘」LNMPA 伪静态/301 相关](https://www.wdssmq.com/post/20181007103.html "「备忘」LNMPA 伪静态/301 相关")
-
-[不能邮箱登录的网站都是耍流氓「无力吐槽」](https://www.wdssmq.com/post/20140507140.html "不能邮箱登录的网站都是耍流氓「无力吐槽」")
 
 ---end---
 
