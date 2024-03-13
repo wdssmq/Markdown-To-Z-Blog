@@ -8,6 +8,8 @@
 
 ## 目录 -  2024 年 03 月 13 日 更新
 
+[「代码片段」两段略奇怪的 JS 代码](https://www.wdssmq.com/post/20160621482.html "「代码片段」两段略奇怪的 JS 代码")
+
 [「折腾」Docker 部署 Resilio Sync 和 RSSHub](https://www.wdssmq.com/post/20190617918.html "「折腾」Docker 部署 Resilio Sync 和 RSSHub")
 
 [2012 年 3 月 6 日笑话合集 - 懒鬼](https://www.wdssmq.com/post/20120521708.html "2012 年 3 月 6 日笑话合集 - 懒鬼")
@@ -79,8 +81,6 @@
 [汉语超拽的老外](https://www.wdssmq.com/post/HanYuChaoZhuaiDeLaoWai.html "汉语超拽的老外")
 
 [道德底线【人生哲理】](https://www.wdssmq.com/post/20100206492.html "道德底线【人生哲理】")
-
-[三国人物最潮的简介](https://www.wdssmq.com/post/20100607404.html "三国人物最潮的简介")
 
 ---end---
 
