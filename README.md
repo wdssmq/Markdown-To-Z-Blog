@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2024 年 03 月 13 日 更新
+## 目录 -  2024 年 03 月 15 日 更新
+
+[「图说」两部手机在夏天如何携带这种事](https://www.wdssmq.com/post/20231014544.html "「图说」两部手机在夏天如何携带这种事")
 
 [「代码片段」两段略奇怪的 JS 代码](https://www.wdssmq.com/post/20160621482.html "「代码片段」两段略奇怪的 JS 代码")
 
@@ -79,8 +81,6 @@
 [「瞎扯」人际关系中的信息势能](https://www.wdssmq.com/post/20180705442.html "「瞎扯」人际关系中的信息势能")
 
 [汉语超拽的老外](https://www.wdssmq.com/post/HanYuChaoZhuaiDeLaoWai.html "汉语超拽的老外")
-
-[道德底线【人生哲理】](https://www.wdssmq.com/post/20100206492.html "道德底线【人生哲理】")
 
 ---end---
 
