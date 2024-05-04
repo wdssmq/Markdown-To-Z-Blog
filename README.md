@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2024 年 04 月 10 日 更新
+## 目录 -  2024 年 05 月 04 日 更新
+
+[「折腾」VSCode 扩展分组管理](https://www.wdssmq.com/post/20230306656.html "「折腾」VSCode 扩展分组管理")
 
 [WebDav 折腾「其二」之 rclone](https://www.wdssmq.com/post/20100203443.html "WebDav 折腾「其二」之 rclone")
 
@@ -79,8 +81,6 @@
 [金庸作品的另类搞笑简介](https://www.wdssmq.com/post/JinYongZuoPinDeLingLeiGaoXiaoJianJie.html "金庸作品的另类搞笑简介")
 
 [“我不喜欢这个梦，可这已经是现实了”](https://www.wdssmq.com/post/20120419248.html "“我不喜欢这个梦，可这已经是现实了”")
-
-[「瞎扯」人际关系中的信息势能](https://www.wdssmq.com/post/20180705442.html "「瞎扯」人际关系中的信息势能")
 
 ---end---
 
