@@ -247,6 +247,9 @@ module.exports = {
         'indent': [
             'error',
             4,
+            {
+                'SwitchCase': 1,
+            },
         ],
         // 换行符
         'linebreak-style': [
@@ -267,15 +270,15 @@ module.exports = {
         'spaced-comment': [
             'error',
             'always',
+            {
+                'line': {
+                    // 继下述字符后再加空格
+                    'markers': ['!', '#', '/'],
+                },
+            }
         ],
 
         /* 以下按需配置 */
-
-        // // 允许 require 语法赋值
-        // '@typescript-eslint/no-var-requires': 0,
-
-        // // generator 函数中 * 号前后的空格
-        // 'generator-star-spacing': 0,
 
         // 对象或数组的拖尾逗号
         // always-multiline 表示只有在多行时才需要拖尾逗号
@@ -289,14 +292,18 @@ module.exports = {
         'arrow-parens': [
             1,
             'as-needed',
-            { 'requireForBlockBody': true },
+            {
+                'requireForBlockBody': true
+            },
         ],
 
         // 变量声明后未使用
         // args: "none" 表示不检查函数参数是否被使用
         'no-unused-vars': [
             1,
-            { 'args': 'none' },
+            {
+                'args': 'none'
+            },
         ],
 
         // 函数圆括号之前的空格
@@ -304,14 +311,26 @@ module.exports = {
         // named: "never" 表示命名函数不允许空格
         'space-before-function-paren': [
             1,
-            { 'anonymous': 'never', 'named': 'never' },
+            {
+                'anonymous': 'never',
+                'named': 'never'
+            },
         ],
 
         // 禁止不规则的空白
         'no-irregular-whitespace': [
             2,
-            { 'skipStrings': true, 'skipRegExps': true },
+            {
+                'skipStrings': true,
+                'skipRegExps': true
+            },
         ],
+
+        // // 允许 require 语法赋值
+        // '@typescript-eslint/no-var-requires': 0,
+
+        // // generator 函数中 * 号前后的空格
+        // 'generator-star-spacing': 0,
 
         // // 正式环境禁止 debugger
         // 'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
