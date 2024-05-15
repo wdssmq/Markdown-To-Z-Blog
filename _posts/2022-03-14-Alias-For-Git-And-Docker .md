@@ -94,9 +94,10 @@ Git 命令，则可以设置在 `~/.gitconfig` 内：
     # fop = fetch origin -p
 
     # merge
-    mr  = merge
-    mnc = merge --no-commit
-    # msq = merge --squash
+    mgff   = merge --ff
+    mgnoff = merge --no-ff
+    mgnc   = merge --no-commit --no-ff
+    # mgsq = merge --squash
 
     # commit
     ci  = commit
