@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2024 年 05 月 14 日 更新
+## 目录 -  2024 年 05 月 17 日 更新
+
+[「列表纪事」 B 站「玛丽电波剧场」系列汉化搬运的整理](https://www.wdssmq.com/post/20100715601.html "「列表纪事」 B 站「玛丽电波剧场」系列汉化搬运的整理")
 
 [「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
 
@@ -15,6 +17,8 @@
 [2015 年 2 月 12 日冷笑话合集 - 老师你好，老师再见](https://www.wdssmq.com/post/20150212261.html "2015 年 2 月 12 日冷笑话合集 - 老师你好，老师再见")
 
 [2015 年 2 月 6 日冷笑话合集 - 老师你演技这么好校长知道么](https://www.wdssmq.com/post/20150206914.html "2015 年 2 月 6 日冷笑话合集 - 老师你演技这么好校长知道么")
+
+[2010 年 11 月 4 日冷笑话合集 - 光棍节教程](https://www.wdssmq.com/post/2010Nian11Yue4RiXiaoHuaHeJi-GuangGunJieJiaoCheng.html "2010 年 11 月 4 日冷笑话合集 - 光棍节教程")
 
 [2012 年 8 月 26 日冷笑话合集 - 七夕的真相](https://www.wdssmq.com/post/20120826740.html "2012 年 8 月 26 日冷笑话合集 - 七夕的真相")
 
@@ -77,10 +81,6 @@
 [2011 年 1 月 22 日冷笑话合集 - 谁的老婆好](https://www.wdssmq.com/post/2011Nian1Yue22RiLengXiaoHuaHeJi-ShuiDeLaoPoHao.html "2011 年 1 月 22 日冷笑话合集 - 谁的老婆好")
 
 [好吧，节后快乐【无力吐槽】](https://www.wdssmq.com/post/HaoBa-JieHouKuaiLeWuLiTuCao.html "好吧，节后快乐【无力吐槽】")
-
-[「转记」中子星绪](https://www.wdssmq.com/post/20190622412.html "「转记」中子星绪")
-
-[「备忘」Git 部署到 FTP](https://www.wdssmq.com/post/20150922705.html "「备忘」Git 部署到 FTP")
 
 ---end---
 
