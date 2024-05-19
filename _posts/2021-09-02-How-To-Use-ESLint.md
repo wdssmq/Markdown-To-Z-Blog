@@ -37,6 +37,7 @@ ESLint - Pluggable JavaScript linter - ESLint 中文：
 ```bash
 # 安装 cnpm
 npm install -g cnpm --registry=https://registry.npmmirror.com
+
 ```
 
 使用 `cnpm 沉冰浮水` 仍然搜索不到匹配，/哭；
@@ -73,6 +74,8 @@ cnpm init @eslint/config
 # pnpm create @eslint/config
 # eslint --init
 # 所在目录如果没有 package.json 可能会报错，`npm init` 创建；
+
+# 注：后续选项以实际为准
 
 # 选项一 - 如何使用 ESLint
 ? How would you like to use ESLint? …
@@ -239,10 +242,8 @@ module.exports = {
         'module': 'readonly',
         'require': 'readonly',
     },
-    // 规则定义
+    // 规则定义，按实际需要修改
     'rules': {
-        /* 相对通用的规则 */
-
         // 缩进
         'indent': [
             'error',
@@ -278,7 +279,7 @@ module.exports = {
             }
         ],
 
-        /* 以下按需配置 */
+        /* ---------------- */
 
         // 对象或数组的拖尾逗号
         // always-multiline 表示只有在多行时才需要拖尾逗号
@@ -293,6 +294,7 @@ module.exports = {
             1,
             'as-needed',
             {
+                // requireForBlockBody 表示在块体中需要括号
                 'requireForBlockBody': true
             },
         ],
@@ -307,12 +309,12 @@ module.exports = {
         ],
 
         // 函数圆括号之前的空格
-        // anonymous: "never" 表示匿名函数不允许空格
-        // named: "never" 表示命名函数不允许空格
+        // 分别对匿名函数、异步箭头函数、命名函数设置
         'space-before-function-paren': [
             1,
             {
                 'anonymous': 'never',
+                'asyncArrow': 'always',
                 'named': 'never'
             },
         ],
