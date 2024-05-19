@@ -26,34 +26,28 @@ ESLint - Visual Studio Marketplace：
 
 [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint "ESLint - Visual Studio Marketplace")
 
-ESLint - Pluggable JavaScript linter - ESLint 中文：
+Find and fix problems in your JavaScript code - ESLint - Pluggable JavaScript Linter：
 
-[http://eslint.cn/](http://eslint.cn/ "ESLint - Pluggable JavaScript linter - ESLint 中文")
+[https://eslint.org/](https://eslint.org/ "Find and fix problems in your JavaScript code - ESLint - Pluggable JavaScript Linter")
 
 **虽然不太清楚，使用 VSCode 插件版仍然需要在项目下或全局安装`eslint`的样子？**
 
 ### 安装 ESLint
 
 ```bash
-# 安装 cnpm
-npm install -g cnpm --registry=https://registry.npmmirror.com
+# 安装 pnpm 并设置淘宝镜像
+npm install -g pnpm
+pnpm config set registry https://registry.npm.taobao.org
 
 ```
-
-使用 `cnpm 沉冰浮水` 仍然搜索不到匹配，/哭；
 
 **全局安装：**
 
 ```bash
 # 全局安装
-cnpm install -g eslint
-# 查看版本号
-cnpm ls eslint
-# 不知道为什么输出为空，加 -g 参数则直接卡住
-# 也没找到正确能用的方法
-
-# 下边命令可以得到全局 node_modules 的地址
-cnpm root -g
+pnpm install eslint -g
+# 查看全局安装的版本号
+pnpm ls eslint -g
 
 ```
 
@@ -61,17 +55,16 @@ cnpm root -g
 
 ```bash
 # 当前项目内
-cnpm install eslint --save-dev
+pnpm install eslint --save-dev
 # 查看版本号
-cnpm ls eslint
+pnpm ls eslint
 
 ```
 
 ### 初始化
 
 ```bash
-cnpm init @eslint/config
-# pnpm create @eslint/config
+pnpm create @eslint/config
 # eslint --init
 # 所在目录如果没有 package.json 可能会报错，`npm init` 创建；
 
@@ -81,9 +74,6 @@ cnpm init @eslint/config
 ? How would you like to use ESLint? …
   To check syntax only
 ▸ To check syntax and find problems
-  To check syntax, find problems, and enforce code style
-# 注：如果选择了第 3 项，后续选项会不一样
-
 
 # 选项二 - 模块引入方式
 ? What type of modules does your project use? …
@@ -105,13 +95,7 @@ cnpm init @eslint/config
 ✔ Browser
 ✔ Node
 
-# 选项六 - ESLint Config 文件保存为何种格式，建议 JS，JSON 不支持注释
-? What format do you want your config file to be in? …
-▸ JavaScript
-  YAML
-  JSON
-
-# 选项七 - 根据选择可能需要安装额外的项目，比如 vue 的插件
+# 选项六 - 根据选择可能需要安装额外的项目，比如 vue 的插件
 The config that you ve selected requires the following dependencies:
 
 eslint-plugin-vue@latest
@@ -125,42 +109,7 @@ eslint-plugin-vue@latest
   yarn
 ▸ pnpm
 
-# ------------
-
-# 如果上边「选项一」选择了「To check syntax, find problems, and enforce code style」，会多出以下选项
-? How would you like to define a style for your project? …
-  Use a popular style guide
-▸ Answer questions about your style
-
-# 分支二 - 询问具体的代码风格，包括缩进、引号、分号等
-✔ How would you like to define a style for your project? · prompt
-✔ What style of indentation do you use? · 4
-✔ What quotes do you use for strings? · double
-✔ What line endings do you use? · unix
-✔ Do you require semicolons? · No / Yes
-
-# 分支一 - 选择 google 等厂商的代码风格
-✔ How would you like to define a style for your project? · guide
-✔ Which style guide do you want to follow? · google
-
 ```
-
-选项一：
-
-- 仅检查语法；
-- 检查语法并查找问题；
-- 在前者基础上强制代码样式；
-
-默认为第 2 项，实际建议第 3 项；
-
-之后根据实际需要用；
-
-额外注意：
-
-- 配置文件建议使用 JS 格式，因为 JSON 不支持注释；
-- 本文是以 cnpm 为基础，包管理器选项里没有，可以换 pnpm；
-- 或者不选择自动安装，手动执行`cnpm install`；
-
 
 ### 使用（CLI）
 
@@ -173,17 +122,13 @@ eslint vite.config.js
 # 按路径匹配文件，某一对引号内的规则没能匹配到文件时会报错
 eslint "src/**/*.vue" "src/**/*.{js,mjs,ts}" --fix
 
-# 指定后缀，注意后缀前的点号，也不需要加空格，不需要每种后缀都有相应的文件
-eslint . --ext .js,.ts,.mjs --fix
-
-# 排除指定文件中定义的路径
-eslint . --ext .js,.ts,.mjs --fix --ignore-path .gitignore
-
 ```
 
-Command Line Interface - ESLint 中文：
+新版命令行废弃了很多参数，甚至官方文档也还没完全更新……
 
-[http://eslint.cn/docs/user-guide/command-line-interface](http://eslint.cn/docs/user-guide/command-line-interface "Command Line Interface - ESLint 中文")
+Command Line Interface Reference - ESLint - Pluggable JavaScript Linter：
+
+[https://eslint.org/docs/latest/use/command-line-interface#site_top](https://eslint.org/docs/latest/use/command-line-interface#site_top "Command Line Interface Reference - ESLint - Pluggable JavaScript Linter")
 
 ### VSCode 插件版
 
@@ -205,7 +150,7 @@ node_modules\.bin\eslint.cmd --init
 
 ```
 
-所以保险起见还是自己执行`cnpm init @eslint/config`吧；
+所以保险起见还是自己执行`pnpm create @eslint/config`吧；
 
 插件有不少配置项，可以在「设置」中搜索`eslint`查看：
 
@@ -217,9 +162,9 @@ node_modules\.bin\eslint.cmd --init
     "javascriptreact",
     "vue"
   ],
-  // 这里甚至并不能用「cnpm」 - -!
   "eslint.packageManager": "pnpm"
 }
+
 ```
 
 ### 检查规则
@@ -227,21 +172,24 @@ node_modules\.bin\eslint.cmd --init
 使用 `@eslint/config` 初始化，然后再修改具体细节，下边为一份参考：
 
 ```js
-/* // global module // 好像新版不需要设置这个了？ */
-module.exports = {
-    'env': {
-        'browser': true,
-        'es2021': true,
+// 此处为新版的 eslint.config.mjs
+import globals from "globals";
+import pluginJs from "@eslint/js";
+
+export default [
+  {
+    languageOptions:
+    {
+      globals: {
+        ...globals.browser,
+        "$": "readonly",
+        "module": "readonly",
+        "jQuery": "readonly",
+      },
     },
-    'extends': 'eslint:recommended',
-    'parserOptions': {
-        'ecmaVersion': 'latest',
-    },
-    // 全局变量声明
-    'globals': {
-        'module': 'readonly',
-        'require': 'readonly',
-    },
+  },
+  pluginJs.configs.recommended,
+  {
     // 规则定义，按实际需要修改
     'rules': {
         // 缩进
@@ -337,7 +285,8 @@ module.exports = {
         // // 正式环境禁止 debugger
         // 'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
     },
-}
+  },
+];
 
 ```
 
