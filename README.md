@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2024 年 05 月 19 日 更新
+## 目录 -  2024 年 06 月 17 日 更新
+
+[「网络聊天指南（伪」不要问在不在！！](https://www.wdssmq.com/post/20190523451.html "「网络聊天指南（伪」不要问在不在！！")
 
 [「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
 
@@ -26,6 +28,8 @@
 
 [「备忘」Z-BlogPHP 代码设置页面标题、关键词及描述](https://www.wdssmq.com/post/20140719962.html "「备忘」Z-BlogPHP 代码设置页面标题、关键词及描述")
 
+[2010 年 8 月 12 日冷笑话合集 - 误事的彩铃](https://www.wdssmq.com/post/2010Nian8Yue12RiXiaoHuaHeJi-WuShiDeCaiLing.html "2010 年 8 月 12 日冷笑话合集 - 误事的彩铃")
+
 [「列表纪事」 B 站「玛丽电波剧场」系列汉化搬运的整理](https://www.wdssmq.com/post/20100715601.html "「列表纪事」 B 站「玛丽电波剧场」系列汉化搬运的整理")
 
 [「折腾」VSCode 扩展分组管理](https://www.wdssmq.com/post/20230306656.html "「折腾」VSCode 扩展分组管理")
@@ -33,6 +37,8 @@
 [2015 年 2 月 12 日冷笑话合集 - 老师你好，老师再见](https://www.wdssmq.com/post/20150212261.html "2015 年 2 月 12 日冷笑话合集 - 老师你好，老师再见")
 
 [2015 年 2 月 6 日冷笑话合集 - 老师你演技这么好校长知道么](https://www.wdssmq.com/post/20150206914.html "2015 年 2 月 6 日冷笑话合集 - 老师你演技这么好校长知道么")
+
+[2013 年 12 月 17 日冷笑话合集 - 节假日涨价](https://www.wdssmq.com/post/20131217623.html "2013 年 12 月 17 日冷笑话合集 - 节假日涨价")
 
 [2010 年 11 月 4 日冷笑话合集 - 光棍节教程](https://www.wdssmq.com/post/2010Nian11Yue4RiXiaoHuaHeJi-GuangGunJieJiaoCheng.html "2010 年 11 月 4 日冷笑话合集 - 光棍节教程")
 
@@ -75,12 +81,6 @@
 [「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
 
 [「过往」百度网盘七年纪](https://www.wdssmq.com/post/20120515987.html "「过往」百度网盘七年纪")
-
-[「广告慎入」百度网盘分销联盟（推广赚佣金）](https://www.wdssmq.com/post/20220414259.html "「广告慎入」百度网盘分销联盟（推广赚佣金）")
-
-[「折腾」GitHub Actions 反代 RSSHub + 多实例轮询](https://www.wdssmq.com/post/20100309739.html "「折腾」GitHub Actions 反代 RSSHub + 多实例轮询")
-
-[「折腾」Vue 简单的状态管理实践](https://www.wdssmq.com/post/20220810247.html "「折腾」Vue 简单的状态管理实践")
 
 ---end---
 
