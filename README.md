@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2024 年 06 月 17 日 更新
+## 目录 -  2024 年 06 月 18 日 更新
+
+[「水坑」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「水坑」Z-BlogPHP 模板机制讲解「简易版」")
 
 [「网络聊天指南（伪」不要问在不在！！](https://www.wdssmq.com/post/20190523451.html "「网络聊天指南（伪」不要问在不在！！")
 
@@ -79,8 +81,6 @@
 [「VPS」DesiVPS 2023 黑五促销](https://www.wdssmq.com/post/20220219378.html "「VPS」DesiVPS 2023 黑五促销")
 
 [「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
-
-[「过往」百度网盘七年纪](https://www.wdssmq.com/post/20120515987.html "「过往」百度网盘七年纪")
 
 ---end---
 
