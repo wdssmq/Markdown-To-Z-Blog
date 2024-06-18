@@ -39,8 +39,6 @@ Flash 也是到今年为止了。。
 
 虽然你可能会疑惑我到底讲了些啥，但既然都看到这里了，不订阅下么：
 
-通过 FeedsPub 订阅：[ShortSth:沉冰浮水-FeedsPub][/ShortSth]
-
 使用 Inoreader 订阅：[ShortSth:沉冰浮水-innoreader][/ShortSth]
 
 订阅源地址：[https://feed.wdssmq.com/](https://feed.wdssmq.com/ "沉冰浮水博客的 Feed 地址")

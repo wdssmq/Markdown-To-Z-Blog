@@ -47,7 +47,6 @@ RSS 订阅：[https://feed.wdssmq.com](https://feed.wdssmq.com "沉冰浮水博�
 -\\| ![SEO 是啥联盟](https://img.shields.io/badge/-SEO%20%E6%98%AF%E5%95%A5%E8%81%94%E7%9B%9F-yellowgreen)
 -\\| [![QQ-我的咸鱼心](https://img.shields.io/badge/QQ-%E6%88%91%E7%9A%84%E5%92%B8%E9%B1%BC%E5%BF%83-0086F9)](https://jq.qq.com/?_wv=1027&k=1Vdo2rUM "QQ-我的咸鱼心")
 -\\| [![爱发电-@wdssmq](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%40wdssmq-blueviolet)](https://afdian.net/a/wdssmq "爱发电-@wdssmq")
--\\| [![FeedsPub-wdssmq](https://img.shields.io/badge/dynamic/json?label=FeedsPub&query=count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedspub%2Fhttps%253A%252F%252Fwww.wdssmq.com%252Ffeed.php&color=brightgreen&logo=feedspub&suffix=+subs&cacheSeconds=14400)](https://feeds.pub/feed/https%3A%2F%2Fwww.wdssmq.com%2Ffeed.php "FeedsPub-wdssmq")
 
 -\\| [![Feedly-wdssmq](https://img.shields.io/badge/dynamic/json?style=social&label=Feedly&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fwww.wdssmq.com%2Ffeed.php&color=2bb24c&logo=feedly)](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.wdssmq.com%2Ffeed.php "Feedly-wdssmq")
 -\\| [![嘟特-@wdssmq](https://img.shields.io/mastodon/follow/142218?style=social&label=%E5%98%9F%E7%89%B9&domain=https%3A%2F%2Fwxw.moe%2F)](https://wxw.moe/users/wdssmq "嘟特-@wdssmq")
