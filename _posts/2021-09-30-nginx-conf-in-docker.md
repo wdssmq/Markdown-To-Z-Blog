@@ -27,6 +27,7 @@ docker exec -it zbp_ForAPP /bin/bash
 
 # 在容器内执行
 find /|grep nginx.conf
+
 ```
 主文件路径是：`/etc/nginx/nginx.conf`，然而又引用了各种外部文件；
 
@@ -52,6 +53,7 @@ cd /opt/docker/etc/nginx
 ls
 # conf.d       main.conf  ssl                vhost.common.d  vhost.ssl.conf
 # global.conf  php.conf   vhost.common.conf  vhost.conf
+
 ```
 
 ```shell
@@ -59,8 +61,10 @@ ls
 # 复制文件
 NGINX_DIR=/home/www/zbp_ForAPP/nginx
 docker cp zbp_ForAPP:/etc/nginx/nginx.conf "${NGINX_DIR}/"
+# ↑ 2024-06-27 发现这个文件本身也是引用，实际路径在 /opt/docker/etc/nginx/nginx.conf，正好被下边的命令覆盖掉。。
 docker cp zbp_ForAPP:/opt/docker/etc/nginx "${NGINX_DIR}/"
 # docker cp zbp_ForAPP:/usr/share/nginx/modules-available "${NGINX_DIR}/"
+
 ```
 
 ### 结果
@@ -75,6 +79,7 @@ docker cp zbp_ForAPP:/opt/docker/etc/nginx "${NGINX_DIR}/"
 location / {
     try_files $uri $uri/ /index.php?$query_string;
 }
+
 ```
 
 等同于一般意义上的伪静态；大概。。
