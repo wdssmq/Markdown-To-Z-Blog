@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2024 年 06 月 27 日 更新
+## 目录 -  2024 年 06 月 28 日 更新
+
+[「折腾」Linux 定时备份教程](https://www.wdssmq.com/post/20140816860.html "「折腾」Linux 定时备份教程")
 
 [Docker 内 php-nginx 的伪静态相关](https://www.wdssmq.com/post/20190813019.html "Docker 内 php-nginx 的伪静态相关")
 
@@ -79,8 +81,6 @@
 [2013 年 10 月 13 日冷笑话合集 - 就到医院了，坚持住](https://www.wdssmq.com/post/20131013254.html "2013 年 10 月 13 日冷笑话合集 - 就到医院了，坚持住")
 
 [希望，应该，可以「无力吐槽」](https://www.wdssmq.com/post/20140701544.html "希望，应该，可以「无力吐槽」")
-
-[2010 年 7 月 29 日冷笑话合集 - 有这样一个人](https://www.wdssmq.com/post/2010nian7yue29rixiaohuaheji-youzheyangyigeren.html "2010 年 7 月 29 日冷笑话合集 - 有这样一个人")
 
 ---end---
 
