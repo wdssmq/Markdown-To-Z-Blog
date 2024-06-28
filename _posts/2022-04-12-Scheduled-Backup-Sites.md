@@ -81,6 +81,7 @@ find $BAK_DIR/ -type d -mtime +5 -name "bak*" -print -exec rm -rf {} \;
 
 # 「可选」镜像同步至远程 FTP
 lftp -u FTP用户名,FTP密码 -e "mirror -R --delete --only-newer --verbose $BAK_DIR /远程目录;exit" www.FTP地址.com
+
 ```
 
 ```bash
@@ -98,6 +99,7 @@ chmod g+x ~/bin/bak.sh
 # 主动执行测试
 cd ~
 ./bin/bak.sh
+
 ```
 
 将代码写入到 bak.sh 文件放在 `~/bin` 目录下，然后设置一个定时，比如每天凌晨 3 点执行。
@@ -123,6 +125,7 @@ code root
 crontab -l
 # 0 3 */7 * * /usr/local/acme.sh/upgrade.sh
 # 0 3 * * * /root/bin/bak.sh
+
 ```
 
 
@@ -135,6 +138,7 @@ chkconfig --level 35 crond on
 service crond status
 # 启动服务
 service crond start
+
 ```
 
 定时需要 crontabs，参考：[http://www.ha97.com/910.html](http://www.ha97.com/910.html "crontab")
@@ -160,6 +164,7 @@ if [ ! -d /usr/local/nginx/conf/ssl ]; then
   mkdir /usr/local/nginx/conf/ssl
 fi
 ln -s /usr/local/nginx/conf/ssl    ssl_n
+
 ```
 
 然后 sftp 把打包文件和 vhost 文件夹一并下载回来；
@@ -175,6 +180,7 @@ if [ ! -d /usr/local/nginx/conf/ssl ]; then
   mkdir /usr/local/nginx/conf/ssl
 fi
 ln -s /usr/local/nginx/conf/ssl    ssl_n
+
 ```
 
 phpMyAdmin 内创建数据库表上传`db_*.tar.gz`；
@@ -190,6 +196,7 @@ for tar in bak_*.tar.gz;  do tar xvf $tar; done
 chown -Rv www:www  /home/wwwroot/*
 find ./ -type d -print|xargs chmod 755
 find ./ -type f -print|xargs chmod 644
+
 ```
 
 **先不要删压缩包或符号连接，FileZilla Client 到是应该可以关掉了，之后 VSCode 内操作；**
@@ -204,6 +211,7 @@ lnmp restart
 cd /home/wwwroot
 for dir in $(ls -d */); do echo $(date +%Y%m%d) > $dir/test.txt; done
 # —— 这里怎么排除掉 ln ？
+
 ```
 
 **切换解析，等待生效；**「切换解析后建议尽快停掉旧空间的 web 服务」
@@ -218,6 +226,7 @@ for dir in $(ls -d */); do echo $(date +%Y%m%d) > $dir/test.txt; done
 cd /home/wwwroot
 rm -rf *.tar.gz *.sql.gz
 rm -rf rm -rf vhost_a vhost_n ssl_n
+
 ```
 
 命令备忘录：
@@ -231,5 +240,6 @@ ls -F | grep /$
 default/
 demo.wdssmq.com/
 www.wdssmq.com/
+
 ```
 
