@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2024 年 06 月 28 日 更新
+## 目录 -  2024 年 06 月 29 日 更新
+
+[「备忘」Nginx 重定向（301）相关](https://www.wdssmq.com/post/20140819797.html "「备忘」Nginx 重定向（301）相关")
 
 [「折腾」Linux 定时备份教程](https://www.wdssmq.com/post/20140816860.html "「折腾」Linux 定时备份教程")
 
@@ -79,8 +81,6 @@
 [「代码片段」JavaScript 数组的 reduce() 方法](https://www.wdssmq.com/post/20231130787.html "「代码片段」JavaScript 数组的 reduce() 方法")
 
 [2013 年 10 月 13 日冷笑话合集 - 就到医院了，坚持住](https://www.wdssmq.com/post/20131013254.html "2013 年 10 月 13 日冷笑话合集 - 就到医院了，坚持住")
-
-[希望，应该，可以「无力吐槽」](https://www.wdssmq.com/post/20140701544.html "希望，应该，可以「无力吐槽」")
 
 ---end---
 
