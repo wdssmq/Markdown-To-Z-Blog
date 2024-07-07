@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录 -  2024 年 06 月 29 日 更新
+## 目录 -  2024 年 07 月 07 日 更新
+
+[【真·碎碎念】2023/08/07 ~ 2023/12/17](https://www.wdssmq.com/post/20231218982.html "【真·碎碎念】2023/08/07 ~ 2023/12/17")
+
+[【真·碎碎念】2023/04/03 ~ 2023/07/23](https://www.wdssmq.com/post/20230724923.html "【真·碎碎念】2023/04/03 ~ 2023/07/23")
 
 [「备忘」Nginx 重定向（301）相关](https://www.wdssmq.com/post/20140819797.html "「备忘」Nginx 重定向（301）相关")
 
@@ -77,10 +81,6 @@
 [「折腾」GM_脚本 + CF Workers KV 半自动收集 B 用户投稿转为 RSS](https://www.wdssmq.com/post/20120519803.html "「折腾」GM_脚本 + CF Workers KV 半自动收集 B 用户投稿转为 RSS")
 
 [哈利波特是局三国杀吧](https://www.wdssmq.com/post/HaLiBoTeShiJuSanGuoShaBa.html "哈利波特是局三国杀吧")
-
-[「代码片段」JavaScript 数组的 reduce() 方法](https://www.wdssmq.com/post/20231130787.html "「代码片段」JavaScript 数组的 reduce() 方法")
-
-[2013 年 10 月 13 日冷笑话合集 - 就到医院了，坚持住](https://www.wdssmq.com/post/20131013254.html "2013 年 10 月 13 日冷笑话合集 - 就到医院了，坚持住")
 
 ---end---
 
