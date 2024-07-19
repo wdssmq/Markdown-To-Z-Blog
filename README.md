@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录 -  2024 年 07 月 07 日 更新
+## 目录 -  2024 年 07 月 19 日 更新
+
+[「P2P」从 BitComet 生成的种子中获取 ed2k](https://www.wdssmq.com/post/20131014380.html "「P2P」从 BitComet 生成的种子中获取 ed2k")
+
+[2011 年 4 月 11 日冷笑话合集 - 请假原因](https://www.wdssmq.com/post/20120721274.html "2011 年 4 月 11 日冷笑话合集 - 请假原因")
 
 [【真·碎碎念】2023/08/07 ~ 2023/12/17](https://www.wdssmq.com/post/20231218982.html "【真·碎碎念】2023/08/07 ~ 2023/12/17")
 
@@ -77,10 +81,6 @@
 [2012 年 8 月 21 日冷笑话合集 - 七夕作战](https://www.wdssmq.com/post/20120821490.html "2012 年 8 月 21 日冷笑话合集 - 七夕作战")
 
 [2010 年 8 月 2 日冷笑话合集 - 终于下手了](https://www.wdssmq.com/post/2010Nian8Yue2RiXiaoHuaHeJi-ZhongYuXiaShouLe.html "2010 年 8 月 2 日冷笑话合集 - 终于下手了")
-
-[「折腾」GM_脚本 + CF Workers KV 半自动收集 B 用户投稿转为 RSS](https://www.wdssmq.com/post/20120519803.html "「折腾」GM_脚本 + CF Workers KV 半自动收集 B 用户投稿转为 RSS")
-
-[哈利波特是局三国杀吧](https://www.wdssmq.com/post/HaLiBoTeShiJuSanGuoShaBa.html "哈利波特是局三国杀吧")
 
 ---end---
 
