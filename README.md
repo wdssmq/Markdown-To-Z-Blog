@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2024 年 07 月 19 日 更新
+## 目录 -  2024 年 07 月 22 日 更新
+
+[执念「无力吐槽」](https://www.wdssmq.com/post/20121007254.html "执念「无力吐槽」")
 
 [「P2P」从 BitComet 生成的种子中获取 ed2k](https://www.wdssmq.com/post/20131014380.html "「P2P」从 BitComet 生成的种子中获取 ed2k")
 
@@ -79,8 +81,6 @@
 [2010 年 12 月 2 日冷笑话合集 - 斗智](https://www.wdssmq.com/post/2010Nian12Yue2RiLengXiaoHuaHeJi-DouZhi.html "2010 年 12 月 2 日冷笑话合集 - 斗智")
 
 [2012 年 8 月 21 日冷笑话合集 - 七夕作战](https://www.wdssmq.com/post/20120821490.html "2012 年 8 月 21 日冷笑话合集 - 七夕作战")
-
-[2010 年 8 月 2 日冷笑话合集 - 终于下手了](https://www.wdssmq.com/post/2010Nian8Yue2RiXiaoHuaHeJi-ZhongYuXiaShouLe.html "2010 年 8 月 2 日冷笑话合集 - 终于下手了")
 
 ---end---
 
