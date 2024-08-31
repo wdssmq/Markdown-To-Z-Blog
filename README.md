@@ -6,13 +6,25 @@
 
 ---start---
 
-## 目录 -  2024 年 07 月 22 日 更新
+## 目录 -  2024 年 08 月 31 日 更新
+
+[「图说」做不到的水水](https://www.wdssmq.com/post/20170206814.html "「图说」做不到的水水")
+
+[2014 年 9 月 29 日冷笑话合集 - 拿过来让你看看](https://www.wdssmq.com/post/20140929620.html "2014 年 9 月 29 日冷笑话合集 - 拿过来让你看看")
+
+[2012 年 6 月 23 日冷笑话合集 - 晚上有事吗](https://www.wdssmq.com/post/20120623204.html "2012 年 6 月 23 日冷笑话合集 - 晚上有事吗")
+
+[2012 年 6 月 24 日冷笑话合集 - 坐电梯的尴尬](https://www.wdssmq.com/post/20100215180.html "2012 年 6 月 24 日冷笑话合集 - 坐电梯的尴尬")
 
 [执念「无力吐槽」](https://www.wdssmq.com/post/20121007254.html "执念「无力吐槽」")
 
 [「P2P」从 BitComet 生成的种子中获取 ed2k](https://www.wdssmq.com/post/20131014380.html "「P2P」从 BitComet 生成的种子中获取 ed2k")
 
+[2014 年 3 月 16 日冷笑话合集 - 转移痛苦](https://www.wdssmq.com/post/20140316637.html "2014 年 3 月 16 日冷笑话合集 - 转移痛苦")
+
 [2011 年 4 月 11 日冷笑话合集 - 请假原因](https://www.wdssmq.com/post/20120721274.html "2011 年 4 月 11 日冷笑话合集 - 请假原因")
+
+[你一生中那些惊人的统计数字](https://www.wdssmq.com/post/20100308344.html "你一生中那些惊人的统计数字")
 
 [【真·碎碎念】2023/08/07 ~ 2023/12/17](https://www.wdssmq.com/post/20231218982.html "【真·碎碎念】2023/08/07 ~ 2023/12/17")
 
@@ -69,18 +81,6 @@
 [「图说」两部手机在夏天如何携带这种事](https://www.wdssmq.com/post/20231014544.html "「图说」两部手机在夏天如何携带这种事")
 
 [「代码片段」两段略奇怪的 JS 代码](https://www.wdssmq.com/post/20160621482.html "「代码片段」两段略奇怪的 JS 代码")
-
-[2012 年 3 月 6 日笑话合集 - 懒鬼](https://www.wdssmq.com/post/20120521708.html "2012 年 3 月 6 日笑话合集 - 懒鬼")
-
-[2012 年 7 月 12 日冷笑话合集 - 火灾之后](https://www.wdssmq.com/post/20100215193.html "2012 年 7 月 12 日冷笑话合集 - 火灾之后")
-
-[2011 年 10 月 20 日冷笑话合集 - 渡假](https://www.wdssmq.com/post/2011Nian10Yue20RiLengXiaoHuaHeJi-DuJia.html "2011 年 10 月 20 日冷笑话合集 - 渡假")
-
-[2014 年 3 月 17 日冷笑话合集 - 高级僵尸粉](https://www.wdssmq.com/post/20140317847.html "2014 年 3 月 17 日冷笑话合集 - 高级僵尸粉")
-
-[2010 年 12 月 2 日冷笑话合集 - 斗智](https://www.wdssmq.com/post/2010Nian12Yue2RiLengXiaoHuaHeJi-DouZhi.html "2010 年 12 月 2 日冷笑话合集 - 斗智")
-
-[2012 年 8 月 21 日冷笑话合集 - 七夕作战](https://www.wdssmq.com/post/20120821490.html "2012 年 8 月 21 日冷笑话合集 - 七夕作战")
 
 ---end---
 
