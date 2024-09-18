@@ -46,12 +46,15 @@ Videos
 附：对于「FastCopy」，文件夹需要添加添加`\`：
 
 ```txt
+
 __pycache__\
-_gsdata_\
-.git\
 .history\
+.pnpm-store\
 .sync\
+*-new-post\
 node_modules\
+System Volume Information\
 Tencent Files\
+WeChat Files\
 
 ```
