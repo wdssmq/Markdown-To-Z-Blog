@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2024 年 09 月 18 日 更新
+## 目录 -  2024 年 09 月 22 日 更新
+
+[「折腾」落后两年的 Stable Diffusion 搭建笔记](https://www.wdssmq.com/post/20220812894.html "「折腾」落后两年的 Stable Diffusion 搭建笔记")
 
 [「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
 
@@ -79,8 +81,6 @@
 [2013 年 12 月 17 日冷笑话合集 - 节假日涨价](https://www.wdssmq.com/post/20131217623.html "2013 年 12 月 17 日冷笑话合集 - 节假日涨价")
 
 [2010 年 11 月 4 日冷笑话合集 - 光棍节教程](https://www.wdssmq.com/post/2010Nian11Yue4RiXiaoHuaHeJi-GuangGunJieJiaoCheng.html "2010 年 11 月 4 日冷笑话合集 - 光棍节教程")
-
-[2012 年 8 月 26 日冷笑话合集 - 七夕的真相](https://www.wdssmq.com/post/20120826740.html "2012 年 8 月 26 日冷笑话合集 - 七夕的真相")
 
 ---end---
 
