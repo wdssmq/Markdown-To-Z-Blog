@@ -67,7 +67,7 @@ git clone git@github.com:AUTOMATIC1111/stable-diffusion-webui.git _sd
 
 依赖安装及程序运行理论上都只需要运行 `webui-user.bat` 就好，然而这里先对其进行修改，另外后续步骤是我在处理各种错误后复盘整理而来，建议先手动解决后再执行；
 
-↓↓ 在原始文件内添加 `--skip-torch-cuda-test --no-half` 参数，如果你在 GPU 可以不改 ↓↓
+↓↓ 在原始文件内添加 `--skip-torch-cuda-test --no-half` 参数，如果你有 GPU 可以不改 ↓↓
 
 ```bash
 @echo off
@@ -111,7 +111,9 @@ git clone https://www.modelscope.cn/AI-ModelScope/clip-vit-large-patch14.git ope
 
 7、提前下载好一个模型：
 
-好像可以到「[ModelScope](https://www.modelscope.cn/home "魔塔社区")」平台下载，我参考的教程推荐了「[chilloutmix\_NiPrunedFp32Fix](https://www.modelscope.cn/models/TheKernelZ/chilloutmix_NiPrunedFp32Fix/files "chilloutmix\_NiPrunedFp32Fix")」
+好像可以到「[ModelScope](https://www.modelscope.cn/home "魔塔社区")」平台下载，我参考的教程推荐了「[chilloutmix\_NiPrunedFp32Fix](https://www.modelscope.cn/models/TheKernelZ/chilloutmix_NiPrunedFp32Fix/files "chilloutmix\_NiPrunedFp32Fix")」；
+
+下载后移动模型文件夹到 `_sd\models\Stable-diffusion` 内；
 
 ```bash
 # 这里使用平台的 CLI 工具下载，另外这个 CLI 好像本身好像就能执行模型调用？？
@@ -123,7 +125,6 @@ pip install modelscope
 # 指定下载路径时好像不会额外创建子文件夹，把模型名再加一遍
 modelscope download --model TheKernelZ/chilloutmix_NiPrunedFp32Fix --local_dir './local_dir/chilloutmix_NiPrunedFp32Fix'
 
-# 下载后移动模型文件夹到 _sd\models\Stable-diffusion 内
 # 或者直接指定下载路径：--local_dir './models/chilloutmix_NiPrunedFp32Fix
 
 ```
