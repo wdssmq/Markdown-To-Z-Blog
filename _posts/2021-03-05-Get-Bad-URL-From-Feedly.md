@@ -121,7 +121,7 @@ Feedly 中查看已订阅项目时，地址栏显示是这样：
 // @raw    https://github.com/wdssmq/userscript/tree/master/feedly
 // @raw    https://greasyfork.org/zh-CN/scripts/381793
 // ----------------------------
-// @link   https://afdian.net/@wdssmq
+// @link   https://afdian.com/@wdssmq
 // @link   https://github.com/wdssmq/userscript
 // @link   https://greasyfork.org/zh-CN/users/6865-wdssmq
 // ----------------------------

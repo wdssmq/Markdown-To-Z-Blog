@@ -37,7 +37,7 @@ GM\_setClipboard - 国内版 Bing：
 // @version      0.1
 // @author       沉冰浮水
 // ----------------------------
-// @link   https://afdian.net/@wdssmq
+// @link   https://afdian.com/@wdssmq
 // @link   https://github.com/wdssmq/userscript
 // @link   https://greasyfork.org/zh-CN/users/6865-wdssmq
 // ----------------------------

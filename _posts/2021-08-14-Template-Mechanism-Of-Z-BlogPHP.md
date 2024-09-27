@@ -56,7 +56,7 @@ print $$animal;
 $tags = array(
   "blog" => "https://www.wdssmq.com",
   "name" => "沉冰浮水",
-  "afdian" => "https://afdian.net/@wdssmq"
+  "afdian" => "https://afdian.com/@wdssmq"
 );
 ```
 
@@ -162,7 +162,7 @@ include "user-info-4.php";
 
 「折腾」Z-BlogPHP 模板机制讲解丨沉冰浮水丨爱发电：
 
-[https://afdian.net/p/5e8460cefdbc11eb80a152540025c377](https://afdian.net/p/5e8460cefdbc11eb80a152540025c377 "「折腾」Z-BlogPHP 模板机制讲解丨沉冰浮水丨爱发电")
+[https://afdian.com/p/5e8460cefdbc11eb80a152540025c377](https://afdian.com/p/5e8460cefdbc11eb80a152540025c377 "「折腾」Z-BlogPHP 模板机制讲解丨沉冰浮水丨爱发电")
 
 ↑ 自选金额大概也可以解锁吧；
 

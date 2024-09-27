@@ -98,7 +98,7 @@ zhaoolee/WordPressXMLRPCTools: 用 Hexo 的方式管理 WordPress
 
 ↓ 修改如下文件项目后即可初始化提交；
 
-> `.github/FUNDING.yml` 「用于设置赞助链接——<a class="img-wrap" target="_blank" title="爱发电-@wdssmq" href="https://afdian.net/@wdssmq"><img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%40wdssmq-blueviolet" title="爱发电-@wdssmq" alt="爱发电-@wdssmq"></a>」；
+> `.github/FUNDING.yml` 「用于设置赞助链接——<a class="img-wrap" target="_blank" title="爱发电-@wdssmq" href="https://afdian.com/@wdssmq"><img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%40wdssmq-blueviolet" title="爱发电-@wdssmq" alt="爱发电-@wdssmq"></a>」；
 >
 > `README.md` 「注：`---start---任意内容---end---`用于插入文章列表，其他内容随意」；
 >

@@ -38,7 +38,7 @@ alias: 20231014544
 
 > 沉冰浮水正在创作和 Z-BlogPHP 相关或无关的各种有用或没用的代码 | 爱发电
 >
-> [https://afdian.net/a/wdssmq](https://afdian.net/a/wdssmq "沉冰浮水正在创作和 Z-BlogPHP 相关或无关的各种有用或没用的代码 | 爱发电")
+> [https://afdian.com/a/wdssmq](https://afdian.com/a/wdssmq "沉冰浮水正在创作和 Z-BlogPHP 相关或无关的各种有用或没用的代码 | 爱发电")
 
 
 ## 三
