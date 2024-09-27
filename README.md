@@ -8,6 +8,20 @@
 
 ## 目录 -  2024 年 09 月 27 日 更新
 
+[「小目标」平均每篇文章/Git Repository 赚取 1 元](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元")
+
+[「GM_脚本」Feedly 标记已读辅助「小代码」](https://www.wdssmq.com/post/20100605569.html "「GM_脚本」Feedly 标记已读辅助「小代码」")
+
+[「GM_脚本」GM_setClipboard 方法示例](https://www.wdssmq.com/post/20211108343.html "「GM_脚本」GM_setClipboard 方法示例")
+
+[「水坑」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「水坑」Z-BlogPHP 模板机制讲解「简易版」")
+
+[【折腾】GM_脚本“取回” Feedly 内的订阅源地址](https://www.wdssmq.com/post/20210305305.html "【折腾】GM_脚本“取回” Feedly 内的订阅源地址")
+
+[「图说」两部手机在夏天如何携带这种事](https://www.wdssmq.com/post/20231014544.html "「图说」两部手机在夏天如何携带这种事")
+
+[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
+
 [【真·碎碎念】2021/08/30 ~ 2021/09/05](https://www.wdssmq.com/post/20191011022.html "【真·碎碎念】2021/08/30 ~ 2021/09/05")
 
 [「折腾」落后两年的 Stable Diffusion 搭建笔记](https://www.wdssmq.com/post/20220812894.html "「折腾」落后两年的 Stable Diffusion 搭建笔记")
@@ -54,8 +68,6 @@
 
 [「笔记」各种碎片信息「2023-10-07」](https://www.wdssmq.com/post/20230223818.html "「笔记」各种碎片信息「2023-10-07」")
 
-[「水坑」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「水坑」Z-BlogPHP 模板机制讲解「简易版」")
-
 [「网络聊天指南（伪」不要问在不在！！](https://www.wdssmq.com/post/20190523451.html "「网络聊天指南（伪」不要问在不在！！")
 
 [「折腾」ESLint 安装与使用](https://www.wdssmq.com/post/20190917021.html "「折腾」ESLint 安装与使用")
@@ -69,18 +81,6 @@
 [「折腾」Docker 部署 Resilio Sync 和 RSSHub](https://www.wdssmq.com/post/20190617918.html "「折腾」Docker 部署 Resilio Sync 和 RSSHub")
 
 [「瞎扯」人际关系中的信息势能](https://www.wdssmq.com/post/20180705442.html "「瞎扯」人际关系中的信息势能")
-
-[「备忘」Windows 文件名不能出现的字符及正则过滤](https://www.wdssmq.com/post/20190228854.html "「备忘」Windows 文件名不能出现的字符及正则过滤")
-
-[「备忘」Z-BlogPHP 代码设置页面标题、关键词及描述](https://www.wdssmq.com/post/20140719962.html "「备忘」Z-BlogPHP 代码设置页面标题、关键词及描述")
-
-[2010 年 8 月 12 日冷笑话合集 - 误事的彩铃](https://www.wdssmq.com/post/2010Nian8Yue12RiXiaoHuaHeJi-WuShiDeCaiLing.html "2010 年 8 月 12 日冷笑话合集 - 误事的彩铃")
-
-[「列表纪事」 B 站「玛丽电波剧场」系列汉化搬运的整理](https://www.wdssmq.com/post/20100715601.html "「列表纪事」 B 站「玛丽电波剧场」系列汉化搬运的整理")
-
-[「折腾」VSCode 扩展分组管理](https://www.wdssmq.com/post/20230306656.html "「折腾」VSCode 扩展分组管理")
-
-[2015 年 2 月 12 日冷笑话合集 - 老师你好，老师再见](https://www.wdssmq.com/post/20150212261.html "2015 年 2 月 12 日冷笑话合集 - 老师你好，老师再见")
 
 ---end---
 
