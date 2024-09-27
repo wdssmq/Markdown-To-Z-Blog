@@ -80,6 +80,10 @@ Prettier 和 ESLint 果然是有些重复
 
 `crontab -e`
 
+保存 / 退出：
+
+`Ctrl + X` -> `Y` -> `Enter`
+
 VSCode 编辑查看：
 
 `code /etc/crontab`
@@ -93,10 +97,12 @@ VSCode 编辑查看：
 ↑ root 为当前用户，等同于 `crontab -e`
 
 ```shell
-service crond start # 启动服务
-service crond stop # 关闭服务
-service crond restart # 重启服务
-service crond reload # 重新载入配置
+# 下边命令好像在 Ubuntu 会报错？？
 crontab -l
-service crond status # 查看crontab服务状态
+service crond reload # 重新载入配置
+service crond restart # 重启服务
+service crond start # 启动服务
+service crond status # 查看 crontab 服务状态
+service crond stop # 关闭服务
+
 ```
