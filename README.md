@@ -6,9 +6,13 @@
 
 ---start---
 
-## 目录 -  2024 年 09 月 22 日 更新
+## 目录 -  2024 年 09 月 27 日 更新
+
+[【真·碎碎念】2021/08/30 ~ 2021/09/05](https://www.wdssmq.com/post/20191011022.html "【真·碎碎念】2021/08/30 ~ 2021/09/05")
 
 [「折腾」落后两年的 Stable Diffusion 搭建笔记](https://www.wdssmq.com/post/20220812894.html "「折腾」落后两年的 Stable Diffusion 搭建笔记")
+
+[2013 年 8 月 27 日冷笑话合集 - 重要的手机](https://www.wdssmq.com/post/20130827318.html "2013 年 8 月 27 日冷笑话合集 - 重要的手机")
 
 [「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
 
@@ -17,6 +21,8 @@
 [「图说」做不到的水水](https://www.wdssmq.com/post/20170206814.html "「图说」做不到的水水")
 
 [2013 年 8 月 15 日冷笑话合集 - 代替洗衣粉](https://www.wdssmq.com/post/20130815376.html "2013 年 8 月 15 日冷笑话合集 - 代替洗衣粉")
+
+[2012 年 9 月 16 日冷笑话合集 - 基腐特别篇](https://www.wdssmq.com/post/20100214582.html "2012 年 9 月 16 日冷笑话合集 - 基腐特别篇")
 
 [2014 年 9 月 29 日冷笑话合集 - 拿过来让你看看](https://www.wdssmq.com/post/20140929620.html "2014 年 9 月 29 日冷笑话合集 - 拿过来让你看看")
 
@@ -75,12 +81,6 @@
 [「折腾」VSCode 扩展分组管理](https://www.wdssmq.com/post/20230306656.html "「折腾」VSCode 扩展分组管理")
 
 [2015 年 2 月 12 日冷笑话合集 - 老师你好，老师再见](https://www.wdssmq.com/post/20150212261.html "2015 年 2 月 12 日冷笑话合集 - 老师你好，老师再见")
-
-[2015 年 2 月 6 日冷笑话合集 - 老师你演技这么好校长知道么](https://www.wdssmq.com/post/20150206914.html "2015 年 2 月 6 日冷笑话合集 - 老师你演技这么好校长知道么")
-
-[2013 年 12 月 17 日冷笑话合集 - 节假日涨价](https://www.wdssmq.com/post/20131217623.html "2013 年 12 月 17 日冷笑话合集 - 节假日涨价")
-
-[2010 年 11 月 4 日冷笑话合集 - 光棍节教程](https://www.wdssmq.com/post/2010Nian11Yue4RiXiaoHuaHeJi-GuangGunJieJiaoCheng.html "2010 年 11 月 4 日冷笑话合集 - 光棍节教程")
 
 ---end---
 
