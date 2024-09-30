@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录 -  2024 年 09 月 27 日 更新
+## 目录 -  2024 年 09 月 30 日 更新
+
+[「备忘」使用符号链接映射软件配置文件夹](https://www.wdssmq.com/post/20220826264.html "「备忘」使用符号链接映射软件配置文件夹")
+
+[「备忘」再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "「备忘」再再次谈系统安装【2021】")
 
 [「小目标」平均每篇文章/Git Repository 赚取 1 元](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元")
 
@@ -29,6 +33,8 @@
 [2013 年 8 月 27 日冷笑话合集 - 重要的手机](https://www.wdssmq.com/post/20130827318.html "2013 年 8 月 27 日冷笑话合集 - 重要的手机")
 
 [「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
+
+[某一天](https://www.wdssmq.com/post/20100508867.html "某一天")
 
 [2011 年 11 月 19 日冷笑话合集 - 小号与钢琴](https://www.wdssmq.com/post/2011Nian11Yue19RiLengXiaoHuaHeJi-XiaoHaoYuGangQin.html "2011 年 11 月 19 日冷笑话合集 - 小号与钢琴")
 
@@ -75,12 +81,6 @@
 [「列表」VSCode 插件推荐](https://www.wdssmq.com/post/20201120794.html "「列表」VSCode 插件推荐")
 
 [【梦物语】2020 年 09 月 25 日](https://www.wdssmq.com/post/20150215200.html "【梦物语】2020 年 09 月 25 日")
-
-[「转记」中子星绪](https://www.wdssmq.com/post/20190622412.html "「转记」中子星绪")
-
-[「折腾」Docker 部署 Resilio Sync 和 RSSHub](https://www.wdssmq.com/post/20190617918.html "「折腾」Docker 部署 Resilio Sync 和 RSSHub")
-
-[「瞎扯」人际关系中的信息势能](https://www.wdssmq.com/post/20180705442.html "「瞎扯」人际关系中的信息势能")
 
 ---end---
 
