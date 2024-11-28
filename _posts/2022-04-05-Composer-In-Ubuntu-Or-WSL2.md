@@ -16,10 +16,6 @@ alias: 20120830162
 
 所以 wsl 要不要大写这种事。。。
 
-> 「小目标」平均每篇文章/Git Repository 赚取 1 元\_杂七杂八\_沉冰浮水：
->
-> [https://www.wdssmq.com/post/20210723266.html](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元\_杂七杂八\_沉冰浮水")
-
 <!--more-->
 
 ### 写在前边的相关推荐

@@ -12,8 +12,6 @@
 
 [「备忘」再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "「备忘」再再次谈系统安装【2021】")
 
-[「小目标」平均每篇文章/Git Repository 赚取 1 元](https://www.wdssmq.com/post/20210723266.html "「小目标」平均每篇文章/Git Repository 赚取 1 元")
-
 [「GM_脚本」Feedly 标记已读辅助「小代码」](https://www.wdssmq.com/post/20100605569.html "「GM_脚本」Feedly 标记已读辅助「小代码」")
 
 [「GM_脚本」GM_setClipboard 方法示例](https://www.wdssmq.com/post/20211108343.html "「GM_脚本」GM_setClipboard 方法示例")
