@@ -8,6 +8,8 @@
 
 ## 目录 -  2024 年 11 月 28 日 更新
 
+[「图说」沙发边桌和迷你主机](https://www.wdssmq.com/post/20220920840.html "「图说」沙发边桌和迷你主机")
+
 [「折腾」Composer In Ubuntu / WSL2](https://www.wdssmq.com/post/20120830162.html "「折腾」Composer In Ubuntu / WSL2")
 
 [2011 年 1 月 12 日冷笑话合集 - 女人就是学校](https://www.wdssmq.com/post/2011Nian1Yue12RiLengXiaoHuaHeJi-NuRenJiuShiXueXiao.html "2011 年 1 月 12 日冷笑话合集 - 女人就是学校")
@@ -79,8 +81,6 @@
 [「备忘」Nginx 重定向（301）相关](https://www.wdssmq.com/post/20140819797.html "「备忘」Nginx 重定向（301）相关")
 
 [「折腾」Linux 定时备份教程](https://www.wdssmq.com/post/20140816860.html "「折腾」Linux 定时备份教程")
-
-[Docker 内 php-nginx 的伪静态相关](https://www.wdssmq.com/post/20190813019.html "Docker 内 php-nginx 的伪静态相关")
 
 ---end---
 
