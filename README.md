@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2024 年 11 月 28 日 更新
+## 目录 -  2024 年 12 月 06 日 更新
+
+[LineageOS 的各种问题](https://www.wdssmq.com/post/20230421460.html "LineageOS 的各种问题")
 
 [「图说」沙发边桌和迷你主机](https://www.wdssmq.com/post/20220920840.html "「图说」沙发边桌和迷你主机")
 
@@ -79,8 +81,6 @@
 [【真·碎碎念】2023/04/03 ~ 2023/07/23](https://www.wdssmq.com/post/20230724923.html "【真·碎碎念】2023/04/03 ~ 2023/07/23")
 
 [「备忘」Nginx 重定向（301）相关](https://www.wdssmq.com/post/20140819797.html "「备忘」Nginx 重定向（301）相关")
-
-[「折腾」Linux 定时备份教程](https://www.wdssmq.com/post/20140816860.html "「折腾」Linux 定时备份教程")
 
 ---end---
 
