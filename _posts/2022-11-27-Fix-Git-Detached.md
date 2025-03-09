@@ -39,11 +39,12 @@ git rev
 
 # origin  git@github.com:wdssmq/kumo-for-zblog.git (fetch)
 # origin  git@github.com:wdssmq/kumo-for-zblog.git (push)
+
 ```
 
 **注：**
 
-**`git bra`和`git rev`，包括下边的`git sw` | `git mnc`都是我自己定义的别名；**
+**`git bra`和`git rev`，包括下边的`git sw`都是我自己定义的别名；**
 
 **`git branch -h`可以看到具体的命令说明；**
 
@@ -78,7 +79,7 @@ git bra -v
 
 #  合并分支
 
-git mnc for-fix-2211
+git merge --no-commit --no-ff for-fix-2211
 git bra -v
 #   for-fix-2211          ec3bf35 base. git 配置
 # * master                ec3bf35 [ahead 3] base. git 配置
@@ -89,6 +90,7 @@ git bra -v
 
 git br -d for-fix-2211
 git push
+
 ```
 
 ----
