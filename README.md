@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2024 年 12 月 06 日 更新
+## 目录 -  2025 年 03 月 09 日 更新
+
+[「Git_笔记」HEAD detached from xxxx 问题解决](https://www.wdssmq.com/post/20221127394.html "「Git_笔记」HEAD detached from xxxx 问题解决")
 
 [LineageOS 的各种问题](https://www.wdssmq.com/post/20230421460.html "LineageOS 的各种问题")
 
@@ -79,8 +81,6 @@
 [【真·碎碎念】2023/08/07 ~ 2023/12/17](https://www.wdssmq.com/post/20231218982.html "【真·碎碎念】2023/08/07 ~ 2023/12/17")
 
 [【真·碎碎念】2023/04/03 ~ 2023/07/23](https://www.wdssmq.com/post/20230724923.html "【真·碎碎念】2023/04/03 ~ 2023/07/23")
-
-[「备忘」Nginx 重定向（301）相关](https://www.wdssmq.com/post/20140819797.html "「备忘」Nginx 重定向（301）相关")
 
 ---end---
 
