@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2025 年 03 月 09 日 更新
+## 目录 -  2025 年 03 月 31 日 更新
+
+[2025 年了，关于 H5 的碎碎念](https://www.wdssmq.com/post/20241206638.html "2025 年了，关于 H5 的碎碎念")
 
 [「Git_笔记」HEAD detached from xxxx 问题解决](https://www.wdssmq.com/post/20221127394.html "「Git_笔记」HEAD detached from xxxx 问题解决")
 
@@ -79,8 +81,6 @@
 [你一生中那些惊人的统计数字](https://www.wdssmq.com/post/20100308344.html "你一生中那些惊人的统计数字")
 
 [【真·碎碎念】2023/08/07 ~ 2023/12/17](https://www.wdssmq.com/post/20231218982.html "【真·碎碎念】2023/08/07 ~ 2023/12/17")
-
-[【真·碎碎念】2023/04/03 ~ 2023/07/23](https://www.wdssmq.com/post/20230724923.html "【真·碎碎念】2023/04/03 ~ 2023/07/23")
 
 ---end---
 
