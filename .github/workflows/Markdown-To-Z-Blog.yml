@@ -8,7 +8,7 @@ on:
       - '_posts/**'
 jobs:
   def:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     env:
       TZ: Asia/Shanghai
     steps:
