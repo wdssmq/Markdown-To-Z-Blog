@@ -16,7 +16,7 @@ def up_img_host(md_name, md_content, img_host = ""):
             img_host = img_host[:-1]
         # 图片地址替换 —— ./ 开头
         md_content = re.sub(r'!\[([^\]]+)\]\(\.\/([^\)]+)\)',
-                            r'![\1](%s/_posts/\2)' % img_host, md_content)
+                            r'![\1](%s/_posts/\2)' % (img_host, md_name), md_content)
         # 图片地址替换 —— 同级目录
         md_content = re.sub(r'!\[([^\]]+)\]\(((?!http)[^\)]+)\)', r'![\1](%s/_posts/%s/\2)' %
                             (img_host, md_name), md_content)
