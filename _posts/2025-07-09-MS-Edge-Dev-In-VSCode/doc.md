@@ -36,6 +36,13 @@ alias: 20100318790
   - 点击 `Refresh Targets` 按钮以连接或刷新目标；
   - 如果连接成功，可在要调试的目标页面上「`右键`」相应选项以打开 DevTools；
 
+附：实际可使用单独的配置路径用于开发，禁用账号数据同步和首次启动检查等，命令如下：
+
+```bash
+msedge.exe --user-data-dir=C:/config/dev/edge-data --remote-debugging-port=9222 --disable-sync --no-first-run --no-default-browser-check
+
+```
+
 图①↓
 
 ![图 ①](./001.png)
@@ -56,7 +63,7 @@ alias: 20100318790
 
 下边是完整的配置参考，`presentation.hidden` 用于控制是否在「运行和调试」面板中显示该命令项，「启动 edge」和「打开 DevTools」是两个步骤，在 `compounds` 中组合执行；
 
-这种方式启动的 Edge 窗口使用独立的「user-data」目录，需要单独安装扩展之类的，好像对于开发来说也不错，和日常使用隔离开，然后不会频繁出现连接问题。
+这种方式启动的 Edge 窗口默认使用独立的「用户配置路径」目录，可通过 `edge://version/` 查看（默认在 VSCode 的工作区配置内），可使用 `userDataDir` 参数指定，实际测试这种方式会加各种限制参数，谷歌之类的站点会不让登录；
 
 ```json
 {
@@ -69,6 +76,7 @@ alias: 20100318790
             "runtimeArgs": [
                 "--remote-debugging-port=9222"
             ],
+            // "userDataDir": "C:/config/dev/edge-data",
             "presentation": {
                 "hidden": true
             }
@@ -82,6 +90,7 @@ alias: 20100318790
                 "--headless",
                 "--remote-debugging-port=9222"
             ],
+            // "userDataDir": "C:/config/dev/edge-data",
             "presentation": {
                 "hidden": true
             }
