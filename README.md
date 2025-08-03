@@ -6,7 +6,11 @@
 
 ---start---
 
-## 目录 -  2025 年 07 月 12 日 更新
+## 目录 -  2025 年 08 月 03 日 更新
+
+[「小代码」使用 YAML 配置拼接 AI 提示词，随机及条件语句](https://www.wdssmq.com/post/20230425779.html "「小代码」使用 YAML 配置拼接 AI 提示词，随机及条件语句")
+
+[凌晨四点开路虎回家](https://www.wdssmq.com/post/20100321508.html "凌晨四点开路虎回家")
 
 [「折腾」在 VSCode 中连接调试 Microsoft Edge](https://www.wdssmq.com/post/20100318790.html "「折腾」在 VSCode 中连接调试 Microsoft Edge")
 
@@ -77,10 +81,6 @@
 [2012 年 6 月 23 日冷笑话合集 - 晚上有事吗](https://www.wdssmq.com/post/20120623204.html "2012 年 6 月 23 日冷笑话合集 - 晚上有事吗")
 
 [2012 年 6 月 24 日冷笑话合集 - 坐电梯的尴尬](https://www.wdssmq.com/post/20100215180.html "2012 年 6 月 24 日冷笑话合集 - 坐电梯的尴尬")
-
-[执念「无力吐槽」](https://www.wdssmq.com/post/20121007254.html "执念「无力吐槽」")
-
-[「P2P」从 BitComet 生成的种子中获取 ed2k](https://www.wdssmq.com/post/20131014380.html "「P2P」从 BitComet 生成的种子中获取 ed2k")
 
 ---end---
 
