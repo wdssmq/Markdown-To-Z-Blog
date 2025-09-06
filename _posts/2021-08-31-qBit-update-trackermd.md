@@ -33,9 +33,19 @@ qBittorrent 槽点真心蛮多，在 uTorrent 去广告授权到期后换过来�
 
 脚本发布地址：
 
-> wdssmq/userscript - 各种「GM\_脚本」
+
+> 「水水」qBittorrent 管理脚本
 >
-> [https://userscript.mizuno2023.xyz/](https://userscript.mizuno2023.xyz/ "wdssmq/userscript - 各种「GM\_脚本」")
+> [https://greasyfork.org/zh-CN/scripts/391688](https://greasyfork.org/zh-CN/scripts/391688 "「水水」qBittorrent 管理脚本")
+
+备用地址：
+
+
+> wdssmq
+>
+> [https://greasyfork.org/zh-CN/users/6865](https://greasyfork.org/zh-CN/users/6865 "wdssmq")
+
+
 
 [/lock]
 
