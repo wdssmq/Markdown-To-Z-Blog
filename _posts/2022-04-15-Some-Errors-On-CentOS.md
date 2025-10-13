@@ -13,7 +13,7 @@ alias: 20170421527
 
 错误提示：
 
-> www.wdssmq.com:Verify error:DNS problem: SERVFAIL looking up CAA for www.wdssmq.com
+> `www.wdssmq.com:Verify error:DNS problem: SERVFAIL looking up CAA for www.wdssmq.com`
 
 <!--more-->
 
