@@ -6,7 +6,15 @@
 
 ---start---
 
-## 目录 -  2025 年 11 月 21 日 更新
+## 目录 -  2025 年 12 月 12 日 更新
+
+[「折腾」麦沃硬盘盒报毒的应对方案](https://www.wdssmq.com/post/20130726899.html "「折腾」麦沃硬盘盒报毒的应对方案")
+
+[假如被抓进精神病院，怎证明自己正常？](https://www.wdssmq.com/post/JiaRuBeiZhuaJinJingShenBingYuan-ZenZhengMingZiJiZhengChang.html "假如被抓进精神病院，怎证明自己正常？")
+
+[2012 年 9 月 23 日冷笑话合集 - 模拟](https://www.wdssmq.com/post/20120923294.html "2012 年 9 月 23 日冷笑话合集 - 模拟")
+
+[2014 年 5 月 29 日冷笑话合集 - 这记性是多差](https://www.wdssmq.com/post/20140529908.html "2014 年 5 月 29 日冷笑话合集 - 这记性是多差")
 
 [【真·碎碎念】2024/01/01 ~ 2024/12/08](https://www.wdssmq.com/post/20241209108.html "【真·碎碎念】2024/01/01 ~ 2024/12/08")
 
@@ -73,14 +81,6 @@
 [「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
 
 [某一天](https://www.wdssmq.com/post/20100508867.html "某一天")
-
-[邓布利多教授的名言](https://www.wdssmq.com/post/20100527417.html "邓布利多教授的名言")
-
-[2011 年 11 月 19 日冷笑话合集 - 小号与钢琴](https://www.wdssmq.com/post/2011Nian11Yue19RiLengXiaoHuaHeJi-XiaoHaoYuGangQin.html "2011 年 11 月 19 日冷笑话合集 - 小号与钢琴")
-
-[「图说」做不到的水水](https://www.wdssmq.com/post/20170206814.html "「图说」做不到的水水")
-
-[2013 年 8 月 15 日冷笑话合集 - 代替洗衣粉](https://www.wdssmq.com/post/20130815376.html "2013 年 8 月 15 日冷笑话合集 - 代替洗衣粉")
 
 ---end---
 
