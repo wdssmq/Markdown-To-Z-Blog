@@ -8,6 +8,10 @@
 
 ## 目录 -  2025 年 12 月 12 日 更新
 
+[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
+
+[「备忘」JavaScript 队列执行异步任务](https://www.wdssmq.com/post/20210529408.html "「备忘」JavaScript 队列执行异步任务")
+
 [「折腾」麦沃硬盘盒报毒的应对方案](https://www.wdssmq.com/post/20130726899.html "「折腾」麦沃硬盘盒报毒的应对方案")
 
 [假如被抓进精神病院，怎证明自己正常？](https://www.wdssmq.com/post/JiaRuBeiZhuaJinJingShenBingYuan-ZenZhengMingZiJiZhengChang.html "假如被抓进精神病院，怎证明自己正常？")
@@ -77,10 +81,6 @@
 [2011 年 10 月 12 日冷笑话合集 - 保持队形](https://www.wdssmq.com/post/2011Nian10Yue12RiLengXiaoHuaHeJi-BaoChiDuiXing.html "2011 年 10 月 12 日冷笑话合集 - 保持队形")
 
 [2014 年 7 月 6 日冷笑话合集 - 光棍的原因](https://www.wdssmq.com/post/20140706500.html "2014 年 7 月 6 日冷笑话合集 - 光棍的原因")
-
-[「列表」Beyond Compare 自用过滤规则](https://www.wdssmq.com/post/20100202934.html "「列表」Beyond Compare 自用过滤规则")
-
-[某一天](https://www.wdssmq.com/post/20100508867.html "某一天")
 
 ---end---
 
