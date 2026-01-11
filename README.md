@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2025 年 12 月 12 日 更新
+## 目录 -  2026 年 01 月 11 日 更新
+
+[「折腾」使用 Gource 为 Git 仓库生成动态视频](https://www.wdssmq.com/post/20230426471.html "「折腾」使用 Gource 为 Git 仓库生成动态视频")
 
 [「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
 
@@ -18,7 +20,13 @@
 
 [2012 年 9 月 23 日冷笑话合集 - 模拟](https://www.wdssmq.com/post/20120923294.html "2012 年 9 月 23 日冷笑话合集 - 模拟")
 
+[2011 年 1 月 24 日冷笑话合集 - 春运](https://www.wdssmq.com/post/2011Nian1Yue24RiLengXiaoHuaHeJi-ChunYun.html "2011 年 1 月 24 日冷笑话合集 - 春运")
+
+[2014 年 6 月 21 日冷笑话合集 - 叫你马后炮](https://www.wdssmq.com/post/20140621426.html "2014 年 6 月 21 日冷笑话合集 - 叫你马后炮")
+
 [2014 年 5 月 29 日冷笑话合集 - 这记性是多差](https://www.wdssmq.com/post/20140529908.html "2014 年 5 月 29 日冷笑话合集 - 这记性是多差")
+
+[2014 年 6 月 20 日冷笑话合集 - 放长线钓大鱼](https://www.wdssmq.com/post/20140620598.html "2014 年 6 月 20 日冷笑话合集 - 放长线钓大鱼")
 
 [【真·碎碎念】2024/01/01 ~ 2024/12/08](https://www.wdssmq.com/post/20241209108.html "【真·碎碎念】2024/01/01 ~ 2024/12/08")
 
@@ -73,14 +81,6 @@
 [「折腾」落后两年的 Stable Diffusion 搭建笔记](https://www.wdssmq.com/post/20220812894.html "「折腾」落后两年的 Stable Diffusion 搭建笔记")
 
 [2013 年 11 月 4 日冷笑话合集 - 损招](https://www.wdssmq.com/post/20131104513.html "2013 年 11 月 4 日冷笑话合集 - 损招")
-
-[2013 年 8 月 27 日冷笑话合集 - 重要的手机](https://www.wdssmq.com/post/20130827318.html "2013 年 8 月 27 日冷笑话合集 - 重要的手机")
-
-[2011 年 2 月 10 日冷笑话合集 - 我不是 Gay](https://www.wdssmq.com/post/20110210228.html "2011 年 2 月 10 日冷笑话合集 - 我不是 Gay")
-
-[2011 年 10 月 12 日冷笑话合集 - 保持队形](https://www.wdssmq.com/post/2011Nian10Yue12RiLengXiaoHuaHeJi-BaoChiDuiXing.html "2011 年 10 月 12 日冷笑话合集 - 保持队形")
-
-[2014 年 7 月 6 日冷笑话合集 - 光棍的原因](https://www.wdssmq.com/post/20140706500.html "2014 年 7 月 6 日冷笑话合集 - 光棍的原因")
 
 ---end---
 
