@@ -51,18 +51,30 @@ gource -help
 
 PPM_FILE=/d/md2zb.ppm
 MP4_FILE=/d/md2zb.mp4
+# 头像目录，文件名为用户名加后缀，如 wdssmq.png
+USER_IMAGE_DIR=/d/avatars/
+# 将一天的提交压缩进 n 秒钟，值越小视频越快
+SECONDS_PER_DAY=8
+FPS=30
+
 # 输出 ppm 文件
-gource -f -1280x720 -s 4 -r 30 \
+gource -1920x1080 -s $SECONDS_PER_DAY -r $FPS \
+    --hide progress,mouse \
+    --auto-skip-seconds 1 \
     --date-format "%Y-%m-%d %H:%M:%S" \
     --start-date '2023-01-02 12:24:00 +0800' \
     --stop-date '2023-06-04 15:48:42 +0800' \
+    --user-image-dir $USER_IMAGE_DIR \
     -o $PPM_FILE
+
 # 生成视频
-ffmpeg -y -r 30 -f image2pipe -vcodec ppm -i $PPM_FILE \
+ffmpeg -y -r $FPS -f image2pipe -vcodec ppm -i $PPM_FILE \
     -vcodec libx264 -preset medium -pix_fmt yuv420p -crf 4 \
     -threads 0 -bf 0 $MP4_FILE
+
 # ffmpeg 命令基于 Gource 示例修改， -r 30 是帧率，-crf 4 是画质，建议范围（1-17），较低的值表示更高的质量和更大的文件大小；
 # 其他参数就不太懂了。。
+
 ```
 
 Gource 可以指定某一起止区间的提交记录，对应参数格式为 `--start-date 'YYYY-MM-DD hh:mm:ss +tz' --stop-date 'YYYY-MM-DD hh:mm:ss +tz'`，其中 `+tz` 为时区，如 `+0800`；
