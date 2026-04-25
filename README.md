@@ -8,6 +8,8 @@
 
 ## 目录 -  2026 年 04 月 25 日 更新
 
+[安卓同文输入法的 14 键五笔好像终于能用了?](https://www.wdssmq.com/post/20250809557.html "安卓同文输入法的 14 键五笔好像终于能用了?")
+
 [关于 API 和 OAuth 授权验证](https://www.wdssmq.com/post/20110114835.html "关于 API 和 OAuth 授权验证")
 
 [【转】如何在危险的人间生存下去？](https://www.wdssmq.com/post/20141101502.html "【转】如何在危险的人间生存下去？")
@@ -79,8 +81,6 @@
 [2011 年 12 月 13 日冷笑话合集 - 十年的朋友](https://www.wdssmq.com/post/2011Nian12Yue13RiLengXiaoHuaHeJi-ShiNianDePengYou.html "2011 年 12 月 13 日冷笑话合集 - 十年的朋友")
 
 [2011 年 10 月 30 日冷笑话合集 - 序言](https://www.wdssmq.com/post/2011Nian10Yue30RiLengXiaoHuaHeJi-XuYan.html "2011 年 10 月 30 日冷笑话合集 - 序言")
-
-[2011 年 9 月 17 日冷笑话合集 - 红色的鸭子](https://www.wdssmq.com/post/2011Nian9Yue17RiLengXiaoHuaHeJi-HongSeDeYaZi.html "2011 年 9 月 17 日冷笑话合集 - 红色的鸭子")
 
 ---end---
 
