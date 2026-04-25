@@ -6,81 +6,81 @@
 
 ---start---
 
-## 目录 -  2026 年 01 月 11 日 更新
+## 目录 -  2026 年 04 月 25 日 更新
 
-[「折腾」使用 Gource 为 Git 仓库生成动态视频](https://www.wdssmq.com/post/20230426471.html "「折腾」使用 Gource 为 Git 仓库生成动态视频")
+[关于 API 和 OAuth 授权验证](https://www.wdssmq.com/post/20110114835.html "关于 API 和 OAuth 授权验证")
 
-[「折腾」git 及 docker 命令快捷输入](https://www.wdssmq.com/post/20171130103.html "「折腾」git 及 docker 命令快捷输入")
+[【转】如何在危险的人间生存下去？](https://www.wdssmq.com/post/20141101502.html "【转】如何在危险的人间生存下去？")
 
-[「备忘」JavaScript 队列执行异步任务](https://www.wdssmq.com/post/20210529408.html "「备忘」JavaScript 队列执行异步任务")
+[2014 年 1 月 7 日冷笑话合集 - 我是不是被骗了](https://www.wdssmq.com/post/20140107137.html "2014 年 1 月 7 日冷笑话合集 - 我是不是被骗了")
 
-[「折腾」麦沃硬盘盒报毒的应对方案](https://www.wdssmq.com/post/20130726899.html "「折腾」麦沃硬盘盒报毒的应对方案")
+[2014 年 1 月 6 日冷笑话合集 - 为父争光](https://www.wdssmq.com/post/20140106990.html "2014 年 1 月 6 日冷笑话合集 - 为父争光")
 
-[假如被抓进精神病院，怎证明自己正常？](https://www.wdssmq.com/post/JiaRuBeiZhuaJinJingShenBingYuan-ZenZhengMingZiJiZhengChang.html "假如被抓进精神病院，怎证明自己正常？")
+[2014 年 1 月 24 日冷笑话合集 - 如果缺钱了告诉我](https://www.wdssmq.com/post/20140124321.html "2014 年 1 月 24 日冷笑话合集 - 如果缺钱了告诉我")
 
-[2012 年 9 月 23 日冷笑话合集 - 模拟](https://www.wdssmq.com/post/20120923294.html "2012 年 9 月 23 日冷笑话合集 - 模拟")
+[2013 年 10 月 24 日冷笑话合集 - 问路](https://www.wdssmq.com/post/20131024297.html "2013 年 10 月 24 日冷笑话合集 - 问路")
 
-[2011 年 1 月 24 日冷笑话合集 - 春运](https://www.wdssmq.com/post/2011Nian1Yue24RiLengXiaoHuaHeJi-ChunYun.html "2011 年 1 月 24 日冷笑话合集 - 春运")
+[2013 年 11 月 9 日冷笑话合集 - 出门忘带手机](https://www.wdssmq.com/post/20131109388.html "2013 年 11 月 9 日冷笑话合集 - 出门忘带手机")
 
-[2014 年 6 月 21 日冷笑话合集 - 叫你马后炮](https://www.wdssmq.com/post/20140621426.html "2014 年 6 月 21 日冷笑话合集 - 叫你马后炮")
+[2013 年 11 月 12 日冷笑话合集 - 撞菜](https://www.wdssmq.com/post/20131112632.html "2013 年 11 月 12 日冷笑话合集 - 撞菜")
 
-[2014 年 5 月 29 日冷笑话合集 - 这记性是多差](https://www.wdssmq.com/post/20140529908.html "2014 年 5 月 29 日冷笑话合集 - 这记性是多差")
+[2013 年 11 月 13 日冷笑话合集 - 吃货女儿伤不起](https://www.wdssmq.com/post/20131113481.html "2013 年 11 月 13 日冷笑话合集 - 吃货女儿伤不起")
 
-[2014 年 6 月 20 日冷笑话合集 - 放长线钓大鱼](https://www.wdssmq.com/post/20140620598.html "2014 年 6 月 20 日冷笑话合集 - 放长线钓大鱼")
+[2013 年 11 月 27 日冷笑话合集 - 求详细](https://www.wdssmq.com/post/20131127550.html "2013 年 11 月 27 日冷笑话合集 - 求详细")
 
-[【真·碎碎念】2024/01/01 ~ 2024/12/08](https://www.wdssmq.com/post/20241209108.html "【真·碎碎念】2024/01/01 ~ 2024/12/08")
+[2013 年 12 月 6 日冷笑话合集 - 闪婚的极致](https://www.wdssmq.com/post/20131206989.html "2013 年 12 月 6 日冷笑话合集 - 闪婚的极致")
 
-[「GM_脚本」qBittorrent 批量修改种子 tracker](https://www.wdssmq.com/post/20191117777.html "「GM_脚本」qBittorrent 批量修改种子 tracker")
+[2013 年 12 月 20 日冷笑话合集 - 现在喜欢女人了？](https://www.wdssmq.com/post/20131220350.html "2013 年 12 月 20 日冷笑话合集 - 现在喜欢女人了？")
 
-[2012 年 7 月 13 日冷笑话合集 - 用心服务](https://www.wdssmq.com/post/20120713994.html "2012 年 7 月 13 日冷笑话合集 - 用心服务")
+[【梦物语】2016 年 08 月 26 日](https://www.wdssmq.com/post/20160826753.html "【梦物语】2016 年 08 月 26 日")
 
-[安卓同文输入法的 14 键五笔好像终于能用了?](https://www.wdssmq.com/post/20250809557.html "安卓同文输入法的 14 键五笔好像终于能用了?")
+[81 个恐怖故事，你能看懂几个？【答案篇】](https://www.wdssmq.com/post/20120719331.html "81 个恐怖故事，你能看懂几个？【答案篇】")
 
-[「小代码」使用 YAML 配置拼接 AI 提示词，随机及条件语句](https://www.wdssmq.com/post/20230425779.html "「小代码」使用 YAML 配置拼接 AI 提示词，随机及条件语句")
+[2010 年 7 月 31 日冷笑话合集 - 第一网络排比句](https://www.wdssmq.com/post/2010Nian7Yue31RiXiaoHuaHeJi-DiYiWangLuoPaiBiJu.html "2010 年 7 月 31 日冷笑话合集 - 第一网络排比句")
 
-[凌晨四点开路虎回家](https://www.wdssmq.com/post/20100321508.html "凌晨四点开路虎回家")
+[2012 年 6 月 27 日冷笑话合集 - 场景模拟](https://www.wdssmq.com/post/20100202996.html "2012 年 6 月 27 日冷笑话合集 - 场景模拟")
 
-[「折腾」在 VSCode 中连接调试 Microsoft Edge](https://www.wdssmq.com/post/20100318790.html "「折腾」在 VSCode 中连接调试 Microsoft Edge")
+[2011 年 4 月 7 日冷笑话合集 - 彩铃害人](https://www.wdssmq.com/post/2010051542_2292.html "2011 年 4 月 7 日冷笑话合集 - 彩铃害人")
 
-[提高自身修养的 148 句话](https://www.wdssmq.com/post/20100428563.html "提高自身修养的 148 句话")
+[2011 年 4 月 8 日冷笑话合集 - 馅饼喝多了](https://www.wdssmq.com/post/20120720594.html "2011 年 4 月 8 日冷笑话合集 - 馅饼喝多了")
 
-[2010 最拽的话](https://www.wdssmq.com/post/20100320932.html "2010 最拽的话")
+[2011 年 4 月 10 日冷笑话合集 - 老师的权力](https://www.wdssmq.com/post/20100202182.html "2011 年 4 月 10 日冷笑话合集 - 老师的权力")
 
-[2013 年 9 月 16 日冷笑话合集 - 内幕](https://www.wdssmq.com/post/20130916824.html "2013 年 9 月 16 日冷笑话合集 - 内幕")
+[2011 年 4 月 23 日冷笑话合集 - 人生就像火车](https://www.wdssmq.com/post/20120730892.html "2011 年 4 月 23 日冷笑话合集 - 人生就像火车")
 
-[2025 年了，关于 H5 的碎碎念](https://www.wdssmq.com/post/20241206638.html "2025 年了，关于 H5 的碎碎念")
+[2011 年 4 月 24 日冷笑话合集 - 真有福气](https://www.wdssmq.com/post/20100223129.html "2011 年 4 月 24 日冷笑话合集 - 真有福气")
 
-[「Git_笔记」HEAD detached from xxxx 问题解决](https://www.wdssmq.com/post/20221127394.html "「Git_笔记」HEAD detached from xxxx 问题解决")
+[2011 年 4 月 28 日冷笑话合集 - 武侠新解](https://www.wdssmq.com/post/20130314217.html "2011 年 4 月 28 日冷笑话合集 - 武侠新解")
 
-[LineageOS 的各种问题](https://www.wdssmq.com/post/20230421460.html "LineageOS 的各种问题")
+[2012 年 8 月 9 日冷笑话合集 - 宝贝别哭](https://www.wdssmq.com/post/2010020739_3745.html "2012 年 8 月 9 日冷笑话合集 - 宝贝别哭")
 
-[「图说」沙发边桌和迷你主机](https://www.wdssmq.com/post/20220920840.html "「图说」沙发边桌和迷你主机")
+[2014 年 11 月 2 日冷笑话合集 - 和老妈斗智斗勇](https://www.wdssmq.com/post/20141102950.html "2014 年 11 月 2 日冷笑话合集 - 和老妈斗智斗勇")
 
-[「折腾」Composer In Ubuntu / WSL2](https://www.wdssmq.com/post/20120830162.html "「折腾」Composer In Ubuntu / WSL2")
+[2014 年 11 月 8 日冷笑话合集 - 猪的灵魂](https://www.wdssmq.com/post/20141108475.html "2014 年 11 月 8 日冷笑话合集 - 猪的灵魂")
 
-[2011 年 1 月 12 日冷笑话合集 - 女人就是学校](https://www.wdssmq.com/post/2011Nian1Yue12RiLengXiaoHuaHeJi-NuRenJiuShiXueXiao.html "2011 年 1 月 12 日冷笑话合集 - 女人就是学校")
+[2011 年 4 月 6 日冷笑话合集 - 加个蛋啊](https://www.wdssmq.com/post/20120720275.html "2011 年 4 月 6 日冷笑话合集 - 加个蛋啊")
 
-[「备忘」使用符号链接映射软件配置文件夹](https://www.wdssmq.com/post/20220826264.html "「备忘」使用符号链接映射软件配置文件夹")
+[2011 年 4 月 5 日冷笑话合集 - 让你再学](https://www.wdssmq.com/post/20120719284.html "2011 年 4 月 5 日冷笑话合集 - 让你再学")
 
-[「备忘」再再次谈系统安装【2021】](https://www.wdssmq.com/post/20120622915.html "「备忘」再再次谈系统安装【2021】")
+[2011 年 4 月 2 日冷笑话合集 - 都是朋友](https://www.wdssmq.com/post/20120719935.html "2011 年 4 月 2 日冷笑话合集 - 都是朋友")
 
-[「GM_脚本」Feedly 标记已读辅助「小代码」](https://www.wdssmq.com/post/20100605569.html "「GM_脚本」Feedly 标记已读辅助「小代码」")
+[2011 年 4 月 1 日冷笑话合集 - 妻子和好友](https://www.wdssmq.com/post/20100203298.html "2011 年 4 月 1 日冷笑话合集 - 妻子和好友")
 
-[「GM_脚本」GM_setClipboard 方法示例](https://www.wdssmq.com/post/20211108343.html "「GM_脚本」GM_setClipboard 方法示例")
+[2011 年 3 月 18 日冷笑话合集 - 游泳考试](https://www.wdssmq.com/post/20100303610.html "2011 年 3 月 18 日冷笑话合集 - 游泳考试")
 
-[「水坑」Z-BlogPHP 模板机制讲解「简易版」](https://www.wdssmq.com/post/20201026266.html "「水坑」Z-BlogPHP 模板机制讲解「简易版」")
+[2011 年 9 月 23 日冷笑话合集 - 把船停下](https://www.wdssmq.com/post/2011Nian9Yue23RiLengXiaoHuaHeJi-BaChuanTingXia.html "2011 年 9 月 23 日冷笑话合集 - 把船停下")
 
-[【折腾】GM_脚本“取回” Feedly 内的订阅源地址](https://www.wdssmq.com/post/20210305305.html "【折腾】GM_脚本“取回” Feedly 内的订阅源地址")
+[2011 年 10 月 18 日冷笑话合集 - 健忘](https://www.wdssmq.com/post/2011Nian10Yue18RiLengXiaoHuaHeJi.html "2011 年 10 月 18 日冷笑话合集 - 健忘")
 
-[「图说」两部手机在夏天如何携带这种事](https://www.wdssmq.com/post/20231014544.html "「图说」两部手机在夏天如何携带这种事")
+[2011 年 11 月 3 日冷笑话合集 - 医生的建议](https://www.wdssmq.com/post/2011Nian11Yue3RiLengXiaoHuaHeJi-YiShengDeJianYi.html "2011 年 11 月 3 日冷笑话合集 - 医生的建议")
 
-[「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
+[2011 年 11 月 27 日冷笑话合集 - 特长](https://www.wdssmq.com/post/2011Nian11Yue27RiLengXiaoHuaHeJi-TeChang.html "2011 年 11 月 27 日冷笑话合集 - 特长")
 
-[【真·碎碎念】2021/08/30 ~ 2021/09/05](https://www.wdssmq.com/post/20191011022.html "【真·碎碎念】2021/08/30 ~ 2021/09/05")
+[2011 年 12 月 13 日冷笑话合集 - 十年的朋友](https://www.wdssmq.com/post/2011Nian12Yue13RiLengXiaoHuaHeJi-ShiNianDePengYou.html "2011 年 12 月 13 日冷笑话合集 - 十年的朋友")
 
-[「折腾」落后两年的 Stable Diffusion 搭建笔记](https://www.wdssmq.com/post/20220812894.html "「折腾」落后两年的 Stable Diffusion 搭建笔记")
+[2011 年 10 月 30 日冷笑话合集 - 序言](https://www.wdssmq.com/post/2011Nian10Yue30RiLengXiaoHuaHeJi-XuYan.html "2011 年 10 月 30 日冷笑话合集 - 序言")
 
-[2013 年 11 月 4 日冷笑话合集 - 损招](https://www.wdssmq.com/post/20131104513.html "2013 年 11 月 4 日冷笑话合集 - 损招")
+[2011 年 9 月 17 日冷笑话合集 - 红色的鸭子](https://www.wdssmq.com/post/2011Nian9Yue17RiLengXiaoHuaHeJi-HongSeDeYaZi.html "2011 年 9 月 17 日冷笑话合集 - 红色的鸭子")
 
 ---end---
 
