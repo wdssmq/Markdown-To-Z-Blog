@@ -8,7 +8,7 @@ tags:
 categories:
 - 电脑网络
 id: 686
-alias: ZuoWanDeMengHaiZhenShiXuanYiJiaKeHuanTuCaoChuMei
+alias: 20110114835
 ---
 
 2023-01-02：这篇文章是 2011 年的，然而 2023 年了仍然有网站在首次使用微信登录时直接给用户一个新账号，而不是问一下要不要绑定邮箱账号……
