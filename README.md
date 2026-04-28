@@ -6,19 +6,27 @@
 
 ---start---
 
-## 目录 -  2026 年 04 月 25 日 更新
+## 目录 -  2026 年 04 月 28 日 更新
+
+[「杂物」各种陈旧的代码](https://www.wdssmq.com/post/20210923550.html "「杂物」各种陈旧的代码")
+
+[「折腾」反人类的 SQL](https://www.wdssmq.com/post/20140809375.html "「折腾」反人类的 SQL")
+
+[【转】如何在危险的人间生存下去？](https://www.wdssmq.com/post/20141101502.html "【转】如何在危险的人间生存下去？")
 
 [安卓同文输入法的 14 键五笔好像终于能用了?](https://www.wdssmq.com/post/20250809557.html "安卓同文输入法的 14 键五笔好像终于能用了?")
 
 [关于 API 和 OAuth 授权验证](https://www.wdssmq.com/post/20110114835.html "关于 API 和 OAuth 授权验证")
 
-[【转】如何在危险的人间生存下去？](https://www.wdssmq.com/post/20141101502.html "【转】如何在危险的人间生存下去？")
-
 [2014 年 1 月 7 日冷笑话合集 - 我是不是被骗了](https://www.wdssmq.com/post/20140107137.html "2014 年 1 月 7 日冷笑话合集 - 我是不是被骗了")
 
 [2014 年 1 月 6 日冷笑话合集 - 为父争光](https://www.wdssmq.com/post/20140106990.html "2014 年 1 月 6 日冷笑话合集 - 为父争光")
 
+[2014 年 1 月 23 日冷笑话合集 - 有点圆](https://www.wdssmq.com/post/20140123738.html "2014 年 1 月 23 日冷笑话合集 - 有点圆")
+
 [2014 年 1 月 24 日冷笑话合集 - 如果缺钱了告诉我](https://www.wdssmq.com/post/20140124321.html "2014 年 1 月 24 日冷笑话合集 - 如果缺钱了告诉我")
+
+[2012 年 8 月 20 日冷笑话合集 - 老婆的先见](https://www.wdssmq.com/post/20100427458.html "2012 年 8 月 20 日冷笑话合集 - 老婆的先见")
 
 [2013 年 10 月 24 日冷笑话合集 - 问路](https://www.wdssmq.com/post/20131024297.html "2013 年 10 月 24 日冷笑话合集 - 问路")
 
@@ -32,6 +40,8 @@
 
 [2013 年 12 月 6 日冷笑话合集 - 闪婚的极致](https://www.wdssmq.com/post/20131206989.html "2013 年 12 月 6 日冷笑话合集 - 闪婚的极致")
 
+[2013 年 12 月 19 日冷笑话合集 - 女娲造人](https://www.wdssmq.com/post/20131219135.html "2013 年 12 月 19 日冷笑话合集 - 女娲造人")
+
 [2013 年 12 月 20 日冷笑话合集 - 现在喜欢女人了？](https://www.wdssmq.com/post/20131220350.html "2013 年 12 月 20 日冷笑话合集 - 现在喜欢女人了？")
 
 [【梦物语】2016 年 08 月 26 日](https://www.wdssmq.com/post/20160826753.html "【梦物语】2016 年 08 月 26 日")
@@ -39,6 +49,8 @@
 [81 个恐怖故事，你能看懂几个？【答案篇】](https://www.wdssmq.com/post/20120719331.html "81 个恐怖故事，你能看懂几个？【答案篇】")
 
 [2010 年 7 月 31 日冷笑话合集 - 第一网络排比句](https://www.wdssmq.com/post/2010Nian7Yue31RiXiaoHuaHeJi-DiYiWangLuoPaiBiJu.html "2010 年 7 月 31 日冷笑话合集 - 第一网络排比句")
+
+[2012 年 10 月 8 日冷笑话合集 - 学弟，学长只能帮你到这了](https://www.wdssmq.com/post/20121011301.html "2012 年 10 月 8 日冷笑话合集 - 学弟，学长只能帮你到这了")
 
 [2012 年 6 月 27 日冷笑话合集 - 场景模拟](https://www.wdssmq.com/post/20100202996.html "2012 年 6 月 27 日冷笑话合集 - 场景模拟")
 
@@ -56,6 +68,10 @@
 
 [2012 年 8 月 9 日冷笑话合集 - 宝贝别哭](https://www.wdssmq.com/post/2010020739_3745.html "2012 年 8 月 9 日冷笑话合集 - 宝贝别哭")
 
+[2014 年 3 月 21 日冷笑话合集 - 君临天下帝王煎](https://www.wdssmq.com/post/20140321676.html "2014 年 3 月 21 日冷笑话合集 - 君临天下帝王煎")
+
+[2014 年 3 月 22 日冷笑话合集 - 让我也站会](https://www.wdssmq.com/post/20140322433.html "2014 年 3 月 22 日冷笑话合集 - 让我也站会")
+
 [2014 年 11 月 2 日冷笑话合集 - 和老妈斗智斗勇](https://www.wdssmq.com/post/20141102950.html "2014 年 11 月 2 日冷笑话合集 - 和老妈斗智斗勇")
 
 [2014 年 11 月 8 日冷笑话合集 - 猪的灵魂](https://www.wdssmq.com/post/20141108475.html "2014 年 11 月 8 日冷笑话合集 - 猪的灵魂")
@@ -65,22 +81,6 @@
 [2011 年 4 月 5 日冷笑话合集 - 让你再学](https://www.wdssmq.com/post/20120719284.html "2011 年 4 月 5 日冷笑话合集 - 让你再学")
 
 [2011 年 4 月 2 日冷笑话合集 - 都是朋友](https://www.wdssmq.com/post/20120719935.html "2011 年 4 月 2 日冷笑话合集 - 都是朋友")
-
-[2011 年 4 月 1 日冷笑话合集 - 妻子和好友](https://www.wdssmq.com/post/20100203298.html "2011 年 4 月 1 日冷笑话合集 - 妻子和好友")
-
-[2011 年 3 月 18 日冷笑话合集 - 游泳考试](https://www.wdssmq.com/post/20100303610.html "2011 年 3 月 18 日冷笑话合集 - 游泳考试")
-
-[2011 年 9 月 23 日冷笑话合集 - 把船停下](https://www.wdssmq.com/post/2011Nian9Yue23RiLengXiaoHuaHeJi-BaChuanTingXia.html "2011 年 9 月 23 日冷笑话合集 - 把船停下")
-
-[2011 年 10 月 18 日冷笑话合集 - 健忘](https://www.wdssmq.com/post/2011Nian10Yue18RiLengXiaoHuaHeJi.html "2011 年 10 月 18 日冷笑话合集 - 健忘")
-
-[2011 年 11 月 3 日冷笑话合集 - 医生的建议](https://www.wdssmq.com/post/2011Nian11Yue3RiLengXiaoHuaHeJi-YiShengDeJianYi.html "2011 年 11 月 3 日冷笑话合集 - 医生的建议")
-
-[2011 年 11 月 27 日冷笑话合集 - 特长](https://www.wdssmq.com/post/2011Nian11Yue27RiLengXiaoHuaHeJi-TeChang.html "2011 年 11 月 27 日冷笑话合集 - 特长")
-
-[2011 年 12 月 13 日冷笑话合集 - 十年的朋友](https://www.wdssmq.com/post/2011Nian12Yue13RiLengXiaoHuaHeJi-ShiNianDePengYou.html "2011 年 12 月 13 日冷笑话合集 - 十年的朋友")
-
-[2011 年 10 月 30 日冷笑话合集 - 序言](https://www.wdssmq.com/post/2011Nian10Yue30RiLengXiaoHuaHeJi-XuYan.html "2011 年 10 月 30 日冷笑话合集 - 序言")
 
 ---end---
 
