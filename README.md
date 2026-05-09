@@ -6,11 +6,35 @@
 
 ---start---
 
-## 目录 -  2026 年 05 月 03 日 更新
+## 目录 -  2026 年 05 月 09 日 更新
+
+[「过往」“狗日的”腾讯](https://www.wdssmq.com/post/20221005708.html "「过往」“狗日的”腾讯")
+
+[「列表」一些电影和小说。。。](https://www.wdssmq.com/post/20100701747.html "「列表」一些电影和小说。。。")
+
+[不知所谓的碎碎念「无力吐槽」](https://www.wdssmq.com/post/20100529960.html "不知所谓的碎碎念「无力吐槽」")
 
 [用五笔打字的人你伤不起啊](https://www.wdssmq.com/post/YongWuBiDaZiDeRenNiShangBuQiA.html "用五笔打字的人你伤不起啊")
 
+[永远在你的手心里](https://www.wdssmq.com/post/20100222174.html "永远在你的手心里")
+
+[2010 年 9 月 15 日冷笑话合集 - WinRAR](https://www.wdssmq.com/post/2010Nian9Yue15RiLengXiaoHuaHeJi-WinRAR.html "2010 年 9 月 15 日冷笑话合集 - WinRAR")
+
+[2010 年 9 月 17 日冷笑话合集 - 生鸡蛋和熟鸡蛋](https://www.wdssmq.com/post/2010Nian9Yue17RiLengXiaoHuaHeJi-ShengJiDanHeShuJiDan.html "2010 年 9 月 17 日冷笑话合集 - 生鸡蛋和熟鸡蛋")
+
+[2010 年 9 月 16 日冷笑话合集 - 输入法的杯具](https://www.wdssmq.com/post/2010Nian9Yue16RiLengXiaoHuaHeJi-ShuRuFaDeBeiJu.html "2010 年 9 月 16 日冷笑话合集 - 输入法的杯具")
+
+[2015 年 7 月 17 日冷笑话合集 - 有话直接说就好](https://www.wdssmq.com/post/20150717934.html "2015 年 7 月 17 日冷笑话合集 - 有话直接说就好")
+
+[2010 年 12 月 6 日冷笑话合集 - 是前奏](https://www.wdssmq.com/post/20101206538.html "2010 年 12 月 6 日冷笑话合集 - 是前奏")
+
+[战国时期名人班级篇](https://www.wdssmq.com/post/ZhanGuoShiQiMingRenBanJiPian.html "战国时期名人班级篇")
+
 [2010 年 9 月 3 日冷笑话合集 - 女 LM 语录](https://www.wdssmq.com/post/2010nian9yue3rixiaohuaheji-nuLMyulu.html "2010 年 9 月 3 日冷笑话合集 - 女 LM 语录")
+
+[2012 年 7 月 15 日冷笑话合集 - 想做女人](https://www.wdssmq.com/post/20120715910.html "2012 年 7 月 15 日冷笑话合集 - 想做女人")
+
+[2010 年 10 月 26 日冷笑话合集 - 结婚纪念日](https://www.wdssmq.com/post/2010Nian10Yue26RiXiaoHuaHeJi-JieHunJiNianRi.html "2010 年 10 月 26 日冷笑话合集 - 结婚纪念日")
 
 [「代码片段」当网页元素可见时……](https://www.wdssmq.com/post/20190701815.html "「代码片段」当网页元素可见时……")
 
@@ -44,43 +68,19 @@
 
 [2014 年 1 月 20 日冷笑话合集 - 算的真准](https://www.wdssmq.com/post/20140120892.html "2014 年 1 月 20 日冷笑话合集 - 算的真准")
 
+[2014 年 1 月 1 日冷笑话合集 - 跆拳道都白学了？](https://www.wdssmq.com/post/20140101987.html "2014 年 1 月 1 日冷笑话合集 - 跆拳道都白学了？")
+
+[2013 年 12 月 31 日冷笑话合集 - 支招](https://www.wdssmq.com/post/20131231269.html "2013 年 12 月 31 日冷笑话合集 - 支招")
+
 [2012 年 8 月 20 日冷笑话合集 - 老婆的先见](https://www.wdssmq.com/post/20100427458.html "2012 年 8 月 20 日冷笑话合集 - 老婆的先见")
+
+[2013 年 8 月 12 日冷笑话合集 - 模范恋人](https://www.wdssmq.com/post/20130812871.html "2013 年 8 月 12 日冷笑话合集 - 模范恋人")
 
 [2013 年 10 月 24 日冷笑话合集 - 问路](https://www.wdssmq.com/post/20131024297.html "2013 年 10 月 24 日冷笑话合集 - 问路")
 
-[2013 年 11 月 9 日冷笑话合集 - 出门忘带手机](https://www.wdssmq.com/post/20131109388.html "2013 年 11 月 9 日冷笑话合集 - 出门忘带手机")
+[2013 年 11 月 2 日冷笑话合集 - 你也赶紧跳吧](https://www.wdssmq.com/post/20131102435.html "2013 年 11 月 2 日冷笑话合集 - 你也赶紧跳吧")
 
-[2013 年 11 月 12 日冷笑话合集 - 撞菜](https://www.wdssmq.com/post/20131112632.html "2013 年 11 月 12 日冷笑话合集 - 撞菜")
-
-[2013 年 11 月 13 日冷笑话合集 - 吃货女儿伤不起](https://www.wdssmq.com/post/20131113481.html "2013 年 11 月 13 日冷笑话合集 - 吃货女儿伤不起")
-
-[2013 年 11 月 22 日冷笑话合集 - 有熊子必有熊父](https://www.wdssmq.com/post/20131122467.html "2013 年 11 月 22 日冷笑话合集 - 有熊子必有熊父")
-
-[2013 年 11 月 23 日冷笑话合集 - 学渣的痛苦](https://www.wdssmq.com/post/20131123358.html "2013 年 11 月 23 日冷笑话合集 - 学渣的痛苦")
-
-[2013 年 11 月 27 日冷笑话合集 - 求详细](https://www.wdssmq.com/post/20131127550.html "2013 年 11 月 27 日冷笑话合集 - 求详细")
-
-[2013 年 12 月 6 日冷笑话合集 - 闪婚的极致](https://www.wdssmq.com/post/20131206989.html "2013 年 12 月 6 日冷笑话合集 - 闪婚的极致")
-
-[2013 年 12 月 19 日冷笑话合集 - 女娲造人](https://www.wdssmq.com/post/20131219135.html "2013 年 12 月 19 日冷笑话合集 - 女娲造人")
-
-[2013 年 12 月 20 日冷笑话合集 - 现在喜欢女人了？](https://www.wdssmq.com/post/20131220350.html "2013 年 12 月 20 日冷笑话合集 - 现在喜欢女人了？")
-
-[【梦物语】2016 年 08 月 26 日](https://www.wdssmq.com/post/20160826753.html "【梦物语】2016 年 08 月 26 日")
-
-[81 个恐怖故事，你能看懂几个？【答案篇】](https://www.wdssmq.com/post/20120719331.html "81 个恐怖故事，你能看懂几个？【答案篇】")
-
-[81 个恐怖故事，你能看懂几个？](https://www.wdssmq.com/post/20120622151.html "81 个恐怖故事，你能看懂几个？")
-
-[2010 年 7 月 31 日冷笑话合集 - 第一网络排比句](https://www.wdssmq.com/post/2010Nian7Yue31RiXiaoHuaHeJi-DiYiWangLuoPaiBiJu.html "2010 年 7 月 31 日冷笑话合集 - 第一网络排比句")
-
-[2012 年 10 月 8 日冷笑话合集 - 学弟，学长只能帮你到这了](https://www.wdssmq.com/post/20121011301.html "2012 年 10 月 8 日冷笑话合集 - 学弟，学长只能帮你到这了")
-
-[2012 年 6 月 27 日冷笑话合集 - 场景模拟](https://www.wdssmq.com/post/20100202996.html "2012 年 6 月 27 日冷笑话合集 - 场景模拟")
-
-[2011 年 4 月 7 日冷笑话合集 - 彩铃害人](https://www.wdssmq.com/post/2010051542_2292.html "2011 年 4 月 7 日冷笑话合集 - 彩铃害人")
-
-[2011 年 4 月 8 日冷笑话合集 - 馅饼喝多了](https://www.wdssmq.com/post/20120720594.html "2011 年 4 月 8 日冷笑话合集 - 馅饼喝多了")
+[2013 年 11 月 3 日冷笑话合集 - 捏方便面弱爆了](https://www.wdssmq.com/post/20131103649.html "2013 年 11 月 3 日冷笑话合集 - 捏方便面弱爆了")
 
 ---end---
 
