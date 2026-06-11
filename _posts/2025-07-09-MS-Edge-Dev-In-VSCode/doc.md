@@ -41,6 +41,9 @@ alias: 20100318790
 ```bash
 msedge.exe --user-data-dir=C:/config/dev/edge-data --remote-debugging-port=9222 --disable-sync --no-first-run --no-default-browser-check
 
+# 也可以创建为快捷方式，右键属性中修改目标为：
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --user-data-dir=C:/config/dev/edge-data --remote-debugging-port=9222 --disable-sync --no-first-run --no-default-browser-check
+
 ```
 
 图①↓
