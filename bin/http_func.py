@@ -2,6 +2,7 @@
 import sys
 import inspect
 import requests
+import json
 
 # pylint: disable=global-statement
 
@@ -53,9 +54,20 @@ def http(req_arg=None, data_arg=None, return_format="data"):
     except KeyError:
         fnErr("网络错误", inspect.currentframe().f_lineno)
         sys.exit(0)
+    except requests.RequestException as err:
+        fnErr("HTTP 请求失败：%s" % err, inspect.currentframe().f_lineno)
+        return None
 
-    res_data = res_info.json()
+    try:
+        res_data = res_info.json()
+    except json.JSONDecodeError:
+        fnErr("接口返回非 JSON：%s" % res_info.text, inspect.currentframe().f_lineno)
+        return None
+
     if res_data["code"] > 200:
+        # 非成功响应统一输出摘要，便于在 CI 日志中直接定位问题。
+        err_msg = res_data.get("message", "")
+        fnErr("接口错误：code=%s, message=%s" % (res_data["code"], err_msg), inspect.currentframe().f_lineno)
         fnBug(res_data, inspect.currentframe().f_lineno, debug_info["debug"])
     if return_format == "all":
         return res_data
@@ -106,6 +118,8 @@ def get_post_list():
 def get_post_code(id):
     """查找文章，返回状态码"""
     data = http({"method": "get", "mod": "post", "act": "get"}, {"id": id}, "all")
+    if data is None:
+        return (500, "")
     data["title"] = ""
     if not data["data"] is None:
         data["title"] = data["data"]["post"]["Title"]

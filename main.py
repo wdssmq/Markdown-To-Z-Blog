@@ -130,7 +130,11 @@ login()
 
 # md 处理调用
 md_init(config_info, logs_info, debug_info)
-md_list_fn(logs_info["posts_dir"])
+all_done = md_list_fn(logs_info["posts_dir"])
+
+if not all_done:
+    fnErr("存在文章发布失败，请查看上方错误日志", inspect.currentframe().f_lineno)
+    sys.exit(1)
 
 # 输出调试信息
 print(debug_info["log"])

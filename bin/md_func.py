@@ -180,12 +180,20 @@ def md_post_fn(md_content, md_meta, md_file):
         }
         update_logs(post_data["md_name"], post_info, logs_info)
         logs_info["need_save"] = True
+    else:
+        fnErr("发布失败：%s" % post_data["md_name"], inspect.currentframe().f_lineno)
+        fnLog("失败上下文：id=%s, alias=%s, cate=%s, status=%s" % (
+            post_data["log_id"],
+            post_data["alias"],
+            post_data["cate"],
+            post_data["status"],
+        ))
 
     # 输出结果
     fnLog("标题：" + post_data["title"])
     fnLog("状态：" + str(done))
     print("---")
-    return True
+    return done
 
 
 # 获取 md 文件列表并处理
@@ -194,6 +202,7 @@ def md_list_fn(posts_dir):
     fnLog()
     fnLog("## 遍历文章处理：")
     md_list = get_md_list(posts_dir)
+    has_failed = False
     for md_file in md_list:
         # 获取文件信息
         (md_name, md_mtime) = get_md_info(md_file)
@@ -227,7 +236,9 @@ def md_list_fn(posts_dir):
         # 文章发布/更新
         md_meta["log_id"] = log_id
         md_meta["md_name"] = md_name
-        md_post_fn(md_content, md_meta, md_file)
+        done = md_post_fn(md_content, md_meta, md_file)
+        if not done:
+            has_failed = True
         fnLog()
     # end for
     fnLog()
@@ -236,8 +247,9 @@ def md_list_fn(posts_dir):
     fnBug(len(md_list), inspect.currentframe().f_lineno, debug_info["debug"])
     fnLog("共计：%s" % len(logs_info["list"]))
     if not logs_info["need_save"]:
-        return
+        return not has_failed
     # 更新 readme
     fnLog()
     post_list = get_post_list()
     update_readme(logs_info["readme_file"], post_list, debug_info)
+    return not has_failed
