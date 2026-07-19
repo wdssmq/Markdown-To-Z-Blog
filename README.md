@@ -8,6 +8,8 @@
 
 ## 目录 -  2026 年 07 月 19 日 更新
 
+[「AI 说」所以为什么没人想到过西西弗斯的膝盖状态？](https://www.wdssmq.com/post/20100328843.html "「AI 说」所以为什么没人想到过西西弗斯的膝盖状态？")
+
 [「AI 说」卡珊德拉和祥林嫂：真话者的悲剧](https://www.wdssmq.com/post/20141223155.html "「AI 说」卡珊德拉和祥林嫂：真话者的悲剧")
 
 [「折腾」在 VSCode 中连接调试 Microsoft Edge](https://www.wdssmq.com/post/20100318790.html "「折腾」在 VSCode 中连接调试 Microsoft Edge")
@@ -79,8 +81,6 @@
 [「列表」一些电影和小说。。。](https://www.wdssmq.com/post/20100701747.html "「列表」一些电影和小说。。。")
 
 [2011 年 9 月 16 日冷笑话合集 - 急中生智](https://www.wdssmq.com/post/2011Nian9Yue16RiLengXiaoHuaHeJi-JiZhongShengZhi.html "2011 年 9 月 16 日冷笑话合集 - 急中生智")
-
-[2011 年 9 月 14 日冷笑话合集 - 现状](https://www.wdssmq.com/post/2011Nian9Yue14RiLengXiaoHuaHeJi-XianZhuang.html "2011 年 9 月 14 日冷笑话合集 - 现状")
 
 ---end---
 
