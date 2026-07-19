@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2026 年 06 月 11 日 更新
+## 目录 -  2026 年 07 月 19 日 更新
+
+[「AI 说」卡珊德拉和祥林嫂：真话者的悲剧](https://www.wdssmq.com/post/20141223155.html "「AI 说」卡珊德拉和祥林嫂：真话者的悲剧")
 
 [「折腾」在 VSCode 中连接调试 Microsoft Edge](https://www.wdssmq.com/post/20100318790.html "「折腾」在 VSCode 中连接调试 Microsoft Edge")
 
@@ -14,13 +16,25 @@
 
 [关于太空铅笔的谣言](https://www.wdssmq.com/post/20120101924.html "关于太空铅笔的谣言")
 
+[2013 年 11 月 16 日冷笑话合集 - 我是亲生的吗？](https://www.wdssmq.com/post/20131116816.html "2013 年 11 月 16 日冷笑话合集 - 我是亲生的吗？")
+
 [2011 年 11 月 11 日冷笑话合集 - 举一反三](https://www.wdssmq.com/post/2011Nian11Yue11RiLengXiaoHuaHeJi-JuYiFanSan.html "2011 年 11 月 11 日冷笑话合集 - 举一反三")
 
+[2011 年 11 月 13 日冷笑话合集 - 新旧雷公](https://www.wdssmq.com/post/2011Nian11Yue13RiLengXiaoHuaHeJi-XinJiuLeiGong.html "2011 年 11 月 13 日冷笑话合集 - 新旧雷公")
+
+[2011 年 11 月 23 日冷笑话合集 - 调音师](https://www.wdssmq.com/post/2011Nian11Yue23RiLengXiaoHuaHeJi-DiaoYinShi.html "2011 年 11 月 23 日冷笑话合集 - 调音师")
+
 [2011 年 11 月 24 日冷笑话合集 - QQ 农场](https://www.wdssmq.com/post/2011Nian11Yue24RiLengXiaoHuaHeJi-QQNongChang.html "2011 年 11 月 24 日冷笑话合集 - QQ 农场")
+
+[【折腾】在 Docker 中运行酷 Q 机器人](https://www.wdssmq.com/post/20181129356.html "【折腾】在 Docker 中运行酷 Q 机器人")
 
 [「梦物语」2016 年 11 月 7 日](https://www.wdssmq.com/post/20161107437.html "「梦物语」2016 年 11 月 7 日")
 
 [2012 年 8 月 23 日冷笑话合集 - 请自觉排队](https://www.wdssmq.com/post/20100202644.html "2012 年 8 月 23 日冷笑话合集 - 请自觉排队")
+
+[2011 年 11 月 4 日笑话合集 - 令人难过的考试](https://www.wdssmq.com/post/2011Nian11Yue4RiXiaoHuaHeJi-LingRenNanGuoDeKaoShi.html "2011 年 11 月 4 日笑话合集 - 令人难过的考试")
+
+[2014 年 11 月 19 日冷笑话合集 - 女生多的学校](https://www.wdssmq.com/post/20141119652.html "2014 年 11 月 19 日冷笑话合集 - 女生多的学校")
 
 [2014 年 1 月 2 日冷笑话合集 - 换老板了啊](https://www.wdssmq.com/post/20140102331.html "2014 年 1 月 2 日冷笑话合集 - 换老板了啊")
 
@@ -30,7 +44,11 @@
 
 [2013 年 9 月 4 日冷笑话合集 - 休息一天](https://www.wdssmq.com/post/20130904562.html "2013 年 9 月 4 日冷笑话合集 - 休息一天")
 
+[2013 年 8 月 25 日冷笑话合集 - 人生最灰暗的时间](https://www.wdssmq.com/post/20130825315.html "2013 年 8 月 25 日冷笑话合集 - 人生最灰暗的时间")
+
 [2012 年 9 月 4 日冷笑话合集 - 银行怎么赚钱](https://www.wdssmq.com/post/20120909661.html "2012 年 9 月 4 日冷笑话合集 - 银行怎么赚钱")
+
+[2012 年 9 月 18 日冷笑话合集 - 千万别惹女人](https://www.wdssmq.com/post/20100203565.html "2012 年 9 月 18 日冷笑话合集 - 千万别惹女人")
 
 [2012 年 8 月 25 日冷笑话合集 - 斑鸠](https://www.wdssmq.com/post/20120826846.html "2012 年 8 月 25 日冷笑话合集 - 斑鸠")
 
@@ -63,24 +81,6 @@
 [2011 年 9 月 16 日冷笑话合集 - 急中生智](https://www.wdssmq.com/post/2011Nian9Yue16RiLengXiaoHuaHeJi-JiZhongShengZhi.html "2011 年 9 月 16 日冷笑话合集 - 急中生智")
 
 [2011 年 9 月 14 日冷笑话合集 - 现状](https://www.wdssmq.com/post/2011Nian9Yue14RiLengXiaoHuaHeJi-XianZhuang.html "2011 年 9 月 14 日冷笑话合集 - 现状")
-
-[2011 年 8 月 21 日冷笑话合集 - 泻药的效力](https://www.wdssmq.com/post/2011Nian8Yue21RiLengXiaoHuaHeJi-XieYaoDeXiaoLi.html "2011 年 8 月 21 日冷笑话合集 - 泻药的效力")
-
-[「非专业揭骗」百瑞控股是个啥？](https://www.wdssmq.com/post/20141030270.html "「非专业揭骗」百瑞控股是个啥？")
-
-[不知所谓的碎碎念「无力吐槽」](https://www.wdssmq.com/post/20100529960.html "不知所谓的碎碎念「无力吐槽」")
-
-[「备忘」web.config 设置重定向（301）](https://www.wdssmq.com/post/web-configSheZhiZhongDingXiang-301.html "「备忘」web.config 设置重定向（301）")
-
-[晒晒我电脑里的软件](https://www.wdssmq.com/post/20100204305.html "晒晒我电脑里的软件")
-
-[2010 年 11 月 12 日冷笑话合集 - 电脑密码](https://www.wdssmq.com/post/2010Nian11Yue12RiLengXiaoHuaHeJi-DianNaoMiMa.html "2010 年 11 月 12 日冷笑话合集 - 电脑密码")
-
-[2011 年 3 月 21 日冷笑话合集 - 自首原因](https://www.wdssmq.com/post/2011Nian3Yue21RiLengXiaoHuaHeJi-ZiShouYuanYin.html "2011 年 3 月 21 日冷笑话合集 - 自首原因")
-
-[2011 年 3 月 20 日冷笑话合集 - 报复](https://www.wdssmq.com/post/2011Nian3Yue20RiLengXiaoHuaHeJi-BaoFu.html "2011 年 3 月 20 日冷笑话合集 - 报复")
-
-[用五笔打字的人你伤不起啊](https://www.wdssmq.com/post/YongWuBiDaZiDeRenNiShangBuQiA.html "用五笔打字的人你伤不起啊")
 
 ---end---
 
