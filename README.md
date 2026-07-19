@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2026 年 07 月 19 日 更新
+## 目录 -  2026 年 07 月 20 日 更新
+
+[「AI 说」单机版三体人：孤独的终极形态](https://www.wdssmq.com/post/20201030387.html "「AI 说」单机版三体人：孤独的终极形态")
 
 [「AI 说」所以为什么没人想到过西西弗斯的膝盖状态？](https://www.wdssmq.com/post/20100328843.html "「AI 说」所以为什么没人想到过西西弗斯的膝盖状态？")
 
@@ -79,8 +81,6 @@
 [「过往」“狗日的”腾讯](https://www.wdssmq.com/post/20221005708.html "「过往」“狗日的”腾讯")
 
 [「列表」一些电影和小说。。。](https://www.wdssmq.com/post/20100701747.html "「列表」一些电影和小说。。。")
-
-[2011 年 9 月 16 日冷笑话合集 - 急中生智](https://www.wdssmq.com/post/2011Nian9Yue16RiLengXiaoHuaHeJi-JiZhongShengZhi.html "2011 年 9 月 16 日冷笑话合集 - 急中生智")
 
 ---end---
 
