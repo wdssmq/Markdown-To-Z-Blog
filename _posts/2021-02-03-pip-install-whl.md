@@ -1,5 +1,5 @@
 ---
-title: 【折腾】pip 安装各种依赖遇到的坑
+title: 「折腾」pip 安装各种依赖遇到的坑
 date: 2021-02-24 18:31:13
 tags:
 - Python
