@@ -30,5 +30,6 @@ description: "Use when renaming, creating, or reviewing Markdown post filenames 
 - 不要把中文标题整句翻译成英文文件名。
 - 不要为了“完整”牺牲简短性。
 - 不要在文件名里加入多余的副标题、情绪词或装饰性标点。
-- 仅在原文件或目录名含有 `new-post` 时无需要确认直接执行。
+- 仅在原文件或目录名含有 `new-post` 时无需确认直接执行。
+- 所有单词首字母大写。
 
