@@ -1,5 +1,5 @@
 ---
-title: 【Z-Blog】插件管理、后台进不去时通过 FTP 删除相应插件
+title: 「Z-Blog」插件管理、后台进不去时通过 FTP 删除相应插件
 date: 2021-02-08 11:11:51
 tags:
 - Z-Blog

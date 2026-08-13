@@ -1,5 +1,5 @@
 ---
-title: 【笔记】LNMP 部署/续期 SSL 证书
+title: 「笔记」LNMP 部署/续期 SSL 证书
 date: 2020-01-29 00:07:41
 tags:
 - SSL
