@@ -6,7 +6,49 @@
 
 ---start---
 
-## 目录 -  2026 年 07 月 20 日 更新
+## 目录 -  2026 年 08 月 13 日 更新
+
+[「折腾」CSS 角标文字（失败版）](https://www.wdssmq.com/post/20141212329.html "「折腾」CSS 角标文字（失败版）")
+
+[「GM_脚本」Resilio Sync 密钥/任务导出备份](https://www.wdssmq.com/post/20190130502.html "「GM_脚本」Resilio Sync 密钥/任务导出备份")
+
+[「折腾」pip 安装各种依赖遇到的坑](https://www.wdssmq.com/post/20210224781.html "「折腾」pip 安装各种依赖遇到的坑")
+
+[「折腾」独立博客之「熵」](https://www.wdssmq.com/post/20210227485.html "「折腾」独立博客之「熵」")
+
+[「PHP 笔记」Call to undefined function curl_init()](https://www.wdssmq.com/post/20201231275.html "「PHP 笔记」Call to undefined function curl_init()")
+
+[「小事」换新的键盘终于回来了](https://www.wdssmq.com/post/20140512942.html "「小事」换新的键盘终于回来了")
+
+[「小事」我现在用的搜狗账号，还是当年注册过的那个么？](https://www.wdssmq.com/post/20210418519.html "「小事」我现在用的搜狗账号，还是当年注册过的那个么？")
+
+[「折腾」VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "「折腾」VSCode 远程开发配置（Remote Development）")
+
+[「折腾」用手机写 Markdown 并发布到 Z-Blog](https://www.wdssmq.com/post/20210224141.html "「折腾」用手机写 Markdown 并发布到 Z-Blog")
+
+[「资讯」Vultr 网站上线多语言首页，包括中文](https://www.wdssmq.com/post/20210401104.html "「资讯」Vultr 网站上线多语言首页，包括中文")
+
+[「Z-Blog」插件管理、后台进不去时通过 FTP 删除相应插件](https://www.wdssmq.com/post/20210208103.html "「Z-Blog」插件管理、后台进不去时通过 FTP 删除相应插件")
+
+[「梦物语」2020 年 09 月 25 日](https://www.wdssmq.com/post/20150215200.html "「梦物语」2020 年 09 月 25 日")
+
+[「折腾」GM_脚本“取回” Feedly 内的订阅源地址](https://www.wdssmq.com/post/20210305305.html "「折腾」GM_脚本“取回” Feedly 内的订阅源地址")
+
+[「非解决」关于&amp;quot;修复此驱动器时出现问题&amp;quot;](https://www.wdssmq.com/post/20131224366.html "「非解决」关于&amp;quot;修复此驱动器时出现问题&amp;quot;")
+
+[「折腾」Docker 空间占用问题及 Nginx](https://www.wdssmq.com/post/20210210927.html "「折腾」Docker 空间占用问题及 Nginx")
+
+[「折腾」Linux(CentOS)安装 Python](https://www.wdssmq.com/post/20210224695.html "「折腾」Linux(CentOS)安装 Python")
+
+[「折腾」互联网时代的“纸制”积分卡](https://www.wdssmq.com/post/20140425674.html "「折腾」互联网时代的“纸制”积分卡")
+
+[「折腾」使用 Quicker 拆分文件到子文件夹](https://www.wdssmq.com/post/20120827310.html "「折腾」使用 Quicker 拆分文件到子文件夹")
+
+[「折腾」Python + GitHub Actions 更新 Z-Blog 的探索](https://www.wdssmq.com/post/20210129918.html "「折腾」Python + GitHub Actions 更新 Z-Blog 的探索")
+
+[「笔记」LNMP 部署/续期 SSL 证书](https://www.wdssmq.com/post/20200129996.html "「笔记」LNMP 部署/续期 SSL 证书")
+
+[2012 年 7 月 27 日冷笑话合集 - 胡思乱想](https://www.wdssmq.com/post/20100421121.html "2012 年 7 月 27 日冷笑话合集 - 胡思乱想")
 
 [「AI 说」单机版三体人：孤独的终极形态](https://www.wdssmq.com/post/20201030387.html "「AI 说」单机版三体人：孤独的终极形态")
 
@@ -39,48 +81,6 @@
 [2011 年 11 月 4 日笑话合集 - 令人难过的考试](https://www.wdssmq.com/post/2011Nian11Yue4RiXiaoHuaHeJi-LingRenNanGuoDeKaoShi.html "2011 年 11 月 4 日笑话合集 - 令人难过的考试")
 
 [2014 年 11 月 19 日冷笑话合集 - 女生多的学校](https://www.wdssmq.com/post/20141119652.html "2014 年 11 月 19 日冷笑话合集 - 女生多的学校")
-
-[2014 年 1 月 2 日冷笑话合集 - 换老板了啊](https://www.wdssmq.com/post/20140102331.html "2014 年 1 月 2 日冷笑话合集 - 换老板了啊")
-
-[2010 年 11 月 17 日冷笑话合集 - 竞争与合作](https://www.wdssmq.com/post/2010Nian11Yue17RiLengXiaoHuaHeJi-JingZhengYuHeZuo.html "2010 年 11 月 17 日冷笑话合集 - 竞争与合作")
-
-[2010 年 11 月 20 日冷笑话合集 - 剩下的慢慢挑](https://www.wdssmq.com/post/2010Nian11Yue20RiLengXiaoHuaHeJi-ShengXiaDeManManTiao.html "2010 年 11 月 20 日冷笑话合集 - 剩下的慢慢挑")
-
-[2013 年 9 月 4 日冷笑话合集 - 休息一天](https://www.wdssmq.com/post/20130904562.html "2013 年 9 月 4 日冷笑话合集 - 休息一天")
-
-[2013 年 8 月 25 日冷笑话合集 - 人生最灰暗的时间](https://www.wdssmq.com/post/20130825315.html "2013 年 8 月 25 日冷笑话合集 - 人生最灰暗的时间")
-
-[2012 年 9 月 4 日冷笑话合集 - 银行怎么赚钱](https://www.wdssmq.com/post/20120909661.html "2012 年 9 月 4 日冷笑话合集 - 银行怎么赚钱")
-
-[2012 年 9 月 18 日冷笑话合集 - 千万别惹女人](https://www.wdssmq.com/post/20100203565.html "2012 年 9 月 18 日冷笑话合集 - 千万别惹女人")
-
-[2012 年 8 月 25 日冷笑话合集 - 斑鸠](https://www.wdssmq.com/post/20120826846.html "2012 年 8 月 25 日冷笑话合集 - 斑鸠")
-
-[2011 年 2 月 20 日冷笑话合集 - 父母心](https://www.wdssmq.com/post/20120622369.html "2011 年 2 月 20 日冷笑话合集 - 父母心")
-
-[2011 年 2 月 14 日冷笑话合集 - 自带乐器](https://www.wdssmq.com/post/2011Nian2Yue14RiLengXiaoHuaHeJi-ZiDaiLeQi.html "2011 年 2 月 14 日冷笑话合集 - 自带乐器")
-
-[应该是差不多了吧。。](https://www.wdssmq.com/post/20130330987.html "应该是差不多了吧。。")
-
-[安卓手机折腾之壁纸篇](https://www.wdssmq.com/post/20130122581.html "安卓手机折腾之壁纸篇")
-
-[为什么纠结【无力吐槽】](https://www.wdssmq.com/post/20120918283.html "为什么纠结【无力吐槽】")
-
-[没天赋的懒货【无力吐槽】](https://www.wdssmq.com/post/20120909993.html "没天赋的懒货【无力吐槽】")
-
-[win7 下如何玩《轩辕剑 3：云和山的彼端》](https://www.wdssmq.com/post/win7xiaruhewan-xuanyuanjian3-yunheshandebiduan.html "win7 下如何玩《轩辕剑 3：云和山的彼端》")
-
-[2013 年 7 月 23 日冷笑话合集 - 卖队友](https://www.wdssmq.com/post/20130723529.html "2013 年 7 月 23 日冷笑话合集 - 卖队友")
-
-[2013 年 9 月 18 日冷笑话合集 - 我订的是飞机票](https://www.wdssmq.com/post/20130918229.html "2013 年 9 月 18 日冷笑话合集 - 我订的是飞机票")
-
-[2013 年 4 月 1 日冷笑话合集 - 会砍价的女友](https://www.wdssmq.com/post/20130401991.html "2013 年 4 月 1 日冷笑话合集 - 会砍价的女友")
-
-[「小代码」搜狗输入法自定义短语分片管理「Python」](https://www.wdssmq.com/post/20221009482.html "「小代码」搜狗输入法自定义短语分片管理「Python」")
-
-[「过往」“狗日的”腾讯](https://www.wdssmq.com/post/20221005708.html "「过往」“狗日的”腾讯")
-
-[「列表」一些电影和小说。。。](https://www.wdssmq.com/post/20100701747.html "「列表」一些电影和小说。。。")
 
 ---end---
 
