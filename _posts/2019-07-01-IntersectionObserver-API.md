@@ -12,6 +12,8 @@ alias: 20190701815
 
 当元素滚动到可视区域时执行指定操作，比如应用 `Animate.css` 动画效果
 
+<!--more-->
+
 ```javascript
 // 原生 JS 选择器
 function query(selector) {

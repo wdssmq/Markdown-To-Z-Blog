@@ -13,6 +13,8 @@ alias: 20140829101
 
 都不记得 Tags 管理有没有弄中文逗号支持，，纠结。。
 
+<!--more-->
+
 然后，，重装系统后反而各种卡不是第一次遇到了。。这次重装前到是也没什么大问题，，就是谷歌浏览器装不了和各种文件关联无法修改的问题。。因为基本上不用 Dreamweaver 了，每次都右键 Edit with NotePad++ 有些略蛋疼。。TortoiseGit、git-ftp 配合 NotedPad++ 方便不是一点点，，只是教程一直接懒得写。目前只有一篇--[「备忘」msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "「备忘」msysGit安装及使用")--
 
 然后终于把自己做的 Z-Blog 插件或主题拿出来分（keng）享（ren）了：[https://app.zblogcn.com/?auth=6401c4a7-89cd-48f9-a68b-d6464d8c3bc8](https://app.zblogcn.com/?auth=6401c4a7-89cd-48f9-a68b-d6464d8c3bc8 "沉冰浮水 - Z-Blog 应用中心")
