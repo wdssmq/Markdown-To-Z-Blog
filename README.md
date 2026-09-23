@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2026 年 09 月 18 日 更新
+## 目录 -  2026 年 09 月 23 日 更新
+
+[「折腾」水水的不想月报](https://www.wdssmq.com/post/20140225001.html "「折腾」水水的不想月报")
 
 [WebDav 折腾「其一」](https://www.wdssmq.com/post/20100514969.html "WebDav 折腾「其一」")
 
@@ -21,6 +23,8 @@
 [「玛丽有只小羊羔」“黑暗版”](https://www.wdssmq.com/post/20191201713.html "「玛丽有只小羊羔」“黑暗版”")
 
 [2013 年 8 月 26 日冷笑话合集 - 越狱](https://www.wdssmq.com/post/20130826880.html "2013 年 8 月 26 日冷笑话合集 - 越狱")
+
+[2013 年 8 月 2 日冷笑话合集 - 晚上吃什么](https://www.wdssmq.com/post/20130802172.html "2013 年 8 月 2 日冷笑话合集 - 晚上吃什么")
 
 [无从复盘的过往](https://www.wdssmq.com/post/20191128815.html "无从复盘的过往")
 
@@ -60,27 +64,23 @@
 
 [「折腾」CSS 角标文字（失败版）](https://www.wdssmq.com/post/20141212329.html "「折腾」CSS 角标文字（失败版）")
 
-[「折腾」pip 安装各种依赖遇到的坑](https://www.wdssmq.com/post/20210224781.html "「折腾」pip 安装各种依赖遇到的坑")
-
 [「GM_脚本」Resilio Sync 密钥/任务导出备份](https://www.wdssmq.com/post/20190130502.html "「GM_脚本」Resilio Sync 密钥/任务导出备份")
+
+[「折腾」pip 安装各种依赖遇到的坑](https://www.wdssmq.com/post/20210224781.html "「折腾」pip 安装各种依赖遇到的坑")
 
 [「PHP 笔记」Call to undefined function curl_init()](https://www.wdssmq.com/post/20201231275.html "「PHP 笔记」Call to undefined function curl_init()")
 
 [「折腾」独立博客之「熵」](https://www.wdssmq.com/post/20210227485.html "「折腾」独立博客之「熵」")
 
-[「小事」我现在用的搜狗账号，还是当年注册过的那个么？](https://www.wdssmq.com/post/20210418519.html "「小事」我现在用的搜狗账号，还是当年注册过的那个么？")
-
 [「小事」换新的键盘终于回来了](https://www.wdssmq.com/post/20140512942.html "「小事」换新的键盘终于回来了")
+
+[「小事」我现在用的搜狗账号，还是当年注册过的那个么？](https://www.wdssmq.com/post/20210418519.html "「小事」我现在用的搜狗账号，还是当年注册过的那个么？")
 
 [「折腾」VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "「折腾」VSCode 远程开发配置（Remote Development）")
 
 [「资讯」Vultr 网站上线多语言首页，包括中文](https://www.wdssmq.com/post/20210401104.html "「资讯」Vultr 网站上线多语言首页，包括中文")
 
 [「折腾」用手机写 Markdown 并发布到 Z-Blog](https://www.wdssmq.com/post/20210224141.html "「折腾」用手机写 Markdown 并发布到 Z-Blog")
-
-[「梦物语」2020 年 09 月 25 日](https://www.wdssmq.com/post/20150215200.html "「梦物语」2020 年 09 月 25 日")
-
-[「Z-Blog」插件管理、后台进不去时通过 FTP 删除相应插件](https://www.wdssmq.com/post/20210208103.html "「Z-Blog」插件管理、后台进不去时通过 FTP 删除相应插件")
 
 ---end---
 
