@@ -17,7 +17,7 @@ alias: 20190818266
 
 2022-04-02：然后再次修改时已经换了写作方式：[https://github.com/wdssmq/Markdown-To-Z-Blog](https://github.com/wdssmq/Markdown-To-Z-Blog "wdssmq/Markdown-To-Z-Blog: 使用 GitHub Actions + Markdown 更新 Z-Blog 博客。#md2zb")
 
-其实上一篇 [【教程】Z-Blog 插件运作机制简述](https://www.wdssmq.com/post/20190817262.html "【教程】Z-Blog 插件运作机制简述") 也是用的 MD 编辑器但是是在桌面版的 Typora 中写好复制过来发布的；
+其实上一篇 [「教程」Z-Blog 插件运作机制简述](https://www.wdssmq.com/post/20190817262.html "「教程」Z-Blog 插件运作机制简述") 也是用的 MD 编辑器但是是在桌面版的 Typora 中写好复制过来发布的；
 
 ------------
 

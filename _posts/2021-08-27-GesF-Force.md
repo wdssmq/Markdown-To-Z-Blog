@@ -67,9 +67,9 @@ alias: 20200617652
 
 [https://www.wdssmq.com/post/20100215532.html](https://www.wdssmq.com/post/20100215532.html "「备忘」Z-BlogPHP 使用随机图片 API 设置缩略图\_电脑网络\_沉冰浮水")
 
-【教程】Z-Blog 插件运作机制简述\_电脑网络\_沉冰浮水：
+「教程」Z-Blog 插件运作机制简述\_电脑网络\_沉冰浮水：
 
-[https://www.wdssmq.com/post/20190817262.html](https://www.wdssmq.com/post/20190817262.html "【教程】Z-Blog 插件运作机制简述\_电脑网络\_沉冰浮水")
+[https://www.wdssmq.com/post/20190817262.html](https://www.wdssmq.com/post/20190817262.html "「教程」Z-Blog 插件运作机制简述\_电脑网络\_沉冰浮水")
 
 ### 一句话就能说清楚的知识点
 
