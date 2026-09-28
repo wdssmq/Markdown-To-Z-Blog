@@ -146,7 +146,7 @@ include "user-info-4.php";
 「[模板标签 - 主题开发 - Z-BlogPHP 文档](https://docs.zblogcn.com/php/#/books/dev-app-theme?id=%e6%a8%a1%e6%9d%bf%e6%a0%87%e7%ad%be "模板标签 - 主题开发 - Z-BlogPHP 文档")」
 ；
 
-<!-- Template-Mechanism-Of-Z-BlogPHP -->
+<!-- Z-BlogPHP-Theme-Mechanism -->
 
 ### 附件下载
 
