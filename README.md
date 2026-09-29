@@ -6,7 +6,9 @@
 
 ---start---
 
-## 目录 -  2026 年 09 月 28 日 更新
+## 目录 -  2026 年 09 月 29 日 更新
+
+[「水坑」Z-BlogPHP 常用接口或函数](https://www.wdssmq.com/post/20190316451.html "「水坑」Z-BlogPHP 常用接口或函数")
 
 [「水坑」系列教程索引](https://www.wdssmq.com/post/20200617652.html "「水坑」系列教程索引")
 
@@ -33,6 +35,8 @@
 [WebDav 折腾「其一」](https://www.wdssmq.com/post/20100514969.html "WebDav 折腾「其一」")
 
 [WebDav 折腾「其二」之 rclone](https://www.wdssmq.com/post/20100203443.html "WebDav 折腾「其二」之 rclone")
+
+[2012 年 9 月 19 日冷笑话合集 - 骗子广告](https://www.wdssmq.com/post/20120920306.html "2012 年 9 月 19 日冷笑话合集 - 骗子广告")
 
 [「游戏」整蛊邻居合集下载](https://www.wdssmq.com/post/YouXiZhengGuLinJuHeJiXiaZaiJianTiZhongWen.html "「游戏」整蛊邻居合集下载")
 
@@ -77,10 +81,6 @@
 [2011 年 1 月 17 日冷笑话合集 - 神秘死亡](https://www.wdssmq.com/post/2011Nian1Yue17RiLengXiaoHuaHeJi-ShenMiSiWang.html "2011 年 1 月 17 日冷笑话合集 - 神秘死亡")
 
 [10 分钟的人生「哲理短文」](https://www.wdssmq.com/post/10FenZhongDeRenShengZheLiDuanWen.html "10 分钟的人生「哲理短文」")
-
-[「折腾」CSS 角标文字（失败版）](https://www.wdssmq.com/post/20141212329.html "「折腾」CSS 角标文字（失败版）")
-
-[「折腾」pip 安装各种依赖遇到的坑](https://www.wdssmq.com/post/20210224781.html "「折腾」pip 安装各种依赖遇到的坑")
 
 ---end---
 
