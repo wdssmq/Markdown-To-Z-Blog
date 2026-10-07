@@ -6,7 +6,15 @@
 
 ---start---
 
-## 目录 -  2026 年 09 月 29 日 更新
+## 目录 -  2026 年 10 月 07 日 更新
+
+[「AI 说」单机版三体人：孤独的终极形态](https://www.wdssmq.com/post/20201030387.html "「AI 说」单机版三体人：孤独的终极形态")
+
+[「AI 说」所以为什么没人想到过西西弗斯的膝盖状态？](https://www.wdssmq.com/post/20100328843.html "「AI 说」所以为什么没人想到过西西弗斯的膝盖状态？")
+
+[「AI 说」卡珊德拉和祥林嫂：真话者的悲剧](https://www.wdssmq.com/post/20141223155.html "「AI 说」卡珊德拉和祥林嫂：真话者的悲剧")
+
+[贵妃鱼【异事录】](https://www.wdssmq.com/post/20100308353.html "贵妃鱼【异事录】")
 
 [「水坑」Z-BlogPHP 常用接口或函数](https://www.wdssmq.com/post/20190316451.html "「水坑」Z-BlogPHP 常用接口或函数")
 
@@ -73,14 +81,6 @@
 [我和我「无力吐槽 &amp;amp; 梦物语」](https://www.wdssmq.com/post/20170416263.html "我和我「无力吐槽 &amp;amp; 梦物语」")
 
 [「无力吐槽」知乎的编辑器好垃圾](https://www.wdssmq.com/post/20170511276.html "「无力吐槽」知乎的编辑器好垃圾")
-
-[好久没写的碎碎念「无力吐槽」](https://www.wdssmq.com/post/20150809428.html "好久没写的碎碎念「无力吐槽」")
-
-[2011 年 1 月 16 日冷笑话合集 - 考试周过后](https://www.wdssmq.com/post/2011Nian1Yue16RiLengXiaoHuaHeJi-KaoShiZhouGuoHou.html "2011 年 1 月 16 日冷笑话合集 - 考试周过后")
-
-[2011 年 1 月 17 日冷笑话合集 - 神秘死亡](https://www.wdssmq.com/post/2011Nian1Yue17RiLengXiaoHuaHeJi-ShenMiSiWang.html "2011 年 1 月 17 日冷笑话合集 - 神秘死亡")
-
-[10 分钟的人生「哲理短文」](https://www.wdssmq.com/post/10FenZhongDeRenShengZheLiDuanWen.html "10 分钟的人生「哲理短文」")
 
 ---end---
 
