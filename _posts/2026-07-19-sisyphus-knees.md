@@ -3,7 +3,7 @@ title: 「AI 说」所以为什么没人想到过西西弗斯的膝盖状态？
 date: 2026-07-19 22:32:52
 tags:
  - AI
- - GesF-Force
+ - 往物语
  - 言说
 categories:
  - 杂七杂八

@@ -3,7 +3,7 @@ title: 「AI 说」卡珊德拉和祥林嫂：真话者的悲剧
 date: 2026-07-19 22:23:07
 tags:
  - AI
- - GesF-Force
+ - 往物语
  - 言说
 categories:
  - 杂七杂八

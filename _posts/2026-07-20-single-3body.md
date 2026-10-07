@@ -3,7 +3,7 @@ title: 「AI 说」单机版三体人：孤独的终极形态
 date: 2026-07-20 00:09:22
 tags:
  - AI
- - GesF-Force
+ - 往物语
  - 言说
 categories:
  - 杂七杂八
