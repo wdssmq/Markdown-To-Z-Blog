@@ -1,5 +1,5 @@
 ---
-title: 【真·碎碎念】2021/04/26 ~ 2021/05/02
+title: 「真·碎碎念」2021/04/26 ~ 2021/05/02
 date: 2021-04-21 19:50:40
 tags:
 - 碎碎念
@@ -17,9 +17,9 @@ alias: 20100305398
 
 <!-- more -->
 
-【折腾】VSCode 远程开发配置（Remote Development）\_电脑网络\_沉冰浮水：
+「折腾」VSCode 远程开发配置（Remote Development）\_电脑网络\_沉冰浮水：
 
-[https://www.wdssmq.com/post/20201120519.html](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）\_电脑网络\_沉冰浮水")
+[https://www.wdssmq.com/post/20201120519.html](https://www.wdssmq.com/post/20201120519.html "「折腾」VSCode 远程开发配置（Remote Development）\_电脑网络\_沉冰浮水")
 
 ### 2021-04-29 12:09 CentOS & Crontab
 
@@ -84,7 +84,7 @@ chkconfig --list crond
 
 「设置」中搜索`restoreWindows`，设置为`none`；用于打开「设置」项的快捷键：`ctrl+,`；
 
-[【VSCode】快捷键备忘\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20130525410.html "【VSCode】快捷键备忘\_电脑网络\_沉冰浮水")
+[「VSCode」快捷键备忘\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20130525410.html "「VSCode」快捷键备忘\_电脑网络\_沉冰浮水")
 
 ### 2021-04-29 12:52 搜狗五笔
 
@@ -112,7 +112,7 @@ chkconfig --list crond
 
 ### 2021-05-02 10:03 清理 Docker
 
-· [【折腾】Docker 空间占用问题及 Nginx\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20210210927.html "【折腾】Docker 空间占用问题及 Nginx\_电脑网络\_沉冰浮水")
+· [「折腾」Docker 空间占用问题及 Nginx\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20210210927.html "「折腾」Docker 空间占用问题及 Nginx\_电脑网络\_沉冰浮水")
 
 <!-- PubWordBlock -->
 <!--957-->

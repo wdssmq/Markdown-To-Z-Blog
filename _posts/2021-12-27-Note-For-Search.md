@@ -1,5 +1,5 @@
 ---
-title: 【真·碎碎念】2021/12/06 ~ 2021/12/26
+title: 「真·碎碎念」2021/12/06 ~ 2021/12/26
 date: 2021-12-27 14:18:28
 tags:
 - 碎雨集
@@ -53,9 +53,9 @@ Nokia G50 的图片和文件管理很有问题。。
 
 **关于多个站点的文章数据合并到一起很麻烦这件事：**
 
-> MT 数据格式导出【PHP】 - Z-Blog 应用中心：[https://app.zblogcn.com/?id=1501](https://app.zblogcn.com/?id=1501 "MT 数据格式导出【PHP】 - Z-Blog 应用中心")
+> MT 数据格式导出「PHP」 - Z-Blog 应用中心：[https://app.zblogcn.com/?id=1501](https://app.zblogcn.com/?id=1501 "MT 数据格式导出「PHP」 - Z-Blog 应用中心")
 >
-> MT 数据格式导入【PHP】 - Z-Blog 应用中心：[https://app.zblogcn.com/?id=928](https://app.zblogcn.com/?id=928 "MT 数据格式导入【PHP】 - Z-Blog 应用中心")
+> MT 数据格式导入「PHP」 - Z-Blog 应用中心：[https://app.zblogcn.com/?id=928](https://app.zblogcn.com/?id=928 "MT 数据格式导入「PHP」 - Z-Blog 应用中心")
 
 能不能懂随便吧。。再详细了也没啥用：
 
