@@ -63,4 +63,4 @@ WorkBuddy 这边甚至不给你手动改文件，只能通过会话代理…… 
 
 「- -」「- -」「- -」「- -」
 
-AD：[workbuddy - 腾讯的 AI 工作台](https://www.workbuddy.cn/events/invite?inviteCode=qob8bh10zho8yuy) 丨 [硅基流动 - AI 模型平台](https://cloud.siliconflow.cn/i/Rafkjay7)
+AD：[workbuddy - 腾讯的 AI 工作台](https://www.workbuddy.cn/events/invite?inviteCode=qob8bh10zho8yuy "workbuddy - 腾讯的 AI 工作台") 丨 [硅基流动 - AI 模型平台](https://cloud.siliconflow.cn/i/Rafkjay7 "硅基流动 - AI 模型平台")
