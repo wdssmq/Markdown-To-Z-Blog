@@ -24,11 +24,11 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/114174661
 >
 > 酷 Q 不能用了。更换了 Node 项目。
 >
-> [【折腾】在 Docker 中运行酷 Q 机器人](https://www.wdssmq.com/post/20181129356.html "【折腾】在 Docker 中运行酷 Q 机器人")
+> [「折腾」在 Docker 中运行酷 Q 机器人](https://www.wdssmq.com/post/20181129356.html "「折腾」在 Docker 中运行酷 Q 机器人")
 
 请先安装好 git 和 Node.js。。
 
-参考：[【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode远程开发配置（Remote Development）")
+参考：[「折腾」VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "「折腾」VSCode远程开发配置（Remote Development）")
 
 「AD：[ShortSth:DesiVPS,VultrVPS][/ShortSth]」
 

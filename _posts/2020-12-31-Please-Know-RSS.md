@@ -31,9 +31,9 @@ Flash 也是到今年为止了。。
 
 “RSS 是一种态度”——这个标题是很久就想好的，但是内容，可以说直到开始写都没有半点提纲或思路。而之所以决定写，是因为看到群里红包的段子，想起自己某个插件有适合的功能，而这个插件也是和 Feed 相关的：
 
-> Feed 输出扩展【PHP】 - Z-Blog 应用中心：
+> Feed 输出扩展「PHP」 - Z-Blog 应用中心：
 >
-> [https://app.zblogcn.com/?id=1095](https://app.zblogcn.com/?id=1095 "Feed 输出扩展【PHP】 - Z-Blog 应用中心")
+> [https://app.zblogcn.com/?id=1095](https://app.zblogcn.com/?id=1095 "Feed 输出扩展「PHP」 - Z-Blog 应用中心")
 
 有不少想法，已的实施的，还没实施的，日常怀疑都有什么意义呢？
 

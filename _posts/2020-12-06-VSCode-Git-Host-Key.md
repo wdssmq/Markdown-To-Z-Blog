@@ -104,10 +104,10 @@ Host github.com
 
 [「备忘」msysGit 安装及使用](https://www.wdssmq.com/post/20140804123.html "「备忘」msysGit安装及使用")
 
-[【VSCode】快捷键备忘](https://www.wdssmq.com/post/20130525410.html "【VSCode】快捷键备忘")
+[「VSCode」快捷键备忘](https://www.wdssmq.com/post/20130525410.html "「VSCode」快捷键备忘")
 
 `ctrl + shift + g`即可切换到 Git 管理。
 
-[【折腾】VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode远程开发配置（Remote Development）")
+[「折腾」VSCode 远程开发配置（Remote Development）](https://www.wdssmq.com/post/20201120519.html "「折腾」VSCode远程开发配置（Remote Development）")
 
 <!--3115-->

@@ -14,7 +14,7 @@ alias: 20201120519
 
 如果你用的空间系统版本不支持，可以先参考下边文章：
 
-[【折腾】CentOS 6 无法使用 Remote Development\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20201120244.html "【折腾】CentOS 6无法使用Remote Development\_电脑网络\_沉冰浮水")
+[「折腾」CentOS 6 无法使用 Remote Development\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20201120244.html "「折腾」CentOS 6无法使用Remote Development\_电脑网络\_沉冰浮水")
 
 [ShortSth:主机云][/ShortSth] ←← 没办法，用的这家的垃圾空间（他们自我评价的原话，`虽然我们是很垃圾，但是我们也严格限制垃圾客户入住.`）←←（没错，这段是广告）←←（所以主要是升级 CentOS 7 太麻烦了）
 
