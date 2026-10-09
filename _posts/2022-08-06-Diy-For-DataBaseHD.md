@@ -15,9 +15,9 @@ alias: 20220806158
 
 <!--more-->
 
-> 数据库透析【基础依赖】 - Z-Blog 应用中心：
+> 数据库透析「基础依赖」 - Z-Blog 应用中心：
 >
-> [https://app.zblogcn.com/?id=20812](https://app.zblogcn.com/?id=20812 "数据库透析【基础依赖】 - Z-Blog 应用中心")
+> [https://app.zblogcn.com/?id=20812](https://app.zblogcn.com/?id=20812 "数据库透析「基础依赖」 - Z-Blog 应用中心")
 
 ↑ 这个插件的功能描述就是「取出数据，处理后存回去」，适用于一些不适合直接用 SQL 实现的修改管理；
 
@@ -25,9 +25,9 @@ alias: 20220806158
 
 为此我写了另一个插件——
 
-> 数据库透析【功能定制】 - Z-Blog 应用中心：
+> 数据库透析「功能定制」 - Z-Blog 应用中心：
 >
-> [https://app.zblogcn.com/?id=21305](https://app.zblogcn.com/?id=21305 "数据库透析【功能定制】 - Z-Blog 应用中心")
+> [https://app.zblogcn.com/?id=21305](https://app.zblogcn.com/?id=21305 "数据库透析「功能定制」 - Z-Blog 应用中心")
 
 ↑ 本质上仍然是把一些东西先写好，然后用一个可定制的 `/usr/xxx.php` 来实现具体的用户需求，而不是为每种用户需求创建维护一个完整的插件；「此插件收费，可根据你的需求实现相应数据修改功能」
 
@@ -37,12 +37,12 @@ alias: 20220806158
 >
 > [https://app.zblogcn.com/?id=1961](https://app.zblogcn.com/?id=1961 "DIY Something - Z-Blog 应用中心")
 
-↑ 同样可以配合「数据库透析【基础依赖】」插件来实现数据库批量操作；
+↑ 同样可以配合「数据库透析「基础依赖」」插件来实现数据库批量操作；
 
 - 按说明在`/zb_users/plugin/diySth/usr/`内创建一个文件夹`DiyForDataBaseHD`；
 - 通过刷新「管理页」自动创建内部文件，会同时生成 CSS、JS 文件，不用理会；
 - `DiyForDataBaseHD.php`内写入下边内容，通过刷新「`diySth`插件管理页」加载功能；
-- 换到「数据库透析【基础依赖】」的管理页，应该就能看到添加的功能按钮；
+- 换到「数据库透析「基础依赖」」的管理页，应该就能看到添加的功能按钮；
 
 ```php
 <?php

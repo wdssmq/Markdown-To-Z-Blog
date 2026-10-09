@@ -27,9 +27,9 @@ UP: 甜隐君子
 
 数量: 9
 
-【玛丽电波剧场】:
+「玛丽电波剧场」:
 
-[https://space.bilibili.com/929197/channel/seriesdetail?sid=2575069](https://space.bilibili.com/929197/channel/seriesdetail?sid=2575069 "【玛丽电波剧场】")
+[https://space.bilibili.com/929197/channel/seriesdetail?sid=2575069](https://space.bilibili.com/929197/channel/seriesdetail?sid=2575069 "「玛丽电波剧场」")
 
 说明: 目前主做「超能力搞校」，也有几话「玛丽电波剧场」；
 
@@ -41,9 +41,9 @@ UP: 耐子酱动漫社
 
 数量: 15
 
-合集·【玛丽的日常】:
+合集·「玛丽的日常」:
 
-[https://space.bilibili.com/651861849/channel/collectiondetail?sid=328325](https://space.bilibili.com/651861849/channel/collectiondetail?sid=328325 "合集·【玛丽的日常】")
+[https://space.bilibili.com/651861849/channel/collectiondetail?sid=328325](https://space.bilibili.com/651861849/channel/collectiondetail?sid=328325 "合集·「玛丽的日常」")
 
 ====
 
@@ -63,9 +63,9 @@ UP: 静心教日语
 
 数量: 7
 
-合集·翻译搬运｜日语搞笑动画短片【マリマリマリー】:
+合集·翻译搬运｜日语搞笑动画短片「マリマリマリー」:
 
-[https://space.bilibili.com/8204468/channel/collectiondetail?sid=1012254](https://space.bilibili.com/8204468/channel/collectiondetail?sid=1012254 "合集·翻译搬运｜日语搞笑动画短片【マリマリマリー】")
+[https://space.bilibili.com/8204468/channel/collectiondetail?sid=1012254](https://space.bilibili.com/8204468/channel/collectiondetail?sid=1012254 "合集·翻译搬运｜日语搞笑动画短片「マリマリマリー」")
 
 
 ====
@@ -74,13 +74,13 @@ UP: 歇里
 
 数量: 2
 
-【自制中字】颜值即正义的就活妹子｜マリマリマリー\_bilibili：
+「自制中字」颜值即正义的就活妹子｜マリマリマリー\_bilibili：
 
-[https://www.bilibili.com/video/BV1KP411A7j5](https://www.bilibili.com/video/BV1KP411A7j5 "【自制中字】颜值即正义的就活妹子｜マリマリマリー\_bilibili")
+[https://www.bilibili.com/video/BV1KP411A7j5](https://www.bilibili.com/video/BV1KP411A7j5 "「自制中字」颜值即正义的就活妹子｜マリマリマリー\_bilibili")
 
-【自制中字】把出轨对象当成幽灵的臭男人｜マリマリマリー\_bilibili：
+「自制中字」把出轨对象当成幽灵的臭男人｜マリマリマリー\_bilibili：
 
-[https://www.bilibili.com/video/BV1PW4y1r7Kw](https://www.bilibili.com/video/BV1PW4y1r7Kw "【自制中字】把出轨对象当成幽灵的臭男人｜マリマリマリー\_bilibili")
+[https://www.bilibili.com/video/BV1PW4y1r7Kw](https://www.bilibili.com/video/BV1PW4y1r7Kw "「自制中字」把出轨对象当成幽灵的臭男人｜マリマリマリー\_bilibili")
 
 说明：只有这两个玛丽电波剧场的搬运；
 
