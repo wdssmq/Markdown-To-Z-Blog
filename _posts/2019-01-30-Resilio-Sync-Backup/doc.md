@@ -23,7 +23,7 @@ Resilio Sync 密钥/任务导出备份「GM\_脚本」
 
 ## 推荐类型
 
-【开发者自荐】
+「开发者自荐」
 
 ## 一句简介
 
@@ -51,9 +51,9 @@ Resilio Sync 可以通过安装为服务从而使用 WebUI 进行管理，在浏
 
 [https://www.wdssmq.com/post/20180526833.html](https://www.wdssmq.com/post/20180526833.html "佛系安利：Resilio Sync\_电脑网络\_沉冰浮水")
 
-【折腾】Docker 部署 Resilio Sync 和 RSSHub\_电脑网络\_沉冰浮水：
+「折腾」Docker 部署 Resilio Sync 和 RSSHub\_电脑网络\_沉冰浮水：
 
-[https://www.wdssmq.com/post/20190617918.html](https://www.wdssmq.com/post/20190617918.html "【折腾】Docker部署Resilio Sync和RSSHub\_电脑网络\_沉冰浮水")
+[https://www.wdssmq.com/post/20190617918.html](https://www.wdssmq.com/post/20190617918.html "「折腾」Docker部署Resilio Sync和RSSHub\_电脑网络\_沉冰浮水")
 
 “佛系安利”第二弹：用「油猴子脚本」武装你的浏览器\_电脑网络\_沉冰浮水：
 

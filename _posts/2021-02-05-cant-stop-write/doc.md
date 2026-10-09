@@ -91,7 +91,7 @@ wdssmq/Markdown-To-Z-Blog: 使用 GitHub Actions + Markdown 更新 Z-Blog 博客
 
 [https://github.com/ruanyf/weekly/issues/1634](https://github.com/ruanyf/weekly/issues/1634 "\[自荐\]使用 GitHub Actions + Markdown 更新 Z-Blog 博客。 · Issue #1634 · ruanyf/weekly")
 
-而这个项目其实是抄自 144 期的一个用于 WordPress 的项目。【【所以才不采用么？- -】】
+而这个项目其实是抄自 144 期的一个用于 WordPress 的项目。【「所以才不采用么？- -」】
 
 ### 一张封面图
 

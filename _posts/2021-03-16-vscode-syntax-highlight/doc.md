@@ -20,7 +20,7 @@ Z-BlogPHP 主题模板中并没有像 WordPress 或 Typecho 那样直接使用 P
 
 **目前折腾过的最复杂的东西之一，有点像`CSS`又感觉不太准确，写到一多半才突然想明白怎么通俗的理解其机制，然而临下机只能先提交一次；**
 
-【【突然想起来我可以只提交不推送的。。。】】
+【「突然想起来我可以只提交不推送的。。。」】
 
 **个人总结到的类比是「地毯」和「叠 Buff」两部分，只有「叠 Buff」的部分可以直接类比`CSS`**
 
@@ -167,7 +167,7 @@ npx js-yaml syntaxes/phpzz.tmLanguage.yaml > syntaxes/phpzz.tmLanguage.json
 以下仅为要点理解：
 
 - `injectionSelector: L:text.html`：「语法注入」生效的「作用域」指定；
-    -  注入选择器中的`L:`代表注入的语法添加在现有语法规则的左边；【【不是很懂，文档上就是这么写的】】
+    -  注入选择器中的`L:`代表注入的语法添加在现有语法规则的左边；【「不是很懂，文档上就是这么写的」】
     -  个人理解：当编辑器文本「站在名为`text.html.xxx`地毯上时」,后边的内容生效；
         - 包括`text.html.php`、`text.html.markdown`等；
         - 其他「最底层地毯」有`source.css`、`source.js`等；

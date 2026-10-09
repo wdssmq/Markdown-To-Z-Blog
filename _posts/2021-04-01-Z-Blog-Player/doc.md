@@ -17,15 +17,15 @@ alias: 20210401133
 
 <!--more-->
 
-> 【交流展示】「Z-Blog 玩家」计划-博友杂谈-ZBlogger 技术交流中心：
+> 「交流展示」「Z-Blog 玩家」计划-博友杂谈-ZBlogger 技术交流中心：
 >
-> [https://bbs.zblogcn.com/thread-104120.html](https://bbs.zblogcn.com/thread-104120.html "【交流展示】「Z-Blog 玩家」计划-博友杂谈-ZBlogger 技术交流中心")
+> [https://bbs.zblogcn.com/thread-104120.html](https://bbs.zblogcn.com/thread-104120.html "「交流展示」「Z-Blog 玩家」计划-博友杂谈-ZBlogger 技术交流中心")
 
 其实说起来，今天是 4 月 1 号，应景的活动其实应该是这个：
 
-> 【活动】第一届 Z-Blog 乐子人评选！-博友杂谈-ZBlogger 技术交流中心：
+> 「活动」第一届 Z-Blog 乐子人评选！-博友杂谈-ZBlogger 技术交流中心：
 >
-> [https://bbs.zblogcn.com/thread-104040.html](https://bbs.zblogcn.com/thread-104040.html "【活动】第一届 Z-Blog 乐子人评选！-博友杂谈-ZBlogger 技术交流中心")
+> [https://bbs.zblogcn.com/thread-104040.html](https://bbs.zblogcn.com/thread-104040.html "「活动」第一届 Z-Blog 乐子人评选！-博友杂谈-ZBlogger 技术交流中心")
 
 --------------
 
@@ -39,7 +39,7 @@ alias: 20210401133
 
 ↑ 浏览器插件`RSSHub Radar`，可辅助发现和订阅当前网站的 RSS 和 RSSHub ↑
 
-【【虽然忘记了最后为什么没再去天涯，也忘记了为什么取消订阅某些站点。】】
+【「虽然忘记了最后为什么没再去天涯，也忘记了为什么取消订阅某些站点。」】
 
 这次活动专门要求了投递时把 RSS 地址作为一项，虽然略无力。。
 

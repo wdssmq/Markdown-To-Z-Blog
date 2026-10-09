@@ -58,7 +58,7 @@ shm              64M     0   64M   0% /var/lib/docker/containers/1ca6b4a758efaed
 
 没有账号的去`https://hub.docker.com`注册。
 
-手动指定 tag 可能成功率高些【玄学】：`docker pull nginx:latest`。
+手动指定 tag 可能成功率高些「玄学」：`docker pull nginx:latest`。
 
 ```bash
 # 运行测试（也可以不测）
@@ -85,7 +85,7 @@ docker run -d --name nginx -p 80:80 \
 
 > "server" directive is not allowed here in /etc/nginx/nginx.conf
 
-【/root/nginx/log/error.log 会记录错误日志】
+「/root/nginx/log/error.log 会记录错误日志」
 
 经过实际查验容器内的文件发现需要自己映射的文件应该是`-v /root/nginx/conf.d/default.conf:/etc/nginx/conf.d/default.conf`
 

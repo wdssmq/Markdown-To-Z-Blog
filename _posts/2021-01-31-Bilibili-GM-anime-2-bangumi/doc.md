@@ -36,13 +36,13 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/113696602
 
 在 bilibili 顶部导航里有一个[番剧]链接，[主站]和[游戏中心]中间那个，指向链接是：
 
-`https://www.bilibili.com/anime/` 【链接 1】
+`https://www.bilibili.com/anime/` 「链接 1」
 
 然而我每次点这个链接是因为进去后有一个[我的追番]区域，然后点区域标题后边的[更多]会进入：
 
-`https://space.bilibili.com/44744006/bangumi` 【链接 2】
+`https://space.bilibili.com/44744006/bangumi` 「链接 2」
 
-感觉很麻烦，所以决定直接把【链接 1】替换为【链接 2】
+感觉很麻烦，所以决定直接把「链接 1」替换为「链接 2」
 
 <!--more-->
 
@@ -52,7 +52,7 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/113696602
 
 `<a href="//www.bilibili.com/anime/" target="_blank" class="link">番剧</a>`
 
-并没有特定的 ID 或类名供使用，但是可以使用【attribute（属性）】相关选择器中的【href 属性值以"/anime/"结尾的 a 元素】。[^attribute 选择器参考链接]
+并没有特定的 ID 或类名供使用，但是可以使用「attribute（属性）」相关选择器中的「href 属性值以"/anime/"结尾的 a 元素」。[^attribute 选择器参考链接]
 
 `$("a[href$='/anime/']").length`
 
@@ -68,7 +68,7 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/113696602
 
 `$("a[href$='/anime/']").attr("href","https://space.bilibili.com/44744006/bangumi");`
 
-↑其作用是，将【选定元素】的【href】这一属性的【值】设置为输入的内容，在本例就就是预定要修改的【链接 2】，然而问题是这里写死了我的 uid，，想要通用的话自动获取当前登录用户的 uid 比较好；
+↑其作用是，将「选定元素」的「href」这一属性的「值」设置为输入的内容，在本例就就是预定要修改的「链接 2」，然而问题是这里写死了我的 uid，，想要通用的话自动获取当前登录用户的 uid 比较好；
 
 ![图2](https://i.loli.net/2021/01/06/TjJnyFqIS5s1Ka4.png "图2")
 
@@ -76,7 +76,7 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/113696602
 
 `$("a.count-item[href^='//space']").length`
 
-↑这次的选择器是这个，，以【XXX】开头，这里限定了[.count-item]选择器，不加的话结果有 35 个。。
+↑这次的选择器是这个，，以「XXX」开头，这里限定了[.count-item]选择器，不加的话结果有 35 个。。
 
 虽然结果有三个，但是直接操作的话会对第一个生效：
 

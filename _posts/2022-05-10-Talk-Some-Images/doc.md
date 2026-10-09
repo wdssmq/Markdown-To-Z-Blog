@@ -31,7 +31,7 @@ Git for Windows 的安装教程里有标注过，Windows Explorer integration �
 
 ### DropIt
 
-[【折腾】使用 Quicker 拆分文件到子文件夹\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20120827310.html "【折腾】使用 Quicker 拆分文件到子文件夹\_电脑网络\_沉冰浮水")
+[「折腾」使用 Quicker 拆分文件到子文件夹\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20120827310.html "「折腾」使用 Quicker 拆分文件到子文件夹\_电脑网络\_沉冰浮水")
 
 [使用 Quicker 实现「随机打开一个文件」](https://meta.appinn.net/t/topic/30933 "使用 Quicker 实现「随机打开一个文件」")
 

@@ -23,9 +23,9 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/121232057
 >
 > <a href="https://www.wdssmq.com/post/20170502785.html" target="_blank" title="适用于Z-Blog的MovableType语法规范_电脑网络_沉冰浮水">https://www.wdssmq.com/post/20170502785.html</a>
 >
-> MT 数据格式导入【PHP】 - Z-Blog 应用中心
+> MT 数据格式导入「PHP」 - Z-Blog 应用中心
 >
-> <a href="https://app.zblogcn.com/?id=928" target="_blank" title="MT数据格式导入【PHP】 - Z-Blog 应用中心">https://app.zblogcn.com/?id=928</a>
+> <a href="https://app.zblogcn.com/?id=928" target="_blank" title="MT数据格式导入「PHP」 - Z-Blog 应用中心">https://app.zblogcn.com/?id=928</a>
 
 ### 关于符号链接（symlinks）
 
