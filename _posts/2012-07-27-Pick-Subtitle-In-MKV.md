@@ -44,7 +44,7 @@ MKVToolNix 又叫 Matroska toolkit，是一套功能强大的 mkv(Matroska) 格�
 
 字幕编辑的话需要一款名为 `SrtEdit` 的工具。。
 
-SrtEdit\_v6.3【安装版&绿化版】下载分享：
+SrtEdit\_v6.3「安装版&绿化版」下载分享：
 
 百度云：[http://url.cn/HVAs87](http://url.cn/HVAs87 "百度云分享")
 

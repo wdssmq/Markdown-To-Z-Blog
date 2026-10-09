@@ -29,7 +29,7 @@ csdn: https://blog.csdn.net/qq_15022221/article/details/109493913
 
 ## 推荐类型
 
-【开发者自荐】
+「开发者自荐」
 
 ## 一句简介
 
