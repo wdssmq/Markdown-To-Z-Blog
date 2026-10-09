@@ -18,9 +18,9 @@ alias: 20120816277
 
 > **对于一些不好直接操作数据库实现的替换，可以用下边插件：**
 >
-> 数据库透析【基础依赖】 - Z-Blog 应用中心：
+> 数据库透析「基础依赖」 - Z-Blog 应用中心：
 >
-> [https://app.zblogcn.com/?id=20812](https://app.zblogcn.com/?id=20812 "数据库透析【基础依赖】 - Z-Blog 应用中心")
+> [https://app.zblogcn.com/?id=20812](https://app.zblogcn.com/?id=20812 "数据库透析「基础依赖」 - Z-Blog 应用中心")
 
 ### 查询别名重复的文章
 

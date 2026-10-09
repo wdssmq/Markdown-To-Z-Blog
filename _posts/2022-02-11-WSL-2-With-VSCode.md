@@ -228,7 +228,7 @@ service docker status
 
 **安装 Z-BlogPHP：**
 
-[【折腾】Docker 化安装 Z-BlogPHP\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20120817544.html "【折腾】Docker 化安装 Z-BlogPHP\_电脑网络\_沉冰浮水")
+[「折腾」Docker 化安装 Z-BlogPHP\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20120817544.html "「折腾」Docker 化安装 Z-BlogPHP\_电脑网络\_沉冰浮水")
 
 ↑ 上文是基于 CentOS 环境写的，Ubuntu 下使用需要在命令前加 `sudo`；「这东西果然好麻烦」
 
@@ -293,6 +293,6 @@ ubuntu18.04 安装 nodejs 最新版、指定版 12.x 14.x - 尽情山水 - 博�
 
 -----
 
-【折腾】VSCode 远程开发配置（Remote Development）_电脑网络_沉冰浮水
+「折腾」VSCode 远程开发配置（Remote Development）_电脑网络_沉冰浮水
 
 `https://www.wdssmq.com/post/20201120519.html`

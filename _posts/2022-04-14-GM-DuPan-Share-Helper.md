@@ -17,7 +17,7 @@ alias: 20220412172
 <!--more-->
 
 ### 推荐类型
-【开发者自荐】
+「开发者自荐」
 
 ### 脚本地址
 [https://greasyfork.org/zh-CN/scripts/6505](https://greasyfork.org/zh-CN/scripts/6505 "度盘接生成")

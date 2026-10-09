@@ -32,7 +32,7 @@ alias: 20140816860
 
 ------
 
-相关推荐：[【笔记】LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20200129996.html "【笔记】LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水")
+相关推荐：[「笔记」LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20200129996.html "「笔记」LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水")
 
 使用环境为 CentOS；
 

@@ -41,7 +41,7 @@ wdssmq/alpine-lighttpd-php: Lighttpd and PHP running on Alpine Linux in a Docker
 
 ### 构建并使用
 
-数据库及`net_web`已经提前创建，参考「[【折腾】Docker 化安装 Z-BlogPHP\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20120817544.html "【折腾】Docker 化安装 Z-BlogPHP\_电脑网络\_沉冰浮水")」；
+数据库及`net_web`已经提前创建，参考「[「折腾」Docker 化安装 Z-BlogPHP\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20120817544.html "「折腾」Docker 化安装 Z-BlogPHP\_电脑网络\_沉冰浮水")」；
 
 ```bash
 # 创建目录并拉取 Git

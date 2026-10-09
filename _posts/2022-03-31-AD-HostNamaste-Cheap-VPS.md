@@ -175,7 +175,7 @@ Dual Intel Xeon E5-2660v2 / E5-2670v2 / AMD Epyc 7351P CPUs
 
 面板里并不能设置 SSH Key 登录，姑且密码登录进去弄好了；
 
-「[【折腾】VSCode 远程开发配置（Remote Development）\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20201120519.html "【折腾】VSCode 远程开发配置（Remote Development）\_电脑网络\_沉冰浮水")」
+「[「折腾」VSCode 远程开发配置（Remote Development）\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20201120519.html "「折腾」VSCode 远程开发配置（Remote Development）\_电脑网络\_沉冰浮水")」
 
 ------
 

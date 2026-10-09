@@ -202,7 +202,7 @@ Download FileZilla Client for Windows (64bit x86)：
 
 并不适合初学者的几篇教程：
 
-> [【笔记】LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20200129996.html "【笔记】LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水")
+> [「笔记」LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20200129996.html "「笔记」LNMP 部署/续期 SSL 证书\_电脑网络\_沉冰浮水")
 >
 > [「备忘」LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水](https://www.wdssmq.com/post/20181007103.html "「备忘」LNMPA 伪静态/301 相关\_电脑网络\_沉冰浮水")
 
