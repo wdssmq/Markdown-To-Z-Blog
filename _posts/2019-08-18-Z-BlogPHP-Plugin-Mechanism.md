@@ -19,6 +19,8 @@ alias: 20190817262
 
 所有预定的操作都需要在出发前申请。。
 
+<!-- more -->
+
 ```php
 // 申请人“demoPlugin”，具体申请事项见 ActivePlugin_demoPlugin 函数
 RegisterPlugin("demoPlugin","ActivePlugin_demoPlugin");
